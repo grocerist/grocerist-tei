@@ -3,7 +3,7 @@ name: Make TEIs
 
 on:
   schedule:
-  - cron: "23 50 * * *"
+  - cron: "50 23 * * *"
   workflow_dispatch:
 
 jobs:
