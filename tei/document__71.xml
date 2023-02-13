@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__71.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal suhte Ömer: İSTM.ŞSC.06.d. 405 / 87b-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 405 / 87b-2</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1741-1742"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 405 / 87b-2</idno></ab>
+         </abstract>         <creation><date when="1741-1742">1154</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__71">
+                <persName>Bakkal suhte Ömer</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="district__17" type="district"><placeName>Valide-i Cedid Camii</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__49">Sausage</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__124">Scales</term><term xml:id="goods__128">Flat tray</term><term xml:id="goods__140">Knife</term><term xml:id="goods__197">Yogurt</term><term xml:id="goods__198">Oil scale</term><term xml:id="goods__270">Torba yoğurt</term><term xml:id="goods__288">Tencere</term><term xml:id="goods__312">Akçe tahtası</term><term xml:id="goods__331">Nariye</term><term xml:id="goods__332">Sahan</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 405 / 87b-2_<ref target="http://document__71"><hi rend="underline color(1155cc)">GrocerIST id_58</hi></ref></head><p style="text-align: justify;"><hi>Medīne-i Üsküdarda Valide-i Cedid Camii şerif karşısındaki bakkāl suhte Ömerin dükānında  mevcūd olan ustalar ma‘rifeti ve ma‘rifet-i şer‘le tahrīr ve defter ve dükkān-ı merkūma bir mu’tebet kimesne vaz‘ olunmak bābında şeref-bahş-ı sudūr bulan fermān-ı ālīlerine imtisālen manav taifesinden Elhac Hasan ve manav Mahmud ve manav Mustafa ve Ali Beşe kefāletleriyle pazarbaşı vekīli Ali kulları husus-ı mezbūre mübāşir ta‘yīn buyrulan kapı kethüdālarından Elhac Ahmed Beşe kulları mübāşeretleriyle Osman b. Mustafa nām kimesne bakkāllık eylemek üzere mezbūre vaz‘ ve dükkān-ı merkūmdan zūhur edip mezbūr Osmana ma‘rifet-i şer‘le teslim olunan defterdir ki ber vech-i ātī zikr olunur. Hurrira fi 8 Zilka‘de sene 1154</hi></p><p><hi rend="bold" xml:space="preserve">Revgan-ı sāde: </hi><hi>Kıymet 275</hi></p><p><hi rend="bold" xml:space="preserve">Desti içinde revgan-ı zeyt: </hi><hi>Kıymet 41</hi></p><p><hi rend="bold" xml:space="preserve">Def’a desti içinde revgan-ı zeyt: </hi><hi>Kıymet 3.5</hi></p><p><hi rend="bold" xml:space="preserve">Sucuk: </hi><hi>Kıymet 40</hi></p><p><hi rend="bold" xml:space="preserve">Pekmez: </hi><hi>Kıymet 20</hi></p><p><hi rend="bold" xml:space="preserve">Def‘a pekmez: </hi><hi>Kıymet 74</hi></p><p><hi rend="bold" xml:space="preserve">Def‘a pekmez: </hi><hi>Kıymet 25</hi></p><p><hi rend="bold" xml:space="preserve">Def‘a pekmez: </hi><hi>Kıymet 40</hi></p><p><hi rend="bold" xml:space="preserve">Torba ile yoğurt: </hi><hi>Kıymet 6</hi></p><p><hi rend="bold">Terāzū ma takım:</hi><hi xml:space="preserve"> 2</hi></p><p><hi rend="bold">Nāriye:</hi><hi xml:space="preserve"> 1</hi></p><p><hi rend="bold" xml:space="preserve">Sahan: </hi><hi>2</hi></p><p><hi rend="bold" xml:space="preserve">Kevgir sahan: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Yağ ölçeği: </hi><hi>6</hi></p><p><hi rend="bold" xml:space="preserve">Tencere ma kapak: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Kantar: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Akçe tahtası: </hi><hi>2</hi></p><p><hi rend="bold">Ağaç tabla:</hi><hi xml:space="preserve"> 10</hi></p><p><hi rend="bold" xml:space="preserve">Ağaç çekmece içinde bıçak 1, tesbih ve mikras 1 </hi></p><p style="text-align: justify;"><hi rend="bold">Sagir çekmece bunun içinde yalnız 1</hi></p></div>
+        </body>
+    </text>
+</TEI>

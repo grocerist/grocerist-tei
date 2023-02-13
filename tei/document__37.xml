@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__37.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Todori: İSTM.ŞSC.14.d. 361/ 58b-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d. 361/ 58b-2</idno>
+                    </msIdentifier>
+                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 361/ 58b-2</idno></ab>
+         </abstract>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__37">
+                <persName>Bakkal Todori</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__2" type="district"><placeName>Beşiktaş</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_tdbh9u52t77y"/><hi rend="baseline">İSTM.ŞSC.14.d. 361/ 58b-2</hi>_<ref target="http://document__37"><hi rend="baseline underline color(1155cc)">GrocerIST id_37</hi></ref></head><p style="text-align: justify;"><hi xml:space="preserve">Mahrūse-i Galata muzāfatından Beşiktaş nāhiyesine tābi’ Arnavud karyesinde mütemekkin iken bundan akdem hālik olan bakkāl Todori veled-i </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> ve Anice bt. Dimitri nām zevcānın verāsetleri sulbiye sagīre kızları Maryola ve Anastaya münhasıra olduğu şer’an zāhir oldukdan sonra hālik-i mesfūr Todorinin … rü’yete ve düyun-ı müsbitesini edaya ve sagīrtān mesfūrtānın tesviye-i emrlerine vasiyy-i muhtarı Matoz veled-i Tanaş </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve">mesfur </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> nāzır-ı muhtār Pano veled-i Dimitri talebleriyle tahrīr olunan tereke-i hālik-i mesfūrdur ki ber vech-i ātī zikr olunur. </hi></p><p style="text-align: justify;"><hi rend="bold">Beledī yasdık yüzü:</hi><hi xml:space="preserve"> 7 / 360</hi></p><p style="text-align: justify;"><hi rend="bold">Hatayī kavuşdurma:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne çiçekli entari:</hi><hi xml:space="preserve"> 2 / 360</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">..</hi><hi rend="bold" xml:space="preserve"> hatayī entari:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold">Yeşil hatayī entari:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold">Def’a hatayī entari:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold">Çuka ferace:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne şalvar:</hi><hi xml:space="preserve"> 2 / 240</hi></p><p style="text-align: justify;"><hi rend="bold">Gömlek:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi rend="bold">Minder gılıfı:</hi><hi xml:space="preserve"> 2 / 120</hi></p><p style="text-align: justify;"><hi rend="bold">Minder çārşeb:</hi><hi xml:space="preserve"> 2 / 120</hi></p><p style="text-align: justify;"><hi rend="bold">Peşkir:</hi><hi xml:space="preserve"> 30</hi></p><p style="text-align: justify;"><hi rend="bold">Māī çārşeb:</hi><hi xml:space="preserve"> 30</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…</hi><hi rend="bold" xml:space="preserve"> dibace:</hi><hi xml:space="preserve"> 150</hi></p><p style="text-align: justify;"><hi rend="bold">Çārşeb:</hi><hi xml:space="preserve"> 200</hi></p><p style="text-align: justify;"><hi rend="bold">Boğça:</hi><hi xml:space="preserve"> 2 / 60</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…:</hi><hi xml:space="preserve"> 30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Bürüncek gömlek: </hi><hi>360</hi></p><p style="text-align: justify;"><hi rend="bold">Don:</hi><hi xml:space="preserve"> 4 / 150</hi></p><p style="text-align: justify;"><hi rend="bold">Makrame:</hi><hi xml:space="preserve"> 30</hi></p><p style="text-align: justify;"><hi rend="bold">İskemle çārşeb:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi rend="bold">Kaftan:</hi><hi xml:space="preserve"> 180</hi></p><p style="text-align: justify;"><hi rend="bold">İşleme boğça:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi rend="bold">Yüz yasdığı:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold">Çārşeb:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold">Çārşeb:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold">Aş makramesi:</hi><hi xml:space="preserve"> 180</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">..:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">İşleme </hi><hi rend="bold background(yellow)">..</hi><hi rend="bold" xml:space="preserve"> yasdığı:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">..:</hi><hi xml:space="preserve"> 90</hi></p><p style="text-align: justify;"><hi rend="bold">Kadayıf tepsisi:</hi><hi xml:space="preserve"> 180</hi></p><p style="text-align: justify;"><hi rend="bold">Anbar:</hi><hi xml:space="preserve"> 2 / 300</hi></p><p style="text-align: justify;"><hi rend="bold">Yorgan çārşeb:</hi><hi xml:space="preserve"> 200</hi></p><p style="text-align: justify;"><hi rend="bold">İnci kuşak:</hi><hi xml:space="preserve"> 1200</hi></p><p style="text-align: justify;"><hi rend="bold">Sim kuşak:</hi><hi xml:space="preserve"> 2 / 480</hi></p><p style="text-align: justify;"><hi rend="bold">Sim kaşık tabak:</hi><hi xml:space="preserve"> 480</hi></p><p style="text-align: justify;"><hi rend="bold">Şamdan:</hi><hi xml:space="preserve"> 2 / 120</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…:</hi><hi xml:space="preserve"> 30</hi></p><p style="text-align: justify;"><hi rend="bold">Ferace:</hi><hi xml:space="preserve"> 2 / 600</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">..</hi><hi rend="bold" xml:space="preserve"> tabak:</hi><hi xml:space="preserve"> 60</hi></p><p style="text-align: justify;"><hi rend="bold">Bez tob:</hi><hi xml:space="preserve"> 2 / 3000</hi></p><p style="text-align: justify;"><hi rend="bold">Yorgan çārşeb:</hi><hi xml:space="preserve"> 3 / 1800</hi></p><p style="text-align: justify;"><hi rend="bold">Yanbolu kebesi:</hi><hi xml:space="preserve"> 2 / 240</hi></p><p style="text-align: justify;"><hi rend="bold">Baş yasdığı:</hi><hi xml:space="preserve"> 480</hi></p><p style="text-align: justify;"><hi rend="bold">Çuval:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi rend="bold">Minder şilte:</hi><hi xml:space="preserve"> 2 / 300</hi></p><p style="text-align: justify;"><hi rend="bold">Hamam tası:</hi><hi xml:space="preserve"> 180</hi></p><p style="text-align: justify;"><hi rend="bold">Garar:</hi><hi xml:space="preserve"> 180</hi></p><p style="text-align: justify;"><hi rend="bold">Yemeni yorgan yüzü:</hi><hi xml:space="preserve"> 200</hi></p><p style="text-align: justify;"><hi rend="bold">Peşkir:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold">Dolama:</hi><hi xml:space="preserve"> 2 / 600</hi></p><p style="text-align: justify;"><hi rend="bold">Yağlık:</hi><hi xml:space="preserve"> 60</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Biniş: </hi><hi>2 / 600</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Māī cübbe: </hi><hi>240</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne şalvar:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold">Peştamal:</hi><hi xml:space="preserve"> 2 / 30</hi></p><p style="text-align: justify;"><hi rend="bold">Beledī döşek:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold">Leğen ibrik:</hi><hi xml:space="preserve"> 3 / 1200</hi></p><p style="text-align: justify;"><hi rend="bold">Kebīr leğen:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold">Sini:</hi><hi xml:space="preserve"> 2 / 1200</hi></p><p style="text-align: justify;"><hi rend="bold">Taba:</hi><hi xml:space="preserve"> 180</hi></p><p style="text-align: justify;"><hi rend="bold">Bakraç:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…</hi><hi rend="bold" xml:space="preserve"> ibriği:</hi><hi xml:space="preserve"> 3 / 90</hi></p><p style="text-align: justify;"><hi rend="bold">Kuzu kürk:</hi><hi xml:space="preserve"> 1560</hi></p><p style="text-align: justify;"><hi rend="bold">Fağfurī fincan:</hi><hi xml:space="preserve"> 180</hi></p><p style="text-align: justify;"><hi rend="bold">Evānī-i nuhāsiye</hi><hi>: 3960</hi></p><p style="text-align: justify;"><hi rend="bold">Hırdavat:</hi><hi xml:space="preserve"> 1200</hi></p><p style="text-align: justify;"><hi rend="bold">Un kapanında Andondan makbūz:</hi><hi xml:space="preserve"> 42000</hi></p><p style="text-align: justify;"><hi rend="bold">Hristodoliden makbūz:</hi><hi xml:space="preserve"> 2360</hi></p></div>
+        </body>
+    </text>
+</TEI>

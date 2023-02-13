@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__82.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Panayot v. Polinçeron: İSTM.ŞSC.06.d. 495 / 25a-1 (a)</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 495 / 25a-1 (a)</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1775-1776"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 495 / 25a-1 (a)</idno></ab>
+         </abstract>         <creation><date when="1775-1776">1189</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__112">
+                <persName>Bakkal Panayot v. Polinçeron</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__83" type="neighbourhood"><placeName>Arasta kurbu</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 495 / 25a-1_<ref target="http://document__82"><hi rend="underline color(1155cc)">GrocerIST id_69</hi></ref></head><p style="text-align: justify;"><hi>Medīne-i Üsküdarda Yeni mahallede mütemekkin iken bundan hālik olan bakkāl Panayot veled-i Polinçeron zımmīnin verāseti zevce-i metrūkesi Marya bt. Yani nām nasrāniye ile sulbī sagīr oğulları Apostol ve Nikola ve sulbiye sagīre kızı Fotinaya ve terekesinin sülüsünden vesāyā-yı mu‘ayyenesini tenfīze bakkāl Yorgaki veled-i Yani nām zımmīye vassiyy-i muhtār nasb ta’yīn eylediği lede’ş-şer‘i’l-enver  sabit ve zāhir olmağla sülüs-i mezkūr inhisār tahakkukundan sonra zevce-i mesfūre Marya ile vasiyy-i merkūm Yorgaki zımmīnin taleb ve iltimāslarıyla hālik merkūmun tahrīr ve terkīm olunan defteridir ki ber vech-i ātī zikr olunur.</hi></p><p style="text-align: justify;"><hi>Ramazani’l-mübārek 1189</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Müsta‘mel döşek: </hi><hi>480</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yorgan 2 çārşeb 1 : </hi><hi>440</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Döşek çārşebi: </hi><hi>180</hi></p><p style="text-align: justify;"><hi rend="bold">Ihrām seccade: 300</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kalpak: </hi><hi>180</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Māī mak‘ad: </hi><hi>2 / 300</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Bor kebesi: </hi><hi>960</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Māī dizlik (2) ve uçkur (1): </hi><hi>360</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuka nīmten: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne yelek (2) dizlik (1): </hi><hi>180</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">İskemle: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Nīmten kebe: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne bor kebesi: </hi><hi>360</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">İbrik ve fenar: </hi><hi>240</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Minder: </hi><hi>480</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yasdık 3: </hi><hi>520</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne yorgan: </hi><hi>150</hi></p><p style="text-align: justify;"><hi rend="bold">Sim zarf:</hi><hi xml:space="preserve"> 3 / 360</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Peştemal: </hi><hi>75</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kuşak: </hi><hi>180</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Alaca sofra: </hi><hi>2 / 120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Gömlek (3) don: </hi><hi>240</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sim tabak ma kaşık: </hi><hi>924</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Cedīd peştemal: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne çuka cübbe: </hi><hi>180</hi></p><p style="text-align: justify;"><hi rend="bold">Def‘a peştemal:</hi><hi>180</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Magrib şalı: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çifte ..  bıçağı: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tahta sandık: </hi><hi>3 / 1200</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Evānī-i nuhās: </hi><hi>3840</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Hırdavat-ı menzil: </hi><hi>1200</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun mahalle-i mezbūrede vāki‘ ma‘lūmü’l-hudūd bir bāb mülk- menzilin üç sehm i‘tibārıyla iki sehm hisse-i şāyi’asının kıymeti: 96000</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun arasta kurbunda Kız Mehmed Ağa ve Rukiye Hatun dükkānları demekle ma‘rūf iki bāb bakkāl dükkānları derūnunda mevcūd beyne’l-esnāf gedik ta‘bīr olunur ber-mūceb-i defter müfredāt ālāt-ı lāzıme iki yüz kırk sehm i‘tibārıyla yüz kırk iki sehm hisse-i şāyi’asının kıymeti: 60000</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun zikr olunan iki bāb dükkānda olan sermāyesi: 80000</hi></p><p style="text-align: justify;"><hi>Min hālik merkūmun Kulak karyesinde Hüseyin Bey dükkānı demekle ma‘rūf  bir bāb bakkāl dükkānı derūnunda mevcūd kezālik gedik ta‘bīr olunur ālāt-ı lāzımeden olan nısf-ı hissesinin kıymeti: 70500</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun mezkūr Hüseyin Bey dükkānında olan sermāyesi: 6000</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun Sultan Bayezid nām mahallede vāki‘ İmam Ahmed Efendi dükkānı demekle ma‘rūf müstakil bakkāl dükkānı derūnunda mevcūd kezālik gedik ta‘bīr olunan ālāt-ı lāzımesinin kıymeti: 40000</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun zikr olunan müstakil dükkānda olan sermāyesi: 30000</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun Imam Ahmed Efendi dükkānında peştemallık ta‘bīr olunur ücret-i ālāt: 9000</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun Karaca Ahmed Sultan karyesinde bakkāl dükkānında yüz yirmi sehm i‘tibārıyla kırk sehm gedik hissesinin kıymeti: 25200</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun mezkūr Karaca Ahmed Sultan karyesinde olan dükkānda sermāyesi: 50000</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun mezkūr Karaca Ahmed Sultan karyesinde olan dükkānda olan peştemallık ücreti: 5000</hi></p><p style="text-align: justify;"><hi>Hālik merkūmun Hüseyin Bey dükkānında olan peştemallik ücreti: 1080</hi></p><p style="text-align: justify;"><hi rend="background(yellow)">Der zimmet Yanık Ali Beşe.. makb</hi><hi>ū</hi><hi rend="background(yellow)">z: 30000</hi></p><p style="text-align: justify;"><hi rend="background(yellow)">Der zimmet .. oğlu Nikola ikrarıyla .. ve makb</hi><hi>ū</hi><hi rend="background(yellow)">z: 9000</hi></p><p style="text-align: justify;"><hi rend="background(yellow)">Der zımmet .... ikrarıyla .. makb</hi><hi>ū</hi><hi rend="background(yellow)">z: 18000</hi> </p></div>
+        </body>
+    </text>
+</TEI>

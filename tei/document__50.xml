@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__50.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Artin: İSTM.ŞSC.14.d. 504/ 86a-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d. 504/ 86a-2</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1790-1791"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 504/ 86a-2</idno></ab>
+         </abstract>         <creation><date when="1790-1791">1205</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__50">
+                <persName>Bakkal Artin</persName>
+               </person>               <person role="mentioned">
+                <persName>Mother</persName>
+               </person>               <person role="mentioned">
+                <persName>Sister</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__5" type="district"><placeName>Galata Harici</placeName></place><place xml:id="neighbourhood__7" type="neighbourhood"><placeName>Hüseyin Ağa</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_6yg51oigvfam"/><hi rend="baseline">İSTM.ŞSC.14.d. 504/ 86a-2_</hi><ref target="http://document__50"><hi rend="baseline underline color(1155cc)">GrocerIST id_48</hi></ref></head><p style="text-align: justify;"><hi>Mahrūse-i Galata haricinde .. ağa mahallesinde mütemekkin iken bundan akdem .. halik olan bakkal .. veled-i … verasetini anası hava bt. … ve li ebeveyn kız karındaşı … münhasıra olduğu ledeş şeri … oldukdan sonra merkum … taleb ve iiltimasıyla tahrīr olunan tereke-i halik-i merkumdur ki ber vech-i ati zikr olunur. 16 rebiülevvel 1205</hi></p></div>
+        </body>
+    </text>
+</TEI>

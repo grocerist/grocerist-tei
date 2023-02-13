@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__67.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Asteryo v. Yorgi: İSTM.ŞSC.06.d.359 / 26a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d.359 / 26a-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1716-1717"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.359 / 26a-1</idno></ab>
+         </abstract>         <creation><date when="1716-1717">1129</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__67">
+                <persName>Asteryo v. Yorgi</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__48" type="neighbourhood"><placeName>Kefere</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__12">Pea</term><term xml:id="goods__13">Chickpea</term><term xml:id="goods__14">Lentil</term><term xml:id="goods__15">Rice</term><term xml:id="goods__17">Beylerce</term><term xml:id="goods__24">Nardenk</term><term xml:id="goods__27">Starch</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__30">Salt</term><term xml:id="goods__36">Vermicelli</term><term xml:id="goods__45">Bulgur</term><term xml:id="goods__61">Trilye olives</term><term xml:id="goods__87">Kaba soğan</term><term xml:id="goods__88">Pearl onion</term><term xml:id="goods__99">Lemon</term><term xml:id="goods__108">Soap</term><term xml:id="goods__112">Candle</term><term xml:id="goods__121">Jug</term><term xml:id="goods__194">Yapağı yün</term><term xml:id="goods__203">Loom</term><term xml:id="goods__211">Asma yaprağı</term><term xml:id="goods__260">Demet odunu</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 359 / 26a-1_<ref target="http://document__67"><hi rend="underline color(1155cc)">GrocerIST id_54</hi></ref></head><p style="text-align: justify;"><hi xml:space="preserve">Vilayet-i Rumilindeki Niş kasabası sākinlerinden olub medīne-i Üsküdarda Kefere mahallesinde mütemekkin iken bundan akdem müstağrak bi’d deyn olduğu halde hālik olan Asteryo veled-i Yorgi veled-i </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> nām zımmīnin verāseti zevce-i metrūkesi gāibetü ani’l-beled Fidanko bt. Arakil ile sulbī kebīr oğlu Trandafil nām zımmīye sulbī sagīr oğlu Yaniye münhasıra olduğu şer‘an mütehakkık oldukdan sonra hālik mezbūrun terekesini āhara bey‘ ve semenin deynini ifāya kıbel-i şer’den vasī nasb ve ta’yīn olunan mezbūr Trandafil talebiyle hālik mezbūrun medīne-i mezbūrede Kefere mahallesinde vāki‘ bakkāl dükkānında mevcūd bulunub tahrīr ve ba‘de’l-müzāyede fürūht olunan terekesi defteridir ki ber vech-i ātī zikr olunur. Fi’l-yevmi’l-hāmis min-Muharremi’l-harām li sene tis‘a ve ışrīn ve mi’e ve elf. 1129</hi> </p><p><hi rend="bold">Pirinç</hi><hi>: Fī 7.5 / Kıyye 520 / Kıymet 3900</hi></p><p><hi rend="bold">Fındık</hi><hi>: Fī 6 / Kıyye 106 / Kıymet 636</hi></p><p><hi rend="bold">Nohud</hi><hi>: Fī 5 / Kıyye 88 / Kıymet 440</hi></p><p><hi rend="bold">Tulum peyniri</hi><hi>: Fi 15 / Kıyye 85 / Kıymet 1275</hi></p><p><hi rend="bold">Nişasta</hi><hi>: Fī 9 / Kıyye 30 / Kıymet 270</hi></p><p><hi rend="bold">Bulgur</hi><hi>: Fī 9/ Kıyye 5 / Kıymet 45</hi></p><p><hi rend="bold">Mercimek</hi><hi>: Fī 70 / Keyl 6 / Kıymet 420</hi></p><p><hi rend="bold">Şa‘riye</hi><hi>: Fī 8 / Kıyye 6 / Kıymet 48</hi> </p><p><hi rend="bold">Böğrülce</hi><hi>: Fī 5 / Kıyye 35 / Kıymet 175</hi></p><p><hi rend="bold">Kaşkaval peyniri</hi><hi>: Fī 20 / Kıyye 12 / Kıymet 240</hi></p><p><hi rend="bold">Kaba tuz</hi><hi>: Fī 1 / Kıyye 95 / Kıymet 95</hi></p><p><hi rend="bold">Yapağı yün</hi><hi>: Fī 10 / Kıyye 12.5 / Kıymet 125</hi></p><p><hi rend="bold">Asma yaprağı</hi><hi>: Kıymet 300</hi></p><p><hi rend="bold">Demet odunu	</hi><hi>: Kıymet 2400</hi></p><p><hi rend="bold">Trilye zeytūnu</hi><hi>: Fī 6 / Kıyye 200 / Kıymet 1200</hi></p><p><hi rend="bold">Sabun</hi><hi>: Fī 25 / Kıyye 50 / Kıymet 1250</hi></p><p><hi rend="bold">Sirke</hi><hi>: Fī 1.5 / Kıyye 155 / Kıymet 233</hi></p><p><hi rend="bold">Nardenk</hi><hi>: Fī 7 / Kıyye 42/ Kıymet 294</hi></p><p><hi rend="bold">Kaba soğan</hi><hi>: Fī 1 / Kıyye 43 / Kıymet 43</hi></p><p><hi rend="bold">Arpacık soğanı</hi><hi>: Fī 3 / Kıyye 108 / Kıymet 324</hi></p><p><hi rend="bold">Revgan-ı sāde</hi><hi>: Fī 4/ Kıyye / Kıymet</hi> </p><p><hi rend="bold">Destgāh</hi><hi>: Fī / Kıyye / Kıymet</hi></p><p><hi rend="bold">Beylerce üzümü</hi><hi>: Fī / Kıyye / Kıymet</hi></p><p><hi rend="bold background(red)">Revgan-ı zeyd</hi><hi rend="background(red)" xml:space="preserve"> Fī 155 / Kıyye 23 / Kıymet 2940</hi></p><p><hi rend="bold">Limon ve mum ve desti</hi><hi>: Kıymet 63</hi> </p></div>
+        </body>
+    </text>
+</TEI>

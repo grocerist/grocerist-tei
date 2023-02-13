@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__76.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Vasil v. Dimitri: İSTM.ŞSC.06.d. 455 / 38a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 455 / 38a-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1760-1761"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 455 / 38a-1</idno></ab>
+         </abstract>         <creation><date when="1760-1761">1174</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__76">
+                <persName>Vasil v. Dimitri</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__54" type="neighbourhood"><placeName>Mirahor</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__114">Barrel</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__124">Scales</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__212">Zeyt yağı küpü</term><term xml:id="goods__213">Turşu fıçısı</term><term xml:id="goods__243">Sandık</term><term xml:id="goods__304">Havan</term><term xml:id="goods__329">Turşu fıçısı</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 455 / 38a-1_<ref target="http://document__76"><hi rend="underline color(1155cc)">GrocerIST id_63</hi></ref></head><p style="text-align: justify;"><hi>Medīne-i Üsküdarda Mirahor mahallesinde vāki‘</hi><hi style="font-size:8.5pt"> </hi><hi xml:space="preserve">bakkāl dükkānında bakkāl iken bundan akdem hālik olan Vasil veled-i Dimitri nām zımmīnin verāseti Rum ilindeki Niş kasabasında </hi><hi rend="background(yellow)" xml:space="preserve">… </hi><hi>karyesinde sākin  olan zevcesi Pavne ve oğlu Nikolaya münhasıra olduğu mütebeyyin oldukdan sonra zikr olunan Mirahor mahallesinde vāki‘</hi><hi style="font-size:8.5pt"> </hi><hi xml:space="preserve">bakkāl dükkānının gedik ta‘bīr olunur ālāt-ı ma‘lūmenin nısf-ı hālik-i  merkūm Vasilin ve nısf-ı āharı Nikola veled-i Dimonun </hi><hi rend="background(yellow)" xml:space="preserve">… </hi><hi>hālik merkūmun gedik ta‘bīr  olunan ālāt-ı malūmenin nısf-ı hissesi ahz ü zabt ve hıfz rü’yete  gāibân-ı mezbūrānın īsāle ve teslīme kıbel-i şerden vasī nasb ü ta’yīn olunan tereke-i merkūm Nikola taleb ve iltimāsıyla tahrīr  ve takvīm olunan nısf-ı gedik hissesidir ki ber vech-i ātī zikr olunur. Hurrira 26  şehri Rebī‘ilevvel</hi><hi style="font-size:8.5pt"> </hi><hi xml:space="preserve"> 1174</hi></p><p><hi rend="bold" xml:space="preserve">Zeytūn yağı küpü: </hi><hi>1 / Kıymet 2500</hi></p><p><hi rend="bold" xml:space="preserve">Fuçı: </hi><hi>5 / Kıymet 1800</hi></p><p><hi rend="bold" xml:space="preserve">Turşu fuçısı: </hi><hi>Kıymet 480</hi></p><p><hi rend="bold" xml:space="preserve">Kantar: </hi><hi>Kıymet 600</hi></p><p><hi rend="bold" xml:space="preserve">Terāzū ma dirhem: </hi><hi>Kıymet 1200</hi></p><p><hi rend="bold" xml:space="preserve">Havan ve sandık: </hi><hi>300</hi></p></div>
+        </body>
+    </text>
+</TEI>

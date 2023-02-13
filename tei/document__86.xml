@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__86.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Dimitri v. Polizo: İSTM.ŞSC.06.d. 522 / 21b-4</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 522 / 21b-4</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1785-1786"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 522 / 21b-4</idno></ab>
+         </abstract>         <creation><date when="1785-1786">1200</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__115">
+                <persName>Dimitri v. Polizo</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>               <person role="mentioned">
+                <persName>Fetus</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__59" type="neighbourhood"><placeName>Hüseyin Ağa</placeName></place><place xml:id="neighbourhood__86" type="neighbourhood"><placeName>Ağa hamamı mahali</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__13">Chickpea</term><term xml:id="goods__15">Rice</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__25">Honey</term><term xml:id="goods__27">Starch</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__34">Olive</term><term xml:id="goods__36">Vermicelli</term><term xml:id="goods__42">Eflak salt</term><term xml:id="goods__45">Bulgur</term><term xml:id="goods__108">Soap</term><term xml:id="goods__142">Eflak honey</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 522 / 21b-4_<ref target="http://document__86"><hi rend="underline color(1155cc)">GrocerIST id_73</hi></ref></head><p style="text-align: justify;"><hi xml:space="preserve">Medīne-i Üsküdarda Hüseyin Ağa mahallesinde Ağa hamamı nām mahalde bakkāl iken bundan akdem hālik olan Dimitri v. Polizo nām zımmīnin verāseti zevce-i metrūkesi olub vilāyet-i Rumilinde Yenişehir Fenar kazāsına muzāfe Agrefe nāhiyesine tabi Zoğlub? nām karyede mütemekkin Katerina bt. Askarlat nām nasrāniye ile sulbī sagīr oğlu Astaryo ve sulbiye sagīre kızları Mağdelinçe ve Agoriçeye zevce-i mersūme Katerina nasrāniyenin batnında mütebeyyin hamle münhasıra olduğu tahakkukundan sonra hālik merkūmun medīne-i mezbūrede olan terekesini kabz </hi><hi rend="background(yellow)">….</hi><hi xml:space="preserve"> merkūmeye irsāl ve īsāle kıbel-i şer‘den vasī nasb olunan Şerbetçi Konstantin veled-i Vasil nām zımmīnin taleb iltimāsıyla hālik merkūmun tahrīr ve terkīm olunan terekesi defteridir ki ber vech-i ātī zikr olunur. Fi 11</hi> <hi rend="background(yellow)">…</hi><hi xml:space="preserve"> 1200</hi></p><p><hi rend="bold" xml:space="preserve">Mahlūt revgan-ı sāde: </hi><hi>Fī 66 / Kıyye 85 / 5610</hi></p><p><hi rend="bold" xml:space="preserve">Revgan-ı sāde: </hi><hi>Fī 75/ Kıyye 140 / 10500</hi></p><p><hi rend="bold" xml:space="preserve">Fındık: </hi><hi>Fī 22 / Kıyye 39 / 858</hi></p><p><hi rend="bold">Şa‘riye</hi><hi rend="bold background(red)" xml:space="preserve">: </hi><hi rend="background(red)">Fī 31 / Kıyye 36 / 814</hi></p><p><hi rend="bold" xml:space="preserve">Sabun: </hi><hi>Fī 48 / Kıyye 29 / 1392</hi></p><p><hi rend="bold" xml:space="preserve">Pirinç: </hi><hi>Fī 29 / Kıyye 118 / 3442</hi></p><p><hi rend="bold" xml:space="preserve">Nişasta: </hi><hi>Fī 27 / Kıyye 105 / 2835</hi></p><p><hi rend="bold" xml:space="preserve">Nohud: </hi><hi>Fī 10 / Kıyye 57 / 570</hi></p><p><hi rend="bold" xml:space="preserve">Bulgur: </hi><hi>Fī 9 / Kıyye 128 / 1152</hi></p><p><hi rend="bold" xml:space="preserve">Asel desti: </hi><hi>Fī 21 / Kıyye 80 /</hi></p><p><hi rend="bold background(red)" xml:space="preserve">Asel-i Eflak: </hi><hi rend="background(red)">Fī 35 / Kıyye 12 / 636</hi></p><p><hi rend="bold" xml:space="preserve">Zeytūn: </hi><hi>Fī 17 / Kıyye 34 / 578</hi></p><p><hi rend="bold" xml:space="preserve">Soğan: </hi><hi>Fī 8 / Kıyye 33 / 264</hi></p><p><hi rend="bold" xml:space="preserve">Pekmez: </hi><hi>Fī 15 / Kıyye 365 / 5475</hi></p><p><hi rend="bold" xml:space="preserve">Revgan-ı zeyt: </hi><hi>Fī 60 / Kıyye 97.5 / 5850</hi></p><p><hi rend="bold" xml:space="preserve">Def‘a revgan-ı sade: </hi><hi>Fī 81 / Kıyye 59 / 4799</hi></p><p><hi rend="bold" xml:space="preserve">Eflak tuzu: </hi><hi>Fī 6 / Kıyye 166 / 996</hi></p><p><hi rend="bold" xml:space="preserve">Sirke: </hi><hi>Fī 5 / Kıyye 170 / 850</hi></p><p><hi rend="bold">Zuhūr eden nakd: 480</hi></p><p><hi>Hālik merkūmun mutasarrıfı olduğu bakkāl dükkānı derūnunda beyne’l-esnāf gedik ta‘bīr olunur ālāt-ı lāzımeden olan rub‘ hisse-i şāyi’asının kıymeti: 30000</hi></p></div>
+        </body>
+    </text>
+</TEI>

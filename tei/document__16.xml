@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__16.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Ali Beşe b. Mehmed: İSTM.ŞSC.14.d.241 / 3a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.241 / 3a-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1717-1718"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.241 / 3a-1</idno></ab>
+         </abstract>         <creation><date when="1717-1718">1130</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__16">
+                <persName>Bakkal Ali Beşe b. Mehmed</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>               <person role="mentioned">
+                <persName>Brother</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__6" type="district"><placeName>Kasımpaşa</placeName></place><place xml:id="neighbourhood__12" type="neighbourhood"><placeName>Elhac Hasan</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__21">Figs</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__115">Zenbil</term><term xml:id="goods__119">Sack</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__124">Scales</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__128">Flat tray</term><term xml:id="goods__135">Pot</term><term xml:id="goods__136">Potna</term><term xml:id="goods__143">Seklem</term><term xml:id="goods__144">Piştahta</term><term xml:id="goods__145">Akçe kesesi</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_m2phf8x6qb9r"/><hi rend="baseline">İSTM.ŞSC.14.d.241 / 3a-1_</hi><ref target="http://document__16"><hi rend="baseline underline color(1155cc)">GrocerIST id_16</hi></ref></head><p style="text-align: justify;"><hi>Mahrūse-i Galata tevābi‘inden kasaba-i Kasımpaşada Elhac Hasan mahallesinde sākin iken bundan akdem vefāt eden Bakkāl Ali Beşe b. Mehmed b. Abdullāh nām mütevvefānın verāseti zevce-i menkūhe-i metrūkesi Hadice bt. Mustafa nām hatun ile sulbye sagīre kızları Amineye ve Afifeye ve li-ebeveyn er karındaşı Mustafa kapudana münhasıra olduğu lede’ş şer‘i zāhir ve mütebeyyin oldukdan sonra mezbūre ile karındaşı mezbūr Mustafa kapudan ma‘rifetiyle</hi> <hi style="font-size:8.5pt"> </hi><hi xml:space="preserve">müteveffā-i mezbūrun tahrīr olunan terekesidir ki zikr olunur. </hi></p><p style="text-align: justify;"><hi style="font-size:8.5pt"> </hi><hi>Fī-āhiri Saferi’l-hayr 1130</hi></p><p style="text-align: justify;"><hi xml:space="preserve">Bakkāl dükkānında mevcūd eşyālardır: </hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kaşkaval: </hi><hi>Kıyye132 / Kıymet 1795</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Fındık: </hi><hi>Kantar 7.5 / Kıymet 1500</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">İncir: </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> 1 / Kıymet 700</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tulum Peyniri: </hi><hi>14 / 2620</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Potna: </hi><hi>6 / Kıymet 150</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Küp: </hi><hi>2 / Kıymet 160</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Boş fuçı: </hi><hi>Kıymet 160</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuval: </hi><hi>3 / Kıymet 135</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Seklem: </hi><hi>2 / Kıymet 30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Zenbil: </hi><hi>1 / Kıymet 90</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tabla: </hi><hi>Kıymet 75</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Üzüm: </hi><hi>Kıyye 5 / Kıymet 30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Dirhem ma terāzū: </hi><hi>Kıymet 360</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kantar: </hi><hi>2 / Kıymet 180</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Piştahta ve akçe kesesi: </hi><hi>Kıymet 70</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Müteveffā-i mezbūrun taht-ı icāresinde olan dükkān müceddeden binā olunmağla icāresine mahsūb olmak üzere kendi malından virdüğü akçeden bākī kalan: </hi><hi>2730</hi></p></div>
+        </body>
+    </text>
+</TEI>

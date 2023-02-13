@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__98.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Radovuz veled-i Yovan: İSTM.ŞSC.15.d. 196 / 15a-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.15.d. 196 / 15a-2</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1756-1757"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 196 / 15a-2</idno></ab>
+         </abstract>         <creation><date when="1756-1757">1170</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__119">
+                <persName>Bakkal Radovuz veled-i Yovan</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__21" type="district"><placeName>İstanbul</placeName></place><place xml:id="district__22" type="district"><placeName>Yedikule harici</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 196 / 15a-2_<ref target="http://document__98"><hi rend="underline color(1155cc)">GrocerIST id_81</hi></ref></head><p style="text-align: justify;"><hi>Mahmiye-i İstanbul hısn-ı ebvābından Yedikule hāricinde vāki‘ İbrahim Çelebi dükkānında bakkāl iken bundan akdem hālik olan bakkāl Radovuz veled-i Yovan veled-i Konstantin nām hālikin zāhirde vāris-i marūfu ve marūfesi olmayub bi’l-cümle terekesi cānib-i beytülmāle āid ve rāci’ olmağın mahall-i mezbūrde vāki‘ beytülmāl āmme ve hāssa kabzına memūr olan haslar subaşısı fahrü’l-akrān Ahmed Ağa b. İbrahim tereke-i hālik-i mersūmu ba‘de’l kabz taleb ve ma‘rifetiyle tahrīr ve beyne’l-hiref tahmīn ve takvīm olunan tereke-i hālik mersūmdur ki ber vech-i ātī zikr olunur. Fi’l-yevmi’s-sānī aşer  min-Rebīʻi’l-evvel li-sene seb‘in ve mi’e ve elf. 1170</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Döşek: </hi><hi>1 /100</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yasdık: </hi><hi>2 / 100</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yorgan: </hi><hi>100</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Saman çuvalı: </hi><hi>3 / 30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Hırdavat: </hi><hi>30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Bakkāl dükkānında sermāyeden nısf-ı hissesi: </hi><hi>28000</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">İki buçuk ayda fāizinden hisse: </hi><hi>2000</hi></p></div>
+        </body>
+    </text>
+</TEI>

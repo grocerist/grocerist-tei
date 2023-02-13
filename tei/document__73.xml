@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__73.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Panayot v. İsteradik: İSTM.ŞSC.06.d. 440 / 24b-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 440 / 24b-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1754-1755"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 440 / 24b-1</idno></ab>
+         </abstract>         <creation><date when="1754-1755">1168</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__110">
+                <persName>Bakkal Panayot v. İsteradik</persName>
+               </person>               <person role="mentioned">
+                <persName>Brother</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__52" type="neighbourhood"><placeName>Yenimahalle</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__68">Pipe</term><term xml:id="goods__115">Zenbil</term><term xml:id="goods__119">Sack</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__124">Scales</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__128">Flat tray</term><term xml:id="goods__133">Washing tray</term><term xml:id="goods__134">Bucket</term><term xml:id="goods__135">Pot</term><term xml:id="goods__140">Knife</term><term xml:id="goods__232">Kaşık</term><term xml:id="goods__234">Çanak</term><term xml:id="goods__239">Kahve</term><term xml:id="goods__243">Sandık</term><term xml:id="goods__279">Kömür terazisi</term><term xml:id="goods__280">Yağ destisi</term><term xml:id="goods__281">Zeytun fuçısı</term><term xml:id="goods__282">Zeyt yağı kovası</term><term xml:id="goods__283">Kalbur</term><term xml:id="goods__284">Böğrülce anbarı</term><term xml:id="goods__285">Sofra</term><term xml:id="goods__286">Nişasta fuçısı</term><term xml:id="goods__287">Balık tabası</term><term xml:id="goods__288">Tencere</term><term xml:id="goods__289">Kazgan</term><term xml:id="goods__290">Huni</term><term xml:id="goods__291">Yumurta sepeti</term><term xml:id="goods__292">Tahin çömleği</term><term xml:id="goods__293">Peynir Kutusu</term><term xml:id="goods__294">Misafir sofrası</term><term xml:id="goods__295">Pirinç hunisi</term><term xml:id="goods__296">Tas</term><term xml:id="goods__297">İbrik</term><term xml:id="goods__298">Vezne</term><term xml:id="goods__299">Çekmece</term><term xml:id="goods__300">Biblo kutusu</term><term xml:id="goods__301">destere</term><term xml:id="goods__302">Keser</term><term xml:id="goods__303">Şamdan</term><term xml:id="goods__304">Havan</term><term xml:id="goods__305">Kandil</term><term xml:id="goods__306">Badya</term><term xml:id="goods__307">Süzek</term><term xml:id="goods__308">Fenar</term><term xml:id="goods__309">Dara</term><term xml:id="goods__310">İskemle</term><term xml:id="goods__311">Pirinç kilesi</term><term xml:id="goods__312">Akçe tahtası</term><term xml:id="goods__313">Rende</term><term xml:id="goods__314">Devad</term><term xml:id="goods__315">Hokka</term><term xml:id="goods__316">Çatal-ı haliç</term><term xml:id="goods__317">Sirke hunisi</term><term xml:id="goods__318">Mum kutusu</term><term xml:id="goods__319">Yağ malası</term><term xml:id="goods__320">Manula</term><term xml:id="goods__321">Saban</term><term xml:id="goods__322">Dükkan perdesi</term><term xml:id="goods__323">Çengel</term><term xml:id="goods__330">Zeytun fuçısı</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 440 / 24b-1_<ref target="http://document__73"><hi rend="underline color(1155cc)">GrocerIST id_60</hi></ref></head><p style="text-align: justify;"><hi>Vilāyet-i Rumilinde Yenişehir Fenar kāzası tevābi‘nden</hi><hi style="font-size:8.5pt"> </hi><hi>Kirapeşe nām karye re‘āyāsından olub medīne-i Üsküdarda Yeni mahallede mütemekkin iken bundan akdem hālik olan bakkāl Panayot veled-i İsteradik zımmīnin verāseti karye-i mezbūrde sākin gāib ani’l beled li-ebeveyn er karındaşı Kiro nām zımmīye münhasıra olduğu lede’ş-şer‘i’l-enver zāhir ve mütebeyyin oldukdan sonra hālik mesfūr medīne-i mezbūrede Büyük İskele kurbunda vāki bakkāl dükkānında olan ālāt-ı malūme dört hisse itibarıyla bir hissesi hālik mesfūrun mülkü olmağla hālik-i mersūmun terekesinden gāib ani’l-meclis li-ebeveyn er karındaşına isābet eden hissesini ahz ü kabz kendüye teslim vasī nasb olan Yorgi veled-i Yani talebiyle tahrīr  olunan terekesidir ki ber vech-i ātī zikr olunur. Fī 9 min Recebi’l-ferd 1168</hi>   </p><p><hi rend="bold" xml:space="preserve">Terāzū ma dirhem: </hi><hi>3</hi></p><p><hi rend="bold" xml:space="preserve">Sagīr ve kebīr fuçı: </hi><hi>20</hi></p><p><hi rend="bold" xml:space="preserve">Kömür terāzūsu: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Küp: </hi><hi>3</hi></p><p><hi rend="bold" xml:space="preserve">Yağ destileri: </hi><hi>3</hi></p><p><hi rend="bold" xml:space="preserve">Zeytūn fuçısı: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Koğa: </hi><hi>2</hi></p><p><hi rend="bold" xml:space="preserve">Zeyt yağı koğasi: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Kalbur: </hi><hi>3</hi></p><p><hi rend="bold" xml:space="preserve">Çuval: </hi><hi>4</hi></p><p><hi rend="bold" xml:space="preserve">Sagīr kantar: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Kebīr kantar: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Böğrülce anbarı: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Sofra: </hi><hi>1</hi></p><p><hi rend="bold">Tekne:</hi><hi xml:space="preserve"> 1</hi></p><p><hi rend="bold" xml:space="preserve">Nişasta fuçısı: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Zenbil: </hi><hi>4</hi></p><p><hi rend="bold" xml:space="preserve">Balık tabası: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Tencere: </hi><hi>4</hi></p><p><hi rend="bold" xml:space="preserve">Sagīr kazgan: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Kaşık: </hi><hi>12</hi></p><p><hi rend="bold" xml:space="preserve">Huni: </hi><hi>2</hi></p><p><hi rend="bold" xml:space="preserve">Tabla: </hi><hi>10</hi></p><p><hi rend="bold">Gerdel:</hi><hi xml:space="preserve"> 1</hi></p><p><hi rend="bold" xml:space="preserve">Yumurta sepeti: </hi><hi>2</hi></p><p><hi rend="bold" xml:space="preserve">Tahin çömleği: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Peynir kutusu: </hi><hi>1</hi></p><p><hi rend="bold background(yellow)">…:</hi></p><p><hi rend="bold" xml:space="preserve">Bıçak: </hi><hi>2</hi></p><p><hi rend="bold" xml:space="preserve">Destgah zenbili: </hi><hi>12</hi></p><p><hi rend="bold">Misafir sofrası</hi></p><p><hi rend="bold">Pirinç hunisi:</hi><hi xml:space="preserve"> 1</hi></p><p><hi rend="bold">Tas:</hi><hi xml:space="preserve"> 1 </hi></p><p><hi rend="bold" xml:space="preserve">Sandık: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">İbrik: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Vezne: </hi><hi>1</hi></p><p><hi rend="bold">Çekmece:</hi><hi xml:space="preserve"> 1</hi></p><p><hi rend="bold" xml:space="preserve">Biblo kutusu: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Def’a pirinç kutusu: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Destere, keser </hi><hi rend="bold background(yellow)" xml:space="preserve">…: </hi><hi>3</hi></p><p><hi rend="bold background(yellow)">…:</hi></p><p><hi rend="bold" xml:space="preserve">Çanak: </hi><hi>12</hi></p><p><hi rend="bold" xml:space="preserve">Şamdan: </hi><hi>1</hi></p><p><hi rend="bold">Havan:</hi><hi xml:space="preserve"> 2</hi></p><p><hi rend="bold" xml:space="preserve">Kandil: </hi><hi>2</hi></p><p><hi rend="bold" xml:space="preserve">Badya: </hi><hi>3</hi></p><p><hi rend="bold">Süzek:</hi><hi xml:space="preserve"> 1</hi></p><p><hi rend="bold" xml:space="preserve">Yağ hunileri: </hi><hi>6</hi></p><p><hi rend="bold" xml:space="preserve">Fenar: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Dara: </hi><hi>1</hi></p><p><hi rend="bold background(yellow)" xml:space="preserve">…: </hi></p><p><hi rend="bold" xml:space="preserve">İskemle: </hi><hi>6</hi></p><p><hi rend="bold">Tur kilesi</hi></p><p><hi rend="bold" xml:space="preserve">Pirinç kilesi: </hi><hi>1</hi></p><p><hi rend="bold">Duhan çubuğu:</hi><hi xml:space="preserve"> 8</hi></p><p><hi rend="bold">… havanı:</hi><hi xml:space="preserve"> 1</hi></p><p><hi rend="bold" xml:space="preserve">Akçe tahtası: </hi><hi>2</hi></p><p><hi rend="bold" xml:space="preserve">Rende: </hi><hi>1</hi></p><p><hi rend="bold" xml:space="preserve">Devad hokka: </hi><hi>1</hi></p><p><hi rend="bold">Çatal -ı haliç</hi></p><p><hi rend="bold" xml:space="preserve">Kahve: </hi><hi>1</hi></p><p><hi rend="bold background(yellow)">…:</hi></p><p><hi rend="bold">Sirke hunisi</hi></p><p><hi rend="bold">Mum kutusu</hi></p><p><hi rend="bold">Yağ malası</hi></p><p><hi rend="bold">Fuçı tahtası</hi></p><p><hi rend="bold">Kebīr manula</hi></p><p><hi rend="bold">Sagīr saban</hi></p><p><hi rend="bold">Dükkān perdesi</hi></p><p><hi rend="bold">Çenge</hi></p></div>
+        </body>
+    </text>
+</TEI>

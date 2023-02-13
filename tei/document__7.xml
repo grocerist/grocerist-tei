@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__7.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Dimitri v. Yorgi: İSTM.ŞSC.14.d.212/ 34b-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.212/ 34b-2</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1711-1712"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.212/ 34b-2</idno></ab>
+         </abstract>         <creation><date when="1711-1712">1123</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__7">
+                <persName>Bakkal Dimitri v. Yorgi</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Fetus</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__15" type="neighbourhood"><placeName>Sultan Bayezıd </placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__15">Rice</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__24">Nardenk</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__49">Sausage</term><term xml:id="goods__120">Steelyard</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_rpnjw5ve2hr1"/><hi rend="baseline">İSTM.ŞSC.14.d.212/ 34b-2_</hi><ref target="http://document__7"><hi rend="baseline underline color(1155cc)">GrocerIST id_7</hi></ref></head><p style="text-align: justify;"><hi xml:space="preserve">Mahrūse-i Galatada Sultan Bayezid mahallesinde mütemekkin iken bundan akdem hālik olan Bakkāl Dimitri veled-i Yorgi nām zımmīnin verāseti zevce-i metrūkesi </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> bt. Kozi nām nasrāniyeye ve batnında mevcūd ve mütehakkık cümle münhasıra olduğu lede’ş şer‘i müte‘ayyen oldukdan sonra cümle mezbūre kıbel-i şer’den vasī nasb olunan mezbūre </hi><hi rend="background(yellow)" xml:space="preserve">… </hi><hi xml:space="preserve">talebiyle hālik mezbūrun muhallefātı defteridir ki vech-i ātī üzere zikr olunur. </hi></p><p style="text-align: justify;"><hi>Fī 26 Ramazan 23</hi></p><p style="text-align: justify;"><hi rend="bold">Soğan:</hi><hi xml:space="preserve"> Fī 2 / Kıyye 190 / Kıymet 380</hi></p><p style="text-align: justify;"><hi rend="bold">Fındık:</hi><hi xml:space="preserve"> Fī 4 / Kıyye 100 / Kıymet 400</hi></p><p style="text-align: justify;"><hi rend="bold">Kaşkaval peyniri:</hi><hi xml:space="preserve"> Fī 20 / Kıyye 40 / Kıymet 800</hi></p><p style="text-align: justify;"><hi rend="bold">Zeyt yağı:</hi><hi xml:space="preserve"> Fī 20 / Kıyye 40 / Kıymet 800</hi></p><p style="text-align: justify;"><hi rend="bold">Sāde yağ:</hi><hi xml:space="preserve"> Fī 40 / Kıyye 10 / Kıymet 400</hi></p><p style="text-align: justify;"><hi rend="bold">Tulum peyniri:</hi><hi xml:space="preserve"> Fī 15 / Kıyye 20 / Kıymet 300</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Nardenk: </hi><hi>Fī 5 / Kıyye 60 / Kıymet 300</hi></p><p style="text-align: justify;"><hi rend="bold">Sirke:</hi><hi xml:space="preserve"> Fī 2 / Kıyye 100 / Kıymet 200</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sucuk: </hi><hi>Fī 8 / Kıyye 50 / Kıymet 400</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Pirinç: </hi><hi>Fī 8 / Kıyye 150 / Kıymet 1200</hi></p><p style="text-align: justify;"><hi rend="bold">Pekmez:</hi><hi xml:space="preserve"> Kıyye 140 / Kıymet 840</hi></p><p style="text-align: justify;"><hi rend="bold">Ālāt-ı bakkāl ma kantar:</hi><hi xml:space="preserve"> 80</hi></p></div>
+        </body>
+    </text>
+</TEI>

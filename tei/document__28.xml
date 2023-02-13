@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__28.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Molla Hasan b. Abdullah: İSTM.ŞSC.14.d.276 / 9b-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.276 / 9b-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1731-1732"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.276 / 9b-1</idno></ab>
+         </abstract>         <creation><date when="1731-1732">1144</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__28">
+                <persName>Bakkal Molla Hasan b. Abdullah</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__8" type="district"><placeName>İstinye</placeName></place><place xml:id="neighbourhood__38" type="neighbourhood"><placeName>Bey Bağçesi</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__7">Tallow</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__15">Rice</term><term xml:id="goods__18">Razaki</term><term xml:id="goods__20">Siyah</term><term xml:id="goods__21">Figs</term><term xml:id="goods__24">Nardenk</term><term xml:id="goods__25">Honey</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__30">Salt</term><term xml:id="goods__33">Kefe salt</term><term xml:id="goods__34">Olive</term><term xml:id="goods__36">Vermicelli</term><term xml:id="goods__46">Barley</term><term xml:id="goods__49">Sausage</term><term xml:id="goods__57">Pastrami</term><term xml:id="goods__64">Smashed salt</term><term xml:id="goods__86">Peksimet</term><term xml:id="goods__87">Kaba soğan</term><term xml:id="goods__88">Pearl onion</term><term xml:id="goods__89">Çorlu cheese</term><term xml:id="goods__147">Coal</term><term xml:id="goods__155">Broad bean</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_6lkumwm80u17"/><hi rend="baseline">İSTM.ŞSC.14.d.276 / 9b-1_</hi><ref target="http://document__28"><hi rend="baseline underline color(1155cc)">GrocerIST id_28</hi></ref></head><p style="text-align: justify;"><hi>Mahrūse-i Galata muzāfatından İstinye nāhiyesine tābi Bey bağçesi karyesinde sākin iken bundan akdem vefāt eden Bakkāl Molla Hasan b. Abdullah b. Abdülmennanın  zāhirde vārisi ma‘rūfu olmayub bi’l-cümle terekesi cānib-i beytülmāle āid olmağın mahrūse-i mezkūr ve tevābinde voyvoda ve beytülmāl āmme ve hāssa emīni olan fahrü’l-eşbāh Elhac Mustafa Ağa b. Ahmed tarafından umūr-ı beytülmālı  rü’yete vekīl-i müseccel olan Osman Çavuş b. İbrahim taleb ve iltimāsıyla ve marifeti şerle tahrīr ve bey’ olunan terike-i müteveffā-i mezbūrdur ki ber vech-i ātī zikr olunur. Fi’l-yevmi’sābi ‘ve’l-ışrīn min Cumādelūlā</hi>  <hi style="font-size:8.5pt"> </hi><hi>1144</hi></p><p style="text-align: justify;"><hi rend="bold">Döğülmüş tuz:</hi><hi xml:space="preserve"> Fī 2 / Kıyye 196 / Kıymet 392</hi></p><p style="text-align: justify;"><hi rend="bold">Peksimet:</hi><hi xml:space="preserve"> Fī 3 / Kıyye 95 / Kıymet 285</hi></p><p style="text-align: justify;"><hi rend="bold">Kaba tuz:</hi><hi xml:space="preserve"> Fī 2 / Kıyye 85 / Kıymet 170</hi></p><p style="text-align: justify;"><hi rend="bold">Bakla:</hi><hi xml:space="preserve"> Fī 5 / Kıyye 20 / Kıymet 100</hi></p><p style="text-align: justify;"><hi rend="bold">Kaba soğan:</hi><hi xml:space="preserve"> Fī 2 / Kıyye 150 / Kıymet 300</hi></p><p style="text-align: justify;"><hi rend="bold">Arpacık soğanı:</hi><hi xml:space="preserve"> Fī 4 / Kıyye 80 / Kıymet 320</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve"> Zeytūn:</hi><hi xml:space="preserve"> Fī 7 / Kıyye 90 / Kıymet 630</hi></p><p style="text-align: justify;"><hi rend="bold">Sirke:</hi><hi xml:space="preserve"> Fī 2 / Kıyye 100 / Kıymet 200</hi></p><p style="text-align: justify;"><hi rend="bold">Kömür:</hi><hi xml:space="preserve"> Fī 1 / Kıyye 2500 / Kıymet 2500</hi></p><p style="text-align: justify;"><hi rend="bold">Kefe tuzu:</hi><hi xml:space="preserve"> Fī 36 / Kıyye 10 / Kıymet 360</hi></p><p style="text-align: justify;"><hi rend="bold">Zeyt revgan:</hi><hi xml:space="preserve"> Fī 20 / Kıyye 360 / Kıymet 7200</hi></p><p style="text-align: justify;"><hi rend="bold">Asel:</hi><hi xml:space="preserve"> Fī 16 / Kıyye 62 / Kıymet 992</hi></p><p style="text-align: justify;"><hi rend="bold">Revgan-ı sāde:</hi><hi xml:space="preserve"> Fī 40 / Kıyye 204 / Kıymet 8120?</hi></p><p style="text-align: justify;"><hi rend="bold">Def’a revgan-ı sāde:</hi><hi xml:space="preserve"> Fī 30 / Kıyye 21 / Kıymet 630</hi></p><p style="text-align: justify;"><hi rend="bold">Şa’riye:</hi><hi xml:space="preserve"> Fī 8 / Kıyye 15.5 / Kıymet 124</hi></p><p style="text-align: justify;"><hi rend="bold">Pirinç:</hi><hi xml:space="preserve"> Fī 8 / Kıyye 238 / Kıymet 1908?</hi></p><p style="text-align: justify;"><hi rend="bold">Arpa:</hi><hi xml:space="preserve"> Fī 45 / Keyl 35 / Kıymet 1575</hi></p><p style="text-align: justify;"><hi rend="bold">Fındık:</hi><hi xml:space="preserve"> Fī 10 / Kıyye 8 / Kıymet 80</hi></p><p style="text-align: justify;"><hi rend="bold">İncir:</hi><hi xml:space="preserve"> Fī 7 / Kıyye 110 / Kıymet 770</hi></p><p style="text-align: justify;"><hi rend="bold">Razaki üzüm:</hi><hi xml:space="preserve"> Fī 14 / Kıyye 54 / Kıymet 756</hi></p><p style="text-align: justify;"><hi rend="bold">Siyāh üzüm:</hi><hi xml:space="preserve"> Fī 8 / Kıyye 50 / Kıymet 400</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sucuk: </hi><hi>Kıyye 8 / Kıymet 144</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Basdırma: </hi><hi>Fī 10 / Kıyye 21 / Kıymet 210</hi></p><p style="text-align: justify;"><hi rend="bold">Tulum peyniri:</hi><hi xml:space="preserve"> Fī 18 / Kıyye 19 / Kıymet 342</hi></p><p style="text-align: justify;"><hi rend="bold">Don yağı:</hi><hi xml:space="preserve"> Fī 22 / Kıyye 3 / Kıymet 66</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çorlu peyniri: </hi><hi>Fī 22 / Kıyye 13 / Kıymet 286</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Hırdavat-ı dükkān: </hi><hi xml:space="preserve">7200 </hi></p></div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__100.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Yani v. Aleksi: İSTM.ŞSC.15.d. 205 / 51a-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.15.d. 205 / 51a-2</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1761-1762"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 205 / 51a-2</idno></ab>
+         </abstract>         <creation><date when="1761-1762">1175</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__102">
+                <persName>Bakkal Yani v. Aleksi</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Brother</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__15">Rice</term><term xml:id="goods__29">Onion</term><term xml:id="goods__41">Daru</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__226">Arak</term><term xml:id="goods__227">Ham sirke</term><term xml:id="goods__228">Dikel</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head> İSTM.ŞSC.15.d. 205 / 51a-2_<ref target="http://document__100"><hi rend="underline color(1155cc)">GrocerIST id_82</hi></ref></head><p style="text-align: justify;"><hi>Vilāyet-i Rumilinde Yenişehir Fener kāzasına muzāfe Ağrafa nāhiyesi ahalisinden olub havāss-ı aliyye kāzasına tābi‘ Küçükköy nām karyede mütemekkin iken bundan akdem hālik olan bakkāl Yani veled-i Aleksi veled-i Yani nām hālikin verāseti zevce-i metrūkesi Anice bt. Todori nām nasrāniye ile li-ebeveyn er karındaşları olub mārrü’z-zikr Ağrefe nāhiyesinde mütemekkin İsteryo ve Tanaş nām zımmīlere münhasıra olduğu zāhir ve mukarrer oldukdan sonra gāibān-ı merkūmānın hisse-i ırsiyelerini hıfza ve zabta vasī ve kayyım nasb olunan anası Zoli bt. Yani ile zevce-i merkūme Anice nasrāniye taleb ve ma’rifetleriyle tahrīr ve takvīm olunan tereke-i hālik-i merkūmdur ki vech-i ātī zikr olunur. Fi’l-yevmi’s-sālis ve‘l ışrīn min-Cemaziye’l-evvel li sene hamse ve seb‘in ve mie ve elf. 1175</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne yelek: </hi><hi>1 /45</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kuzu kürk: </hi><hi>1 / 90</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Acem gömleği: </hi><hi>1 / 60</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne entari: </hi><hi>15</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne dizlik: </hi><hi>15</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Aba? entari: </hi><hi>1 / 15</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne gömlek: </hi><hi>1 / 90</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Aba? şalvar: </hi><hi>1 / 15</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Peştemal: </hi><hi>1 / 15</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çift bıçak: </hi><hi>1 / 30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kılıflı: </hi><hi>1 / 30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kalçın: </hi><hi>1 / 8</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tuzluk: </hi><hi>1 / 7</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kuşak ve çorab: </hi><hi>1 / 16</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Saman hınta: </hi><hi>720</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Otluk araba: </hi><hi>360</hi></p><p><hi rend="bold" xml:space="preserve">Ham sirke ber vech-i tahmīn: </hi><hi>Fī 40 / Kıyye 110 / 4400</hi></p><p><hi rend="bold" xml:space="preserve">Arak: </hi><hi>Kıyye 60 / 975</hi></p><p><hi rend="bold" xml:space="preserve">Fuçı kebīr ve sagīr: </hi><hi>450</hi></p><p><hi rend="bold" xml:space="preserve">Darı: </hi><hi>Fī 60 / Keyl 15 / 900</hi></p><p><hi rend="bold background(red)" xml:space="preserve">Soğan: </hi><hi rend="background(red)">Fī 6 / Kıyye 66 / 44</hi></p><p><hi rend="bold">Kutu:</hi><hi xml:space="preserve"> 3 / 90</hi></p><p><hi rend="bold" xml:space="preserve">Caba: </hi><hi>3 / 60</hi></p><p><hi rend="bold" xml:space="preserve">Dikel: </hi><hi>2 / 60</hi></p><p><hi rend="bold">Pirinç:</hi><hi xml:space="preserve"> Fī 15 / Kıyye 5 / 75</hi></p><p><hi rend="bold">Bakkāl dükkānı derūnunda ālāt ve temür ve bir mikdār  bardak ve mum ve kıyye hasır  vesāir hırdavat:</hi><hi xml:space="preserve"> 500</hi></p></div>
+        </body>
+    </text>
+</TEI>

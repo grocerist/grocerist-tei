@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__101.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Dimo v. Yorgi: İSTM.ŞSC.15.d. 216 / 42a-1 (a)</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.15.d. 216 / 42a-1 (a)</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1769-1770"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 216 / 42a-1 (a)</idno></ab>
+         </abstract>         <creation><date when="1769-1770">1183</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__103">
+                <persName>Bakkal Dimo v. Yorgi</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="neighbourhood__70" type="neighbourhood"><placeName>Edine Kapısı harici</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 216 / 42a-1_<ref target="http://document__101"><hi rend="underline color(1155cc)">GrocerIST id_83</hi></ref></head><p style="text-align: justify;"><hi>Medīne-i hazret-i Ebī Eyyüb el-Ensārī -radiye anhu Rabbühü’l-bārīde- Edirne kapusu hāricinde merhūm Feyzullah Efendi dükkānı demekle ma‘rūf  bakkal dükkānında hālik olan bakkāl Dimo veled-i Yorgi zımmīnin verāseti vilāyet-i Rumilindeki Niş kāzasına tābi‘</hi><hi style="font-size:8.5pt" xml:space="preserve">  </hi><hi>Karakil karyesinde mütemekkine-i zevce-i metrūkesi Kondali bt. Konstantin nasrāniye ile sulbī oğulları Yorgaki ve Penaki zımmīlere ve sulbiye kızları Argora ve ve Banola ve Device ve Panhona ve Hayduye münhasıra olduğu şer’an zāhir ve müte’ayyen oldukdan sonra mezbūrdan Kondali ve Yorgaki ve Penakinin ve Argora ve Banola ve Device ve Panhona ve Hayduyenin hisse-i ırsiylerinin ahz ü kabz ve zabt ve hıfza ve kendülere irsāl ve īsāle bā-hüccet-i şer‘iye vasiyy-i muhtārı olan bakkāl Nikola veled-i Dimo zımmī talebiyle pazarbaşı vekīli Ahmed Ağa b. Mustafa ve Ali Ağa b. Hasan ma‘rifetleriyle  tahrīr ve takvīm ve taksīm olan hālik mezbūrun terekesi defteridir ki ber vech-i ātī zikr olunur. Fi’l-yevmi’l-hādi aşer min şehri Rebī‘ılāhir li-sene selāse ve semānīn  ve mie ve elf. 1183</hi></p><p><hi rend="bold" xml:space="preserve">Çorab çift: </hi><hi>6 / 180</hi></p><p><hi rend="bold" xml:space="preserve">Bıçak: </hi><hi>2 / 90</hi></p><p><hi rend="bold" xml:space="preserve">Pirinç devat: </hi><hi>90</hi></p><p><hi rend="bold" xml:space="preserve">Kova: </hi><hi>1 / 30</hi></p><p><hi rend="bold" xml:space="preserve">Vezne: </hi><hi>15</hi></p><p><hi rend="bold" xml:space="preserve">Köhne peştemal: </hi><hi>60</hi></p><p><hi rend="bold" xml:space="preserve">Def‘a peştemal: </hi><hi>90</hi></p><p><hi rend="bold" xml:space="preserve">Kırmızı mor kuşak: </hi><hi>1 / 60</hi></p><p><hi rend="bold" xml:space="preserve">Yelek: </hi><hi>60</hi></p><p><hi rend="bold" xml:space="preserve">Tahta sandık: </hi><hi>1 / 180</hi></p><p><hi rend="bold" xml:space="preserve">Res kebesi: </hi><hi>1 / 90</hi></p><p><hi rend="bold" xml:space="preserve">Dizlik: </hi><hi>1 / 60</hi></p><p><hi rend="bold" xml:space="preserve">Beyaz entari: </hi><hi>1 / 45</hi></p><p><hi rend="bold" xml:space="preserve">Kaliçe: </hi><hi>15</hi></p><p><hi rend="bold">Aba yelek:</hi><hi xml:space="preserve"> 15</hi></p><p><hi rend="bold" xml:space="preserve">Def‘a aba yelek: </hi><hi>1 / 30</hi></p><p><hi rend="bold" xml:space="preserve">Köhne gömlek ma şalvar: </hi><hi>45</hi></p><p><hi rend="bold" xml:space="preserve">Dikme aba cübbe: </hi><hi>120</hi></p><p><hi rend="bold" xml:space="preserve">Res kebesi: </hi><hi>1 / 180</hi></p><p><hi rend="bold" xml:space="preserve">Aba yağmurluk: </hi><hi>1 / 300</hi></p><p><hi rend="bold" xml:space="preserve">Selanik kebesi: </hi><hi>300</hi></p><p><hi rend="bold" xml:space="preserve">Heybe ma hırdavat: </hi><hi>1 / 120</hi></p><p><hi rend="bold" xml:space="preserve">Def‘a kebe: </hi><hi>1 / 150</hi></p><p><hi>Zikr olunan Feyzullah Efendi dükkānında hālik mezbūrun sermāyesi: 10000</hi></p><p><hi>Bakkāl Tanaş zimmetinde olub Edirne Kapusu hāricinde sākin  kiracı Mehmed Ağada olan hakkını hālik mezbūr hayātında kabz idüb mesfūr Tanaş zımmī(ye) teslīm eyledi: 20400</hi></p><p><hi>Topkapusunda kiremit dükkānı demekle ma‘rūf bakkāl dükkānında hālik mezbūrun sermāyesi: 9000</hi></p><p><hi>Nakd mevcūd: 75</hi></p></div>
+        </body>
+    </text>
+</TEI>

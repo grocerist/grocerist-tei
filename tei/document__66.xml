@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__66.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Kristic v. Mihal: İSTM.ŞSC.06.d. 339 / 94b-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 339 / 94b-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1709-1710"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 339 / 94b-1</idno></ab>
+         </abstract>         <creation><date when="1709-1710">1121</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__66">
+                <persName>Bakkal Kristic v. Mihal</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__48" type="neighbourhood"><placeName>Kefere</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 339 / 94 b1_<ref target="http://document__66"><hi rend="underline color(1155cc)">GrocerIST id_53</hi></ref></head><p style="text-align: justify;"><hi xml:space="preserve">Medīne-i Üsküdarda Kefere mahallesinde sākin  iken bundan akdem hālik olan bakkāl Kristic veled-i Mihal veled-i </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> nām zımmīnin verāseti zevce-i metrūkesi Kokona bt. Panayot nām nasrāniye ile sulbī oğlu Panayot nām sagīre münhasıra olduğu lede’ş-şer‘i’l-enver zāhir ve müte‘ayyen oldukdan sonra sagīr mezbūrun tesviye-i emrine vasiyy-i muhtārı olan bakkāl Dimitri nām zımmī ile mesfūre Kokona taleb ve iltimāslarıyla tereke-i hālik-i mezbūr tahrīr ve taksīm olunub vech-i ātī üzere zikr olunur. Fi’l-yevmi’l-hādi aşermin-şehri Rebīʻi’l-evvel li-sene ihdā ve ışrīnve mi’e ve elf. 1121</hi></p><p><hi rend="bold">Tencere:</hi><hi xml:space="preserve"> 1 / 120</hi></p><p><hi rend="bold">Baklava tepsisi:</hi><hi xml:space="preserve"> 1 / 120</hi></p><p><hi rend="bold">Taba:</hi><hi xml:space="preserve"> 1 / 60</hi></p><p><hi rend="bold">Leğen ve ibrik:</hi><hi xml:space="preserve"> 240</hi></p><p><hi rend="bold">Güğüm:</hi><hi xml:space="preserve"> 1 / 220</hi></p><p><hi rend="bold">Tuç sahan:</hi><hi xml:space="preserve"> 4 / 100</hi></p><p><hi rend="bold">Sagīr lenger:</hi><hi xml:space="preserve"> 2 / 300</hi></p><p><hi rend="bold">Köhne alaca:</hi><hi xml:space="preserve"> 1 / 120</hi></p><p><hi rend="bold">Diz çakşırı:</hi><hi xml:space="preserve"> 1 / 150</hi></p><p><hi rend="background(yellow)">...</hi></p><p><hi rend="bold">Kalpak ve aba çakşırı:</hi><hi xml:space="preserve"> 30</hi></p><p><hi rend="bold">Beledī yasdık:</hi><hi xml:space="preserve"> 4 / 480</hi></p><p><hi rend="bold">Çārşebli yorgan:</hi><hi xml:space="preserve"> 360</hi></p><p><hi rend="bold">Köhne sagīr minder:</hi><hi xml:space="preserve"> 40</hi></p><p><hi rend="bold">Minder:</hi><hi xml:space="preserve"> 240</hi></p><p><hi rend="bold">Alaca kilim:</hi><hi xml:space="preserve"> 240</hi></p><p><hi rend="bold">Mısır hasırı:</hi><hi xml:space="preserve"> 3 / 240</hi></p><p><hi rend="bold">Köhne alaca mak‘ad:</hi><hi xml:space="preserve"> 60</hi></p><p><hi rend="bold">Māī çuka nīmten:</hi><hi xml:space="preserve"> 300</hi></p><p><hi rend="background(yellow)">...</hi></p><p><hi rend="bold">Bal fuçısı:</hi><hi xml:space="preserve"> 2 / 100</hi></p><p><hi rend="bold">Bakkāl dükkānında olan sermāye:</hi><hi xml:space="preserve"> 16000</hi></p><p><hi rend="bold">Ālāt-ı dükkān:</hi><hi xml:space="preserve"> 4000</hi></p></div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__48.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Elhac Osman b. Halil: İSTM.ŞSC.14.d. 472 / 33b-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d. 472 / 33b-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1784-1785"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 472 / 33b-1</idno></ab>
+         </abstract>         <creation><date when="1784-1785">1199</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__48">
+                <persName>Bakkal Elhac Osman b. Halil</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>               <person role="mentioned">
+                <persName>Brother</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__6" type="district"><placeName>Kasımpaşa</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_3feqywspnwz2"/><hi rend="baseline">İSTM.ŞSC.14.d. 472 / 33b-1_</hi><ref target="http://document__48"><hi rend="baseline underline color(1155cc)">GrocerIST id_46</hi></ref></head><p style="text-align: justify;"><hi xml:space="preserve">Mahrūse-i Galataya muzāfe kasaba-i Kasımpaşada </hi><hi rend="background(yellow)" xml:space="preserve">… </hi><hi xml:space="preserve">mahallesi ahalisinden olub bu sene-i mübarekede </hi><hi rend="background(yellow)" xml:space="preserve">… ….  </hi><hi xml:space="preserve">vefāt eden bakkāl Elhac Osman b. Halilin verāseti zevce-i menkūha-i metrūkesi Hāce Fatma Hatun bt. Mehmed ve Zeyneb Hatun </hi><hi rend="background(yellow)" xml:space="preserve">… </hi><hi xml:space="preserve">sulbiye kebīre kızları Amine Ayşe ve Zeliha hatunlara ve li-ebeveyn er karındaşı İbrahim </hi><hi rend="background(yellow)" xml:space="preserve">… </hi><hi xml:space="preserve">münhasıra oldukdan sonra </hi><hi rend="background(yellow)" xml:space="preserve">… </hi><hi>tahrīr olunan tereke-i müteveffā-i mezbūrdur ki ber vech-i ātī zikr olunur. 23  Rebī ‘i’l-āhir</hi><hi style="font-size:8.5pt"> </hi><hi>1199</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Beledī döşek: </hi><hi>650</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Def‘a döşek: </hi><hi>420</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Şayak yasdık: </hi><hi>8 / 805</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Minder: </hi><hi>4 / 1340</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yemeni yorgan: </hi><hi>800</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Basma yorgan: </hi><hi>1200</hi></p><p style="text-align: justify;"><hi rend="background(yellow)">…</hi></p><p style="text-align: justify;"><hi rend="bold">Def‘a yorgan:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold">Kar keçesi:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold">Hasır:</hi><hi xml:space="preserve"> 210</hi></p><p style="text-align: justify;"><hi rend="bold">Tahta sandık:</hi><hi xml:space="preserve"> 600</hi></p><p style="text-align: justify;"><hi rend="bold">Tencere:</hi><hi xml:space="preserve"> 450</hi></p><p style="text-align: justify;"><hi rend="bold">Abdest güğümü:</hi><hi xml:space="preserve"> 180</hi></p><p style="text-align: justify;"><hi rend="bold">Tekne:</hi><hi xml:space="preserve"> 45</hi></p><p style="text-align: justify;"><hi rend="bold">Sahan (3), Güğüm (1), .. , Sini (1):</hi><hi xml:space="preserve"> 600</hi></p><p style="text-align: justify;"><hi rend="background(yellow)">…</hi></p><p style="text-align: justify;"><hi rend="bold">Vezne:</hi><hi xml:space="preserve"> 18</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…</hi></p><p style="text-align: justify;"><hi xml:space="preserve">Müteveffā-i mezbūrun .. yanında .. olub .. Elhac Hüseyin </hi><hi rend="background(yellow)">..</hi><hi xml:space="preserve"> hıfz olunan eşyādır ki ..</hi></p><p style="text-align: justify;"><hi rend="bold">Biniş:</hi><hi xml:space="preserve"> 480</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…:</hi><hi xml:space="preserve"> 189</hi></p><p style="text-align: justify;"><hi rend="bold">Şalvar:</hi><hi xml:space="preserve"> 759</hi></p><p style="text-align: justify;"><hi rend="bold">Gömlek:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold">Def‘a gömlek</hi><hi>: 348</hi></p><p style="text-align: justify;"><hi rend="bold">Don gömlek:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)" xml:space="preserve">…: </hi><hi>159</hi></p><p style="text-align: justify;"><hi rend="bold">Alaca entari:</hi><hi xml:space="preserve"> 150</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)" xml:space="preserve">.. </hi><hi rend="bold">uçkur:</hi><hi xml:space="preserve"> 2 / 150</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Vezne </hi><hi rend="bold background(yellow)">…:</hi> <hi>69</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)" xml:space="preserve">…: </hi><hi>3 / 90</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)" xml:space="preserve">…: </hi><hi>75</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…:</hi> <hi>1392</hi></p><p style="text-align: justify;"><hi rend="bold">Sarık:</hi><hi xml:space="preserve"> 330</hi></p><p style="text-align: justify;"><hi rend="bold">Yüzük:</hi><hi xml:space="preserve"> 66</hi></p><p style="text-align: justify;"><hi rend="bold">Çiçekli tob:</hi><hi xml:space="preserve"> 730</hi></p><p style="text-align: justify;"><hi rend="bold">Çiçekli tob:</hi><hi xml:space="preserve"> 1050</hi></p><p style="text-align: justify;"><hi rend="bold">Def‘a çiçekli tob:</hi><hi xml:space="preserve"> 1160</hi></p><p style="text-align: justify;"><hi rend="bold">Sarık:</hi><hi xml:space="preserve"> 1080</hi></p><p style="text-align: justify;"><hi rend="bold">Şal:</hi><hi xml:space="preserve"> 369</hi></p><p style="text-align: justify;"><hi rend="bold">Revgan:</hi><hi xml:space="preserve"> 291</hi></p><p style="text-align: justify;"><hi rend="bold">Def‘a revgan:</hi><hi xml:space="preserve"> 411</hi></p><p style="text-align: justify;"><hi rend="bold">Seccade:</hi><hi xml:space="preserve"> 54</hi></p><p style="text-align: justify;"><hi rend="bold">Def‘a seccade:</hi><hi xml:space="preserve"> 3 / 123</hi></p><p style="text-align: justify;"><hi rend="bold">Sandal seccade:</hi><hi xml:space="preserve"> 2 / 45</hi></p><p style="text-align: justify;"><hi rend="bold">Seccade:</hi><hi xml:space="preserve"> 2 / 45</hi></p></div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__10.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Yorgi v. Dimitri: İSTM.ŞSC.14.d.222 / 45a-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.222 / 45a-2</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1713-1714"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.222 / 45a-2</idno></ab>
+         </abstract>         <creation><date when="1713-1714">1125</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__10">
+                <persName>Yorgi v. Dimitri</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__15" type="neighbourhood"><placeName>Sultan Bayezıd </placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__12">Pea</term><term xml:id="goods__15">Rice</term><term xml:id="goods__19">Kızıl</term><term xml:id="goods__20">Siyah</term><term xml:id="goods__25">Honey</term><term xml:id="goods__27">Starch</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__115">Zenbil</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__128">Flat tray</term><term xml:id="goods__129">Çömlek</term><term xml:id="goods__132">Mizan</term><term xml:id="goods__139">Basket</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_1mk9mnqf52eh"/><hi rend="baseline">İSTM.ŞSC.14.d.222 / 45a-2_</hi><ref target="http://document__10"><hi rend="baseline underline color(1155cc)">GrocerIST id_10</hi></ref></head><p style="text-align: justify;"><hi>Mahrūse-i Galata Sultān Bāyezid mahallesinde bakkāl olduğu halde bundan akdem gaybet-i münkatı‘a ile gāib olub hayāt ve memātı nāma’lūm olan Yorgi veled-i Dimitri nām zımmīnin müste’cir olduğu bakkāl dükkānı bā-fermān-ı āli ma’rifet-i şer-i şerīf feth ve derūnunda olan eşyāsı tahrīr olunub dükkān-ı mezbūr sahibine teslīm ve eşyāsı mahrūse-i mezbūre ve tevābi‘nden beytülmāl āmme ve hāssa ve māl-ı gāib ve māl-ı mefkūd</hi> <hi style="font-size:8.5pt"> </hi><hi>kabzına bā-hatt-ı hümāyūn-ı şevket-makrūn memūr olan fahrü’l-eşbāh Elhac Mustafa Ağa tarafından umūr-ı beytülmālı rü’yete vekīl-i müsecceli olan Abdullāh Çelebi talebiyle eşyā ve müstemlekeden olmağla semen-i misilleri ile semenleri gāib-i mezbūrun zuhūruna değil hıfz olunmak üzere emīn-i mezbūrlarına vaz‘ olunduğu eşyā defteridir ki vech-i ātī üzere zikr olunur.</hi>  </p><p style="text-align: justify;"><hi xml:space="preserve">Hurrira fī 20 </hi><hi rend="background(yellow)" xml:space="preserve">… </hi><hi>25</hi></p><p style="text-align: justify;"><hi rend="bold">Sāde yağ:</hi><hi xml:space="preserve"> Fī 25 / Kıyye 64 / Kıymet 1600</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Pirinç: </hi><hi>Fī 6 / Kıyye 32 / Kıymet 192</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kızıl üzüm: </hi><hi>Fī 10 / Kıyye 20 / Kıymet 200</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Siyāh üzüm: </hi><hi>Fī 4 / Kıyye 50 / Kıymet 200</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Nişasta: </hi><hi>Fī 10 / Kıyye 8 / Kıymet 80</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Zeyt yağı: </hi><hi>Fī 20 / Kıyye 25 / Kıymet 500</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Böğrülce: </hi><hi>Fī 6 / Kıyye 10 / Kıymet 60</hi></p><p style="text-align: justify;"><anchor xml:id="xmlid__heading_h_30j0zll"/><hi rend="bold" xml:space="preserve">Bal: </hi><hi>Fī 12 / Kıyye 10 / Kıymet 120</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne fuçı ve varil: </hi><hi>12 / Kıymet 120</hi></p><p style="text-align: justify;"><hi rend="bold">Tencere:</hi><hi xml:space="preserve"> 1 / Kıymet 90</hi></p><p style="text-align: justify;"><hi rend="bold">Atik mīzān (2) ma dirhem ve kantar (3):</hi><hi xml:space="preserve"> Kıymet 300</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sandık ve köhne aba ve kebe: </hi><hi xml:space="preserve">Kıymet 178 </hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çömlek ve zenbil ve sepet ve tabla ve hırdavat vesāir: </hi><hi>Kıymet 360</hi></p></div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__83.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Konstantin v. Horosu: İSTM.ŞSC.06.d.495 / 68a-2 (a)</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d.495 / 68a-2 (a)</idno>
+                    </msIdentifier>
+                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.495 / 68a-2 (a)</idno></ab>
+         </abstract>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__113">
+                <persName>Bakkal Konstantin v. Horosu</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Father</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>               <person role="mentioned">
+                <persName>Fetus</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__84" type="neighbourhood"><placeName>Selami</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 495 / 68a-2_<ref target="http://document__83"><hi rend="underline color(1155cc)">GrocerIST id_70</hi></ref></head><p style="text-align: justify;"><hi xml:space="preserve">Medīne-i Üsküdarda Yeni mahallede mütemekkin iken bundan hālik olan bakkāl Konstantin veled-i Horosu veled-i Panayot zımmīnin verāseti zevce-i metrūkesi Arogalya bt. Konstantin nām nasrāniye ile babası merkūm Horosu zımmīye ve sulbī sagīr oğulları Tohari ve Yanaki ve Dimitri ve sulbiye sagīre kızı kızıl Maryota ve zevce-i mezbūrenin batnında zahir hamle olmağla cümle mezkūra inhisār tahakkukundan sonra sagīrān-ı merkūmun tesviye-i emrlerine ve cümle mezkur </hi><hi rend="background(yellow)">...</hi><seg xml:space="preserve">  </seg><hi rend="background(yellow)">...</hi><hi xml:space="preserve"> olunan hisseli ahz ü kabz ve hıfza kıbel-i şeri şerifden vasi nasb ve ta’yīn olunan zevce-i mersūme Arogalya nasrāniye ile merkūm Horosu zımmīnin taleb ve iltimāslarıyla hālik merkūmun tahrīr  olunan terekesi defteridir ki ber vech-i ātī zikr olunur. </hi></p><p style="text-align: justify;"><hi xml:space="preserve">Fi’l-yevmi’r-rābi‘ min Cumāde’l-āhire sene </hi><hi rend="background(yellow)">... ...</hi><hi xml:space="preserve"> ve miete ve elf.</hi></p><p><hi>Hālik merkūmun Selami mahallesinde Elhac Hasan dükkānı demekle ma’rūf bakkāl dükkānı derūnunda mevcūd gedik ta’bīr olunur  ālāt-ı lāzimenin yüz yirmi sehm i‘tibārıyla kırk dört sehm hissesinin kıymeti: 24000</hi></p><p><hi>Mezkūr derūnunda mevcūd mūceb-i defter-i müfredāt-ı ecnās-ı zehāirin kıymeti: 24086</hi></p><p><hi>Hālik merkūmun Dorbalı (Torbalı) mahallesinde Bostani Mehmed dükkānı demekle ma’rūf bakkāl dükkānı derūnunda ber muceb-i defter-i  müfredāt ālāt-ı lāzımenin kıymeti: 56000</hi></p><p><hi>Hālik merkūmun Bostani Mehmed dükkānında olan sermāyesi: Meblağ 6000</hi></p><p><hi>Hālik merkūmun dükkānı mezkūrede olan ālāt-ı lāzıme ücreti: 1200</hi></p><p><hi xml:space="preserve">Hālik merkūmun </hi><hi rend="background(yellow)">...</hi><hi xml:space="preserve"> Selami mahallesinde kahveci dükkānı ālātı ve ücret-i ālāt: 3750</hi></p><p><hi>Hālik merkūmun zımmem-i nesbde olan alacağı: 4000</hi></p><p><hi>Hālik merkūmun menzilinde olan eşyāsı alaca döşek: 330</hi></p><p><hi rend="bold">Yasdık:</hi><hi xml:space="preserve"> 1 / 90</hi></p><p><hi rend="bold">Yorgan ma çārşeb:</hi><hi xml:space="preserve"> 660</hi></p><p><hi rend="bold">Peştemal:</hi><hi xml:space="preserve"> 2 / 110</hi></p><p><hi rend="bold">Bor kebesi:</hi><hi xml:space="preserve"> 960</hi></p><p><hi rend="bold">Çuka biniş:</hi><hi xml:space="preserve"> 960</hi></p><p><hi rend="bold">Dizlik:</hi><hi xml:space="preserve"> 240</hi></p><p><hi rend="bold">Gömlek:</hi><hi xml:space="preserve"> 2 / 360</hi></p><p><hi rend="bold">Çuka biniş:</hi><hi xml:space="preserve"> 180</hi></p><p><hi rend="bold">Yelek ve kuşak:</hi><hi xml:space="preserve"> 240</hi></p><p><hi rend="bold">Kuzu kürk:</hi><hi xml:space="preserve"> 360</hi></p><p><hi rend="bold">Kalpak:</hi><hi xml:space="preserve"> 1 / 90</hi></p><p><hi rend="bold">Şamdan:</hi><hi xml:space="preserve"> 2 / 60</hi></p><p><hi rend="bold">Sahan (8), İbrik (2), Taba (1) Tencere (1), Tas (1), Maşraba (1):</hi><hi xml:space="preserve"> 600</hi></p><p><hi rend="bold">Minder (1), Yasdık ( 2), Çārşeb:</hi><hi xml:space="preserve"> 600</hi></p><p><hi rend="bold">Çubuk:</hi><hi xml:space="preserve"> 2 / 120</hi></p><p><hi rend="bold">Sepet sandık:</hi><hi xml:space="preserve"> 120</hi></p></div>
+        </body>
+    </text>
+</TEI>

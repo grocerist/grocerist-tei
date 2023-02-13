@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__75.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Konstantin v. Hristodoli: İSTM.ŞSC.06.d. 443 / 11a-1 (a)</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 443 / 11a-1 (a)</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1755-1756"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 443 / 11a-1 (a)</idno></ab>
+         </abstract>         <creation><date when="1755-1756">1169</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__75">
+                <persName>Bakkal Konstantin v. Hristodoli</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Mother</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__15">Rice</term><term xml:id="goods__25">Honey</term><term xml:id="goods__29">Onion</term><term xml:id="goods__121">Jug</term><term xml:id="goods__122">Mug</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 443 / 11a-1_<ref target="http://document__75"><hi rend="underline color(1155cc)">GrocerIST id_62</hi></ref></head><p style="text-align: justify;"><hi xml:space="preserve">Medīne-i Üsküdarda Yani Camii karyesinde mütemekkinlerinden iken bundan akdem hālik olan bakkāl Konstantin veled-i Hristodoli nām zımmīnin verāseti zevce-i metrūkesi Peraşkova bint Laskari ve anası Zenbula bt. Yanaki ve sagīr evlādları Yorgaki ve Dimitraki </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> nām sagīrlere münhasıra olduğu tahakkukundan sonra sīgar-ı mezbūrun anaları ve tesviye-i emrlerine vasī mansūbları olan merkūme Peraşkova ve mersūme Zenbula taleb ve iltimāslarıyla hālik mesfūrun tahrīr ve tahmīn-i sahīh ile takvīm olunan tereke defteridir ki ber vech-i ātī zikr olunur. Fī  9 Zilka‘deti’ş-şerīfe 169</hi></p><p style="text-align: justify;"><hi rend="bold">Māī keremsud sincab kürk:</hi><hi xml:space="preserve"> 1200</hi></p><p style="text-align: justify;"><hi rend="bold">Cedīd çuka biniş:</hi><hi xml:space="preserve"> 1200</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne çilkafa kürk:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne çuka dolama:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne celayī:</hi><hi xml:space="preserve"> 30</hi></p><p style="text-align: justify;"><hi rend="bold">Def‘a māī celayī:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne çakşır:</hi><hi xml:space="preserve"> 60</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne don gömlek: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yelek don: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Def‘a don: </hi><hi>60</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne entari: </hi><hi>160</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Def‘a köhne entari: </hi><hi>180</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuka nīmten: </hi><hi>150</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Māī celāyī: </hi><hi>90</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne biniş: </hi><hi>300</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Uçkur: </hi><hi>30</hi></p><p style="text-align: justify;"><hi rend="bold">Sagīr sini:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold">Tencere:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold">Sahan:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold">Yemeni yasdık:</hi><hi xml:space="preserve"> 480</hi></p><p style="text-align: justify;"><hi rend="bold">Minder:</hi><hi xml:space="preserve"> 3 / 720</hi></p><p style="text-align: justify;"><hi rend="bold">Yemeni yorgan:</hi><hi xml:space="preserve"> 720</hi></p><p style="text-align: justify;"><hi rend="bold">Döşek:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold">Kilim:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold">Kebe:</hi><hi xml:space="preserve"> 60</hi></p><p style="text-align: justify;"><hi rend="bold">Baş yasdığı:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold">Kazgan:</hi><hi xml:space="preserve"> 840</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kalpak: </hi><hi>240</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Hasır: </hi><hi>240</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Arak: </hi><hi>Fī 15 / Kıyye 200 / 3000</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Hamr: </hi><hi>Fī 6 / Kıyye 1750 / 10500</hi></p><p><hi xml:space="preserve">Hālik mesfūrun karye-i mezbūredeki bakkāl dükkānında ecnās-ı zehāir: </hi></p><p><hi rend="bold">Pirinç</hi><hi>: Kıymet 480</hi></p><p><hi rend="bold background(red)" xml:space="preserve">Peynir-i kaşkaval: </hi><hi rend="background(red)">Fī 24 / Kıyye 20 / Kıymet 720</hi></p><p><hi rend="bold" xml:space="preserve">Tulum peyniri: </hi><hi>Fī 24 / Kıyye 25 / Kıymet 600</hi></p><p><hi rend="bold" xml:space="preserve">Kebīr bakkāl dükkānında desti ve bardak ve </hi><hi rend="bold background(yellow)">...</hi><hi rend="bold" xml:space="preserve"> : 3600</hi></p><p><hi rend="bold">Revgan-ı sāde:</hi><hi xml:space="preserve"> Fī 40 / Kıyye 100 / Kıymet 400</hi></p><p><hi rend="bold">Asel:</hi><hi xml:space="preserve"> Fī 24 / Kıyye 20 / Kıymet 480</hi></p><p><hi rend="bold" xml:space="preserve">Soğan: </hi><hi>Kıyye 5 / Kıymet 120</hi></p><p><hi>Hālik merkūmun karye-i mezbūrede sagīr bakkāl dükkānında ber mūceb-i defter-i müfredāt: 5000</hi></p><p><hi>Hālik merkūmun karye-i mezbūrede vāki‘ mülk menzili ve tahtında bakkāl dükkānı: Meblağ 144000</hi></p></div>
+        </body>
+    </text>
+</TEI>

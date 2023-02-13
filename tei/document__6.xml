@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__6.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Yorgi: İSTM.ŞSC.14.d.212/ 29a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.212/ 29a-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1711-1712"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.212/ 29a-1</idno></ab>
+         </abstract>         <creation><date when="1711-1712">1123</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__6">
+                <persName>Bakkal Yorgi</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__5" type="district"><placeName>Galata Harici</placeName></place><place xml:id="neighbourhood__9" type="neighbourhood"><placeName>Hasan Ağa </placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__5">Olive Oil</term><term xml:id="goods__12">Pea</term><term xml:id="goods__24">Nardenk</term><term xml:id="goods__25">Honey</term><term xml:id="goods__27">Starch</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__30">Salt</term><term xml:id="goods__34">Olive</term><term xml:id="goods__46">Barley</term><term xml:id="goods__108">Soap</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__130">Jar</term><term xml:id="goods__159">Çorlu molasses</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_k4jp5hjl1i7y"/><hi rend="baseline">İSTM.ŞSC.14.d.212/ 29a-1_</hi><ref target="http://document__6"><hi rend="baseline underline color(1155cc)">GrocerIST id_6</hi></ref></head><p style="text-align: justify;"><hi>Mahrūse-i Galata hāricinde Hasan Ağa mahallesinde mütemekkin iken hālik olan Bakkāl Yorgi nām zımmīnin zāhirde vāris-i ma‘rūfu olmamağla mecmū‘ terekesi cānib-i beytülmāla āid olmağın mahrūse-i mezbūrede beytülmāl emīni olan fahrü’l-akrān Ali ibn-i Ahmed tarafından umūr-ı beytülmālı rü’yete</hi>  <hi style="font-size:8.5pt"> </hi><hi>vekīl-i müsecceli olan Abdullāh talebiyle hālik mezbūrun tahrīr olunan muhallefātı defteridir ki vech-i ātī üzere zikr olunur. Fī 2 Şaban 1123</hi></p><p style="text-align: justify;"><hi rend="bold">Sirke:</hi><hi xml:space="preserve"> Fī 1.5 / Dirhem 50 / Kıymet 180</hi></p><p style="text-align: justify;"><hi rend="bold">Nişasta:</hi><hi xml:space="preserve"> Fī 6 / Kıyye 35 / Kıymet 210</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Zeytūn: </hi><hi>Fī 3 / Kıyye 30 / Kıymet 90</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Arpa: </hi><hi>Fī 30 / Keyl 4 / Kıymet 120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tuz: </hi><hi>Fī 6 / Kıyye 10 / Kıymet 60</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Nardenk: </hi><hi>Fī 4 / Kıyye 15 / Kıymet 60</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çorlu pekmezi: </hi><hi>Fī 18 / Kıyye 23 / Kıymet 414</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Asel: </hi><hi>Fī 10 / Kıyye 40 / Kıymet 400</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sabun: </hi><hi>Fī 18 / Kıyye 59 / Kıymet 1062</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Zeyt yağı: </hi><hi>Fī 18 / Kıyye 30 / Kıymet 540</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Böğrülce: </hi><hi>Fī 3 / Kıyye 15 / Kıymet 45</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kavanozlar: </hi><hi>Kıymet 300</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Bakkāl ālātı hırdavat: </hi><hi>Kıymet 200</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sagīr kantar: </hi><hi>Kıymet 30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Dirhemler: </hi><hi>Kıymet 120</hi></p><p style="text-align: justify;"><hi rend="bold">Yanbolu kebesi:</hi><hi xml:space="preserve"> 1 / Kıymet 120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kepenek: </hi><hi>1 / Kıymet 80</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sagīr leğen ve taş ve kapak: </hi><hi>Kıymet 150</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Hırdavat: </hi><hi>Kıymet 30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Beher dirhem: </hi><hi>Kıymet 30</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">Post kürk:</hi> <hi>120</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">Mikab:</hi> <hi>170</hi></p></div>
+        </body>
+    </text>
+</TEI>

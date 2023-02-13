@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__36.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Ahmed Beşe b. Hasan: İSTM.ŞSC.14.d.355 / 47b-3</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.355 / 47b-3</idno>
+                    </msIdentifier>
+                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.355 / 47b-3</idno></ab>
+         </abstract>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__36">
+                <persName>Bakkal Ahmed Beşe b. Hasan</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>               <person role="mentioned">
+                <persName>Sister</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__74" type="neighbourhood"><placeName>Kemankeş Kara Mustafa Paşa</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__12">Pea</term><term xml:id="goods__13">Chickpea</term><term xml:id="goods__15">Rice</term><term xml:id="goods__20">Siyah</term><term xml:id="goods__21">Figs</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__27">Starch</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__34">Olive</term><term xml:id="goods__36">Vermicelli</term><term xml:id="goods__45">Bulgur</term><term xml:id="goods__53">Flour</term><term xml:id="goods__91">Akdeniz honey</term><term xml:id="goods__96">Pestil</term><term xml:id="goods__108">Soap</term><term xml:id="goods__158">Candle wax</term><term xml:id="goods__172">İzmir soap</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_3dy6vkm"/><hi rend="baseline">İSTM.ŞSC.14.d.355 / 47b-3</hi>_<ref target="http://document__36"><hi rend="baseline underline color(1155cc)">GrocerIST id_36</hi></ref></head><p style="text-align: justify;"><hi>Mahrūse-i Galata Kemankeş Kara Mustafa Paşa mahallesinde sākin iken bundan akdem vefāt eden bakkāl Ahmed Beşe b. Hüseyin b. Mehmedin verāseti zevcesi Zenciye Zeyneb Hatun bt. Abdullāh ve sulbiye sagīre kızları Saliha ve Fatmaya ve vatan-ı aslīsi olan ... li-ebeveyn kız karındaşı Fatma hatun nām gāibeye münhasıra olduğu şer’an zāhir oldukdan sonra mahrūse-i mezbūre ve tevābi‘nde voyvoda ve beytülmāl āmme hāssa emīni fahrü’l-eşbāh Elhac Süleyman Ağa b. Alinin umūr-ı beytülmāl ve māl-ı gāibi zabta vekīl-i müsecceli Elhac Hüseyin b. Mehmed Ağaya mezbūrun tereke-i müteveffāsı mezbūrdur ki zikr ati hususuna vasi badel terekeden sonra mezbūr Zenciye Zeyneb hatunun müteveffā-i mezbīrdur ki ………………. sagirtān mezbūrtānın tesviye-i emrlerine … gāib-i mezbūranın … zabt ve hıfz ve mukarrer olduğu . gaybet olunan hüccet-i şeri … elhac hüseyin ……</hi> </p><p style="text-align: justify;"><hi rend="bold">Res kebesi:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold">Dizlik zıbun:</hi><hi xml:space="preserve"> 90</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">..</hi></p><p style="text-align: justify;"><hi rend="bold">Kuşak:</hi><hi xml:space="preserve"> 24</hi></p><p style="text-align: justify;"><hi xml:space="preserve">Müteveffā-i mezbūrun bakkāl dükkānında </hi><hi rend="background(yellow)" xml:space="preserve">.. </hi><hi xml:space="preserve">zuhūr eden nakd </hi><hi rend="background(yellow)" xml:space="preserve">… </hi><hi>akçe: 4370</hi></p><p style="text-align: justify;"><hi>Mahalle-i mezkurede vāki‘ sabuncu dükkānında müteveffā-i mezbūrun gedik ta’bīr olunur nısf-ı hissesi: 4800</hi></p><p style="text-align: justify;"><hi>Mahall-i mezkurede vāki‘ bakkāl dükkānında müteveffā-i mezbūrenin .. eşyādan nısf-ı hissesi: 42000</hi></p><p style="text-align: justify;"><hi xml:space="preserve">Zikr olunan bakkāl dükkānında zuhūr eden zehāir: </hi></p><p style="text-align: justify;"><hi rend="bold">Pirinç:</hi><hi xml:space="preserve"> Fī 13 / Kıyye 260 / Kıymet 3471</hi></p><p style="text-align: justify;"><hi rend="bold">Bulgur:</hi><hi xml:space="preserve"> Fī 6 / Kıyye 62 / Kıymet 372</hi></p><p style="text-align: justify;"><hi rend="bold">Şa’riye:</hi><hi xml:space="preserve"> Fī 20 / Kıyye 19 / Kıymet 380</hi></p><p style="text-align: justify;"><hi rend="bold">Sabun:</hi><hi xml:space="preserve"> Fī 34 / Kıyye 5 / Dirhem 500/ Kıymet 179</hi></p><p style="text-align: justify;"><hi rend="bold">Zeytun:</hi><hi xml:space="preserve"> Fī 9 / Kıyye 21 / Kıymet 189</hi></p><p style="text-align: justify;"><hi rend="bold">Nohud:</hi><hi xml:space="preserve"> Fī 7 / Kıyye 17 / Kıymet 130</hi></p><p style="text-align: justify;"><hi rend="bold">Siyāh üzüm:</hi><hi xml:space="preserve"> Fī 10 / Kıyye 14 / Kıymet 140</hi></p><p style="text-align: justify;"><hi rend="bold background(red)">Pestil:</hi><hi rend="background(red)" xml:space="preserve"> Fī 4 / Kıyye 30 / Kıymet 42</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">?</hi><hi rend="bold" xml:space="preserve"> :</hi><hi xml:space="preserve"> Fī 6 / Kıyye 27 / Kıymet 162</hi></p><p style="text-align: justify;"><hi rend="bold">Böğrülce:</hi><hi xml:space="preserve"> Fī 7 / Kıyye 189 / Kıymet 1323</hi></p><p style="text-align: justify;"><hi rend="bold">Kaşkaval:</hi><hi xml:space="preserve"> Fī 18 / Kıyye 10 / Kıymet 180</hi></p><p style="text-align: justify;"><hi rend="bold">Dakik:</hi><hi xml:space="preserve"> Fī 7 / Kıyye 6 / Kıymet 42</hi></p><p style="text-align: justify;"><hi rend="bold">Revganı sade:</hi><hi xml:space="preserve"> Fī 53 / Kıyye 15 / Kıymet 795</hi></p><p style="text-align: justify;"><hi rend="bold">Revganı sade fuçı:</hi><hi xml:space="preserve"> Fī 40 / Kıyye 25 / Kıymet 1020</hi></p><p style="text-align: justify;"><hi rend="bold">Pekmez:</hi><hi xml:space="preserve"> Fī 12 / Kıyye 60 / Kıymet 720</hi></p><p style="text-align: justify;"><hi rend="bold">İncir:</hi><hi xml:space="preserve"> Kıymet 75</hi></p><p style="text-align: justify;"><hi rend="bold">Akdeniz balı:</hi><hi xml:space="preserve"> Kıymet 900</hi></p><p style="text-align: justify;"><hi rend="bold">İzmir sabunu:</hi><hi xml:space="preserve"> Kıymet 180</hi></p><p style="text-align: justify;"><hi rend="bold background(red)">Revgan-ı zeyt:</hi><hi rend="background(red)" xml:space="preserve"> Fī 34 / Kıyye 110 / Kıymet 7560</hi></p><p style="text-align: justify;"><hi rend="bold">Revgan-ı şem:</hi><hi xml:space="preserve"> Fī 41 / Kıyye 21 / Kıymet 861</hi></p><p style="text-align: justify;"><hi rend="bold background(red)">Sirke:</hi><hi rend="background(red)" xml:space="preserve"> Fī 3.5 / Kıyye 200 / Kıymet 1050</hi></p><p style="text-align: justify;"><hi rend="bold background(red)">Fındık:</hi><hi rend="background(red)" xml:space="preserve"> Fī 14 / Kıyye 165 / Kıymet 1310</hi></p><p style="text-align: justify;"><hi rend="bold">Nişasta:</hi><hi xml:space="preserve"> Fī 14 / Kıyye 43 / Kıymet 602</hi></p></div>
+        </body>
+    </text>
+</TEI>

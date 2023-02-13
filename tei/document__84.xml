@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__84.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Panço v. Dimitri: İSTM.ŞSC.06.d. 501 / 22b-3</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 501 / 22b-3</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1778-1779"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 501 / 22b-3</idno></ab>
+         </abstract>         <creation><date when="1778-1779">1192</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__114">
+                <persName>Bakkal Panço v. Dimitri</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__4">Walnut</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__13">Chickpea</term><term xml:id="goods__15">Rice</term><term xml:id="goods__18">Razaki</term><term xml:id="goods__20">Siyah</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__24">Nardenk</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__31">Garlic</term><term xml:id="goods__45">Bulgur</term><term xml:id="goods__64">Smashed salt</term><term xml:id="goods__175">Chestnut</term><term xml:id="goods__204">Broom</term><term xml:id="goods__234">Çanak</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 501 / 22b-3_<ref target="http://document__84"><hi rend="underline color(1155cc)">GrocerIST id_71</hi></ref></head><p style="text-align: justify;"><hi>Medīne-i Üsküdara tābi‘ Hünkār karyesinde vāki‘ Panço veled-i Dimitri dükkānında bakkāl olan Panko nām zımmī gaybet-i münkatı‘a  ile gāib ve hayāt ve memātı malūm olmayub mefkūd olmağla mefkūd merkūmun emvāl ve eşyāsını hıfza kıbel-i şer‘den vasī kayyım nasb olunan merkūm Panço zımmīnin taleb ve iltimāsıyla bakkāl ustaları ma‘rifetiyle  tahrīr  olunan eşyāsı defteridir ki ber vech-i ātī zikr olunur. Fī 20 Recebi’l-ferd 1192</hi> </p><p><hi rend="bold">Pirinç:</hi><hi xml:space="preserve"> Kıyye 19 / Kıymet 428</hi></p><p><hi rend="bold">Nohud:</hi><hi xml:space="preserve"> Kıyye 7 / Kıymet 70</hi></p><p><hi rend="bold">Bulgur:</hi><hi xml:space="preserve"> Kıyye 3.5 / Kıymet 63</hi></p><p><hi rend="bold">Sarımsak:</hi><hi xml:space="preserve"> Kıyye 3 / Kıymet 36</hi></p><p><hi rend="bold">Siyāh üzüm:</hi><hi xml:space="preserve"> Kıyye 4 / Kıymet 64</hi> </p><p><hi rend="bold">Soğan:</hi><hi xml:space="preserve"> Kıyye 12 / Kıymet 48</hi></p><p><hi rend="bold">Razaki üzüm:</hi><hi xml:space="preserve"> Kıyye 2 / Kıymet 48</hi></p><p><hi rend="bold">Fındık:</hi><hi xml:space="preserve"> Kıyye 2.5 / Kıymet 40</hi></p><p><hi rend="bold">Ceviz:</hi><hi xml:space="preserve"> Aded 300 / Kıymet 30</hi></p><p><hi rend="bold">Kestane:</hi><hi xml:space="preserve"> Kıyye 67 / Kıymet 24 </hi></p><p><hi rend="bold">Dövülmüş tuz:</hi><hi xml:space="preserve"> Kıyye 35 / Kıymet 140</hi> </p><p><hi rend="bold">Nardenk:</hi><hi xml:space="preserve"> Kıyye 17 / Kıymet 204</hi></p><p><hi rend="bold">Pekmez:</hi><hi xml:space="preserve"> Kıyye 30 / Kıymet 480</hi></p><p><hi rend="bold">Sirke:</hi><hi xml:space="preserve"> Kıyye 20 / Kıymet 100</hi></p><p><hi rend="bold">Zeyt yağı:</hi><hi xml:space="preserve"> Kıyye 13.5 / Kıymet 607</hi></p><p><hi rend="bold">Süpürge ve çanak ve hırdavat:</hi><hi xml:space="preserve"> Kıymet 1194</hi></p></div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__12.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Dimitri v. Hristo: İSTM.ŞSC.14.d.237 / 16a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.237 / 16a-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1715-1716"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.237 / 16a-1</idno></ab>
+         </abstract>         <creation><date when="1715-1716">1128</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__12">
+                <persName>Bakkal Dimitri v. Hristo</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Fetus</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__14" type="district"><placeName>Karaköy Kapısı harici</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__5">Olive Oil</term><term xml:id="goods__15">Rice</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__30">Salt</term><term xml:id="goods__31">Garlic</term><term xml:id="goods__61">Trilye olives</term><term xml:id="goods__112">Candle</term><term xml:id="goods__130">Jar</term><term xml:id="goods__168">Yağ tulumu</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_b9arrmn8xhj2"/><hi rend="bold baseline">İSTM.ŞSC.14.d.237 / 16a-1</hi><hi rend="baseline">_</hi><ref target="http://document__12"><hi rend="bold baseline underline color(1155cc)">GrocerIST id_12</hi></ref></head><p style="text-align: justify;"><anchor xml:id="xmlid__heading_h_1fob9te"/><hi>Mahrūse-i Galata’da Sultān Bayezid mahallesinde mütemekkin iken bundan akdem hālik olan bakkāl Dimitri veled-i Hristo veled-i Nikola nām zımmīnin verāseti zevce-i metrūkesi Marya bt. Yorgaki nam nasrāniyeye ve batn-ı vāhidde mevcūd ve mütehakkık cümle münhasıra olduğu zāhir oldukdan sonra hālik mezbūrun hāmili hamli mezbūr zevcesi merkūme Marya ma‘rifetiyle tahrīr olunan muhallefāt-ı defteridir ki vech-i ātī üzere zikr olunur. Hurrira evāsıt Şevvāli’l-mükerrem 128</hi></p><list rend="numbered"><item><hi rend="normalweight baseline">Menzilindeki eşyādır:</hi></item></list><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Trilye zeytūnu: </hi><hi>Fī 6 / Kıyye 310 / Kıymet 1860</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kere Trilye zeytūnu: </hi><hi>Fī 3 / Kıyye 150 / Kıymet 450</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Zeyt yağı: </hi><hi>Fī 11 / Kıyye 25 / Kıymet 275</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Revgan-ı zeyt: </hi><hi>Fī 24 / Kıyye 100 / Kıymet 2400</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Pirinç: </hi><hi>Keyl 2 / Kıymet 160</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tuz: </hi><hi>Keyl 3 / Kıymet 80</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sirke bir mikdār : </hi><hi>Kıymet 100</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Mum ve sarımsak: </hi><hi>Kıymet 120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Zeyt yağı tulumu: </hi><hi>Aded 40 / Kıymet 800</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kavanozlar: </hi><hi>Kıymet 200</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Nakid meblağ: </hi><hi>Kıymet 420</hi></p><p><hi rend="bold">Ālāt-ı bakkāl</hi><hi rend="bold background(yellow)">…</hi><hi rend="bold" xml:space="preserve">tecemmülāt-ı mütenevvi’a: </hi><hi>Kıymet 500</hi></p><list rend="numbered"><item><hi rend="normalweight baseline">Karaköy kapısı hāricinde dükkāndaki eşyā</hi></item></list><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Trilye zeytūnu: </hi><hi>Fī 6 / Kıyye 730 / Kıymet 4380</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Karamürsel zeytūnu: </hi><hi>Fī 3 / Kıyye 565 / Kıymet 1695</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sintine yağı: </hi><hi>Fī 11 / Kıyye 190 / Kıymet 2090</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Revgan-ı zeyt: </hi><hi>Fī 24 / Kıyye 360 / Kıymet 8640</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Revgan-ı sāde: </hi><hi>Fī 36 / Kıyye 30 / Kıymet 1080</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Pirinç: </hi><hi>Keyl 2 / Kıymet 160</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Zeyt yağı tulumu: </hi><hi>Aded 52 / Kıymet 1040</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kavanozlar: </hi><hi>Kıymet 500</hi></p></div>
+        </body>
+    </text>
+</TEI>

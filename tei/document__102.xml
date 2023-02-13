@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__102.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Tanaş v. Niko: İSTM.ŞSC.15.d. 230 / 69a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.15.d. 230 / 69a-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1774-1775"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 230 / 69a-1</idno></ab>
+         </abstract>         <creation><date when="1774-1775">1188</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__104">
+                <persName>Tanaş v. Niko</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__12">Pea</term><term xml:id="goods__15">Rice</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__46">Barley</term><term xml:id="goods__49">Sausage</term><term xml:id="goods__57">Pastrami</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__137">Trivet</term><term xml:id="goods__146">Wood</term><term xml:id="goods__155">Broad bean</term><term xml:id="goods__206">Temür hurdası</term><term xml:id="goods__226">Arak</term><term xml:id="goods__227">Ham sirke</term><term xml:id="goods__229">Tabak</term><term xml:id="goods__230">Saman</term><term xml:id="goods__285">Sofra</term><term xml:id="goods__303">Şamdan</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 230 / 69a-1_<ref target="http://document__102"><hi rend="underline color(1155cc)">GrocerIST id_84</hi></ref></head><p style="text-align: justify;"><hi>Havāss-ı refî‘a kazāsına tābi‘ Terkos? karyesinde vāki‘ orta dükkān demekle ma‘rūf bakkāl dükkānının müsteciri iken bundan akdem hālik olan Tanaş veled-i Niko zımmīnin zāhirde vāris-i ma‘rūfesi olmayub terekesi cānib-i beytülmāle āid ve rāci‘ olmağla karye-i mezbūrede  bilā-vāris-i ma‘rūf ve ma‘rūfe fevt olanların beytülmālını kabza memūr olan vergi? kalem-i mültezimi lan Uzerli Mustafa Ağa b. [] tarafından müseccel vekīlleri olan Nurullah Efendi b. Elhac Mustafa ve Bostani Esseyid İbrahim b. Esseyid Halil nām kimesneler taleb ve ma‘rifetleriyle tahrīr olunan hālik mesfūrun terekesi defteridir ki ber vech-i ātī zikr olunur.  Fi’l-yevmi’l-hāmis aşer min Zilhicceti’ş-şerīfe</hi><hi style="font-size:8.5pt"> </hi><hi>sene semān ve semānin ve mie ve elf. 1188</hi></p><p><hi rend="bold" xml:space="preserve">Tahta sofra ma hasır : </hi><hi>300</hi></p><p><hi rend="bold" xml:space="preserve">Tabaklar: </hi><hi>300</hi></p><p><hi rend="bold" xml:space="preserve">Temür sacayak: </hi><hi>600</hi></p><p><hi rend="bold" xml:space="preserve">Minder ma yasdık: </hi><hi>300</hi></p><p><hi rend="bold" xml:space="preserve">Köhne entari ma dizlik ma don ma kuzu kürkü ma kalpak ve fes: </hi><hi>360</hi></p><p><hi rend="bold" xml:space="preserve">Hırdavat: </hi><hi>300</hi></p><p><hi rend="bold" xml:space="preserve">Def’a hırdavat: </hi><hi>760</hi></p><p><hi rend="bold" xml:space="preserve">Def’a hasır ma hurda temür vesāir ālāt: </hi><hi>360</hi></p><p><hi rend="bold" xml:space="preserve">Şamdan ma tabak ma tulum: </hi><hi>300</hi></p><p><hi rend="bold" xml:space="preserve">Evānī-ı nuhās: </hi><hi>216</hi></p><p><hi rend="bold" xml:space="preserve">Def‘a tahta sofra ma köhne yasdık ma kebe: </hi><hi>300</hi></p><p><hi rend="bold" xml:space="preserve">Bir mikdār saman: </hi><hi>360</hi></p><p><hi rend="bold" xml:space="preserve">Bir mikdār hatab: </hi><hi>300</hi></p><p><hi rend="bold" xml:space="preserve">Caba (2) ma bel (1) ma değirmen ma eğer ma keçi derisi (4) : </hi><hi>300</hi></p><p><hi rend="bold" xml:space="preserve">Sagīr fuçı: </hi><hi>5 / 300</hi></p><p><hi rend="bold" xml:space="preserve">Bir mikdār arak: </hi><hi>Kıyye 80 / 1960</hi></p><p><hi rend="bold" xml:space="preserve">Ham sirke: </hi><hi>Kıyye 20 / 240</hi></p><p><hi rend="bold" xml:space="preserve">Şa‘īr: </hi><hi>Keyl 10 / 1200</hi></p><p><hi rend="bold" xml:space="preserve">Sirke: </hi><hi>Kıyye 22 / 1320</hi></p><p><hi rend="bold" xml:space="preserve">Nakd-i mevcūd: </hi><hi>600</hi></p><p><hi rend="bold">Derūn-u dükkānda mevcūd pirinç ve revgan-ı sāde ve böğrülce ve bakla ve basdırma ve sucuk ve tabak ve kantar vesāir ālātı bakkāl:</hi><hi xml:space="preserve"> 5700</hi></p></div>
+        </body>
+    </text>
+</TEI>

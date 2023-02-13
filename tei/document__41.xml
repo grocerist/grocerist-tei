@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__41.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Astati v. Yani: İSTM.ŞSC.14.d.400 / 55a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.400 / 55a-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1769-1770"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.400 / 55a-1</idno></ab>
+         </abstract>         <creation><date when="1769-1770">1183</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__41">
+                <persName>Bakkal Astati v. Yani</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__2" type="district"><placeName>Beşiktaş</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__15">Rice</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__24">Nardenk</term><term xml:id="goods__25">Honey</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__57">Pastrami</term><term xml:id="goods__102">Tuzlu balık</term><term xml:id="goods__112">Candle</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__124">Scales</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__128">Flat tray</term><term xml:id="goods__160">Üzüm</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_2s8eyo1"/><hi rend="baseline">İSTM.ŞSC.14.d.400 / 55a-1_</hi><ref target="http://document__41"><hi rend="baseline underline color(1155cc)">GrocerIST id_40</hi></ref></head><p style="text-align: justify;"><hi>Mahrūse-i Galata tevābi’nden kasaba-i Beşiktaşa tābi‘ Arnavud karyesinde mütemekkin iken bundan akdem hālik olan Bakkāl Astati veled-i Yaninin verāseti zevcesi Perapyon bt. [] ve sulbī sagīr oğulları Yani ve Yanko ve sulbī kebīr oğlu Mimive sulbiye sagīre kızı [] münhasıra olduğu şer‘an zāhir oldukdan sonra sıgār-ı mesfūrunun tesviye-i emrlerine kıbel-i şer‘-i enverden vāsi nasb olunan mesfūre Perapyon ve mesfūr Mimi taleb ve iltimāslarıyla tahrīr olunan tereke-i hālik mesfūrdur ki ber vech-i ātī zikr olunur. Fī 24 Zilka‘de 1183</hi>  </p><p style="text-align: justify;"><hi rend="bold">Evānī-i nuhāsiye:</hi><hi xml:space="preserve"> 3960</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…</hi></p><p style="text-align: justify;"><hi rend="bold">Minder gılıfı:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold">Kilim hasır:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold">Yorgan:</hi><hi xml:space="preserve"> 4 / 1200</hi></p><p style="text-align: justify;"><hi rend="bold">Yanbolu kebesi:</hi><hi xml:space="preserve"> 2 / 540</hi></p><p style="text-align: justify;"><hi rend="bold">Şamdan:</hi><hi xml:space="preserve"> 60</hi></p><p style="text-align: justify;"><hi rend="bold">Şalvar:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold">Kuşak:</hi><hi xml:space="preserve"> 500</hi></p><p style="text-align: justify;"><hi rend="bold">Gömlek:</hi><hi xml:space="preserve"> 150</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)" xml:space="preserve">.. </hi><hi rend="bold">kebesi:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Hırdavat: </hi><hi>300</hi></p><p style="text-align: justify;"><hi rend="bold">Nakd der kīse:</hi><hi xml:space="preserve"> 2790</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Hamr müdre: </hi><hi>Aded 150 / Kıymet 18000</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Arak müdresi: </hi><hi>Aded 45 / 9390</hi></p><p style="text-align: justify;"><hi rend="bold">Varil, fuçı, potna:</hi><hi xml:space="preserve"> 1800</hi></p><p style="text-align: justify;"><hi xml:space="preserve">Hālik mefsūrun karye-i mezbūrede vāki‘ bakkāl dükkānında mevcūd eşyāsıdır ki zikr olunur: </hi></p><p style="text-align: justify;"><hi rend="bold">Pekmez:</hi><hi xml:space="preserve"> Kıymet 900</hi></p><p style="text-align: justify;"><hi rend="bold">Nardenk:</hi><hi xml:space="preserve"> Kıymet 96</hi></p><p style="text-align: justify;"><hi rend="bold">Asel:</hi><hi xml:space="preserve"> Kıymet 200</hi></p><p style="text-align: justify;"><hi rend="bold">Revgan-ı sāde:</hi><hi xml:space="preserve"> Kıymet 280</hi></p><p style="text-align: justify;"><hi rend="bold">Revgan-ı zeyt:</hi><hi xml:space="preserve"> Kıymet 5400</hi></p><p style="text-align: justify;"><hi rend="bold">Sirke:</hi><hi xml:space="preserve"> Kıymet 390</hi></p><p style="text-align: justify;"><hi rend="bold">Soğan:</hi><hi xml:space="preserve"> Kıymet 120</hi></p><p style="text-align: justify;"><hi rend="bold">Tuzlu balık:</hi><hi xml:space="preserve"> Kıymet 420</hi></p><p style="text-align: justify;"><hi rend="bold">Üzüm:</hi><hi xml:space="preserve"> Kıymet 90</hi> </p><p style="text-align: justify;"><hi rend="bold">Tulum peyniri:</hi><hi xml:space="preserve"> Kıymet 336</hi> </p><p style="text-align: justify;"><hi rend="bold">Mum:</hi><hi xml:space="preserve"> Kıymet 440</hi> </p><p style="text-align: justify;"><hi rend="bold">Bastırma:</hi> <hi>Kıymet 54</hi></p><p style="text-align: justify;"><hi rend="bold">Kaşkaval peyniri:</hi><hi xml:space="preserve"> Kıymet 2250</hi> </p><p style="text-align: justify;"><hi rend="bold">Pirinç:</hi><hi xml:space="preserve"> Kıymet 660</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Destgāh hırdavat: </hi><hi>Kıymet 1750</hi></p><p style="text-align: justify;"><hi>Zikr olunan bakkāl dükkānında iki terāzū ma derāhim ve beş tabla ve iki kantar vesāir beyne’l-esnāf gedik ta‘bīr olunur eşya ber verch-i tahmīn: 24000</hi></p><p style="text-align: justify;"><hi>Hālik mesfūrun karye-i mezkūrede vāki‘ lede’l-ahālī ve’l-cīrān ma‘lūmü’l-hudūd ve’l-müştemilāt mülk menzili kıymeti ber vech-i tahmīn: 66000</hi> </p><p style="text-align: justify;"><hi xml:space="preserve">Hālik mesfūrun karye-i mezkūrede </hi><hi rend="background(yellow)">… …</hi><hi xml:space="preserve"> vāki‘ </hi><hi style="font-size:8.5pt"> </hi><hi>kürūmī bir kıt’a bağı kıymeti ber vech-i tahmīn: 14400</hi></p><p style="text-align: justify;"><hi>Hālik mesfūrun karye-i mezkurede vāki‘ kürūmī mülk bağı kıymeti ber vech-i tahmīn: meblağ: 10800</hi></p></div>
+        </body>
+    </text>
+</TEI>

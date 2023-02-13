@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__29.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Nikola veled-i Ulaş: İSTM.ŞSC.14.d.289 / 6b-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.289 / 6b-2</idno>
+                    </msIdentifier>
+                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.289 / 6b-2</idno></ab>
+         </abstract>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__29">
+                <persName>Nikola veled-i Ulaş</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__15" type="district"><placeName>Karaköy</placeName></place><place xml:id="neighbourhood__39" type="neighbourhood"><placeName>Sandıkçılarbaşı</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__7">Tallow</term><term xml:id="goods__12">Pea</term><term xml:id="goods__13">Chickpea</term><term xml:id="goods__14">Lentil</term><term xml:id="goods__15">Rice</term><term xml:id="goods__18">Razaki</term><term xml:id="goods__21">Figs</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__25">Honey</term><term xml:id="goods__27">Starch</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__33">Kefe salt</term><term xml:id="goods__36">Vermicelli</term><term xml:id="goods__44">Wheat</term><term xml:id="goods__46">Barley</term><term xml:id="goods__49">Sausage</term><term xml:id="goods__57">Pastrami</term><term xml:id="goods__90">Gemlik olives</term><term xml:id="goods__91">Akdeniz honey</term><term xml:id="goods__92">Kabuklu acıbadem</term><term xml:id="goods__93">Gömeç honey</term><term xml:id="goods__112">Candle</term><term xml:id="goods__121">Jug</term><term xml:id="goods__129">Çömlek</term><term xml:id="goods__130">Jar</term><term xml:id="goods__155">Broad bean</term><term xml:id="goods__164">Createn olives</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_rnuallykqxnk"/><hi rend="baseline">İSTM.ŞSC.14.d.289 / 6b-2_</hi><ref target="http://document__29"><hi rend="baseline underline color(1155cc)">GrocerIST id_29</hi></ref></head><p style="text-align: justify;"><hi>Vilāyet-i Anadoluda vāki‘ Ürgüp kasabası a‘mālinden olub mahrūse-i Galatada Karaköyde Sandıkçılarbaşı nām mahalde bakkāl olduğu hālde bundan akdem müstağrak bi’d-düyūn maslūben hālik olan Nikola veled-i Ulaş veled-i Yani nām zımmīnin hasren vārisleri olan zevcesi Destina ve sagīr oğlu Haraknos ve sagīre kızı Marya mevcūd olmamağlarıyla terekesine Galata voyvodası beytülmāl emīni olan Elhac Ahmed Ağa tarafından veresesi gayb olduğuna bināen müdahale olunub lākin hālik-i mezbūrun düyūn-ı kesīresi olmak hasebiyle terekesini ahz ü kabza ve semeni misilleriyle bey’ ve düyūn-ı müsbitesini edaya bā-hüccet-i şer‘iye kıbel-i şer‘den vasī nasb olunan bāzārbaşı Elhac Halil b. Mustafa ma‘rifetiyle</hi>  <hi style="font-size:8.5pt"> </hi><hi xml:space="preserve">mezbūr Nikolanın dükkān-ı mezbūrda tahrīr ve bey’ ve beyne’l-guremā tevzī‘ ve taksīm olunan muhallefātı defterdir ki vech-i ātī üzere zikr olunur. Hurrira Fi’l-yevmi’l hāmis min şehri Rebīʻi’l-āhir li sene tis’a ve erbain ve mie ve elf. </hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yasdık: </hi><hi>2 / 170</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Def’a yasdık  (1) ve minder (2): </hi><hi>150</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kebe: </hi><hi>60</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Def’a kebe: </hi><hi>69</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kar keçesi: </hi><hi>90</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Temür üzengi: </hi><hi>23</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Pabuş: </hi><hi>39</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Cübbe kebe: </hi><hi>129</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne giyim kebesi: </hi><hi>100</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Def‘a köhne giyim kebesi: </hi><hi>150</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Siyāh zincir ve bıçak: </hi><hi>90</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Bıçak, mum, makras: </hi><hi>72</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tencere: </hi><hi>189</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kahve ibriği: </hi><hi>30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Nīmten: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sahan (5) kapak: </hi><hi>440</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tahta sandık: </hi><hi>180</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne cübbe kebe: </hi><hi>21</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Aba nīmten: </hi><hi>21</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Dolama: </hi><hi>186</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yatağan bıçak: </hi><hi>21</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne zıbun: </hi><hi>60</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Dizlik: </hi><hi>90</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne biniş: </hi><hi>210</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne şalvar: </hi><hi>150</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Def‘a dolama: </hi><hi>480</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuka kuzu kürk: </hi><hi>1380</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Mısır alacası tob: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne makrame: </hi><hi>15</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Peştamal: </hi><hi>108</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yemeni bezi tob: </hi><hi>90</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuka çakşır: </hi><hi>400</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">...</hi><hi rend="bold" xml:space="preserve"> kuşak: </hi><hi>450</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kalpak: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tahta sandık: </hi><hi>428</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Bir mikdār misk sabun: </hi><hi>55</hi></p><p style="text-align: justify;"><hi rend="bold">Bir mikd</hi><hi>ā</hi><hi rend="bold" xml:space="preserve">r kahve: </hi><hi>108</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tahta sandık: </hi><hi>40</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne tabak ve kāse: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Aş makramesi: </hi><hi>69</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne makrame: </hi><hi>15</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne kuşak: </hi><hi>30</hi></p><p style="text-align: justify;"><hi rend="bold">Don:</hi><hi>20</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yağlık: </hi><hi>90</hi></p><p style="text-align: justify;"><hi>Hālik mezbūrun dükkānından çıkan tereke-i müstakilesi yekūnudur:</hi></p><p style="text-align: justify;"><hi rend="bold">Revgan-ı zeyt:</hi><hi xml:space="preserve"> Fī 30 / Kıyye 289 / Kıymet 8670</hi></p><p style="text-align: justify;"><hi rend="bold"> Def‘a</hi><hi style="font-size:8.5pt"> </hi><hi rend="bold">revgan-ı zeyt ma desti:</hi><hi xml:space="preserve"> Kıymet 417</hi></p><p style="text-align: justify;"><hi rend="bold background(red)">Nişasta:</hi><hi rend="background(red)" xml:space="preserve"> Fī 9 / Kıyye 69 / Kıymet 803</hi></p><p style="text-align: justify;"><hi rend="bold">Don yağı:</hi><hi xml:space="preserve"> Kıyye 9.5 / Kıymet 217</hi></p><p style="text-align: justify;"><hi rend="bold">Revgan-ı sāde:</hi><hi xml:space="preserve"> Kıyye 64 / Kıymet 2560</hi></p><p style="text-align: justify;"><hi rend="bold">Asel:</hi><hi xml:space="preserve"> Fī 15 / Kıyye 142 / Kıymet 2130</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Gemlik zeytūnu: </hi><hi>Kıymet 700</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kefe tuzu: </hi><hi>Kıymet 728</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Temür hurdası: </hi><hi>Kıymet 190</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Akdeniz balı: </hi><hi>Kıymet 456</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Girit zeytūnu: </hi><hi>Kıymet 700</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kabuklu acıbadem: </hi><hi>Kıymet 129</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Arpa: </hi><hi>Keyl 50 / Kıymet 150</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sirke: </hi><hi>Kıyye 440 / Kıymet 880</hi></p><p style="text-align: justify;"><hi rend="bold">Pekmez:</hi><hi xml:space="preserve"> Kıyye 45 / Kıymet 450</hi></p><p style="text-align: justify;"><hi rend="bold">Mercimek:</hi><hi xml:space="preserve"> Kıyye 13 / Kıymet 56</hi></p><p style="text-align: justify;"><hi rend="bold">Razaki üzüm:</hi><hi xml:space="preserve"> Kıyye 24 / Kıymet 218</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Fındık: </hi><hi>Kıymet 40</hi></p><p style="text-align: justify;"><hi rend="bold">Gömeç balı:</hi><hi xml:space="preserve"> Kıymet 100</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve"> Şa’riye:</hi><hi xml:space="preserve"> Kıymet 64</hi></p><p style="text-align: justify;"><hi rend="bold">Basdırma sucuk:</hi><hi xml:space="preserve"> Kıymet 250</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Beyaz bakla: </hi><hi>Kıymet 120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Pirinç: </hi><hi>Kıymet 3780</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Buğday: </hi><hi>Kıymet 460</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Böğrülce: </hi><hi>Kıymet 383</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Nohud: </hi><hi>Kıymet 210</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">İncir: </hi><hi>Kıymet 112</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Mum: </hi><hi>Kıymet 156</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kavanozlar ve çömlekler: </hi><hi>Kıymet 1515</hi> </p></div>
+        </body>
+    </text>
+</TEI>

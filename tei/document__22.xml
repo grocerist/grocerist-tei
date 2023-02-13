@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__22.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Pereşkova: İSTM.ŞSC.14.d.254 / 64a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.254 / 64a-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1722-1723"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.254 / 64a-1</idno></ab>
+         </abstract>         <creation><date when="1722-1723">1135</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__22">
+                <persName>Pereşkova</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__19" type="neighbourhood"><placeName>Karaköy</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__2">Pistachio</term><term xml:id="goods__3">Almond</term><term xml:id="goods__4">Walnut</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__12">Pea</term><term xml:id="goods__13">Chickpea</term><term xml:id="goods__15">Rice</term><term xml:id="goods__17">Beylerce</term><term xml:id="goods__20">Siyah</term><term xml:id="goods__27">Starch</term><term xml:id="goods__29">Onion</term><term xml:id="goods__33">Kefe salt</term><term xml:id="goods__34">Olive</term><term xml:id="goods__36">Vermicelli</term><term xml:id="goods__45">Bulgur</term><term xml:id="goods__49">Sausage</term><term xml:id="goods__53">Flour</term><term xml:id="goods__57">Pastrami</term><term xml:id="goods__58">Currant</term><term xml:id="goods__59">Egg</term><term xml:id="goods__60">Taze peynir</term><term xml:id="goods__112">Candle</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__121">Jug</term><term xml:id="goods__136">Potna</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_44kzy0f5yqlz"/><hi rend="baseline">İSTM.ŞSC.14.d.254 / 64a-1_</hi><ref target="http://document__22"><hi rend="baseline underline color(1155cc)">GrocerIST id_22</hi></ref></head><p style="text-align: justify;"><hi>Mahrūse-i Galatada Karaköy nām mahallede bakkāl olduğu halde bundan akdem gaybet-i münkatı‘a ile gāib olub elān hayāt ve memātı ma’lūm olmamağla mefkūd olduğu civārda mütemekkin isimleri müssecil on dört nefer müslim ve kefere haberleriye zāhirde mütehakkık olan Pereşkova nām zımmīnin mahāll-i mezbūrda vāki‘ taht-ı icāresindeki bakkāl dükkānında mevcūd olan mallar zabt ve mā-yuhāfu aleyhi’l-helāk kısmından olan eşyāsı semen misliyle āhara bey‘ ve semeni hıfza bir vasī ve kayyım nasbından lābüd olmağın mahrūse-i mezbūre  ve tevābi‘nde voyvoda ve beytülmāl āmme ve hāsssa māl-i gāib ve māl-ı mefkūd kabzına bā-hatt-ı hümāyūn-ı şevket-makrūn memūr olan fahrü’l-eşbāh Elhac Ahmed Ağanın vekīli Murad Ağa mefkūd-ı mezbūra ber-vech-i muharrer kıbel-i şer‘den</hi>  <hi style="font-size:8.5pt"> </hi><hi>dahi kayyım nasb olundukdan sonra mefkūd mezbūrun dükkān-ı mezbūrda olan eşyāsı seri-ül helāk olmağın ma‘rifet-i şer‘le ba‘de’l-müzāyede şeriyye āhara bey‘ ve semeni vasiyy-i mezbūr yedinde hıfz olundğu defteridir ki vech-i ātī üzere zikr olunur. Hurrira fī 17 Şaban 135</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Basdırma sucuk: </hi><hi>Fī 19 / Kıyye 14 / Kıymet 266</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Fıstık: </hi><hi>Fī 20 / Kıyye 2 / Kıymet 40</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kuş üzümü: </hi><hi>Fī 18 / Kıyye 3 / Kıymet 55</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Beylerce üzüm: </hi><hi>Fī 10 / Kıyye 3 / Kıymet 30</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Ceviz: </hi><hi>Aded 500 / Kıymet 27</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yumurta: </hi><hi>Aded 90 / Kıymet 40</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Taze peynir: </hi><hi>Fī 1 / Kıymet 10</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kaşkaval: </hi><hi>Fī 10 / Kıyye 4 / Kıymet 40</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Badām: </hi><hi>Fī 26 / Kıyye 2.5 / Kıymet 67</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Siyāh üzüm: </hi><hi>Fī 9 / Kıyye 4 / Kıymet 36</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Fındık: </hi><hi>Fī 8 / Kıyye 4 / Kıymet 32</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Bulgur: </hi><hi>Fī 4.5 / Kıyye 9.5 / Kıymet 43</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Böğrülce: </hi><hi>Fī 8 / Kıyye 4 / Kıymet 32</hi></p><p style="text-align: justify;"><hi rend="bold">Şa‘riye:</hi><hi xml:space="preserve"> Fī 10 / Kıyye 5 / Kıymet 50</hi> </p><p style="text-align: justify;"><hi rend="bold">Nişasta:</hi><hi xml:space="preserve"> Fī 9 / Kıyye 4 / kıymet 36</hi> </p><p style="text-align: justify;"><hi rend="bold">Dakik:</hi><hi xml:space="preserve"> Fī 5 / Kıyye 6.5 / Kıymet 33</hi> </p><p style="text-align: justify;"><hi rend="bold">Mum:</hi><hi xml:space="preserve"> Fī 24 / Kıyye 4 / Kıymet 96</hi> </p><p style="text-align: justify;"><hi rend="bold">Pirinç:</hi><hi xml:space="preserve"> Fī 8 / Kıyye 32 / Kıymet 256</hi> </p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Zeytun: </hi><hi>Fī 10 / Kıyye 3 / Kıymet 30</hi></p><p style="text-align: justify;"><hi rend="bold">Revgan-ı zeyt:</hi><hi xml:space="preserve"> Fī 35 / Kıyye11 / Kıymet 395</hi></p><p style="text-align: justify;"><hi rend="bold">Kefe tuzu:</hi><hi xml:space="preserve"> Fī 2 / Kıyye 105 / Kıymet 210</hi></p><p style="text-align: justify;"><hi rend="bold">Nohud:</hi><hi xml:space="preserve"> Fī 5 / Kıyye 50 / Kıymet 250</hi></p><p style="text-align: justify;"><hi rend="bold">Soğan:</hi><hi xml:space="preserve"> Fī 3/ Kıyye 10 / Kıymet 30</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne fuçı ve potna ve desti tecemmülāt vesāir hırdavat:</hi><hi xml:space="preserve"> 1104</hi></p></div>
+        </body>
+    </text>
+</TEI>

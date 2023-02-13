@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__68.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Dimitri v. Yorgi: İSTM.ŞSC.06.d. 359 / 27a-1 (a)</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 359 / 27a-1 (a)</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1715-1716"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 359 / 27a-1 (a)</idno></ab>
+         </abstract>         <creation><date when="1715-1716">1128</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__68">
+                <persName>Bakkal Dimitri v. Yorgi</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Mother</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 359 / 27a-1_<ref target="http://document__68"><hi rend="underline color(1155cc)">GrocerIST id_55</hi></ref></head><p style="text-align: justify;"><hi>Medīne-i Üsküdara tābi‘ Kuzguncuk nām karyede sākin iken bundan akdem hālik olan bakkāl Dimitri veled-i Yorgi nām zımmīnin verāseti zevce-i metrūkesi Susana bt. Vasili nām nasrāniye ile anası Kondilo bt. Siro nām nasrāniyeye ve sulbī kebīr oğlu Manol nām zımmīye ve sagīr oğulları Yanaki ve Andoliye sulbiye kebīre kızı Zoliye münhasıra olduğu şer‘an mütehakkık oldukdan sonra sagīrān-ı mezbūrānın tesviye-i</hi>  <hi style="font-size:8.5pt"> </hi><hi>vasiyy-i muhtārları olan anaları zevce-i mezbūre talebiyle hālik mezbūrun tahrīr ve takvīm ve beyne’l-verese taksīm olunan terekesi defteridir ki zikr olunur. Fi’l-yevmi’s-sāmī ve’l-işrīn min-Zilhicceti’ş-şerīfe li-sene semānīn ve’l ışrın mi’ete ve elf. 1128</hi> </p><p><hi rend="bold" xml:space="preserve">Menzil karye-i mezbūrede: </hi><hi>72000</hi></p><p><hi rend="bold">Nısf-ı bakkāl dükkānı der karye-i mezbūre:</hi><hi xml:space="preserve"> 30000</hi></p><p><hi rend="bold">Eski hamam karyesinde olan bakkāl dükkānı:</hi><hi xml:space="preserve"> 60000</hi></p><p><hi rend="bold">Tenbel mahallesinde olan bakkāl dükkānında sermāye:</hi><hi xml:space="preserve"> 24000</hi></p><p><hi rend="bold">Mor çuka kontoş:</hi><hi xml:space="preserve"> 400</hi></p><p><hi rend="bold">Māī çuka biniş:</hi><hi xml:space="preserve"> 200</hi></p><p><hi rend="bold">Bogasi kaplı sincab nāfesi kürk:</hi><hi xml:space="preserve"> 300</hi></p><p><hi rend="bold">Köhne karsık beden kürkü:</hi><hi xml:space="preserve"> 300</hi></p><p><hi rend="bold">Beden kuzu kürk:</hi><hi xml:space="preserve"> 200</hi></p><p><hi rend="bold">Māī çuka dolama:</hi><hi xml:space="preserve"> 300</hi></p><p><hi rend="bold">Cedīd kapama:</hi><hi xml:space="preserve"> 400</hi></p><p><hi rend="bold">Köhne kapama:</hi><hi xml:space="preserve"> 100</hi></p><p><hi rend="bold">Köhne çakşır:</hi><hi xml:space="preserve"> 300</hi></p><p><hi rend="bold">Tüfenk kuşak:</hi><hi xml:space="preserve"> 60</hi></p><p><hi rend="bold" xml:space="preserve">Rumili kebesi: </hi><hi>150</hi></p><p><hi rend="bold">Köhne kalpak:</hi><hi xml:space="preserve"> 30</hi></p><p><hi rend="bold">Sini:</hi><hi xml:space="preserve"> 5 / 600</hi></p><p><hi rend="bold">Kuzu nāfesi:</hi><hi xml:space="preserve"> 3 / 300</hi></p><p><hi rend="bold" xml:space="preserve">Leğen ve ibrik: </hi><hi>240</hi></p><p><hi rend="bold">Tencere:</hi><hi xml:space="preserve"> Fi 100 / 6 / 600</hi></p><p><hi rend="bold">Sagir sahan:</hi><hi xml:space="preserve"> 6 / 360</hi></p><p><hi rend="bold">Tuc sahan:</hi><hi xml:space="preserve"> 6 / 180</hi></p><p><hi rend="bold">Güğüm:</hi><hi xml:space="preserve"> Fİ 100 / 3 / 300</hi></p><p><hi rend="bold">Beledī döşek:</hi><hi xml:space="preserve"> 2 / 400</hi></p><p><hi rend="bold">Minder:</hi><hi xml:space="preserve"> 2 / 200</hi></p><p><hi rend="bold">Yemeni yasdık:</hi><hi xml:space="preserve"> 8 / 500</hi></p><p><hi rend="bold">Yemeni yorgan:</hi><hi xml:space="preserve"> 3 / 450</hi></p><p><hi rend="bold">Yanbolu kebesi:</hi><hi xml:space="preserve"> 2 / 200</hi></p><p><hi rend="bold">Kilim:</hi><hi xml:space="preserve"> 100</hi></p><p><hi rend="bold">Mısır hasırı:</hi><hi xml:space="preserve"> 2 / 200</hi></p><p><hi rend="bold">Kırmızı ihrām:</hi><hi xml:space="preserve"> 2 / 200</hi></p><p><hi rend="bold">Varil:</hi><hi xml:space="preserve"> 2 / 300</hi></p><p><hi rend="bold">Sepet sandık:</hi><hi xml:space="preserve"> 120</hi></p><p><hi rend="bold">Hırdavat-ı menzil:</hi><hi xml:space="preserve"> 1000</hi></p></div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__35.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Simal v. Nikola: İSTM.ŞSC.14.d. 352/ 6a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d. 352/ 6a-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1759-1760"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 352/ 6a-1</idno></ab>
+         </abstract>         <creation><date when="1759-1760">1173</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__35">
+                <persName>Bakkal Simal v. Nikola</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__8" type="district"><placeName>İstinye</placeName></place><place xml:id="neighbourhood__29" type="neighbourhood"><placeName>Yeniköy</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_640cvs634qjl"/><hi rend="baseline">İSTM.ŞSC.14.d. 352/ 6a-1_</hi><ref target="http://document__35"><hi rend="baseline underline color(1155cc)">GrocerIST id_35</hi></ref></head><p style="text-align: justify;"><hi>Mahrūse-i Galata tevābi‘nden İstinye nāhiyesine tābi‘ kasaba-i Yeniköyde vāki‘</hi><hi style="font-size:8.5pt" xml:space="preserve">  </hi><hi xml:space="preserve">Kürkçü mahallesinde mütemekkin iken bundan akdem hālik olan bakkāl Simal veled-i Nikolanın verāseti zevcesi Kasandıra bt. Kakod ve sulbiye kebīre kızı </hi><hi rend="background(yellow)">….</hi><hi xml:space="preserve">Aragorya ve sulbī sagīr oğlu </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> münhasıra olduğu şer’an zāhir oldukdan sonra sagīr mesfūr </hi><hi rend="background(yellow)">..</hi><hi xml:space="preserve"> ile </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> tesviye-i emrlerine  kıbel-i şer‘-i şerīf-i vasī nasb olunan Dimitri veled-i Yani ve mesfūre Kasandıra taleb ve iltimāslarıyla tahrīr olunan tereke-i hālik mesfūrdur ki ber vech-i ātī zikr olunur. 8 rebiülevvel 1173</hi></p><p style="text-align: justify;"><hi rend="bold">Tencere:</hi><hi xml:space="preserve"> 2 / 360</hi></p><p style="text-align: justify;"><hi rend="bold">Sini:</hi><hi xml:space="preserve"> 400</hi></p><p style="text-align: justify;"><hi rend="bold">Güğüm:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold">İhram :</hi><hi xml:space="preserve"> 3 / 300</hi></p><p style="text-align: justify;"><hi rend="bold">Beledī yasdık:</hi><hi xml:space="preserve"> 4 / 400</hi></p><p style="text-align: justify;"><hi rend="bold">Beledī yasdık döşek:</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold">Taba, tencere (6):</hi><hi xml:space="preserve"> 360</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kurşun mum </hi><hi rend="bold background(yellow)">…</hi><hi xml:space="preserve"> 45</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne nāfe kürk:</hi><hi xml:space="preserve"> 240</hi></p><p style="text-align: justify;"><hi rend="bold">Kazgan:</hi><hi xml:space="preserve"> 500</hi></p><p style="text-align: justify;"><hi rend="bold">Kebe:</hi><hi xml:space="preserve"> 2 / 360</hi></p><p style="text-align: justify;"><hi rend="bold">Yorgan:</hi><hi xml:space="preserve"> 480</hi></p><p style="text-align: justify;"><hi rend="bold">Çuka cübbe:</hi><hi xml:space="preserve"> 300</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)" xml:space="preserve">…: </hi><hi>180</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne kuşak ve kalpak:</hi><hi xml:space="preserve"> 180</hi></p><p style="text-align: justify;"><hi rend="bold">Çārşeb:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne entari:</hi><hi xml:space="preserve"> 2 / 360</hi></p><p style="text-align: justify;"><hi rend="bold">Dizlik ve kaliçe:</hi><hi xml:space="preserve"> 180</hi></p><p style="text-align: justify;"><hi rend="bold">Kazgan:</hi><hi xml:space="preserve"> 1440</hi></p><p style="text-align: justify;"><hi rend="bold">Laza:</hi><hi xml:space="preserve"> 3 / 1200</hi></p><p style="text-align: justify;"><hi rend="bold">Varil:</hi><hi xml:space="preserve"> 8 / 480</hi></p><p style="text-align: justify;"><hi rend="bold">Varil:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi rend="bold">Kutu çift:</hi><hi xml:space="preserve"> 5 / 600</hi></p><p style="text-align: justify;"><hi rend="bold">Hasır:</hi><hi xml:space="preserve"> 120</hi></p><p style="text-align: justify;"><hi>Hālik mesfūrun kasaba-i Yeniköyde bağlar hilālinde vāki’ kürumi mülk-ü bağ 2 kıt’a ber vech-i tahmin: 36000</hi></p><p style="text-align: justify;"><hi>Hālik mesfūrun kasaba-i mezkūrede vāki‘ mülk-ü menzil kıymeti ber vech-i tahmīn zikr olunur: 48000</hi></p><p style="text-align: justify;"><hi>Bağların mahsūlunden hāsıl olan meblağ: 24000</hi></p><p style="text-align: justify;"><hi>Kezālik mülk-ü mesfūrun kasaba-i mezkūrede vāki’ bakkāl dükkānında olan eşyā vesāir ālāt-ı lāzıme kıymeti : 48000</hi></p><p style="text-align: justify;"><hi>Kürekçi Karlo veled-i Kostadan makbūz: 60000</hi></p></div>
+        </body>
+    </text>
+</TEI>

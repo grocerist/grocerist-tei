@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__44.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Tanaş veled-i  Hristo: İSTM.ŞSC.14.d. 433/ 21a-3</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d. 433/ 21a-3</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1776-1777"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 433/ 21a-3</idno></ab>
+         </abstract>         <creation><date when="1776-1777">1190</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__44">
+                <persName>Bakkal Tanaş veled-i  Hristo</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>               <person role="mentioned">
+                <persName>Fetus</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__8" type="district"><placeName>İstinye</placeName></place><place xml:id="neighbourhood__29" type="neighbourhood"><placeName>Yeniköy</placeName></place><place xml:id="neighbourhood__33" type="neighbourhood"><placeName> Aya Nikoli</placeName></place><place xml:id="neighbourhood__75" type="neighbourhood"><placeName>Mahkeme karşısı</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_lj3fapnlw6n8"/><hi rend="bold baseline">İSTM.ŞSC.14.d. 433/ 21a-3</hi><hi rend="baseline">_</hi><ref target="http://document__44"><hi rend="bold baseline underline color(1155cc)">GrocerIST id_43</hi></ref></head><p style="text-align: justify;"><hi xml:space="preserve">Mahrūse-i Galataya muzāfe İstinye nāhiyesine tābi‘ Yeniköyde Ayanikola mahallesinde mütemekkin iken bundan akdem hālik olan bakkāl Tanaş veled-i Hristonun verāseti zevcesi Dodosiye bt. Yorgi ve sulbiye sagīre kızı </hi><hi rend="background(yellow)">...</hi><hi xml:space="preserve"> ve zevce-i mesfūrenin batnında mütebeyyin hamle münhasıra olduğu şer’an zāhir oldukdan sonra sagīre-i mesfūrenin tesviye-i umuruna ve haml-i mezkūrun hisse-i mevkūfesini zabt ve hıfza kıbel-i şerden vasi ve kayyım nasb olunan zevce-i mesfūre Dodosiyenin taleb ve iltimāsıyla tahrīr olunan tereke-i hālik mesfūrdur ki ber vech-i ātī zikr olunur. 25 </hi><hi rend="background(yellow)">...</hi><hi xml:space="preserve"> 1190</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuka biniş: </hi><hi>1200</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuka şalvar: </hi><hi>600</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuka nīmten: </hi><hi>300</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuka cübbe kürk: </hi><hi>1800</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuka cübbe: </hi><hi>200</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne entari: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne dizlik: </hi><hi>60</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">…</hi><hi rend="bold" xml:space="preserve"> kebesi: </hi><hi>480</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Alaca beylik ve </hi><hi rend="bold background(yellow)">…</hi><hi rend="bold" xml:space="preserve"> kuşak: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne dizlik: </hi><hi>60</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yorgan ve Yanbolu kebesi: </hi><hi>240</hi></p><p style="text-align: justify;"><hi>Hālik mesfūrun zevcesi zimmetinde: 1200</hi></p><p style="text-align: justify;"><hi>Hālik mesfūrun karye-i mezkūrede mahkeme karşısında vāki‘ bakkāl dükkānı derūnunda mevcūd sermāyesi: 11910</hi></p><p style="text-align: justify;"><hi xml:space="preserve">Mahalle-i mezkūrede vāki‘ lede’l-ahālī ve’l-cīrān ma‘lūmü’l-hudūd </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> bir bab mülk menzilde hālik mesfūrun nısf-ı hisse-i şāyi’ası ber vech-i tahmīn: 24000 </hi></p><p style="text-align: justify;"><hi>Hālik mesfūrun dükkān derūnunda vāki‘ gedik ta’bīr olunur bakkāl ālātı ber vech-i tahmīn: 24000</hi></p></div>
+        </body>
+    </text>
+</TEI>

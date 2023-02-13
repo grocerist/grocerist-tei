@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__105.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Ali Ağa b. Hasan: İSTM.ŞSC.15.d. 254 / 8a-2 (a)</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.15.d. 254 / 8a-2 (a)</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1764-1765"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 254 / 8a-2 (a)</idno></ab>
+         </abstract>         <creation><date when="1764-1765">1178</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__106">
+                <persName>Bakkal Ali Ağa b. Hasan</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>               <person role="mentioned">
+                <persName>Brother</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="neighbourhood__31" type="neighbourhood"><placeName>Camii Kebir</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 254 / 8a-2_<ref target="http://document__105"><hi rend="underline color(1155cc)">GrocerIST id_86</hi></ref></head><p style="text-align: justify;"><hi>Medīne-i hazret-i Ebī Eyyüb el-Ensārī -radiye Rabbühü’l-bārī-de Cāmi‘-i Kebīr  mahallesinde sākin  iken bundan akdem vefāt eden bakkāl  Ali Ağa b. Hasanın verāseti zevce-i menkūha-i metrūkesi Ümmügülsüm Hatun bt. Elhac İbrahim ile sulbiye kebīre kızı Aişe Hatun usūbet-i nesebiye cihetinden li-eb er karındaşı Elhac Hafız İbrahime ve müteveffā-i mezbūrun sülüs vasī olmağla sülüs vesāyāsını tenfize ba‘de’l-inhisâr müteveffā-i mezbūrun zevcesi olub sülüs  vesāyāsını tenfīze bā-hüccet-i şer‘iye vasīyy-i muhtārı olan mezbūre Ümmügülsüm Hatun  ile mezbūre Aişe Hatun ve mezbūr Hafız Elhac İbrahim ve Bazarbaşı Ebubekir Ağa b.[] vesāir ustalar taleb ve ma‘rifetleriyle tahrīr ve taksīm olunan müteveffā-i mezbūrun terekesi defteridir ki ber vech-i ātī zikr olunur.  Fi’l-yevmi’s-sālis aşar min Cemāziyelāhir li-sene semān ve seb‘īn ve mie ve elf</hi><hi style="font-size:8.5pt" xml:space="preserve">. </hi><hi>1178</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne çuka biniş:</hi><hi xml:space="preserve"> 510</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne çukaya kaplı nāfe biniş kürk: </hi><hi>1930</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kırmızı kuşak: </hi><hi>505</hi></p><p style="text-align: justify;"><hi rend="bold">Köhne destar:</hi><hi xml:space="preserve"> 150</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Yeşil çukaya kaplı köhne kursak kürk: </hi><hi>420</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kaba şaliye kaplı nīmten nāfe kürk: </hi><hi>515</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne çuka çakşır ma mest: </hi><hi>264</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Gömlek ma don: </hi><hi>339</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne kavuk: </hi><hi>2 / 155</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne yorgan: </hi><hi>2 / 320</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne minder: </hi><hi>2 / 700</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne yasdık ma parça yelek: </hi><hi>200</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne alaca entari: </hi><hi>159</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Sim saat: </hi><hi>1200</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çalar saat: </hi><hi>2400</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tencere (2) ma kapak, taba (1),  sahan (4) kapak (2), sini (1),  mangal (1),  leğen ma ibrik (1): </hi><hi>1080</hi></p><p style="text-align: justify;"><hi rend="bold">Hırdavat-ı menzil:</hi><hi xml:space="preserve"> 2400</hi></p><p style="text-align: justify;"><hi>Bir re‘s Arab cāriye ve yirmi beş guruş kıymetli bir oda döşemesi mīzanından zevcesinden aldıkları bedel-i zan: 15400</hi></p><p><hi>Medīne-i mezbūrede imam dükkānı demekle arīf dükkān derūnunda mevcūde beyne’l-hiref gedik  i’tibār olunur ālāt-ı lāzıme-i malūme yüzyirmi sehm i’tibārıyla müteveffā-i mezbūrun mālik olduğu sehm hissesin bakkāl Kiko zımmīye hayātında bey idub kabz olunan: 48000</hi></p><p><hi>Medīne-i mezbūrede Cāmi‘-i kebīr  ittisālinde vāki‘ ticāret eylediği bakkāl  dükkānı derūnunda mevcūde müteveffā-i mezbūrun sermāyesi: 55000</hi></p><p><hi>Yine mahalle-i mezbūrede kāin berikinin kahve dükkānı derūnunda mevcūd beyne’l-hiref gedik i’tibār olunur ālāt-ı lāzımesi üç sehm i’tibārıyla mālik olduğu iki sehm hissesi: 4800</hi></p></div>
+        </body>
+    </text>
+</TEI>

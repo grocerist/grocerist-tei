@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__52.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Yorgi v. Kirikor: İSTM.ŞSC.14.d.528 / 83b-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d.528 / 83b-2</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1795-1796"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.528 / 83b-2</idno></ab>
+         </abstract>         <creation><date when="1795-1796">1210</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__52">
+                <persName>Bakkal Yorgi v. Kirikor</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__8" type="district"><placeName>İstinye</placeName></place><place xml:id="neighbourhood__4" type="neighbourhood"><placeName>Sarıyer</placeName></place><place xml:id="neighbourhood__42" type="neighbourhood"><placeName>Yeni mahalle</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__5">Olive Oil</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__64">Smashed salt</term><term xml:id="goods__67">Pepper</term><term xml:id="goods__68">Pipe</term><term xml:id="goods__102">Tuzlu balık</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__122">Mug</term><term xml:id="goods__124">Scales</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__147">Coal</term><term xml:id="goods__151">String</term><term xml:id="goods__152">Şamadıra</term><term xml:id="goods__326">Kızak yağı</term><term xml:id="goods__333">Zeytun yağı kapları</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_26in1rg"/><hi rend="baseline">İSTM.ŞSC.14.d.528 / 83b-2_</hi><ref target="http://document__52"><hi rend="baseline underline color(1155cc)">GrocerIST id_50</hi></ref></head><p style="text-align: justify;"><hi xml:space="preserve">Mahrūse-i Galataya muzāfe İstinye nāhiyesine </hi><hi style="font-size:8.5pt"> </hi><hi xml:space="preserve">tābi‘ Sarıyerde vāki‘ Yeni mahallede mütemekkin iken bundan akdem hālik olan Bakkāl Yorgi veled-i Kirikorun zāhirde vāris-i ma‘rūfu olmayub bi’l-cümle terekesi cānib-i beytülmāla āid olmağın mahrūse-i mezkūre ve tevābi‘nde voyvoda ve beytülmāl āmme ve hāssa emīni </hi> <hi style="font-size:8.5pt"> </hi><hi>Hācegān-ı Dīvān-ı Hümāyūn Hüseyin Şükrü Efendi b. Elhac Hasanın umūr-ı beytülmālı rü’yete vekīl-i müsecceli Mehmed Efendi b. Elhac Abdullāh talebi ve iltimāslarıyla tahrīr  olunan tereke-i hālik-i merkūmdur ki ber vech-i ātī zikr olunur. Fi’l-yevmi’s-sanī aşar min -Cemaziye’l-evvel sene aşara ve mi’eteyn ve elf. 12 Cemaziye’l-evvel 1210</hi> </p><p style="text-align: justify;"><hi rend="bold">Tulum penairi:</hi><hi xml:space="preserve"> Kıyye 12 / Kıymet 288</hi></p><p style="text-align: justify;"><hi rend="bold">Def’a penairi:</hi><hi xml:space="preserve"> Kıyye 2 / Kıymet 84</hi></p><p style="text-align: justify;"><hi rend="bold">Soğan:</hi><hi xml:space="preserve"> Kıyye 100 / Kıymet 300</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tuz: </hi><hi>Kile 10</hi><hi rend="bold" xml:space="preserve"> / </hi><hi>Kıymet 900</hi></p><p style="text-align: justify;"><hi rend="bold">İnce tuz:</hi><hi xml:space="preserve"> Kıyye 35 / Kıymet 315</hi></p><p style="text-align: justify;"><hi rend="bold">Zeytin yağı:</hi><hi xml:space="preserve"> Kıyye 8 / Kıymet 682</hi></p><p style="text-align: justify;"><hi rend="bold">Kızak yağı:</hi><hi xml:space="preserve"> Kıyye 3 / Kıymet 180</hi></p><p style="text-align: justify;"><hi rend="bold">Kömür:</hi><hi xml:space="preserve"> Kıyye 110 / Kıymet 330</hi></p><p style="text-align: justify;"><hi rend="bold">Sirke:</hi><hi xml:space="preserve"> Kıyye 9 / Kıymet 540</hi></p><p style="text-align: justify;"><hi rend="bold">Tuzlu balık:</hi><hi xml:space="preserve"> Kıyye 7 / Kıymet 2100</hi></p><p style="text-align: justify;"><hi rend="bold">Biber:</hi><hi xml:space="preserve"> Kıymet 24</hi></p><p style="text-align: justify;"><hi rend="bold">Lüle:</hi><hi xml:space="preserve"> Kıymet 45</hi></p><p style="text-align: justify;"><hi rend="bold">Şamandıra:</hi><hi xml:space="preserve"> Kıymet 30</hi></p><p style="text-align: justify;"><hi rend="bold">Sicim:</hi><hi xml:space="preserve"> Kıymet 90</hi></p><p style="text-align: justify;"><hi rend="bold">Bir mikdār bardak:</hi><hi xml:space="preserve"> Kıymet 201</hi></p><p style="text-align: justify;"><hi rend="bold">Zeytin yağı kapları:</hi><hi xml:space="preserve"> Kıymet 240</hi></p><p style="text-align: justify;"><hi rend="bold">Varil küp:</hi><hi xml:space="preserve"> Kıymet 156</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Terāzī ve dirhem: </hi><hi>Kıymet 600</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Döşek ve yasdık: </hi><hi>Kıymet 240</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Hırdavat: </hi><hi>Kıymet 240</hi></p><p style="text-align: justify;"><hi rend="bold background(yellow)">ÜSKÜDAR</hi></p></div>
+        </body>
+    </text>
+</TEI>

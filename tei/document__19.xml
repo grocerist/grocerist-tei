@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__19.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Astavor v. Yako: İSTM.ŞSC.14.d. 249/ 79a-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d. 249/ 79a-2</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1721-1722"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 249/ 79a-2</idno></ab>
+         </abstract>         <creation><date when="1721-1722">1134</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__19">
+                <persName>Astavor v. Yako</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__3" type="district"><placeName>Fındıklı</placeName></place><place xml:id="neighbourhood__44" type="neighbourhood"><placeName>İbrahim Efendi</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_shaar01iajkq"/><hi rend="baseline">İSTM.ŞSC.14.d. 249 / 79a-2_</hi><ref target="http://document__19"><hi rend="baseline underline color(1155cc)">GrocerIST id_19</hi></ref></head><p style="text-align: justify;"><hi>Mahmiye-i Galata tevābi’nden Fındıklıda İbrahim Efendi mahallesinde bakkāl t</hi>ā<hi>ifesinden iken h</hi>ā<hi>lik olan Astavor veled-i Yako nām zımmīnin z</hi>ā<hi>hirde vāris-i ma’rūfu olmayub terekesi bi’l-cümle canib-i beytülm</hi> ā<hi>le aid olmağın mahmiye-i mezbūre ve tevābi’nde voyvoda ve beytülm</hi>ā<hi>l āmme ve hāssa emīni olan fahrü’l-akrān</hi><hi style="font-size:8.5pt" xml:space="preserve">  </hi><hi>Elhac Ahmed Ağa b. Mehmed tarafından umūr-ı beytülmālı rü’yete</hi><hi style="font-size:8.5pt"> </hi><hi xml:space="preserve">vekīl-i müseccel olan Murad Ağa b. Ali ma‘rifetiyle hālik mesfūrun tahrīr olunan terekesidir ki ber vech-i </hi>ā<hi>tī tahrīr olunub zikr olunur. 26 Muharrem 1134</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne Yanbolu: </hi><hi>2 / 110</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Def’a Yanbolu kebesi: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Kırım kebesi: </hi><hi>2 / 160</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne zıbun ve köhne nīmten: </hi><hi>120</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne gömlek ve don: </hi><hi>50</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Tahta sandık: </hi><hi>160</hi></p><p style="text-align: justify;"><hi rend="bold">Bogasi entari:</hi><hi xml:space="preserve"> 80</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Çuka nīmten: </hi><hi>300</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Köhne kaftan: </hi><hi>250</hi></p><p style="text-align: justify;"><hi rend="bold">Müsta‘mel</hi><hi style="font-size:8.5pt"> </hi><hi rend="bold background(yellow)" xml:space="preserve"> …</hi><hi rend="bold" xml:space="preserve"> : </hi><hi>500</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Def’a tahta sandık: </hi><hi>30</hi></p><p style="text-align: justify;"><hi rend="bold" xml:space="preserve">Lenger sahan: </hi><hi>50</hi></p></div>
+        </body>
+    </text>
+</TEI>

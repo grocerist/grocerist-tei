@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__107.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Esper v. Todori: İSTM.ŞSC.15.d. 275 / 99b-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.15.d. 275 / 99b-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1792-1793"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 275 / 99b-1</idno></ab>
+         </abstract>         <creation><date when="1792-1793">1207</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__108">
+                <persName>Bakkal Esper v. Todori</persName>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__29">Onion</term><term xml:id="goods__49">Sausage</term><term xml:id="goods__119">Sack</term><term xml:id="goods__140">Knife</term><term xml:id="goods__194">Yapağı yün</term><term xml:id="goods__227">Ham sirke</term><term xml:id="goods__230">Saman</term><term xml:id="goods__231">Revgan-ı çerviş</term><term xml:id="goods__246">Yatağan bıçağı</term><term xml:id="goods__247">Balık</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 275 / 99b-1_<ref target="http://document__107"><hi rend="underline color(1155cc)">GrocerIST id_88</hi></ref></head><p style="text-align: justify;"><hi>Cennet mekān firdevs-āşiyān merhūm ve mağfūrun-leh Sultan Bayezid Han veli -tābe serāhu-  hazretlerinin İstanbulda vāki‘ camii şerifi ve imāret-i āmireleri evkāfı hududu dāhilinde kāin havāss-ı refi‘a  kāzasına tābi’ Küçük köy nām karyede mütemekkin iken bundan akdem duyūnu terekesinden ezyed olduğu halde maslūben halik olan bakkāl Esper veled-i Todori zımmīnin zāhirde zevce-i metrūkesi Marya bt. Sonkunaki nasrāniyeden gayri vāris-i ma‘rūf ve ma‘rūfe olmayub terekesinin rub‘u zevcesi merkūme ve selāse-i erbā ‘ı  cānib-i beytülmāle āid ve rāci olmağla karye-i mezbūrede bilā-vāris-i ma‘rūf ve ma‘rūfe hālik olanların terekelerini vakf-ı müşārun tarafından kabza memūr ve me’zūn olan karye-i mezbūre subaşısı fahrü’l-akrān İbrahim Efendi b. Mustafa tarafından vekīl-i müsecceli Bostancı Mehmed b. Mustafa ile zevcesi Marya nasrāniye ve erbāb-ı garīm taleb ve ma‘rifetleri ve ma‘rifet-i şer‘le tahrīr ve fürūht olunan hālik-i mersūmun tereke-i kāsırası defteridir ki ber vech-i ātī zikr olunur. Fī 24 min Cemāziyelahir 1207</hi>  </p><p><anchor xml:id="xmlid__heading_h_44sinio"/><hi rend="bold" xml:space="preserve">Sucuk: </hi><hi>220</hi></p><p><hi rend="bold" xml:space="preserve">Revgan-ı sāde: </hi><hi>Kıyye 6.5 / 380</hi></p><p><hi rend="bold" xml:space="preserve">Tulum: </hi><hi>101</hi></p><p><hi rend="bold" xml:space="preserve">Bir mikdār yapağı: </hi><hi>66</hi></p><p><hi rend="bold" xml:space="preserve">Soğan: </hi><hi>99</hi></p><p><hi rend="bold" xml:space="preserve">Tulum peyniri: </hi><hi>603</hi></p><p><hi rend="bold background(yellow)">..:</hi></p><p><hi rend="bold background(yellow)">Def‘a .. :</hi></p><p><hi rend="bold" xml:space="preserve">Püskül: </hi><hi>18</hi></p><p><hi rend="bold" xml:space="preserve">Hırdavat: </hi><hi>102</hi></p><p><hi rend="bold" xml:space="preserve">Piştov: </hi><hi>90</hi></p><p><hi rend="bold" xml:space="preserve">Balta: </hi><hi>15</hi></p><p><hi rend="bold" xml:space="preserve">Balık ve kutu: </hi><hi>51</hi></p><p><hi rend="bold" xml:space="preserve">Bukağı: </hi><hi>30</hi></p><p><hi rend="bold" xml:space="preserve">Çuval: </hi><hi>93</hi></p><p><hi style="font-size:8.5pt"> </hi><hi rend="bold" xml:space="preserve">Evānī-ı nühāsiye: </hi><hi>1000</hi></p><p><hi rend="bold" xml:space="preserve">Temür seklam: </hi><hi>21</hi></p><p><hi rend="bold" xml:space="preserve">Yatağan bıçağı: </hi><hi>30</hi></p><p><hi rend="bold" xml:space="preserve">Bir mikdār yapağı: </hi><hi>15</hi></p><p><hi rend="bold" xml:space="preserve">Hırdavat: </hi><hi>21</hi></p><p><hi rend="bold" xml:space="preserve">Balık: </hi><hi>18</hi></p><p><hi rend="bold" xml:space="preserve">Revgan-ı çerviş: </hi><hi>120</hi></p><p><hi rend="bold" xml:space="preserve">Hırdavat revgan-ı sāde: </hi><hi>196</hi></p><p><hi rend="bold" xml:space="preserve">Bir mikdār yapağı: </hi><hi>42</hi></p><p><hi rend="bold" xml:space="preserve">Kolan: </hi><hi>18</hi></p><p><hi rend="bold" xml:space="preserve">Çuval ma rikāb: </hi><hi>78</hi></p><p><hi rend="bold" xml:space="preserve">Sarık: </hi><hi>21</hi></p><p><hi rend="bold" xml:space="preserve">Hırdavat: </hi><hi>24</hi></p><p><hi rend="bold" xml:space="preserve">Çorab: </hi><hi>20</hi></p><p><hi rend="bold" xml:space="preserve">Çuka entari: </hi><hi>321</hi></p><p><hi rend="bold" xml:space="preserve">Beyaz dizlik: </hi><hi>130</hi></p><p><hi rend="bold" xml:space="preserve">Makrame ve havlu: </hi><hi>200</hi></p><p><hi rend="bold" xml:space="preserve">Hırdavat: </hi><hi>66</hi></p><p><hi rend="bold" xml:space="preserve">Bıçak: </hi><hi>24</hi></p><p><hi rend="bold" xml:space="preserve">Beyaz evrāk defteri: </hi><hi>30</hi></p><p><hi rend="bold" xml:space="preserve">Filinta tüfenk: </hi><hi>200</hi></p><p><hi rend="bold" xml:space="preserve">Piştov tek: </hi><hi>60</hi></p><p><hi rend="bold" xml:space="preserve">Şa‘īr ber vech-i tāhmin: </hi><hi>2600</hi></p><p><hi rend="bold" xml:space="preserve">Ham sirke: </hi><hi>900</hi></p><p><hi rend="bold" xml:space="preserve">Bir mikdār saman: </hi><hi>120</hi></p><p><hi rend="bold" xml:space="preserve">Hırdavat-ı dükkān: </hi><hi>1200</hi></p><p><hi rend="bold" xml:space="preserve">Toru bārgir: </hi><hi>3040</hi></p><p><hi rend="bold" xml:space="preserve">Bir re’s kır bargir:  </hi><hi>1040</hi></p></div>
+        </body>
+    </text>
+</TEI>

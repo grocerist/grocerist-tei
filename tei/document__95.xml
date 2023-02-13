@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__95.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Yorgi v. Franko: İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1744-1745"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)</idno></ab>
+         </abstract>         <creation><date when="1744-1745">1157</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__99">
+                <persName>Yorgi v. Franko</persName>
+               </person>               <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="neighbourhood__67" type="neighbourhood"><placeName>Yavud</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__14">Lentil</term><term xml:id="goods__29">Onion</term><term xml:id="goods__30">Salt</term><term xml:id="goods__41">Daru</term><term xml:id="goods__45">Bulgur</term><term xml:id="goods__46">Barley</term><term xml:id="goods__51">Linden</term><term xml:id="goods__53">Flour</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__115">Zenbil</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__121">Jug</term><term xml:id="goods__128">Flat tray</term><term xml:id="goods__130">Jar</term><term xml:id="goods__133">Washing tray</term><term xml:id="goods__134">Bucket</term><term xml:id="goods__135">Pot</term><term xml:id="goods__136">Potna</term><term xml:id="goods__139">Basket</term><term xml:id="goods__140">Knife</term><term xml:id="goods__144">Piştahta</term><term xml:id="goods__151">String</term><term xml:id="goods__167">Havan</term><term xml:id="goods__204">Broom</term><term xml:id="goods__212">Zeyt yağı küpü</term><term xml:id="goods__217">Urgan</term><term xml:id="goods__218">Torba</term><term xml:id="goods__219">Katran</term><term xml:id="goods__220">Yağ badyesi</term><term xml:id="goods__221">Şinik</term><term xml:id="goods__260">Demet odunu</term><term xml:id="goods__288">Tencere</term><term xml:id="goods__302">Keser</term><term xml:id="goods__304">Havan</term><term xml:id="goods__306">Badya</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 173 / 71a-2,72_<ref target="http://document__95"><hi rend="underline color(1155cc)">GrocerIST id_78</hi></ref></head><p style="text-align: justify;"><hi>Medīne-i hazret-i Ebī Eyyüb el-Ensārī -radiye anhu Rabbühü’l-bārī-de Yavud? mahallesinde vāki‘ bakkāl dükkānında müsteciren mütemekkin iken bundan akdem firār ve gaybet idüb hayātı ve memātı ma‘lūm olmayan Yorgi veled-i Franko nām gāibin zāhirde vāris-i ma‘rūf ve ma‘rūfesi olmamağla dükkān-ı mezkūrede Elhac Hüsrev mahallesinde vāki‘ bakkāl dükkānı derūnlarında ve mahzeninde mevcūd terekesi cānib-i beytülmāle aid olmağla medīne-i mezbūrede beytülmālı kabza memūr olan Mustafa Ağa b. Hasan taleb ve ma‘rifetiyle  tahrīr ve fürūht olunan gāib-i mesfūrun dükkān-ı mezbūrlarında olan eşyāsıdır ki ber vech-i ātī zikr olunur.  Fi’l-yevmi’l-hādī aşar min-Recebi’l-ferd sene seb‘a ve hamsīn ve mie ve elf. 1157</hi></p><p><hi rend="bold" xml:space="preserve">Kavanoz: </hi><hi>16 / 32</hi></p><p><hi rend="bold" xml:space="preserve">Tarak (8) tencere (4): </hi><hi>12</hi></p><p><hi rend="bold" xml:space="preserve">Sırlı desti: </hi><hi>1 /10</hi></p><p><hi rend="bold" xml:space="preserve">Urgan ve ıhlamur: </hi><hi>45</hi></p><p><hi rend="bold" xml:space="preserve">Sicim ve torba: </hi><hi>9</hi></p><p><hi rend="bold" xml:space="preserve">Dakik ve bulgur ve mercimek ve tuz ma zenbil: </hi><hi>30</hi></p><p><hi rend="bold" xml:space="preserve">Süpürge: </hi><hi>4 / 15</hi></p><p><hi rend="bold" xml:space="preserve">Desti: </hi><hi>5 / 30</hi></p><p><hi rend="bold" xml:space="preserve">Kantar, katran ve tahta tabla: </hi><hi>250</hi></p><p><hi rend="bold" xml:space="preserve">Fuçı: </hi><hi>9 / 300</hi></p><p><hi rend="bold">Soğan: 6</hi></p><p><hi rend="bold" xml:space="preserve">Yağ badyesi: </hi><hi>40</hi></p><p><hi rend="bold" xml:space="preserve">Tabanca çift: </hi><hi>120</hi></p><p><hi rend="bold" xml:space="preserve">Kazma (1) ma koğa (2): </hi><hi>44</hi></p><p><hi rend="bold" xml:space="preserve">Bıçak: </hi><hi>10</hi></p><p><hi rend="bold" xml:space="preserve">Yağ küpü: </hi><hi>2 / 150</hi></p><p><hi rend="bold" xml:space="preserve">Fuçı: </hi><hi>1 / 10</hi></p><p><hi rend="bold" xml:space="preserve">Peştahta: </hi><hi>1 / 20</hi></p><p><hi rend="bold" xml:space="preserve">Hırdavat: </hi><hi>150</hi></p><p><hi>Gāib-i merkūm Yorginin mahalle-i mezbūrede vāki‘ mahzende mevcūd olan eşyāsıdır ki zikr olunur:</hi></p><p><hi rend="bold" xml:space="preserve">Kebīr sirke fuçısı: </hi><hi>240</hi></p><p><hi rend="bold" xml:space="preserve">Potna: </hi><hi>4 / 120</hi></p><p><hi rend="bold" xml:space="preserve">Def’a şikeste potna: </hi><hi>3 / 100</hi></p><p><hi rend="bold" xml:space="preserve">Arpa: </hi><hi>Keyl 2 / 60</hi></p><p><hi rend="bold" xml:space="preserve">T (D)arı: </hi><hi xml:space="preserve">Keyl 2/ 60 </hi></p><p><hi rend="bold" xml:space="preserve">Yular: </hi><hi>2 / 20</hi></p><p><hi rend="bold" xml:space="preserve">Şikeste kantar: </hi><hi>2 / 60</hi></p><p><hi rend="bold" xml:space="preserve">Kazma: </hi><hi>1 / 45</hi></p><p><hi rend="bold" xml:space="preserve">Süpürge: </hi><hi>10 / 10</hi></p><p><hi rend="bold" xml:space="preserve">Ihlamur: </hi><hi>3 / 6</hi></p><p><hi rend="bold" xml:space="preserve">Demet odun : </hi><hi>100</hi></p><p><hi rend="bold" xml:space="preserve">Şinik: </hi><hi>1 / 15</hi></p><p><hi rend="bold">Otlak:</hi><hi xml:space="preserve"> 6</hi></p><p><hi rend="bold" xml:space="preserve">Koğa (2) ve Gerdel (4): </hi><hi>88</hi></p><p><hi rend="bold" xml:space="preserve">Temür:  </hi><hi>10 / 30</hi></p><p><hi rend="bold" xml:space="preserve">Tabla: </hi><hi>2 / 40</hi></p><p><hi rend="bold" xml:space="preserve">Sepet: </hi><hi>8 / 81</hi></p><p><hi rend="bold" xml:space="preserve">Keser: </hi><hi>1 / 20</hi></p><p><hi rend="bold" xml:space="preserve">Küp: </hi><hi>50</hi></p><p><hi rend="bold" xml:space="preserve">Hırdavat-ı mahzen: </hi><hi>30</hi></p><p><hi rend="bold">Cem‘an yekūn:</hi><hi>1180</hi></p><p><hi>Gāib-i merkūmun Elhac Hüsrev mahallesinde vāki‘ bakkāl dükkānında mevcūd olan eşyāsıdır zikr olunur:</hi></p><p><hi rend="bold" xml:space="preserve">Arpa: </hi><hi>Keyl 3 / 90</hi></p><p><hi rend="bold" xml:space="preserve">Potna: </hi><hi>8 / 250</hi></p><p><hi rend="bold" xml:space="preserve">Sicim </hi><hi>14 / 15</hi></p><p><hi rend="bold" xml:space="preserve">Sirke fuçısı: </hi><hi>30</hi></p><p><hi rend="bold" xml:space="preserve">Soğan: </hi><hi>Kıyye 15 / 30</hi> </p><p><hi rend="bold" xml:space="preserve">Tekne: </hi><hi>1 / 30</hi></p><p><hi rend="bold" xml:space="preserve">Desti: </hi><hi>1 / 30</hi></p><p><hi rend="bold" xml:space="preserve">Badya ve havan: </hi><hi>40</hi></p><p><hi rend="bold" xml:space="preserve">Hırdavat-ı dükkān ma tuz: </hi><hi>630</hi></p></div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__80.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Yovan v. Vasil: İSTM.ŞSC.06.d. 491 / 51b-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 491 / 51b-2</idno>
+                    </msIdentifier>
+                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 491 / 51b-2</idno></ab>
+         </abstract>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__80">
+                <persName>Yovan v. Vasil</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__62" type="neighbourhood"><placeName>Tenbel Elhac Mehmed</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__13">Chickpea</term><term xml:id="goods__14">Lentil</term><term xml:id="goods__15">Rice</term><term xml:id="goods__17">Beylerce</term><term xml:id="goods__18">Razaki</term><term xml:id="goods__22">Carob</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__24">Nardenk</term><term xml:id="goods__25">Honey</term><term xml:id="goods__27">Starch</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__30">Salt</term><term xml:id="goods__34">Olive</term><term xml:id="goods__36">Vermicelli</term><term xml:id="goods__40">Pickled cabbage</term><term xml:id="goods__45">Bulgur</term><term xml:id="goods__64">Smashed salt</term><term xml:id="goods__88">Pearl onion</term><term xml:id="goods__115">Zenbil</term><term xml:id="goods__130">Jar</term><term xml:id="goods__147">Coal</term><term xml:id="goods__189">Tarhana</term><term xml:id="goods__202">Lob fig</term><term xml:id="goods__275">İzmir siyahı üzüm</term>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 491 / 51b-2_<ref target="http://document__80"><hi rend="underline color(1155cc)">GrocerIST id_67</hi></ref></head><p style="text-align: justify;"><hi>Medīne-i Üsküdarda Tenbel Elhac Mehmed mahallesinde vāki‘</hi> <hi rend="background(yellow)" xml:space="preserve">… </hi><hi xml:space="preserve">demekle ma‘rūf bakkāl dükkānında müsteciran mütemekkin iken bundan akdem firār ve gaybet eden Yovan veled-i Vasil nām zımmīnin dükkān-ı mezkūrda mevcūd ecnās-ı zehāir zımmem-i nasda olan hukukunu ahz ü kabz ve hıfza kıbel-i şerden  bā-hüccet-i şer‘iye vasī ve kayyım nasb olunan ve debbağ Esseyid Elhac Mehmed Ağa b. Elhac İsmail nām kimesnenin talebiyle ve ma‘rifetiyle gāib merkūmun tahrīr ve terkīm olunan ecnās-ı zehāir defteridir ki ber vech-i ātī zikr olunur. </hi><hi rend="background(yellow)">Hurrira fil yevm … şevval mükerrem ….</hi></p><p><hi rend="bold">Nişasta:</hi><hi xml:space="preserve"> Fī 32 / Kıyye 2 / Kıymet 64</hi></p><p><hi rend="bold">Tarhana:</hi><hi xml:space="preserve"> Fī 20 / Kıyye 6 / Kıymet 120</hi></p><p><hi rend="bold">Nohud:</hi><hi xml:space="preserve"> Fī 12 / Kıyye 9.5 / Kıymet 114</hi></p><p><hi rend="bold">Pirinç:</hi><hi xml:space="preserve"> Fī 21 / Kıyye 26 / Kıymet 546</hi></p><p><hi rend="bold background(red)">Bulgur:</hi><hi rend="background(red)" xml:space="preserve"> Fī 15 / Kıyye 21 / Kıymet 318</hi></p><p><hi rend="bold">Mercimek:</hi><hi xml:space="preserve"> Fī 11 / Kıyye 15 / Kıymet 165</hi></p><p><hi rend="bold">Harnup:</hi><hi xml:space="preserve"> Fī 8 / Kıyye 13.5 / Kıymet 108</hi></p><p><hi rend="bold">İzmir beylercesi:</hi><hi xml:space="preserve"> Fī 11 / Kıyye 197.5 / Kıymet 2172</hi></p><p><hi rend="bold">Tulum peyniri:</hi><hi xml:space="preserve"> Fī 20 / Kıyye 26 / Kıymet 520</hi></p><p><hi rend="bold">Razaki üzümü:</hi><hi xml:space="preserve"> Fī 21 / Kıyye 71.5 / Kıymet 1501</hi></p><p><hi rend="bold background(red)">İzmir siy</hi><hi rend="bold">ā</hi><hi rend="bold background(red)">hı:</hi><hi rend="background(red)" xml:space="preserve"> Fī 17 / Kıyye 37 / Kıymet 624</hi></p><p><hi rend="bold">Beylerce üzümü:</hi><hi xml:space="preserve"> Fī 16 / Kıyye 29 / Kıymet 464</hi></p><p><hi rend="bold">Şa‘riye:</hi><hi xml:space="preserve"> Fī 25 / Kıyye 10 / Kıymet 250</hi></p><p><hi rend="bold">Lob incir:</hi><hi xml:space="preserve"> Fī 22 / Kıyye 67 / Kıymet 1474</hi></p><p><hi rend="bold">İnce tuz:</hi><hi xml:space="preserve"> Fī 4 / Kıyye 50 / Kıymet 200</hi></p><p><hi rend="bold">Nardenk:</hi><hi xml:space="preserve"> Fī 10 / Kıyye 36 / Kıymet 360</hi></p><p><hi rend="bold">Asel atik:</hi><hi xml:space="preserve"> Fī 24 / Kıyye 32 / Kıymet 768</hi></p><p><hi rend="bold">Pekmez:</hi><hi xml:space="preserve"> Fī 15 / Kıyye 43 / Kıymet 645</hi></p><p><hi rend="bold">Revgan-ı sāde mahlut:</hi><hi xml:space="preserve"> Fī 84 / Kıyye 61 / Kıymet 5124</hi></p><p><hi rend="bold">Revgan-ı zeyt:</hi><hi xml:space="preserve"> Fī 65 / Kıyye 25 / Kıymet 1625</hi></p><p><hi rend="bold background(red)">Arpacık soğanı:</hi><hi rend="background(red)" xml:space="preserve"> Fī 8 / Kıyye 24 / Kıymet 336</hi></p><p><hi rend="bold">Zeytūn:</hi><hi xml:space="preserve"> Fī 24 / Kıyye 12 / Kıymet 288</hi></p><p><hi rend="bold">Lahana turşusu:</hi><hi xml:space="preserve"> Meblağ 450</hi></p><p><hi rend="bold">Kaba tuz:</hi><hi xml:space="preserve"> Fī 6 / Keyl 3.5 / Kıymet 21</hi></p><p><hi rend="bold">Kaşkaval peyniri:</hi><hi xml:space="preserve"> Fi 54 / Dirhem 100 /Kıyye 17 / Kıymet 930</hi></p><p><hi rend="bold background(red)">Sirke:</hi><hi rend="background(red)" xml:space="preserve"> Fī 4 / Kıyye 200 / Kıymet 1000</hi></p><p><hi rend="bold">Kömür ber vech-i tahmīn:</hi><hi xml:space="preserve"> Kıymet 400</hi></p><p><hi rend="bold">Destgāh yüzü kavanoz ve zenbil:</hi><hi xml:space="preserve"> Kıymet 2062</hi></p><p><hi rend="bold" xml:space="preserve">Çekmecece zuhūr eden nakd: </hi><hi>570</hi></p><p><hi rend="bold" xml:space="preserve">Def‘a vesāirinde zuhūr eden nakd: </hi><hi>1101</hi></p></div>
+        </body>
+    </text>
+</TEI>

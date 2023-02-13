@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__92.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bakkal Ahmed Beşe b. Abdullah: İSTM.ŞSC.15.d. 134/ 95a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.15.d. 134/ 95a-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1715-1716"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 134/ 95a-1</idno></ab>
+         </abstract>         <creation><date when="1715-1716">1128</date></creation>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__88">
+                <persName>Bakkal Ahmed Beşe b. Abdullah</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="neighbourhood__63" type="neighbourhood"><placeName>Şah Sultan</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 134/ 95a-1_<ref target="http://document__92"><hi rend="underline color(1155cc)">GrocerIST id_75</hi></ref></head><p style="text-align: justify;"><hi>Medīne-i hazret-i Ebī Eyyüb el-Ensārī -radiye anhu Rabbühi’l-bārī- mahallātından Şah Sultan mahallesinde sākin iken bundan akdem vefāt eden bakkāl Ahmed Beşe b. Abdullāhın terekesinin sülüsünden vesāyasını tenfîze bā-hüccet-i şer‘iye vasiyy-i muhtārı olan Hüseyin Çelebi b. Mustafanın ber-mūceb-i defter-i kassām-ı askerī  tereke-i müteveffā-yı mezbūrdan kabz eylediği sülüs ve masārıfi defteridir ber-vech-i ātī zikrolunur. Fi’l-yevmi’l-hāmis ve’l-ışrīn min- Zilhicceti’ş-şerīfe li-sene semān ve’l-ışrīn ve mie ve elf. 1128</hi></p></div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__39.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">: İSTM.ŞSC.14.d. 394/ 59b-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.14.d. 394/ 59b-1</idno>
+                    </msIdentifier>
+                    <history>                        <origin when="1768-1769"/>                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 394/ 59b-1</idno></ab>
+         </abstract>         <creation><date when="1768-1769">1182</date></creation>         <particDesc>
+            <listPerson>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>               <person role="mentioned">
+                <persName>Sister</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__8" type="district"><placeName>İstinye</placeName></place><place xml:id="neighbourhood__29" type="neighbourhood"><placeName>Yeniköy</placeName></place><place xml:id="neighbourhood__33" type="neighbourhood"><placeName> Aya Nikoli</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_impatt586yd"/><hi rend="baseline">İSTM.ŞSC.14.d. 394/ 59b-1</hi><ref target="http://document__39"><hi rend="baseline underline color(1155cc)">_ GrocerIST id_39</hi></ref></head><p style="text-align: justify;"><anchor xml:id="xmlid__heading_h_4d34og8"/><hi xml:space="preserve">Mahrūse-i Galata tevābi’nden İstinye nāhiyesine tābi’Yeniköy kasabasında Aya Nikola mahallesinde mütemekkin iken bundan akdem hālik olan bakkāl  Tototş? veled-i Yani veled-i Yanaki verāseti zevcesi  </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> bt. Marodi ve sulbiye sagīre kızları </hi><hi rend="background(yellow)" xml:space="preserve">... … </hi><hi>ve li-ebeveyn kız karındaşları</hi><hi rend="background(yellow)" xml:space="preserve">  …</hi><hi xml:space="preserve"> ve </hi><hi rend="background(yellow)" xml:space="preserve">… </hi><hi>münhasıra olduğu şer’an zāhir oldukdan sonra sagīrtān-ı mesfūrtānın tesviye-i emrlerine vasī</hi> <hi rend="background(yellow)">…</hi><hi xml:space="preserve"> mesfūre </hi><hi rend="background(yellow)" xml:space="preserve">.. …. </hi><hi>talebleriye tahrīr olunan tereke-i hālik-i mesfūrdur ki ber vech-i ātī 1182</hi></p><p style="text-align: justify;"><hi>Mahalle-i mezkūrede vāki‘ bakkāl dükkānında mevcūd olan eşyā: 12000</hi>  </p><p style="text-align: justify;"><hi xml:space="preserve">Mardinde  </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> bağları </hi><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> kürūmî mülk bağ: 24000</hi> </p><p style="text-align: justify;"><hi rend="background(yellow)">…</hi><hi xml:space="preserve"> mülk-ü menzil der mahalle-i mezkūre: 60000</hi> </p></div>
+        </body>
+    </text>
+</TEI>
