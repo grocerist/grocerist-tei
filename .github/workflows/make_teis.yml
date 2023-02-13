@@ -1,0 +1,28 @@
+
+name: Make TEIs
+
+on:
+  schedule:
+  - cron: "23 50 * * *"
+  workflow_dispatch:
+
+jobs:
+  download:
+    name: make teis
+    runs-on: ubuntu-latest
+    steps:
+      - name: Perfom Checkout
+        uses: actions/checkout@v3
+      - name: Install Python Packages
+        run: |
+          pip install -r requirements.txt
+      - name: docx to tei
+        run: |
+          python scripts/download_docx.py
+      - name: split and enrich files
+        run: |
+          python scripts/split.py
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: TEI updates
