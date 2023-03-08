@@ -57,7 +57,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__14" type="district"><placeName>Karaköy Kapısı harici</placeName></place>            </listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__14" type="district"><placeName>Karaköy Kapısı harici</placeName></place><place xml:id="neighbourhood__30" type="neighbourhood"><placeName>Karaköy kapısı harici</placeName></place>            </listPlace>
          </settingDesc>      </profileDesc>
     </teiHeader>
     <text>
