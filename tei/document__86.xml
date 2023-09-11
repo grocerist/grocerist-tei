@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__86.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Dimitri v. Polizo: İSTM.ŞSC.06.d. 522 / 21b-4</title>
+                <title type="main">: İSTM.ŞSC.06.d. 522 / 21b-4</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 522 / 21b-4</idno></ab>
          </abstract>         <creation><date when="1785-1786">1200</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__115">
-                <persName>Dimitri v. Polizo</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">
@@ -62,7 +62,7 @@
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__59" type="neighbourhood"><placeName>Hüseyin Ağa</placeName></place><place xml:id="neighbourhood__86" type="neighbourhood"><placeName>Ağa hamamı mahali</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__13">Chickpea</term><term xml:id="goods__15">Rice</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__25">Honey</term><term xml:id="goods__27">Starch</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__34">Olive</term><term xml:id="goods__36">Vermicelli</term><term xml:id="goods__42">Eflak salt</term><term xml:id="goods__45">Bulgur</term><term xml:id="goods__108">Soap</term><term xml:id="goods__142">Eflak honey</term>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__23"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__34"/><term xml:id="goods__36"/><term xml:id="goods__42"/><term xml:id="goods__45"/><term xml:id="goods__108"/><term xml:id="goods__142"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

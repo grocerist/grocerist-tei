@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__102.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Tanaş v. Niko: İSTM.ŞSC.15.d. 230 / 69a-1</title>
+                <title type="main">: İSTM.ŞSC.15.d. 230 / 69a-1</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 230 / 69a-1</idno></ab>
          </abstract>         <creation><date when="1774-1775">1188</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__104">
-                <persName>Tanaş v. Niko</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Beytülmal Emini</persName>
                </person>            </listPerson>
@@ -56,7 +56,7 @@
 <place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__12">Pea</term><term xml:id="goods__15">Rice</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__46">Barley</term><term xml:id="goods__49">Sausage</term><term xml:id="goods__57">Pastrami</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__137">Trivet</term><term xml:id="goods__146">Wood</term><term xml:id="goods__155">Broad bean</term><term xml:id="goods__206">Temür hurdası</term><term xml:id="goods__226">Arak</term><term xml:id="goods__227">Ham sirke</term><term xml:id="goods__229">Tabak</term><term xml:id="goods__230">Saman</term><term xml:id="goods__285">Sofra</term><term xml:id="goods__303">Şamdan</term>            </keywords>
+<term xml:id="goods__6"/><term xml:id="goods__12"/><term xml:id="goods__15"/><term xml:id="goods__28"/><term xml:id="goods__46"/><term xml:id="goods__49"/><term xml:id="goods__57"/><term xml:id="goods__114"/><term xml:id="goods__120"/><term xml:id="goods__137"/><term xml:id="goods__146"/><term xml:id="goods__155"/><term xml:id="goods__206"/><term xml:id="goods__226"/><term xml:id="goods__227"/><term xml:id="goods__229"/><term xml:id="goods__230"/><term xml:id="goods__285"/><term xml:id="goods__303"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

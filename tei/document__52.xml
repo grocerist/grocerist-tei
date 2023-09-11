@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__52.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Yorgi v. Kirikor: İSTM.ŞSC.14.d.528 / 83b-2</title>
+                <title type="main">: İSTM.ŞSC.14.d.528 / 83b-2</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.528 / 83b-2</idno></ab>
          </abstract>         <creation><date when="1795-1796">1210</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__52">
-                <persName>Bakkal Yorgi v. Kirikor</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Beytülmal Emini</persName>
                </person>            </listPerson>
@@ -56,7 +56,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__8" type="district"><placeName>İstinye</placeName></place><place xml:id="neighbourhood__4" type="neighbourhood"><placeName>Sarıyer</placeName></place><place xml:id="neighbourhood__42" type="neighbourhood"><placeName>Yeni mahalle</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__5">Olive Oil</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__64">Smashed salt</term><term xml:id="goods__67">Pepper</term><term xml:id="goods__68">Pipe</term><term xml:id="goods__102">Tuzlu balık</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__122">Mug</term><term xml:id="goods__124">Scales</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__147">Coal</term><term xml:id="goods__151">String</term><term xml:id="goods__152">Şamadıra</term><term xml:id="goods__326">Kızak yağı</term><term xml:id="goods__333">Zeytun yağı kapları</term>            </keywords>
+<term xml:id="goods__5"/><term xml:id="goods__10"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__64"/><term xml:id="goods__67"/><term xml:id="goods__68"/><term xml:id="goods__102"/><term xml:id="goods__114"/><term xml:id="goods__122"/><term xml:id="goods__124"/><term xml:id="goods__125"/><term xml:id="goods__147"/><term xml:id="goods__151"/><term xml:id="goods__152"/><term xml:id="goods__326"/><term xml:id="goods__333"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__64.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Yani v. Dimo: İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)</title>
+                <title type="main">: İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 337, 47a-2, 48 (a)</idno></ab>
          </abstract>         <creation><date when="1708-1709">1120</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__64">
-                <persName>Yani v. Dimo</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Kayyım</persName>
                </person>            </listPerson>
@@ -56,7 +56,7 @@
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__65" type="neighbourhood"><placeName>Reis</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__2">Pistachio</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__12">Pea</term><term xml:id="goods__13">Chickpea</term><term xml:id="goods__14">Lentil</term><term xml:id="goods__15">Rice</term><term xml:id="goods__17">Beylerce</term><term xml:id="goods__20">Siyah</term><term xml:id="goods__21">Figs</term><term xml:id="goods__22">Carob</term><term xml:id="goods__27">Starch</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__30">Salt</term><term xml:id="goods__33">Kefe salt</term><term xml:id="goods__36">Vermicelli</term><term xml:id="goods__41">Daru</term><term xml:id="goods__49">Sausage</term><term xml:id="goods__61">Trilye olives</term><term xml:id="goods__63">Sesame Oil</term><term xml:id="goods__89">Çorlu cheese</term><term xml:id="goods__108">Soap</term><term xml:id="goods__112">Candle</term><term xml:id="goods__130">Jar</term><term xml:id="goods__158">Candle wax</term><term xml:id="goods__173">Red dried olives</term><term xml:id="goods__174">Turşu yaprağı</term><term xml:id="goods__205">Karadeniz honey</term><term xml:id="goods__206">Temür hurdası</term><term xml:id="goods__207">Zeyt yağı bardağı</term><term xml:id="goods__260">Demet odunu</term><term xml:id="goods__272">Turşu yaprağı</term>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__2"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__10"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__17"/><term xml:id="goods__20"/><term xml:id="goods__21"/><term xml:id="goods__22"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__33"/><term xml:id="goods__36"/><term xml:id="goods__41"/><term xml:id="goods__49"/><term xml:id="goods__61"/><term xml:id="goods__63"/><term xml:id="goods__89"/><term xml:id="goods__108"/><term xml:id="goods__112"/><term xml:id="goods__130"/><term xml:id="goods__158"/><term xml:id="goods__173"/><term xml:id="goods__174"/><term xml:id="goods__205"/><term xml:id="goods__206"/><term xml:id="goods__207"/><term xml:id="goods__260"/><term xml:id="goods__272"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__78.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Esseyid Mustafa b. Ahmed: İSTM.ŞSC.06.d. 465 / 77a-2</title>
+                <title type="main">: İSTM.ŞSC.06.d. 465 / 77a-2</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 465 / 77a-2</idno></ab>
          </abstract>         <creation><date when="1764-1765">1178</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__78">
-                <persName>Esseyid Mustafa b. Ahmed</persName>
+                <persName/>
                </person>            </listPerson>
          </particDesc>
          <settingDesc>
@@ -54,7 +54,7 @@
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__2">Pistachio</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__15">Rice</term><term xml:id="goods__21">Figs</term><term xml:id="goods__24">Nardenk</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__30">Salt</term><term xml:id="goods__44">Wheat</term><term xml:id="goods__45">Bulgur</term><term xml:id="goods__46">Barley</term><term xml:id="goods__51">Linden</term><term xml:id="goods__53">Flour</term><term xml:id="goods__67">Pepper</term><term xml:id="goods__101">Bean</term><term xml:id="goods__122">Mug</term><term xml:id="goods__129">Çömlek</term><term xml:id="goods__150">Firewood</term><term xml:id="goods__158">Candle wax</term><term xml:id="goods__160">Üzüm</term><term xml:id="goods__204">Broom</term>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__2"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__10"/><term xml:id="goods__15"/><term xml:id="goods__21"/><term xml:id="goods__24"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__44"/><term xml:id="goods__45"/><term xml:id="goods__46"/><term xml:id="goods__51"/><term xml:id="goods__53"/><term xml:id="goods__67"/><term xml:id="goods__101"/><term xml:id="goods__122"/><term xml:id="goods__129"/><term xml:id="goods__150"/><term xml:id="goods__158"/><term xml:id="goods__160"/><term xml:id="goods__204"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

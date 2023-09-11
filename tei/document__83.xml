@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__83.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Konstantin v. Horosu: İSTM.ŞSC.06.d.495 / 68a-2 (a)</title>
+                <title type="main">: İSTM.ŞSC.06.d.495 / 68a-2 (a)</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.495 / 68a-2 (a)</idno></ab>
          </abstract>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__113">
-                <persName>Bakkal Konstantin v. Horosu</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">

@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__94.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Pavlo v. Dimitri: İSTM.ŞSC.15.d. 170 / 111b-3 (a)</title>
+                <title type="main">: İSTM.ŞSC.15.d. 170 / 111b-3 (a)</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 170 / 111b-3 (a)</idno></ab>
          </abstract>         <creation><date when="1743-1744">1156</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__98">
-                <persName>Bakkal Pavlo v. Dimitri</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">

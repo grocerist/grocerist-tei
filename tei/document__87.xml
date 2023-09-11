@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__87.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Elhac Hasan Ağa b. Ali: İSTM.ŞSC.06.d. 548 / 43a-2</title>
+                <title type="main">: İSTM.ŞSC.06.d. 548 / 43a-2</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 548 / 43a-2</idno></ab>
          </abstract>         <creation><date when="1798-1799">1213</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__116">
-                <persName>Bakkal Elhac Hasan Ağa b. Ali</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">

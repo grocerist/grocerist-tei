@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__10.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Yorgi v. Dimitri: İSTM.ŞSC.14.d.222 / 45a-2</title>
+                <title type="main">: İSTM.ŞSC.14.d.222 / 45a-2</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.222 / 45a-2</idno></ab>
          </abstract>         <creation><date when="1713-1714">1125</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__10">
-                <persName>Yorgi v. Dimitri</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Beytülmal Emini</persName>
                </person>            </listPerson>
@@ -56,7 +56,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__15" type="neighbourhood"><placeName>Sultan Bayezıd </placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__12">Pea</term><term xml:id="goods__15">Rice</term><term xml:id="goods__19">Kızıl</term><term xml:id="goods__20">Siyah</term><term xml:id="goods__25">Honey</term><term xml:id="goods__27">Starch</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__115">Zenbil</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__128">Flat tray</term><term xml:id="goods__129">Çömlek</term><term xml:id="goods__132">Mizan</term><term xml:id="goods__139">Basket</term>            </keywords>
+<term xml:id="goods__6"/><term xml:id="goods__12"/><term xml:id="goods__15"/><term xml:id="goods__19"/><term xml:id="goods__20"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__114"/><term xml:id="goods__115"/><term xml:id="goods__120"/><term xml:id="goods__125"/><term xml:id="goods__128"/><term xml:id="goods__129"/><term xml:id="goods__132"/><term xml:id="goods__139"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__41.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Astati v. Yani: İSTM.ŞSC.14.d.400 / 55a-1</title>
+                <title type="main">: İSTM.ŞSC.14.d.400 / 55a-1</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.400 / 55a-1</idno></ab>
          </abstract>         <creation><date when="1769-1770">1183</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__41">
-                <persName>Bakkal Astati v. Yani</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">
@@ -60,7 +60,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__2" type="district"><placeName>Beşiktaş</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__15">Rice</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__24">Nardenk</term><term xml:id="goods__25">Honey</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__57">Pastrami</term><term xml:id="goods__102">Tuzlu balık</term><term xml:id="goods__112">Candle</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__124">Scales</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__128">Flat tray</term><term xml:id="goods__160">Üzüm</term>            </keywords>
+<term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__15"/><term xml:id="goods__23"/><term xml:id="goods__24"/><term xml:id="goods__25"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__57"/><term xml:id="goods__102"/><term xml:id="goods__112"/><term xml:id="goods__120"/><term xml:id="goods__124"/><term xml:id="goods__125"/><term xml:id="goods__128"/><term xml:id="goods__160"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

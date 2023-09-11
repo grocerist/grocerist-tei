@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__12.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Dimitri v. Hristo: İSTM.ŞSC.14.d.237 / 16a-1</title>
+                <title type="main">: İSTM.ŞSC.14.d.237 / 16a-1</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.237 / 16a-1</idno></ab>
          </abstract>         <creation><date when="1715-1716">1128</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__12">
-                <persName>Bakkal Dimitri v. Hristo</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">
@@ -58,7 +58,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__14" type="district"><placeName>Karaköy Kapısı harici</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__5">Olive Oil</term><term xml:id="goods__15">Rice</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__30">Salt</term><term xml:id="goods__31">Garlic</term><term xml:id="goods__61">Trilye olives</term><term xml:id="goods__112">Candle</term><term xml:id="goods__130">Jar</term><term xml:id="goods__168">Yağ tulumu</term>            </keywords>
+<term xml:id="goods__5"/><term xml:id="goods__15"/><term xml:id="goods__28"/><term xml:id="goods__30"/><term xml:id="goods__31"/><term xml:id="goods__61"/><term xml:id="goods__112"/><term xml:id="goods__130"/><term xml:id="goods__168"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

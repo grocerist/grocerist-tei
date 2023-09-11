@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__75.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Konstantin v. Hristodoli: İSTM.ŞSC.06.d. 443 / 11a-1 (a)</title>
+                <title type="main">: İSTM.ŞSC.06.d. 443 / 11a-1 (a)</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 443 / 11a-1 (a)</idno></ab>
          </abstract>         <creation><date when="1755-1756">1169</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__75">
-                <persName>Bakkal Konstantin v. Hristodoli</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">
@@ -60,7 +60,7 @@
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__15">Rice</term><term xml:id="goods__25">Honey</term><term xml:id="goods__29">Onion</term><term xml:id="goods__121">Jug</term><term xml:id="goods__122">Mug</term>            </keywords>
+<term xml:id="goods__6"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__15"/><term xml:id="goods__25"/><term xml:id="goods__29"/><term xml:id="goods__121"/><term xml:id="goods__122"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

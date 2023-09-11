@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__3.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Mustafa Beşe b. Osman: İSTM.ŞSC.14.d. 189 / 5a-3, 6</title>
+                <title type="main">: İSTM.ŞSC.14.d. 189 / 5a-3, 6</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 189 / 5a-3, 6</idno></ab>
          </abstract>         <creation><date when="1701-1702">1113</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__3">
-                <persName>Bakkal Mustafa Beşe b. Osman</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">

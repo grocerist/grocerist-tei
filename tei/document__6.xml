@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__6.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Yorgi: İSTM.ŞSC.14.d.212/ 29a-1</title>
+                <title type="main">: İSTM.ŞSC.14.d.212/ 29a-1</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.212/ 29a-1</idno></ab>
          </abstract>         <creation><date when="1711-1712">1123</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__6">
-                <persName>Bakkal Yorgi</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Beytülmal Emini</persName>
                </person>            </listPerson>
@@ -56,7 +56,7 @@
 <place xml:id="district__5" type="district"><placeName>Galata Harici</placeName></place><place xml:id="neighbourhood__9" type="neighbourhood"><placeName>Hasan Ağa </placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__5">Olive Oil</term><term xml:id="goods__12">Pea</term><term xml:id="goods__24">Nardenk</term><term xml:id="goods__25">Honey</term><term xml:id="goods__27">Starch</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__30">Salt</term><term xml:id="goods__34">Olive</term><term xml:id="goods__46">Barley</term><term xml:id="goods__108">Soap</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__130">Jar</term><term xml:id="goods__159">Çorlu molasses</term>            </keywords>
+<term xml:id="goods__5"/><term xml:id="goods__12"/><term xml:id="goods__24"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__30"/><term xml:id="goods__34"/><term xml:id="goods__46"/><term xml:id="goods__108"/><term xml:id="goods__120"/><term xml:id="goods__125"/><term xml:id="goods__130"/><term xml:id="goods__159"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

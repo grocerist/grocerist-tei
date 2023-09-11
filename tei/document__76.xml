@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__76.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Vasil v. Dimitri: İSTM.ŞSC.06.d. 455 / 38a-1</title>
+                <title type="main">: İSTM.ŞSC.06.d. 455 / 38a-1</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 455 / 38a-1</idno></ab>
          </abstract>         <creation><date when="1760-1761">1174</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__76">
-                <persName>Vasil v. Dimitri</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>            </listPerson>
@@ -56,7 +56,7 @@
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__54" type="neighbourhood"><placeName>Mirahor</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__114">Barrel</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__124">Scales</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__212">Zeyt yağı küpü</term><term xml:id="goods__213">Turşu fıçısı</term><term xml:id="goods__243">Sandık</term><term xml:id="goods__304">Havan</term><term xml:id="goods__329">Turşu fıçısı</term>            </keywords>
+<term xml:id="goods__114"/><term xml:id="goods__120"/><term xml:id="goods__124"/><term xml:id="goods__125"/><term xml:id="goods__212"/><term xml:id="goods__213"/><term xml:id="goods__243"/><term xml:id="goods__304"/><term xml:id="goods__329"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

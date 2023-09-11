@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__100.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Yani v. Aleksi: İSTM.ŞSC.15.d. 205 / 51a-2</title>
+                <title type="main">: İSTM.ŞSC.15.d. 205 / 51a-2</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 205 / 51a-2</idno></ab>
          </abstract>         <creation><date when="1761-1762">1175</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__102">
-                <persName>Bakkal Yani v. Aleksi</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">
@@ -58,7 +58,7 @@
 <place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__15">Rice</term><term xml:id="goods__29">Onion</term><term xml:id="goods__41">Daru</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__226">Arak</term><term xml:id="goods__227">Ham sirke</term><term xml:id="goods__228">Dikel</term>            </keywords>
+<term xml:id="goods__15"/><term xml:id="goods__29"/><term xml:id="goods__41"/><term xml:id="goods__114"/><term xml:id="goods__226"/><term xml:id="goods__227"/><term xml:id="goods__228"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

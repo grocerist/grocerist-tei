@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__96.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Dimitri v. Hristo: İSTM.ŞSC.15.d. 174 / 41a-2</title>
+                <title type="main">: İSTM.ŞSC.15.d. 174 / 41a-2</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 174 / 41a-2</idno></ab>
          </abstract>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__100">
-                <persName>Bakkal Dimitri v. Hristo</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">
@@ -60,7 +60,7 @@
 <place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="district__20" type="district"><placeName>Çekmece-i Kebir</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__44">Wheat</term><term xml:id="goods__289">Kazgan</term>            </keywords>
+<term xml:id="goods__44"/><term xml:id="goods__289"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

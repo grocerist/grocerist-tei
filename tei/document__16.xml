@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__16.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Ali Beşe b. Mehmed: İSTM.ŞSC.14.d.241 / 3a-1</title>
+                <title type="main">: İSTM.ŞSC.14.d.241 / 3a-1</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.241 / 3a-1</idno></ab>
          </abstract>         <creation><date when="1717-1718">1130</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__16">
-                <persName>Bakkal Ali Beşe b. Mehmed</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">
@@ -60,7 +60,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__6" type="district"><placeName>Kasımpaşa</placeName></place><place xml:id="neighbourhood__12" type="neighbourhood"><placeName>Elhac Hasan</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__21">Figs</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__115">Zenbil</term><term xml:id="goods__119">Sack</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__124">Scales</term><term xml:id="goods__125">Dirhem</term><term xml:id="goods__128">Flat tray</term><term xml:id="goods__135">Pot</term><term xml:id="goods__136">Potna</term><term xml:id="goods__143">Seklem</term><term xml:id="goods__144">Piştahta</term><term xml:id="goods__145">Akçe kesesi</term>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__21"/><term xml:id="goods__114"/><term xml:id="goods__115"/><term xml:id="goods__119"/><term xml:id="goods__120"/><term xml:id="goods__124"/><term xml:id="goods__125"/><term xml:id="goods__128"/><term xml:id="goods__135"/><term xml:id="goods__136"/><term xml:id="goods__143"/><term xml:id="goods__144"/><term xml:id="goods__145"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

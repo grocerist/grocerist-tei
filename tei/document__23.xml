@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__23.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Todori v. Dimo: İSTM.ŞSC.14.d.254 / 76b-1</title>
+                <title type="main">: İSTM.ŞSC.14.d.254 / 76b-1</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.254 / 76b-1</idno></ab>
          </abstract>         <creation><date when="1722-1723">1135</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__23">
-                <persName>Bakkal Todori v. Dimo</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">

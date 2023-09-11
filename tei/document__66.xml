@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__66.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Kristic v. Mihal: İSTM.ŞSC.06.d. 339 / 94b-1</title>
+                <title type="main">: İSTM.ŞSC.06.d. 339 / 94b-1</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 339 / 94b-1</idno></ab>
          </abstract>         <creation><date when="1709-1710">1121</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__66">
-                <persName>Bakkal Kristic v. Mihal</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">

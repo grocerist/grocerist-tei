@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__2.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bakkal Filibi v. Yorgi: İSTM.ŞSC.14.d.177 / 34b-1</title>
+                <title type="main">: İSTM.ŞSC.14.d.177 / 34b-1</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -46,7 +46,7 @@
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.177 / 34b-1</idno></ab>
          </abstract>         <creation><date when="1699-1700">1111</date></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__2">
-                <persName>Bakkal Filibi v. Yorgi</persName>
+                <persName/>
                </person>               <person role="mentioned">
                 <persName>Beytülmal Emini</persName>
                </person>            </listPerson>
@@ -56,7 +56,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__8" type="district"><placeName>İstinye</placeName></place><place xml:id="neighbourhood__29" type="neighbourhood"><placeName>Yeniköy</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1">Hazelnut</term><term xml:id="goods__5">Olive Oil</term><term xml:id="goods__6">Ghee, Clarified Butter</term><term xml:id="goods__9">Kashkaval</term><term xml:id="goods__10">Tulum peyniri</term><term xml:id="goods__14">Lentil</term><term xml:id="goods__15">Rice</term><term xml:id="goods__20">Siyah</term><term xml:id="goods__21">Figs</term><term xml:id="goods__23">Molasses</term><term xml:id="goods__28">Vinegar</term><term xml:id="goods__29">Onion</term><term xml:id="goods__30">Salt</term><term xml:id="goods__34">Olive</term><term xml:id="goods__35">Tobacco</term><term xml:id="goods__36">Vermicelli</term><term xml:id="goods__37">Pickled fish</term><term xml:id="goods__38">Caviar</term><term xml:id="goods__40">Pickled cabbage</term><term xml:id="goods__114">Barrel</term><term xml:id="goods__115">Zenbil</term><term xml:id="goods__116">Frying pan</term><term xml:id="goods__119">Sack</term><term xml:id="goods__120">Steelyard</term><term xml:id="goods__121">Jug</term><term xml:id="goods__122">Mug</term><term xml:id="goods__134">Bucket</term><term xml:id="goods__155">Broad bean</term><term xml:id="goods__157">Sade balık</term>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__20"/><term xml:id="goods__21"/><term xml:id="goods__23"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__34"/><term xml:id="goods__35"/><term xml:id="goods__36"/><term xml:id="goods__37"/><term xml:id="goods__38"/><term xml:id="goods__40"/><term xml:id="goods__114"/><term xml:id="goods__115"/><term xml:id="goods__116"/><term xml:id="goods__119"/><term xml:id="goods__120"/><term xml:id="goods__121"/><term xml:id="goods__122"/><term xml:id="goods__134"/><term xml:id="goods__155"/><term xml:id="goods__157"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>
