@@ -1,3 +1,3 @@
 acdh-tei-pyutils
-gdown==4.7.0
+gdown==4.6.3
 jinja2
