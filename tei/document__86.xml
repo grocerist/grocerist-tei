@@ -60,7 +60,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__59" type="neighbourhood"><placeName>Hüseyin Ağa</placeName></place><place xml:id="neighbourhood__86" type="neighbourhood"><placeName>Ağa hamamı mahali</placeName></place>            </listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__59" type="neighbourhood"><placeName>Hüseyin Ağa</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
 <term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__23"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__34"/><term xml:id="goods__36"/><term xml:id="goods__42"/><term xml:id="goods__45"/><term xml:id="goods__108"/><term xml:id="goods__142"/>            </keywords>

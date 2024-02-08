@@ -52,7 +52,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__7" type="district"><placeName>Tophane</placeName></place><place xml:id="neighbourhood__20" type="neighbourhood"><placeName>Karabaş Mustafa Ağa</placeName></place>            </listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__20" type="neighbourhood"><placeName>Karabaş Mustafa Ağa</placeName></place>            </listPlace>
          </settingDesc>      </profileDesc>
     </teiHeader>
     <text>

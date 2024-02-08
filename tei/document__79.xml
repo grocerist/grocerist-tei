@@ -58,7 +58,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__82" type="neighbourhood"><placeName>Yük iskelesi kurbu</placeName></place>            </listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
          </settingDesc>      </profileDesc>
     </teiHeader>
     <text>

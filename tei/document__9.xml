@@ -58,7 +58,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__11" type="district"><placeName>Kurşunlu Mahzen Kapısı dahili</placeName></place><place xml:id="neighbourhood__22" type="neighbourhood"><placeName>Mustafa Paşa </placeName></place>            </listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__22" type="neighbourhood"><placeName>Mustafa Paşa </placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
 <term xml:id="goods__15"/><term xml:id="goods__21"/><term xml:id="goods__48"/><term xml:id="goods__50"/>            </keywords>

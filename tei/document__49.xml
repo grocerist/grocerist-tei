@@ -58,7 +58,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__6" type="district"><placeName>Kasımpaşa</placeName></place><place xml:id="neighbourhood__2" type="neighbourhood"><placeName>Tatavla</placeName></place><place xml:id="neighbourhood__76" type="neighbourhood"><placeName>Kulaksız</placeName></place>            </listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__76" type="neighbourhood"><placeName>Kulaksız</placeName></place>            </listPlace>
          </settingDesc>      </profileDesc>
     </teiHeader>
     <text>

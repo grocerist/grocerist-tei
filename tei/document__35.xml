@@ -58,7 +58,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__8" type="district"><placeName>İstinye</placeName></place><place xml:id="neighbourhood__29" type="neighbourhood"><placeName>Yeniköy</placeName></place><place xml:id="neighbourhood__66" type="neighbourhood"><placeName>Kürkçü</placeName></place>            </listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__66" type="neighbourhood"><placeName>Kürkçü</placeName></place>            </listPlace>
          </settingDesc>      </profileDesc>
     </teiHeader>
     <text>

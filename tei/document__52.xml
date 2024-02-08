@@ -54,7 +54,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__8" type="district"><placeName>İstinye</placeName></place><place xml:id="neighbourhood__4" type="neighbourhood"><placeName>Sarıyer</placeName></place><place xml:id="neighbourhood__42" type="neighbourhood"><placeName>Yeni mahalle</placeName></place>            </listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__42" type="neighbourhood"><placeName>Yeni mahalle</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
 <term xml:id="goods__5"/><term xml:id="goods__10"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__64"/><term xml:id="goods__67"/><term xml:id="goods__68"/><term xml:id="goods__102"/><term xml:id="goods__114"/><term xml:id="goods__122"/><term xml:id="goods__124"/><term xml:id="goods__125"/><term xml:id="goods__147"/><term xml:id="goods__151"/><term xml:id="goods__152"/><term xml:id="goods__326"/><term xml:id="goods__333"/>            </keywords>

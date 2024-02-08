@@ -58,7 +58,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__7" type="district"><placeName>Tophane</placeName></place>            </listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
 <term xml:id="goods__3"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__9"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__24"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__31"/><term xml:id="goods__34"/><term xml:id="goods__36"/><term xml:id="goods__42"/><term xml:id="goods__51"/><term xml:id="goods__52"/><term xml:id="goods__108"/><term xml:id="goods__120"/><term xml:id="goods__130"/>            </keywords>

@@ -54,7 +54,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="district__8" type="district"><placeName>İstinye</placeName></place><place xml:id="neighbourhood__38" type="neighbourhood"><placeName>Bey Bağçesi</placeName></place>            </listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
 <term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__7"/><term xml:id="goods__10"/><term xml:id="goods__15"/><term xml:id="goods__18"/><term xml:id="goods__20"/><term xml:id="goods__21"/><term xml:id="goods__24"/><term xml:id="goods__25"/><term xml:id="goods__28"/><term xml:id="goods__30"/><term xml:id="goods__33"/><term xml:id="goods__34"/><term xml:id="goods__36"/><term xml:id="goods__46"/><term xml:id="goods__49"/><term xml:id="goods__57"/><term xml:id="goods__64"/><term xml:id="goods__86"/><term xml:id="goods__87"/><term xml:id="goods__88"/><term xml:id="goods__89"/><term xml:id="goods__147"/><term xml:id="goods__155"/>            </keywords>

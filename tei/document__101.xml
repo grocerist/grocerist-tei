@@ -58,7 +58,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="neighbourhood__70" type="neighbourhood"><placeName>Edine Kapısı harici</placeName></place>            </listPlace>
+<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place>            </listPlace>
          </settingDesc>      </profileDesc>
     </teiHeader>
     <text>
