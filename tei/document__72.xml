@@ -45,7 +45,7 @@
         <profileDesc>
          <abstract>
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 427 / 50a-2</idno></ab>
-         </abstract>         <creation><date when="1749-1750">1163</date></creation>         <particDesc>
+         </abstract>         <creation><date when="1749-1750"/></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__109">
                 <persName/>
                </person>               <person role="mentioned">
