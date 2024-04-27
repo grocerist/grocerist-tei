@@ -58,7 +58,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__21" type="district"><placeName>İstanbul</placeName></place><place xml:id="neighbourhood__87" type="neighbourhood"><placeName>Balat Kapısı</placeName></place>            </listPlace>
+<place xml:id="neighbourhood__87" type="neighbourhood"><placeName>Balat Kapısı</placeName></place>            </listPlace>
          </settingDesc>      </profileDesc>
     </teiHeader>
     <text>
