@@ -57,7 +57,7 @@
 <place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="neighbourhood__69" type="neighbourhood"><placeName>Otakçı</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__4"/><term xml:id="goods__6"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__23"/><term xml:id="goods__24"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__31"/><term xml:id="goods__33"/><term xml:id="goods__41"/><term xml:id="goods__42"/><term xml:id="goods__44"/><term xml:id="goods__45"/><term xml:id="goods__46"/><term xml:id="goods__53"/><term xml:id="goods__57"/><term xml:id="goods__68"/><term xml:id="goods__102"/><term xml:id="goods__121"/><term xml:id="goods__122"/><term xml:id="goods__151"/><term xml:id="goods__207"/><term xml:id="goods__223"/><term xml:id="goods__224"/><term xml:id="goods__225"/><term xml:id="goods__328"/>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__4"/><term xml:id="goods__6"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__23"/><term xml:id="goods__24"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__31"/><term xml:id="goods__33"/><term xml:id="goods__41"/><term xml:id="goods__42"/><term xml:id="goods__44"/><term xml:id="goods__45"/><term xml:id="goods__46"/><term xml:id="goods__53"/><term xml:id="goods__57"/><term xml:id="goods__68"/><term xml:id="goods__102"/><term xml:id="goods__151"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

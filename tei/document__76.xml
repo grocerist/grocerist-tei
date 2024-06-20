@@ -55,10 +55,7 @@
          <settingDesc>
             <listPlace>
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__54" type="neighbourhood"><placeName>Mirahor</placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__114"/><term xml:id="goods__120"/><term xml:id="goods__124"/><term xml:id="goods__125"/><term xml:id="goods__212"/><term xml:id="goods__213"/><term xml:id="goods__243"/><term xml:id="goods__304"/><term xml:id="goods__329"/>            </keywords>
-         </textClass>      </profileDesc>
+         </settingDesc>      </profileDesc>
     </teiHeader>
     <text>
         <body>

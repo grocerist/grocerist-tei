@@ -57,7 +57,7 @@
 <place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__6"/><term xml:id="goods__12"/><term xml:id="goods__15"/><term xml:id="goods__28"/><term xml:id="goods__46"/><term xml:id="goods__49"/><term xml:id="goods__57"/><term xml:id="goods__114"/><term xml:id="goods__120"/><term xml:id="goods__137"/><term xml:id="goods__146"/><term xml:id="goods__155"/><term xml:id="goods__206"/><term xml:id="goods__226"/><term xml:id="goods__227"/><term xml:id="goods__229"/><term xml:id="goods__230"/><term xml:id="goods__285"/><term xml:id="goods__303"/>            </keywords>
+<term xml:id="goods__6"/><term xml:id="goods__12"/><term xml:id="goods__15"/><term xml:id="goods__28"/><term xml:id="goods__46"/><term xml:id="goods__49"/><term xml:id="goods__57"/><term xml:id="goods__146"/><term xml:id="goods__155"/><term xml:id="goods__206"/><term xml:id="goods__226"/><term xml:id="goods__227"/><term xml:id="goods__230"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

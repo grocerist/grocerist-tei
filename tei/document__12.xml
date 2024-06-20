@@ -59,7 +59,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__5"/><term xml:id="goods__15"/><term xml:id="goods__28"/><term xml:id="goods__30"/><term xml:id="goods__31"/><term xml:id="goods__61"/><term xml:id="goods__112"/><term xml:id="goods__130"/><term xml:id="goods__168"/>            </keywords>
+<term xml:id="goods__5"/><term xml:id="goods__15"/><term xml:id="goods__28"/><term xml:id="goods__30"/><term xml:id="goods__31"/><term xml:id="goods__61"/><term xml:id="goods__112"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

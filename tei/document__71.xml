@@ -55,7 +55,7 @@
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__23"/><term xml:id="goods__49"/><term xml:id="goods__120"/><term xml:id="goods__124"/><term xml:id="goods__128"/><term xml:id="goods__140"/><term xml:id="goods__197"/><term xml:id="goods__198"/><term xml:id="goods__270"/><term xml:id="goods__288"/><term xml:id="goods__312"/><term xml:id="goods__331"/><term xml:id="goods__332"/>            </keywords>
+<term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__23"/><term xml:id="goods__49"/><term xml:id="goods__197"/><term xml:id="goods__270"/><term xml:id="goods__331"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

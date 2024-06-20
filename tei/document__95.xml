@@ -57,7 +57,7 @@
 <place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="neighbourhood__67" type="neighbourhood"><placeName>Yavud</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__14"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__41"/><term xml:id="goods__45"/><term xml:id="goods__46"/><term xml:id="goods__51"/><term xml:id="goods__53"/><term xml:id="goods__114"/><term xml:id="goods__115"/><term xml:id="goods__120"/><term xml:id="goods__121"/><term xml:id="goods__128"/><term xml:id="goods__130"/><term xml:id="goods__133"/><term xml:id="goods__134"/><term xml:id="goods__135"/><term xml:id="goods__136"/><term xml:id="goods__139"/><term xml:id="goods__140"/><term xml:id="goods__144"/><term xml:id="goods__151"/><term xml:id="goods__167"/><term xml:id="goods__204"/><term xml:id="goods__212"/><term xml:id="goods__217"/><term xml:id="goods__218"/><term xml:id="goods__219"/><term xml:id="goods__220"/><term xml:id="goods__221"/><term xml:id="goods__260"/><term xml:id="goods__288"/><term xml:id="goods__302"/><term xml:id="goods__304"/><term xml:id="goods__306"/>            </keywords>
+<term xml:id="goods__14"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__41"/><term xml:id="goods__45"/><term xml:id="goods__46"/><term xml:id="goods__51"/><term xml:id="goods__53"/><term xml:id="goods__151"/><term xml:id="goods__204"/><term xml:id="goods__219"/><term xml:id="goods__260"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

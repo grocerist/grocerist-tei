@@ -55,7 +55,7 @@
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__4"/><term xml:id="goods__5"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__18"/><term xml:id="goods__20"/><term xml:id="goods__23"/><term xml:id="goods__24"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__31"/><term xml:id="goods__45"/><term xml:id="goods__64"/><term xml:id="goods__175"/><term xml:id="goods__204"/><term xml:id="goods__234"/>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__4"/><term xml:id="goods__5"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__18"/><term xml:id="goods__20"/><term xml:id="goods__23"/><term xml:id="goods__24"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__31"/><term xml:id="goods__45"/><term xml:id="goods__64"/><term xml:id="goods__175"/><term xml:id="goods__204"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

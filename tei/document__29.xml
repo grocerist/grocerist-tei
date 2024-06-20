@@ -63,7 +63,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__7"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__18"/><term xml:id="goods__21"/><term xml:id="goods__23"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__33"/><term xml:id="goods__36"/><term xml:id="goods__44"/><term xml:id="goods__46"/><term xml:id="goods__49"/><term xml:id="goods__57"/><term xml:id="goods__90"/><term xml:id="goods__91"/><term xml:id="goods__92"/><term xml:id="goods__93"/><term xml:id="goods__112"/><term xml:id="goods__121"/><term xml:id="goods__129"/><term xml:id="goods__130"/><term xml:id="goods__155"/><term xml:id="goods__164"/>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__7"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__18"/><term xml:id="goods__21"/><term xml:id="goods__23"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__33"/><term xml:id="goods__36"/><term xml:id="goods__44"/><term xml:id="goods__46"/><term xml:id="goods__49"/><term xml:id="goods__57"/><term xml:id="goods__90"/><term xml:id="goods__91"/><term xml:id="goods__92"/><term xml:id="goods__93"/><term xml:id="goods__112"/><term xml:id="goods__155"/><term xml:id="goods__164"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

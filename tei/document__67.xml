@@ -59,7 +59,7 @@
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__48" type="neighbourhood"><placeName>Kefere</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__6"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__17"/><term xml:id="goods__24"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__36"/><term xml:id="goods__45"/><term xml:id="goods__61"/><term xml:id="goods__87"/><term xml:id="goods__88"/><term xml:id="goods__99"/><term xml:id="goods__108"/><term xml:id="goods__112"/><term xml:id="goods__121"/><term xml:id="goods__194"/><term xml:id="goods__203"/><term xml:id="goods__211"/><term xml:id="goods__260"/>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__6"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__17"/><term xml:id="goods__24"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__36"/><term xml:id="goods__45"/><term xml:id="goods__61"/><term xml:id="goods__87"/><term xml:id="goods__88"/><term xml:id="goods__99"/><term xml:id="goods__108"/><term xml:id="goods__112"/><term xml:id="goods__194"/><term xml:id="goods__211"/><term xml:id="goods__260"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

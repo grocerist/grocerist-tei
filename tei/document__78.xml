@@ -55,7 +55,7 @@
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__2"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__10"/><term xml:id="goods__15"/><term xml:id="goods__21"/><term xml:id="goods__24"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__44"/><term xml:id="goods__45"/><term xml:id="goods__46"/><term xml:id="goods__51"/><term xml:id="goods__53"/><term xml:id="goods__67"/><term xml:id="goods__101"/><term xml:id="goods__122"/><term xml:id="goods__129"/><term xml:id="goods__150"/><term xml:id="goods__158"/><term xml:id="goods__160"/><term xml:id="goods__204"/>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__2"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__10"/><term xml:id="goods__15"/><term xml:id="goods__21"/><term xml:id="goods__24"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__44"/><term xml:id="goods__45"/><term xml:id="goods__46"/><term xml:id="goods__51"/><term xml:id="goods__53"/><term xml:id="goods__67"/><term xml:id="goods__101"/><term xml:id="goods__150"/><term xml:id="goods__158"/><term xml:id="goods__160"/><term xml:id="goods__204"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

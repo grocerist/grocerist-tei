@@ -57,7 +57,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__15" type="neighbourhood"><placeName>Sultan Bayezıd </placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__6"/><term xml:id="goods__12"/><term xml:id="goods__15"/><term xml:id="goods__19"/><term xml:id="goods__20"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__114"/><term xml:id="goods__115"/><term xml:id="goods__120"/><term xml:id="goods__125"/><term xml:id="goods__128"/><term xml:id="goods__129"/><term xml:id="goods__132"/><term xml:id="goods__139"/>            </keywords>
+<term xml:id="goods__6"/><term xml:id="goods__12"/><term xml:id="goods__15"/><term xml:id="goods__19"/><term xml:id="goods__20"/><term xml:id="goods__25"/><term xml:id="goods__27"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

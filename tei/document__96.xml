@@ -61,7 +61,7 @@
 <place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__44"/><term xml:id="goods__289"/>            </keywords>
+<term xml:id="goods__44"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

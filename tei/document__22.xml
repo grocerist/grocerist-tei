@@ -57,7 +57,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__19" type="neighbourhood"><placeName>Karaköy</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__2"/><term xml:id="goods__3"/><term xml:id="goods__4"/><term xml:id="goods__5"/><term xml:id="goods__9"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__17"/><term xml:id="goods__20"/><term xml:id="goods__27"/><term xml:id="goods__29"/><term xml:id="goods__33"/><term xml:id="goods__34"/><term xml:id="goods__36"/><term xml:id="goods__45"/><term xml:id="goods__49"/><term xml:id="goods__53"/><term xml:id="goods__57"/><term xml:id="goods__58"/><term xml:id="goods__59"/><term xml:id="goods__60"/><term xml:id="goods__112"/><term xml:id="goods__114"/><term xml:id="goods__121"/><term xml:id="goods__136"/>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__2"/><term xml:id="goods__3"/><term xml:id="goods__4"/><term xml:id="goods__5"/><term xml:id="goods__9"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__17"/><term xml:id="goods__20"/><term xml:id="goods__27"/><term xml:id="goods__29"/><term xml:id="goods__33"/><term xml:id="goods__34"/><term xml:id="goods__36"/><term xml:id="goods__45"/><term xml:id="goods__49"/><term xml:id="goods__53"/><term xml:id="goods__57"/><term xml:id="goods__58"/><term xml:id="goods__59"/><term xml:id="goods__60"/><term xml:id="goods__112"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

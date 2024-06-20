@@ -59,7 +59,7 @@
 <place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__15"/><term xml:id="goods__29"/><term xml:id="goods__41"/><term xml:id="goods__114"/><term xml:id="goods__226"/><term xml:id="goods__227"/><term xml:id="goods__228"/>            </keywords>
+<term xml:id="goods__15"/><term xml:id="goods__29"/><term xml:id="goods__41"/><term xml:id="goods__226"/><term xml:id="goods__227"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

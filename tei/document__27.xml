@@ -61,7 +61,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__37" type="neighbourhood"><placeName>Yeldeğirmeni</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__2"/><term xml:id="goods__3"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__15"/><term xml:id="goods__23"/><term xml:id="goods__24"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__31"/><term xml:id="goods__33"/><term xml:id="goods__41"/><term xml:id="goods__46"/><term xml:id="goods__58"/><term xml:id="goods__59"/><term xml:id="goods__61"/><term xml:id="goods__62"/><term xml:id="goods__64"/><term xml:id="goods__108"/><term xml:id="goods__112"/><term xml:id="goods__130"/><term xml:id="goods__150"/>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__2"/><term xml:id="goods__3"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__15"/><term xml:id="goods__23"/><term xml:id="goods__24"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__31"/><term xml:id="goods__33"/><term xml:id="goods__41"/><term xml:id="goods__46"/><term xml:id="goods__58"/><term xml:id="goods__59"/><term xml:id="goods__61"/><term xml:id="goods__62"/><term xml:id="goods__64"/><term xml:id="goods__108"/><term xml:id="goods__112"/><term xml:id="goods__150"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>

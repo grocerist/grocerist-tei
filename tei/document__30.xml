@@ -59,7 +59,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__31" type="neighbourhood"><placeName>Camii Kebir</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__24"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__67"/><term xml:id="goods__94"/><term xml:id="goods__95"/><term xml:id="goods__96"/><term xml:id="goods__97"/><term xml:id="goods__108"/><term xml:id="goods__112"/><term xml:id="goods__120"/><term xml:id="goods__125"/><term xml:id="goods__165"/>            </keywords>
+<term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__24"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__67"/><term xml:id="goods__94"/><term xml:id="goods__95"/><term xml:id="goods__96"/><term xml:id="goods__97"/><term xml:id="goods__108"/><term xml:id="goods__112"/><term xml:id="goods__165"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>
