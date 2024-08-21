@@ -38,14 +38,14 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.249 / 9b-2</idno>
                     </msIdentifier>
-                    <history>                        <origin when="3/12/1720"/>                    </history>
+                    <history>                        <origin when="1720-12-03"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
          <abstract>
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.249 / 9b-2</idno></ab>
-         </abstract>         <creation><date when="3/12/1720"/></creation>         <particDesc>
+         </abstract>         <creation><date when="1720-12-03"/></creation>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__118">
                 <persName/>
                </person>               <person role="mentioned">
