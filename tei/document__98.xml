@@ -54,7 +54,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-            </listPlace>
+<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place>            </listPlace>
          </settingDesc>      </profileDesc>
     </teiHeader>
     <text>
