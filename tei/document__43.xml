@@ -56,7 +56,7 @@
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__5" type="district"><placeName>Galata Harici</placeName></place><place xml:id="neighbourhood__24" type="neighbourhood"><placeName>Kalafatçıbaşı</placeName></place>            </listPlace>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__24" type="neighbourhood"><placeName>Kalafatçıbaşı</placeName></place>            </listPlace>
          </settingDesc>      </profileDesc>
     </teiHeader>
     <text>
