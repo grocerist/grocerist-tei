@@ -46,7 +46,9 @@
          <abstract>
             <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 394/ 59b-1</idno></ab>
          </abstract>         <particDesc>
-            <listPerson>               <person role="mentioned">
+            <listPerson>               <person role="main_person" xml:id="person__39">
+                <persName/>
+               </person>               <person role="mentioned">
                 <persName>Wife</persName>
                </person>               <person role="mentioned">
                 <persName>Daughter</persName>
