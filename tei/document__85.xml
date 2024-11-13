@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__85.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d.505 / 83a-3</title>
+                <title type="main">: İSTM.ŞSC.06.d. 505 / 83a-3</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -36,7 +36,7 @@
                     <msIdentifier>
                         <institution>Name of the Archiv</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.06.d.505 / 83a-3</idno>
+                        <idno type="archive">İSTM.ŞSC.06.d. 505 / 83a-3</idno>
                     </msIdentifier>
                     <history><origin notBefore="1700" notAfter="1900"/>                     </history>
                 </msDesc>
@@ -44,7 +44,7 @@
         </fileDesc>
         <profileDesc>
          <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.505 / 83a-3</idno></ab>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 505 / 83a-3</idno></ab>
          </abstract>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__85">
                 <persName/>

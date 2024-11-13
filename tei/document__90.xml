@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__90.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">: İSTM.ŞSC.06.d. 339 / 26b-1 (c)</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 339 / 26b-1 (c)</idno>
+                    </msIdentifier>
+                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 339 / 26b-1 (c)</idno></ab>
+         </abstract>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__96">
+                <persName/>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Mother</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1"/><term xml:id="goods__2"/><term xml:id="goods__4"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__10"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__17"/><term xml:id="goods__18"/><term xml:id="goods__23"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__31"/><term xml:id="goods__33"/><term xml:id="goods__34"/><term xml:id="goods__36"/><term xml:id="goods__41"/><term xml:id="goods__49"/><term xml:id="goods__53"/><term xml:id="goods__55"/><term xml:id="goods__57"/><term xml:id="goods__59"/><term xml:id="goods__61"/><term xml:id="goods__63"/><term xml:id="goods__64"/><term xml:id="goods__93"/><term xml:id="goods__94"/><term xml:id="goods__98"/><term xml:id="goods__108"/><term xml:id="goods__112"/><term xml:id="goods__174"/><term xml:id="goods__184"/><term xml:id="goods__185"/><term xml:id="goods__192"/><term xml:id="goods__193"/><term xml:id="goods__202"/><term xml:id="goods__206"/><term xml:id="goods__259"/><term xml:id="goods__260"/><term xml:id="goods__261"/><term xml:id="goods__265"/><term xml:id="goods__275"/>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_1mbbn47v594c"/><ref target="http://document__90"><hi rend="underline color(1155cc)">GrocerIST id_90</hi></ref></head><list rend="numbered"><item><ref target="http://document__90"><hi rend="underline color(1155cc)" xml:space="preserve">Hālik mesfūr </hi></ref><hi>Rizonun At Pazarı dahilinde vāki‘</hi> <hi rend="background(yellow)">…</hi><hi xml:space="preserve"> bakkāl dükkānında olan terekesi beyānıdır zikr olunur:</hi></item></list><p><hi rend="bold">Tulum peyniri</hi><hi>: Fī 12 / Kıyye 21 / Kıymet 252</hi></p><p><hi rend="bold background(red)">Sabun</hi><hi rend="background(red)">: Fī 12 / Kıyye 33 / Kıymet 726</hi></p><p><hi rend="bold">Asel gömeç</hi><hi>: Fī 12 / Kıyye 27 / Kıymet 324</hi></p><p><hi rend="bold">Leh kaşkavalı</hi><hi>: Fī 10 / Kıyye 88 / Kıymet 270</hi></p><p><hi rend="bold background(red)" xml:space="preserve">Yedek yağı: </hi><hi rend="background(red)">Fī 20 / Kıyye 488 / Kıymet 5760</hi></p><p><hi rend="bold">Def’a revgan-ı sāde</hi><hi>: Fī 26 / Kıyye 44 / Kıymet 1144</hi> </p><p><hi rend="bold background(red)">Revgan-ı bezir</hi><hi rend="background(red)">: Fi 12 / Kıyye 75 / Kıymet</hi><hi rend="bold background(red)" xml:space="preserve"> 684</hi></p><p><hi rend="bold">Revgan-ı zeyt</hi><hi>: Fī 22 / Kıyye 60 / Kıymet 1320</hi></p><p><hi rend="bold">Mum</hi><hi>: Fī 16 / Kıyye 8 / Kıymet 128</hi> </p><p><hi rend="bold">Yumurta</hi><hi xml:space="preserve">: Aded 300 / Kıymet 150 </hi></p><p><hi rend="bold">Temür hurdası</hi><hi>: Fī 10 / Kıyye 8 / Kıymet 80</hi> </p><p><hi rend="bold">Def‘a temür hurdası ber-vech-i tahmīn</hi><hi>: Kıymet 20</hi> </p><p><hi rend="bold">Turşu yaprağı</hi><hi>: Kıymet 60</hi></p><p><hi rend="bold background(red)" xml:space="preserve">Leh tuzu: </hi><hi rend="background(red)">Fī 5 / Kıyye 90 / Kıymet 420</hi></p><p><hi rend="bold">Sirke</hi><hi>: Fī 1 / Kıyye 52 / Kıymet 520</hi> </p><p><hi rend="bold">Trilye zeytūnu</hi><hi>: Fī 7 / Kıyye 30 / Kıymet 210</hi></p><p><hi rend="bold">Petmez</hi><hi>: Fī 5 / Kıyye 10 / Kıymet 50</hi> </p><p><hi rend="bold">Asel</hi><hi>: Fī 11 / Kıyye 65 / Kıymet 715</hi> </p><p><hi rend="bold">Def‘a asel</hi><hi>: Fī 11 / Kıyye 330 / Kıymet 3630</hi> </p><p><hi rend="bold">Fındık</hi><hi>: Fī 5 / Kıyye 165 / Kıymet 825</hi> </p><p><hi rend="bold">Pirinç</hi><hi>: Fī 60 / Kıyye 41.5 / Kıymet 2490</hi> </p><p><hi rend="bold">İzmir siyāhı üzüm</hi><hi>: Fī 7 / Kıyye 6 / Kıymet 42</hi></p><p><hi rend="bold">Mercimek</hi><hi>: Keyl 10 / Kıymet 50</hi> </p><p><hi rend="bold">Kızılcık kurusu</hi><hi>: Fī 6 / Kıyye 14 / Kıymet 84</hi> </p><p><hi rend="bold" xml:space="preserve">Erzen: </hi><hi>Fī 24 / Keyl 3 / Kıymet 72</hi></p><p><hi rend="bold" xml:space="preserve">İğde: </hi><hi>Fī 7 / Kıyye 16 / Kıymet 112</hi> </p><p><hi rend="bold background(red)">Beylerce üzümü</hi><hi rend="background(red)">: Fī 6 / Kıyye 35 / Kıymet</hi><hi rend="bold background(red)" xml:space="preserve"> 215</hi></p><p><hi rend="bold">Döğülmüş Leh tuzu</hi><hi>: Fī 2 / Kıyye 25 / Kıymet 50</hi> </p><p><hi rend="bold">Çakmak tozu</hi><hi>: Keyl 1 / Kıymet 24</hi> </p><p><hi rend="bold">Kaba soğan</hi><hi>: Kıyye 24/ Kıymet 288</hi> </p><p><hi rend="bold" xml:space="preserve">Demet odunu: </hi><hi>Aded1200 / Kıymet 800</hi></p><p><hi rend="bold">Nişasta</hi><hi>: Fī 6 / Kıyye 90 / Kıymet 540</hi> </p><p><hi rend="bold">Dakik</hi><hi>: Fī 2 / Kıyye 9 / Kıymet 18</hi> </p><p><hi rend="bold">Tulum peyniri</hi><hi>: Fī 12 / Kıyye 88 / Kıymet 1056</hi> </p><p><hi rend="bold">Fısdık</hi><hi>: Fī 14 / Kıyye 14 / Kıymet 196</hi> </p><p><hi rend="bold">Şa‘riye</hi><hi>: Fī 6 / Kıyye 24 / Kıymet 144</hi> </p><p><hi rend="bold">Nohud</hi><hi>: Fī 60 / Kıyye 4 / Kıymet 240</hi> </p><p><hi rend="bold">Basdırma</hi><hi>: Fī 6 / Kıyye 8 / Kıymet 48</hi> </p><p><hi rend="bold">Ceviz</hi><hi>: Aded 35000 / Kıymet 84</hi></p><p><hi rend="bold">Sarımsak</hi><hi>: dizisi? 13/ Kıymet 24</hi></p><p><hi rend="bold">Lob incir</hi><hi>: Fī 6 / Kıyye 65 / Kıymet</hi> 	<hi>390</hi></p><p><hi rend="bold">Sarıca incir</hi><hi>: Fī 5 / Kıyye 11 / Kıymet 55</hi> </p><p><hi rend="bold">Keçi peyniri</hi><hi>: Fī 3 / Kıyye 12 / Kıymet 36</hi> </p><p><hi rend="bold background(red)">İzmir siy</hi><hi rend="bold">ā</hi><hi rend="bold background(red)">hı üzüm</hi><hi rend="background(red)">: Fi 7 / Kıyye 77 / Kıymet 139</hi></p><p><hi rend="bold">Def‘a tulum peyniri</hi><hi>: Fī12 / Kıyye 100 / Kıymet 1200</hi> </p><p><hi rend="bold">Razaki üzüm</hi><hi>: Fī 10 / Kıyye 54.5 / Kıymet 545</hi> </p><p><hi rend="bold background(red)">Dakik</hi><hi rend="background(red)">: Fi 2 / Kıyye 10 / Kıymet</hi><hi rend="bold background(red)" xml:space="preserve"> 25</hi></p><p><hi rend="bold">İnce tuz</hi><hi>: Fī 2 / Kıyye 5 / Kıymet 10</hi> </p><p><hi rend="bold">Beylerce üzümü</hi><hi>: Fī 8 / Kıyye 8 / Kıymet 64</hi> </p><p><hi rend="bold" xml:space="preserve">Çömlek: </hi><hi>Kıymet 400</hi></p><p><hi rend="bold">Def‘a fısdık</hi><hi>: Fī 14 / Kıyye 1 / Kıymet 14</hi> </p><p><hi rend="bold" xml:space="preserve">Def‘a Edremit üzümü: </hi><hi>Fī 5 / Kıyye 6 / Kıymet 30</hi></p><p><hi rend="bold">Def‘a Fıstık:</hi><hi xml:space="preserve"> Fī 5 / Kıyye 6 / Kıymet 30</hi></p><p><hi rend="bold">Pirinç</hi><hi>: Kıyye 1 / Kıymet 60</hi> </p><p><hi rend="bold">Def‘a yumurta</hi><hi>: Kıymet 30</hi> </p><p><hi rend="bold">Nohud</hi><hi>: Kıyye 10 / Kıymet 30</hi> </p><p><hi rend="bold">Sabun</hi><hi>: Kıymet 11</hi> </p><p><hi rend="bold">Bastırma ve sucuk</hi><hi>: Kıymet 90</hi> </p><p><hi rend="bold">Def‘a nişasta</hi><hi>: Kıyye 6 / Kıymet 60</hi> </p><p><hi rend="bold">Def‘a pirinç</hi><hi>: Kıymet 36</hi> </p><p><hi rend="bold" xml:space="preserve">Def‘a böğrülce bir mikdār </hi><hi>: Kıymet 15</hi> </p><p><hi rend="bold" xml:space="preserve">Def‘a soğan bir mikdār </hi><hi>: Kıymet 6</hi> </p><p><hi rend="bold">Kefe tuzu</hi><hi>: Keyl 1 / Kıymet 24</hi></p><p><hi rend="bold">Tahin</hi><hi>: Fī 14/ Kıyye 2 / Kıymet 28</hi> </p><p><hi rend="bold">Zeytūn</hi><hi>: Kıyye 2 / Kıymet14</hi></p><p><hi rend="bold" xml:space="preserve"> Def‘a Leh kaşkavalı</hi><hi>: Kıyye 1 / Kıymet 12</hi> </p><p><hi rend="bold">Def‘a şa‘riye</hi><hi>: Kıyye 1 / Kıymet 6</hi></p><p><hi rend="bold" xml:space="preserve">Def‘a mercimek bir mikdār </hi><hi>: Kıymet 10</hi> </p><p><hi rend="bold">Def‘a revgan-ı zeyt</hi><hi>: Kıyye 1 / Kıymet 24</hi> </p><p><hi rend="bold">Revgan-ı şir</hi><hi>: Kıyye 2 / Kıymet 4</hi></p></div>
+        </body>
+    </text>
+</TEI>
