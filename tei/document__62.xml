@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__26.xml">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__62.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.275 / 45b-3 (a)</title>
+                <title type="main">: İSTM.ŞSC.14.d.275 / 45b-3 (c)</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -36,7 +36,7 @@
                     <msIdentifier>
                         <institution>Name of the Archiv</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.14.d.275 / 45b-3 (a)</idno>
+                        <idno type="archive">İSTM.ŞSC.14.d.275 / 45b-3 (c)</idno>
                     </msIdentifier>
                     <history><origin notBefore="1700" notAfter="1900"/>                     </history>
                 </msDesc>
@@ -44,7 +44,7 @@
         </fileDesc>
         <profileDesc>
          <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.275 / 45b-3 (a)</idno></ab>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.275 / 45b-3 (c)</idno></ab>
          </abstract>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__26">
                 <persName/>
@@ -57,7 +57,7 @@
 <place xml:id="district__4" type="district"><placeName>Galata</placeName></place>            </listPlace>
          </settingDesc>         <textClass>
             <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__7"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__17"/><term xml:id="goods__24"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__31"/><term xml:id="goods__36"/><term xml:id="goods__38"/><term xml:id="goods__42"/><term xml:id="goods__61"/><term xml:id="goods__84"/><term xml:id="goods__148"/>            </keywords>
+<term xml:id="goods__5"/><term xml:id="goods__38"/><term xml:id="goods__71"/><term xml:id="goods__76"/><term xml:id="goods__79"/><term xml:id="goods__84"/><term xml:id="goods__161"/>            </keywords>
          </textClass>      </profileDesc>
     </teiHeader>
     <text>
