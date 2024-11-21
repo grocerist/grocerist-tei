@@ -28,15 +28,17 @@ nsmap = doc.nsmap
 items = doc.any_xpath(".//tei:body//tei:div")
 for x in items:
     object = {}
-    doc_id = x.xpath(".//@target[1]")[0].split("/")[-1]
-    file_name = f"{doc_id}.xml"
-    object["doc_id"] = doc_id
-    doc_cur_nr = doc_id.split("__")[-1]
-    object["file_name"] = file_name
-    object["body"] = ET.tostring(x).decode("utf-8")
-    context = {}
-    context["object"] = object
-    context["info"] = data[doc_cur_nr]
-    xml_data = template.render(context).replace('style="font-size:12pt"', "")
-    doc = TeiReader(xml_data)
-    doc.tree_to_file(os.path.join(TEI_DIR, file_name))
+    doc_refs = x.xpath(".//@target[1]")
+    for ref in doc_refs:
+        doc_id = ref.split("/")[-1]
+        file_name = f"{doc_id}.xml"
+        object["doc_id"] = doc_id
+        doc_cur_nr = doc_id.split("__")[-1]
+        object["file_name"] = file_name
+        object["body"] = ET.tostring(x).decode("utf-8")
+        context = {}
+        context["object"] = object
+        context["info"] = data[doc_cur_nr]
+        xml_data = template.render(context).replace('style="font-size:12pt"', "")
+        doc = TeiReader(xml_data)
+        doc.tree_to_file(os.path.join(TEI_DIR, file_name))
