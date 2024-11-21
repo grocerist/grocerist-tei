@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__75.xml">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__123.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 443 / 11a-1 (a)</title>
+                <title type="main">: İSTM.ŞSC.06.d. 443 / 11a-1 (b)</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -36,7 +36,7 @@
                     <msIdentifier>
                         <institution>Name of the Archiv</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.06.d. 443 / 11a-1 (a)</idno>
+                        <idno type="archive">İSTM.ŞSC.06.d. 443 / 11a-1 (b)</idno>
                     </msIdentifier>
                     <history><origin notBefore="1700" notAfter="1900"/>                     </history>
                 </msDesc>
@@ -44,25 +44,16 @@
         </fileDesc>
         <profileDesc>
          <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 443 / 11a-1 (a)</idno></ab>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 443 / 11a-1 (b)</idno></ab>
          </abstract>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__75">
                 <persName/>
-               </person>               <person role="mentioned">
-                <persName>Wife</persName>
-               </person>               <person role="mentioned">
-                <persName>Mother</persName>
-               </person>               <person role="mentioned">
-                <persName>Son</persName>
                </person>            </listPerson>
          </particDesc>
          <settingDesc>
             <listPlace>
 <place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__6"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__15"/><term xml:id="goods__25"/><term xml:id="goods__29"/>            </keywords>
-         </textClass>      </profileDesc>
+         </settingDesc>      </profileDesc>
     </teiHeader>
     <text>
         <body>

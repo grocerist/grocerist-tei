@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__60.xml">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__115.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.275 / 8b-1(c)</title>
+                <title type="main">: İSTM.ŞSC.14.d.275 / 8b-1(d)</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -36,7 +36,7 @@
                     <msIdentifier>
                         <institution>Name of the Archiv</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.14.d.275 / 8b-1(c)</idno>
+                        <idno type="archive">İSTM.ŞSC.14.d.275 / 8b-1(d)</idno>
                     </msIdentifier>
                     <history><origin notBefore="1700" notAfter="1900"/>                     </history>
                 </msDesc>
@@ -44,25 +44,16 @@
         </fileDesc>
         <profileDesc>
          <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.275 / 8b-1(c)</idno></ab>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.275 / 8b-1(d)</idno></ab>
          </abstract>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__24">
                 <persName/>
-               </person>               <person role="mentioned">
-                <persName>Wife</persName>
-               </person>               <person role="mentioned">
-                <persName>Son</persName>
-               </person>               <person role="mentioned">
-                <persName>Daughter</persName>
                </person>            </listPerson>
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__43" type="neighbourhood"><placeName>Dörtyolağzı</placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__4"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__9"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__23"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__29"/><term xml:id="goods__33"/><term xml:id="goods__36"/><term xml:id="goods__41"/><term xml:id="goods__61"/><term xml:id="goods__62"/><term xml:id="goods__63"/><term xml:id="goods__108"/><term xml:id="goods__112"/>            </keywords>
-         </textClass>      </profileDesc>
+<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__72" type="neighbourhood"><placeName>Aslanağzı</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
     </teiHeader>
     <text>
         <body>

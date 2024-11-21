@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__95.xml">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__136.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)</title>
+                <title type="main">: İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)</title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
@@ -36,7 +36,7 @@
                     <msIdentifier>
                         <institution>Name of the Archiv</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)</idno>
+                        <idno type="archive">İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)</idno>
                     </msIdentifier>
                     <history><origin notBefore="1700" notAfter="1900"/>                     </history>
                 </msDesc>
@@ -44,21 +44,16 @@
         </fileDesc>
         <profileDesc>
          <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 173 / 71a-2,72 (a)</idno></ab>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 173 / 71a-2,72 (b)</idno></ab>
          </abstract>         <particDesc>
             <listPerson>               <person role="main_person" xml:id="person__99">
                 <persName/>
-               </person>               <person role="mentioned">
-                <persName>Beytülmal Emini</persName>
                </person>            </listPerson>
          </particDesc>
          <settingDesc>
             <listPlace>
-<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="neighbourhood__67" type="neighbourhood"><placeName>Yavud</placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__14"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__41"/><term xml:id="goods__45"/><term xml:id="goods__46"/><term xml:id="goods__51"/><term xml:id="goods__53"/><term xml:id="goods__151"/><term xml:id="goods__204"/><term xml:id="goods__219"/><term xml:id="goods__260"/>            </keywords>
-         </textClass>      </profileDesc>
+<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="neighbourhood__18" type="neighbourhood"><placeName>Elhac Hüsrev</placeName></place>            </listPlace>
+         </settingDesc>      </profileDesc>
     </teiHeader>
     <text>
         <body>
