@@ -31,8 +31,8 @@ nsmap = doc.nsmap
 
 
 items = doc.any_xpath(".//tei:body//tei:div")
-first_pass = True
 for x in items:
+    first_pass = True
     object = {}
     doc_refs = x.xpath(".//tei:head//@target", namespaces=nsmap)
     section_refs = x.xpath(".//tei:p//@target", namespaces=nsmap)
