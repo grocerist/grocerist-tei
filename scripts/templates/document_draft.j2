@@ -102,7 +102,7 @@
                 <placeName>{{ x.value }}</placeName>
             </place>
             {% endfor %}
-            {% for x in info.nahiye%}
+            {% for x in info.nahiye %}
             <place xml:id="nahiye__{{ x.id }}" type="nahiye">
                 <placeName>{{ x.value }}</placeName>
             </place>
@@ -126,8 +126,7 @@
         <listPerson>{% for x in info.main_person %}
             <person role="main_person" xml:id="person__{{ x.id }}">
                 <persName>{{ x.value }}</persName>
-                <state>x.status_of_main_person</state>
-
+                <state>{{ info.status_of_main_person.value }}</state>
             </person>{% endfor %}
             {% for x in info.mentioned_persons %}
             <person role="mentioned">
