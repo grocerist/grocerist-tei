@@ -58,36 +58,6 @@
                 <date when="{{ info.year_of_creation_miladi }}">{{ info.year_of_creation__hicri }}</date>
             </creation>
             {% endif %}
-            {# <particDesc>
-                <listPerson>{% for x in info.main_person %}
-                    <person role="main_person" xml:id="person__{{ x.id }}">
-                        <persName>{{ x.value }}</persName>
-                        <state>x.status_of_main_person</state>
-
-                    </person>{% endfor %}
-                    {% for x in info.mentioned_persons %}
-                    <person role="mentioned">
-                        <persName>{{ x.value }}</persName>
-                    </person>{% endfor %}
-                </listPerson>
-            </particDesc> #}
-            {# <settingDesc>
-                <listPlace>
-                    {% for x in info.district %}<place xml:id="district__{{ x.id }}" type="district">
-                        <placeName>{{ x.value }}</placeName>
-                    </place>{% endfor %}
-                    {% for x in info.neighbourhood %}<place xml:id="neighbourhood__{{ x.id }}" type="neighbourhood">
-                        <placeName>{{ x.value }}</placeName>
-                    </place>{% endfor %}
-                </listPlace>
-            </settingDesc> #}
-            {# {% if info.goods %}
-            <textClass>
-                <keywords>
-                    {% for x in info.goods %}<term xml:id="goods__{{ x.id }}">{{ x.value }}</term>{% endfor %}
-                </keywords>
-            </textClass>
-            {% endif %} #}
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -125,8 +95,11 @@
         </listPlace>
         <listPerson>{% for x in info.main_person %}
             <person role="main_person" xml:id="person__{{ x.id }}">
-                <persName>{{ x.value }}</persName>
+                <persName>{{ x.name }}</persName>
                 <state>{{ info.status_of_main_person.value }}</state>
+                {% for r in x.religion %}
+                    <faith>{{ r.value }}</faith>
+                {% endfor %}
             </person>{% endfor %}
             {% for x in info.mentioned_persons %}
             <person role="mentioned">
@@ -134,14 +107,36 @@
             </person>{% endfor %}
         </listPerson>
         <listRelation>
-            <relation type="ownership" name="info.type_of_ownership">
+            <relation type="ownership" name="{{ info.type_of_ownership }}">
             </relation>
         </listRelation>
         {% if info.goods %}
         <list type="inventory">
             {% for x in info.goods %}
             <item xml:id="goods__{{ x.id }}">
-                <name>{{ x.value }}</name>
+                <name>{{ x.name }}</name>
+                <name type="translation">{{ x.english_names }}</name>
+                <name type="variations">{{ x.spelling_variations_and_synonyms }}</name>
+                {% if x.notes %}
+                <note>{{ x.notes }}</note>
+                {% endif %}
+                {# following code is a commented out because sophisticated and broken_or_spoilt values are all "false" #}
+                {# 
+                <state>
+                    <desc>
+                        <list>
+                            {% if x.sophisticated %}
+                            <item>sophisticated</item>
+                            {% else %}
+                            <item>not sophisticated</item>
+                            {% endif %}
+                            {% if x.broken_or_spoilt %}
+                            <item>broken or spoilt</item>
+                            {% endif %}
+                        </list>
+                    </desc>
+                </state>
+                #}
             </item>
             {% endfor %}
         </list>
