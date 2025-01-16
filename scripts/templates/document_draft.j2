@@ -55,15 +55,17 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>{{ info.shelfmark }}</idno>
                 </ab>
             </abstract>
-            
+
             <creation>
                 {# do we have the creation date of the transcript somewhere? #}
                 {# origDate? docDate? #}
                 {% if info.creation_date_miladi %}
-                    <date calendar="#gregorian" when="{{ info.creation_date_miladi }}">{{ info.creation_date_miladi }}</date>
+                <date calendar="#gregorian" when="{{ info.creation_date_miladi }}">{{ info.creation_date_miladi }}
+                </date>
                 {% endif %}
                 {% if info.year_of_creation_hicri %}
-                    <date calendar="#islamic" when="{{ info.year_of_creation_hicri }}">{{ info.year_of_creation_hicri }}</date>
+                <date calendar="#islamic" when="{{ info.year_of_creation_hicri }}">{{ info.year_of_creation_hicri }}
+                </date>
                 {% endif %}
             </creation>
         </profileDesc>
@@ -72,7 +74,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">{{ x.lat }} {{ x.long }}</geo>
+                    <geo decls="#dd">{{ info.lat }} {{ info.long }}</geo>
                 </location>
             </place>
             {% for x in info.district %}
@@ -111,7 +113,7 @@
                 <persName>{{ x.name }}</persName>
                 <state>{{ info.status_of_main_person.value }}</state>
                 {% for r in x.religion %}
-                    <faith>{{ r.value }}</faith>
+                <faith>{{ r.value }}</faith>
                 {% endfor %}
             </person>{% endfor %}
             {% for x in info.mentioned_persons %}
@@ -133,8 +135,9 @@
                 {% if x.notes %}
                 <note>{{ x.notes }}</note>
                 {% endif %}
-                {# following code is a commented out because sophisticated and broken_or_spoilt values are all "false" #}
-                {# 
+                {# following code is a commented out because sophisticated and broken_or_spoilt values are all "false"
+                #}
+                {#
                 <state>
                     <desc>
                         <list>
