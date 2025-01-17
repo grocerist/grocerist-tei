@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__112.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">: İSTM.ŞSC.06.d. 578/53b-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d. 578/53b-1</idno>
+                    </msIdentifier>
+                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 578/53b-1</idno></ab>
+         </abstract>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__95">
+                <persName/>
+               </person>               <person role="mentioned">
+                <persName>Wife</persName>
+               </person>               <person role="mentioned">
+                <persName>Son</persName>
+               </person>               <person role="mentioned">
+                <persName>Mother</persName>
+               </person>               <person role="mentioned">
+                <persName>Daughter</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__95" type="neighbourhood"><placeName>Yeniçeşme</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__9"/><term xml:id="goods__10"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__18"/><term xml:id="goods__23"/><term xml:id="goods__25"/><term xml:id="goods__28"/><term xml:id="goods__31"/><term xml:id="goods__34"/><term xml:id="goods__87"/><term xml:id="goods__88"/><term xml:id="goods__96"/><term xml:id="goods__101"/><term xml:id="goods__108"/><term xml:id="goods__231"/><term xml:id="goods__252"/><term xml:id="goods__254"/><term xml:id="goods__255"/><term xml:id="goods__256"/><term xml:id="goods__257"/><term xml:id="goods__258"/><term xml:id="goods__355"/><term xml:id="goods__367"/><term xml:id="goods__368"/><term xml:id="goods__369"/><term xml:id="goods__370"/>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_kbm7zfrrvh3e"/>4) UCR 578, 53b-1 (İSTM.ŞSC.06.d / 578) d.1228/ 1813 <ref target="http://document__112">GrocerIST id_112</ref></head><p>Bilad-ı selasede mevcud bi’l-cümle esnafın umur-ı şeriyye ve nizamları şer’-i şerife ve yedlerinde mevcud evamir-i aliyyeye tatbik olunarak bulundukları belde kadısı marifetiyle tahrir ve takrir olunmak babında şeref-bahşa-yı südur iden ferman-ı alide ... vilayet-i Anadoluda Kayseriye sancağında Develi Karahisar kazasına tabi Ortaköy reayasından olup medine-i Üsküdar’da Yeniçeşme nam mahalde bakkal dükkanında mütemekkin iken bundan akdem halik olan Karli veled-i Serafim zımminin veraseti salifü’z-zikr Ortaköy mütemekkinlerinden zevce-i metrukesi ... b. ... nasraniye anası ... b. ... ve sulbi sagir oğlu ... ve sulbiye kebire kızı Marya ve sagire kızı Despina ve medine-i mezburede mütemekkin sulbi kebir oğlu Serafime muhassas olduğu led’et-tahkik ... merkum Serafim zımmi ... ahz ü kabz ve hıfz ve kendilerine irsal ve ... ve sagir ... ahz ü kabz ve hıfz ve tesviye olduğu ... kable’l-şer’iden … olmakla ... talep ve marifetiyle halik-i merkumun tahrir ve terkim ve bayi olunan terekesi defteridir ki ber.... ati zikr olunur. Fi 18 Zilhicce(?) 1228</p><p>Ev eşyası</p><p>Ve yine halik-i merkumun dükkan-ı mezkurda mevcud olup bakkal esnafının ustabaşıları ve nizam ustaları marifetleriyle fiyat ve ... bayi olunan zehairi beyan olunur. </p><p>Dakik has: kıyye 236.-, fi 25, kıymet 5912		Revgan-ı zeyt: kıyye87, fi44, kıymet3828</p><p>Dakik vasat: kıyye 112, fi 18, kıymet 2016		… şa’riye: kıyye 26, fi 36, kıymet 936</p><p>Asel: kıyye 112, fi 45, kıymet 5040			Çürük kaşkaval peyniri: kıyye100, fi 10, 											kıymet1000</p><p>Kayseriye basdırması: kıyye 40, direm 100 fi 66, kıymet 2656		Danel peynir: 								          kıyye 29, fi 25, kıymet 1508</p><p>Fasulye: kıyye 114, fi 17, kıymet 1946	ala kaşar peyniri:kıyye87,fi72,kıymet6264</p><p>Pekmez: kıyye 26, direm 100, kıymet 499		Sirke: kıyye 156, fi 6, kıymet 936</p><p>Döğülmiş şa’riye: kıyye 10, fi 12, kıymet 120	Sabun: kıyye 22820, fi 50, kıymet 											1142500</p><p>Pesdil: kıyye 36, direm 100 fi 14, kıymet 508	Sarımsak: kıyye 50, fi 10, kıymet 500</p><p>Nohud: kıyye 5, direm 35 fi 25, kıymet 147		Mum yağı: kıyye 37, fi 46, kıymet 1702</p><p>Mercimek: kıyye 69, fi 13, kıymet 897		Revgan-ı çerviş: kıyye 306, fi 64, kıymet 											19084</p><p>Mercimek: kıyye 8, fi 8, kıymet 64			Köy tuzu: kıyye 66, fi 3, kıymet 198</p><p>Makarnalık Şa’riye: kıyye 9, fi 32, kıymet 288	Soğan arpacık: kıyye 2292.?, fi 7, kıymet 											16060</p><p>Makarnalık şa’riye: kıyye 9, fi 32, kıymet 288 	Kaba soğan: kıyye 358, fi 3, kıymet 1074</p><p>Hoşablık üzüm: kıyye 9, direm 300 fi 12, kıymet 117		Zeytun: kıyye 43, fi 17, 											kıymet 739</p><p>Fındık içi: kıyye 3, direm 150 fi 40, kıymet 135		Çürük tulum peyniri: kıyye 253, 										fi 16, kıymet 4048</p><p>At sucuğu: direm 150 fi 40, kıymet 1250	Derun-ı dükkanda mevcut toprak bardak ve ibrik ve fuçı ve zenbil ve … ve saire-i 	zerzevat: kıymet 6880</p><p>Rezaki eski: kıyye 21, fi 16, kıymet 336		Ve halik-i merkumun nakden zuhur 								eden: 12380</p><p>Taban inciri: kıyye 242, fi 2, kıymet 484		Cem’i: 147485</p><p>Mısır leblebisi: kıyye 112.5, fi 14, kıymet 1575</p><p>Fındık: kıyye 80, fi 20, kıymet 1600 </p><p>Mısır pirinci: kıyye 854, fi 26, kıymet 22204</p><p>Anadolu pirinci: kıyye 147.5, fi 20, kıymet 2950</p><p>… yarması: kıyye 73, fi 90, kıymet 7200</p></div>
+        </body>
+    </text>
+</TEI>
