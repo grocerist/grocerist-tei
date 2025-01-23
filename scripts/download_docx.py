@@ -39,7 +39,7 @@ for url, docx_file, xml_file in zip(
     data = data.replace("heading=h.", "heading_h_")
     data = data.replace('xml:id="', 'xml:id="xmlid__')
     print(f"saving result as {xml_file}")
-    with open(xml_file, "w") as f:
+    with open(xml_file, "w", encoding="utf-8") as f:
         f.write(data)
 
     doc = TeiReader(data)
