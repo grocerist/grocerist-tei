@@ -111,7 +111,7 @@
         <listPerson>{% for x in info.main_person %}
             <person role="main_person" xml:id="person__{{ x.id }}">
                 <persName>{{ x.name }}</persName>
-                <state>{{ info.status_of_main_person.value }}</state>
+                <state type="status"><label>{{ info.status_of_main_person.value |lower }}</label></state>
                 {% for r in x.religion %}
                 <faith>{{ r.value }}</faith>
                 {% endfor %}
@@ -129,9 +129,17 @@
         <list type="inventory">
             {% for x in info.goods %}
             <item xml:id="goods__{{ x.id }}">
-                <name>{{ x.name }}</name>
-                <name type="translation">{{ x.english_names }}</name>
-                <name type="variations">{{ x.spelling_variations_and_synonyms }}</name>
+                <name xml:lang="tr">{{ x.name }}</name>
+                {% if x.english_names%}
+                {% for translation in x.english_names.split(',') %}
+                <name xml:lang="en">{{ translation.strip() }}</name>
+                {% endfor %}
+                {% endif%}
+                {% if x.spelling_variations_and_synonyms %}
+                {% for variation in x.spelling_variations_and_synonyms.split(',') %}
+                <name xml:lang="tr" type="variation">{{ variation.strip() }}</name>
+                {% endfor %}
+                {% endif %}
                 {% if x.notes %}
                 <note>{{ x.notes }}</note>
                 {% endif %}
