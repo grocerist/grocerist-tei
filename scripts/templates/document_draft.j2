@@ -108,21 +108,23 @@
             </place>
             {% endfor %}
         </listPlace>
-        <listPerson>{% for x in info.main_person %}
-            <person role="main_person" xml:id="person__{{ x.id }}">
-                <persName>{{ x.name }}</persName>
+        <listPerson>
+            {# because of baserow, main_person is a list, but there is only one main person #}
+            {% set main_person = info.main_person[0] -%}
+            <person role="main_person" xml:id="person__{{main_person.id }}">
+                <persName>{{ main_person.name }}</persName>
                 <state type="status"><label>{{ info.status_of_main_person.value |lower }}</label></state>
-                {% for r in x.religion %}
+                {% for r in main_person.religion %}
                 <faith>{{ r.value }}</faith>
                 {% endfor %}
-            </person>{% endfor %}
+            </person>
             {% for x in info.mentioned_persons %}
             <person role="mentioned">
                 <persName>{{ x.value }}</persName>
             </person>{% endfor %}
         </listPerson>
         <listRelation>
-            <relation type="ownership" name="{{ info.type_of_ownership }}">
+            <relation type="ownership" name="{{ info.type_of_ownership.value |lower}}" active="#person__{{ main_person.id }}">
             </relation>
         </listRelation>
         {% if info.goods %}
