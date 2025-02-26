@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__170.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">: İSTM.ŞSC.02.d.257/33</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.02.d.257/33</idno>
+                    </msIdentifier>
+                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.02.d.257/33</idno></ab>
+         </abstract>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__144">
+                <persName/>
+               </person>               <person role="mentioned">
+                <persName>Kayyım</persName>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__25" type="district"><placeName>İstanbul Bab</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__5"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__64"/><term xml:id="goods__146"/><term xml:id="goods__151"/><term xml:id="goods__343"/><term xml:id="goods__376"/><term xml:id="goods__377"/><term xml:id="goods__380"/>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_cbekmz3hi1kn"/>İSTM.ŞSC.02.d.257/33 <ref target="http://document__170">GrocerIST id_170</ref></head><p>Sādır olan fermān-ı ālīye imtisālen cānib-i şer‘-iden mürsel Kātib Mustafa Efendi İstanbulda Seferliçeşme karyesinde … mahallesinde vāki’mukaffel bakkāl dükkānına varub zeyl-i defterde muharrerü’l-esāmi müslimīn huzurlarına akd-i meclis-i şeri hazır eylediği zikr olunan dükkānın mutasarrıfı Ebubekir nām kimesne meclis-i mukadder-ı mezkūrda takrīr-i kelcm idüb dükkān-ı mezkurda …. müstecirim olan Yovan nām zımmi yirmi altı aydan beru firar ve gaybet idüb hayatı ve memātı malūm ve dükkān-ı mezkūrda mukaffel kalmağla dükkān-ı mezkūr feth ve derūnunda mevcūd bulunan gāib-i mezbūrun eşyāsı tahrīr ve hali mütebeyyin oluncaya değin li-ecli’l-hıfz yed-i emīne vaz‘ ve dükkān-ı mezkūr tahliye  ve bana teslīm olunması matlubumdur dedik de mezbūrun hali mütebeyyin oluncaya değin li-ecli’l-hıfz müslimīn mezkūrun ihbārlarıyla kayyım nasb ve ta’yin eylediği Ebubekir b. Elhac Mehmede  vāz’ ve teslīm olunan eşyā defter budur ki ber vech-i ātī zikr olunur. fil yevm el sani…..  </p><p>Beyaz fasulye: 140</p><p>Sagīr ve kebīr kavanoz:  Aded 40/ 250</p><p>Döğülmüş tuz: Fī 50 / 250</p><p>Ak tuz: Fī 50 / 30</p><p>Kefe tuzu: Keyl 1 / 48</p><p>Hatab çekme: Aded 1 / 150</p><p>Çalı süpürgesi: Aded 27 / 27</p><p>Revgan-ı mum: 12 / 120</p><p>Asel: 25 / 250</p><p>Sicim vesaire: 15</p><p>Revgan-ı zeyt: 40/ 240</p><p>Nişasta: 2 / 56</p><p>Yekun: 2076</p><p>ālāt-ı gedik fuçı: Aded 15</p><p>Mizan  ma takım: Aded 2</p><p>Kalbur: Aded 3</p><p>Kantar:  Aded 1</p><p>Desti:  Aded 2</p><p>Küfe: Aded 3</p><p>Kasımpaşa</p></div>
+        </body>
+    </text>
+</TEI>

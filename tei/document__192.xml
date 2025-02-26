@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__192.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">: İSTM.ŞSC.01.d.70/ 16a-1</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.01.d.70/ 16a-1</idno>
+                    </msIdentifier>
+                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.01.d.70/ 16a-1</idno></ab>
+         </abstract>         <particDesc>
+            <listPerson>               <person role="main_person" xml:id="person__164">
+                <persName/>
+               </person>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__26" type="district"><placeName>İstanbul</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__4"/><term xml:id="goods__6"/><term xml:id="goods__10"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__20"/><term xml:id="goods__21"/><term xml:id="goods__23"/><term xml:id="goods__24"/><term xml:id="goods__27"/><term xml:id="goods__29"/><term xml:id="goods__30"/><term xml:id="goods__31"/><term xml:id="goods__34"/><term xml:id="goods__45"/><term xml:id="goods__46"/><term xml:id="goods__53"/><term xml:id="goods__57"/><term xml:id="goods__101"/><term xml:id="goods__112"/><term xml:id="goods__147"/><term xml:id="goods__155"/><term xml:id="goods__219"/><term xml:id="goods__343"/><term xml:id="goods__345"/><term xml:id="goods__356"/><term xml:id="goods__415"/><term xml:id="goods__416"/><term xml:id="goods__417"/><term xml:id="goods__418"/><term xml:id="goods__420"/><term xml:id="goods__421"/>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_brf98j7y3w6f"/>İSTM.ŞSC.01.d.70/ 16a-1 <ref target="http://document__192">GrocerIST id_192 </ref>  	</head><p>İstanbulda Mevlevihane Yenikapısı dāhilinde Evliya mescid-i şerīfi … vāki’ Elhac .. dükkānı demekle marūf bir bāb bakkāl dükkānı derūnunda mevcūd gedik ta’bīr olunan ālāt-ı lāzıme-i malūmenin māliki Acı Ananoşti veled-i Seve zımmīnin müsteciri olan Panayot veled-i Vasil nām zımmī bundan akdem firār ve gaybet idüb hayāt ve memātı malūm olmamağla dükkān-ı mezkūr mukaffal ve mu’attal kalmağın ol tarīkde sākin Abdullahın… … dükkān-ı mezkūrun müsteciri dahi dükkān-ı mezkūr derūnunda mevcūd gaybet-i mesfūrun terk eylediği eşyā zāyi’ ve telef olmak ihtimāli gālib olmağla dükkān-ı mezkūr ma‘rifet-i  şeri ve bāzārbaşı ve ustalar  marifetiyle küşād ve gāib-i mersūmun derūnunda olan eşyāsı tahrīr ve yed-i emine vaz’ olunmasını iltimās itmekle kıbel-i şeri münīrde … Kātib Merhabazade Mahmud Efendi dükkān-ı mezkūra varub ustalar ve … muvācehelerinde … kefīlini feth ü küşād ve gāib-i merkūmun hali mütebeyyin oluncaya değin beynlerinde … uhdesinden gelmekle …ihbār olunan bakkāl Nikola veled-i Yani nām zımmī kıbel-i şer-i enverde kayyım nasb ve tayīn olunub dükkān-ı mezbūrda olan zikr-i ātī eşyā ve bakkāl emti’ası olub durmağla telef ve zāyi’ mukavelede olmağla eşyā-i mezkūr bey’ ve … hıfz olunmak gāib hakkında enfa’ ve kayyım hakkında … olmağla bilā ma‘rifet-i şeri kayyım …. takvīm-i sahīh ile takvīm ve tamīn olan olan meblağ-ı mezkūr mersūm Nikola zımmīye  … eşyā-i mezkūr ber vech-i ātī zikr olunur. (tarih)</p><p>Dakīk: Fī 18 / Kıyye 24 / 432</p><p>Pirinç:  Fī 42 / Kıyye 168 / 7077</p><p>Fasulye: Fī Fī 18 / Kıyye 52 / 936 </p><p>Pekmez:  Fī17 / Kıyye 18 / 306</p><p>Nardenk:  Fī 17 / Kıyye 85 / 1445</p><p>Arpa: Fī 120 / Keyl 4 / 540</p><p>Nohud:  Fī 18 / Kıyye 103 / 1854</p><p>Ceviz: Aded 500 / 60</p><p>Basdırma: Dirhem 100 / Kıyye 3 / 112</p><p>Nişasta: Fī 27 / Kıyye 5 / 135</p><p>Bulgur:  Fī 14 / Kıyye 96 / 1344</p><p>İzmir böğrülcesi:  Fī 24 / Kıyye 5 / 120</p><p>Çorbalık arpa: Fī 18 / Kıyye 2 / 36</p><p>Mercimek:  Fī 12 / Dirhem 100 / Kıyye 9 / 112</p><p>Bakla: Fī 12 / Kıyye 2 / 24</p><p>Sarımsak: 1 / 12</p><p>Tulum peyniri:  Fī 42 / Kıyye 3 / 147</p><p>Tulum ezmesi peynir:  Fī 24 / Kıyye 7.5 / 180</p><p>Kaşar peyniri:  Fī 51 / Kıyye 14 / 739</p><p>Eski siyah üzüm:  Fī 10 / Kıyye 65 / 650</p><p>Kömür: Kıyye 300 / 1020</p><p>Kaba tuz: Fi 84 / Keyl 7 / 588</p><p>Siyah üzüm ve incir:  Fī 21 / Kıyye 7 / 147</p><p>Çalı süpürgesi: Aded 35 / 90</p><p>Kapu ve destgāh ve sicim : Aded 16 / 117</p><p>Bozuk revgan-ı sāde:  Fī 74 / Kıyye 11 / 924</p><p>Tuz: Fi 10 / Kıyye 140 / 1400</p><p>Mum: Aded 32 / 66</p><p>Katran: Fī 12 / Kıyye 75 / 900</p><p>Zeytūn:  Fī 330 / Kıyye 34 / 1122</p><p>Tozya böğrülcesi:  Fī 12 / Kıyye 24 / 248</p><p>Bakkāl edevātı: Aded 190 / 510</p><p>Soğan:  Fī 10 / Kıyye 25 / 250</p><p>Desti ve kavanoz ve bardak: 2847</p><p>Zenbil: Aded 8 / 192</p><p>Çuval: Aded 2 / 105</p><p>Fuçı: Aded 2 / 90</p><p>Revgan-ı zeyt çamurlu:  12</p><p>Cem’an yekūn: 27804</p></div>
+        </body>
+    </text>
+</TEI>
