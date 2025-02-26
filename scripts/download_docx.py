@@ -1,6 +1,8 @@
+import os
+import zipfile
+import io
 import requests
 import shutil
-import os
 import gdown
 from acdh_tei_pyutils.tei import TeiReader
 from config import (
@@ -35,7 +37,24 @@ for url, docx_file, xml_file in zip(
         headers=headers,
         files=files,
     )
-    data = response.content.decode("utf-8")
+    try:
+        data = response.content.decode("utf-8")
+    except UnicodeDecodeError:
+        ZIP_DIR = os.path.join(TMP_DIR, "zip")
+        shutil.rmtree(ZIP_DIR, ignore_errors=True)
+        os.makedirs(ZIP_DIR, exist_ok=True)
+        print(f"Content-Type: {response.headers['Content-Type']}")
+        zip_file = io.BytesIO(response.content)
+
+        # Unzip the content
+        with zipfile.ZipFile(zip_file, "r") as zip_ref:
+            zip_ref.extractall(ZIP_DIR)
+        # Read the TEI
+        with open(os.path.join(ZIP_DIR, "tei.xml"), "r", encoding="utf-8") as fp:
+            data = fp.read()
+        # clean up
+        shutil.rmtree(ZIP_DIR, ignore_errors=True)
+
     data = data.replace("heading=h.", "heading_h_")
     data = data.replace('xml:id="', 'xml:id="xmlid__')
     print(f"saving result as {xml_file}")

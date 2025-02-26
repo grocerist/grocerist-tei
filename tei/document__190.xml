@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__190.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">: İSTM.ŞSC.01.d.70/ 5b-2</title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Name of the Archiv</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.01.d.70/ 5b-2</idno>
+                    </msIdentifier>
+                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.01.d.70/ 5b-2</idno></ab>
+         </abstract>         <particDesc>
+            <listPerson>            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+<place xml:id="district__26" type="district"><placeName>İstanbul</placeName></place><place xml:id="neighbourhood__108" type="neighbourhood"><placeName>Tahtakale</placeName></place>            </listPlace>
+         </settingDesc>         <textClass>
+            <keywords>
+<term xml:id="goods__15"/><term xml:id="goods__54"/><term xml:id="goods__413"/>            </keywords>
+         </textClass>      </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_qewj11z369j4"/>İSTM.ŞSC.01.d.70/ 5b-2 <ref target="http://document__189">GrocerIST id_</ref><ref target="http://document__189">189</ref> <ref target="http://document__190">GrocerIST id_190</ref> <ref target="http://document__191">GrocerIST id_191</ref></head><p>Āsitāne-i aliyyelerinde Bal kapanı ticaretinden Kadızade Elhac Mehmed ve … oğlu Salih ve kasab Mehmed ve Elhac Osman ve Salih ve Ömer … nām kimesneler ile ….. ve Yorgaki nām zımmīlerin İstanbulda Tahtakalede vāki’ Elhac Ali oğlu dükkānı demekle marūf iki bāb bakkāl dükkānları .. olunan dükkānlar civārında kāin bir bāb … ve civārında Çiçekçibaşı … tahtında  bir bāb bakkāl dükkānında bakkāl olub bundan akdem medyūnan firār idüb …. ve şerīki Panayot … …. ….. dükkānlarında mevcūd olan eşyāları … … olan …. ... …. ve mutasarrıf oldukları gedikleri ve eşyā-i mevcūdları tahrīr olunub ma‘rifet-i şer-i şerif ve bāzārbaşı ve ustalar ma‘rifetiyle kayyım ve … olunan Yorgi veled-i Rahu nām zımmī ma‘rifetiyle tahrīr olunan eşyā defteridir ki ber vech-i ātī zikr olunur. fī 12 … 1212</p><p>a)</p><p>Şehriye:  Fī 40 / Kıyye 15 / 600</p><p>Çorbalık şehriye:  Fī 40 / Kıyye 83 / 2321</p><p>Yufka şehriye:  Fī 17/ Kıyye 20.5 / 248</p><p>Razaki üzüm:  Fī 12 / Kıyye 13 / 546</p><p>Fındık:  Fī 54 / Kıyye 1 / 54</p><p>Pestil:  Fī 12 / kıyye 3/ 36</p><p>İzmir siyahı üzüm:  Fī 18/ Dirhem 300 / 18</p><p>Bulgur:  Fī 12.5/ Kıyye 3.5 / 384</p><p>Dakīk:  Fī 12 / Kıyye 8 / 96</p><p>Tuz:  Fī Fī 10/ Kıyye 4 / 40 </p><p>Nişasta:  Fī 30/ Kıyye 65 / 1950</p><p>Buğday:  Fī 12/ Kıyye 3 / 36</p><p>Kızıl şehriye: Kıyye 12 / 284</p><p>Nohud:  Fī 18.5 / Kıyye 13 / 236</p><p>Kurumuş şehriye:  Fī 30 / Kıyye 8 / 240</p><p>Fındık:  Fī 33 / Kıyye 19 / 627</p><p>Tulum peyniri:  Fī 20 / Kıyye 15 / 300</p><p>Ceviz: Aded 500 / 60</p><p>Yumurta: Aded 30 / 60</p><p>Mum aseli: Fī Fī 75 / Kıyye 19 / 1465 </p><p>… nişasta:  Fī 54 / Kıyye 10 / 540</p><p>…</p><p>Limon: Aded 15 / 30</p><p>Pekmez:  Fī 110/ Kıyye 3 / 320</p><p>Zeytūn:  Fī 22 / Kıyye 10 / 220</p><p>Köhne kaşar:  Fī 24 / Kıyye 30 / 730</p><p>Nardeng:  Fī 24 / Kıyye 4 / 100</p><p>…</p><p>Revgan-ı sāde:  Fī 111 / Kıyye 2.5 / 277</p><p>Sarımsak:  Fī 10/ Kıyye 8 / 80</p><p>Soğan:  Fī 6 / Kıyye 42 / 252</p><p>Fasulye: Fī 16 / Kıyye 15 / 240</p><p>Pirinc:  Fī 38 / Kıyye 1077 / 40926</p><p>Kavanoz ve bardak ve şamdan: 5337</p><p>Nakd akçe: 1018</p><p>Yekūn: 67024</p><p>b) Dükkān-ı mezkūr karşusunda vāki’yağcı bakkāl dükkānı derūnunda zuhūr eden eşyāsıdır:</p><p>Kavanoz yeşil:  Fī 80 / Aded 70 / 5600</p><p>Ednā asel-i Kuşadası:  Fī45 / Kıyye 57 / 2520</p><p>Boyanad pirinci:  Fī 30 / Kıyye 57 / 1440</p><p>Yağ küpü:  Fī 360 / Aded 2 / 720</p><p>Pirinç: Kıyye 895 / 34010</p><p>Boş zenbil: Aded / 144</p><p>Camlı.. kavanoz:  Kıymet 6000</p><p>Yekūn: 50439</p><p>Tahtakalede vāki’ mahzen derūnunda mevcūd eşyā beyānıdır:</p><p>Revgan-ı zeyt:  Fī 108 / Kıyye 40 / 4320</p><p>Hatab: 3000</p><p>Böğrülce:  Fī 17 / Kıyye 30 / 510</p><p>..</p><p>Sarı şehriye: Fī Fī 26 / Kıyye 6 / 216 </p><p>Zenbil: Fī 24 / Aded 1 / 24</p><p>Tulum peyniri:  Fī 30 / Kıyye 20 / 600 </p><p>Mum yağı:  Fī 51 / Kıyye 30 / 1530</p><p>Eflak tuzu:  Fī 10 / Kıyye 35 / 350</p><p>..</p><p>Zeyt yağı boş tulum:  Fī 60 / Aded 2 / 120</p><p>Trilye zeytūnu:  Fī 20 / Kıyye 14 / 280</p><p>c) Uzun Çarşu …  başı dükkānında zuhūr eden eşyāsıdır:</p><p>Pirinç:  Fī 38 / Kıyye 366 / 13927</p><p>Nardenk:  Fī 24 / Kıyye 10 / 240</p><p>Çarçube kāğıdı:  Fī 120 / Dirhem 300 / Kıyye 1 / 210</p><p>Kaşar peyniri:  Fī 54 / Kıyye 14 / Dirhem 300 / 796</p><p>Burgur:  Fī 15 / Kıyye 7 / 105</p><p>Nişasta:  Fī 30 / Kıyye 2 / 60</p><p>Böğrülce:  Fī 18 / Kıyye 8 / 144</p><p>Nohud:  Fī 16 / Kıyye 5 / 80</p><p>Fasulye:  Fī 17/ 4 / 72</p><p>Eflak tuzu:  Fī 10 / Kıyye 26 / 260</p><p>Böğrülce:  Fī 17 / Kıyye 30 / 510</p><p>Sarımsak:  Fī 10 / Kıyye 5 / 50</p><p>Mercimek:  Fī 8 / Kıyye 3 / 24</p><p>Zeytūn: Fī 24 / Kıyye 30 / 720</p><p>Sirke:  Fī 7 / Kıyye 20 / 140</p><p>Kavanoz balı …: 1784</p><p>Kuşadası balı:  Fī 72 / Kıyye 52 / 3744</p><p>Ednā şehriyesi: Fī 42 / Kıyye 37 / 1554</p><p>Zenbil ve çuval: 2-1 / 90</p></div>
+        </body>
+    </text>
+</TEI>
