@@ -4,7 +4,7 @@ import lxml.etree as ET
 import jinja2
 import requests
 from acdh_tei_pyutils.tei import TeiReader
-import copy
+# import copy
 
 
 from config import TEI_DIR, SOURCE_XML_FILES, DOCUMENT_URL
@@ -71,7 +71,7 @@ for source_xml in SOURCE_XML_FILES:
             for el in x.xpath("//*[@style]", namespaces=nsmap):
                 el.attrib.pop("style")
 
-            ## TEST continued
+            # # TEST continued
             # ET.strip_tags(x, "*")
             # text_after = ET.tostring(x).decode("utf-8")
             # if text_before != text_after:
