@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__70.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 394 / 92a-1</title>
+                <title type="main">: İSTM.ŞSC.06.d. 394 / 92a-1
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,42 +27,197 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.06.d. 394 / 92a-1</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1736-05-23"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 394 / 92a-1</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__70">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>İstanbul bazarbaşısı</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__51" type="neighbourhood"><placeName>Mehmed Paşa</placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__13"/><term xml:id="goods__14"/><term xml:id="goods__15"/><term xml:id="goods__17"/><term xml:id="goods__18"/><term xml:id="goods__23"/><term xml:id="goods__24"/><term xml:id="goods__25"/><term xml:id="goods__27"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__36"/><term xml:id="goods__44"/><term xml:id="goods__49"/><term xml:id="goods__53"/><term xml:id="goods__61"/><term xml:id="goods__64"/><term xml:id="goods__93"/><term xml:id="goods__95"/><term xml:id="goods__108"/><term xml:id="goods__158"/><term xml:id="goods__192"/><term xml:id="goods__196"/><term xml:id="goods__206"/>            </keywords>
-         </textClass>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 394 / 92a-1</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1736-05-23">1736-05-23
+                </date>
+                <date calendar="#islamic" when="1149">1149
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+            <place xml:id="district__16" type="district">
+                <placeName>Üsküdar</placeName>
+            </place>
+            <place xml:id="neighbourhood__51" type="neighbourhood">
+                <placeName>Mehmed Paşa</placeName>
+            </place>
+            <place xml:id="karye__6" type="karye">
+                <placeName>Eski hamam</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__70">
+                <persName>Tanaş v. Dimitri</persName>
+                <state type="status"><label>lost</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>İstanbul bazarbaşısı</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__70">
+            </relation>
+        </listRelation>
+        <list type="inventory">
+            <item xml:id="goods__1">
+                <name xml:lang="tr">Fındık</name>
+                <name xml:lang="en">Hazelnut</name>
+            </item>
+            <item xml:id="goods__5">
+                <name xml:lang="tr">Revgan-ı zeyt</name>
+                <name xml:lang="en">Olive oil</name>
+                <name xml:lang="tr" type="variation">Zeyt yağı</name>
+                <name xml:lang="tr" type="variation">Revgan-ı zeyd</name>
+                <name xml:lang="tr" type="variation">Zeyt revgan</name>
+            </item>
+            <item xml:id="goods__6">
+                <name xml:lang="tr">Revgan-ı sade</name>
+                <name xml:lang="en">Ghee</name>
+                <name xml:lang="en">Clarified Butter</name>
+                <name xml:lang="tr" type="variation">Sadeyağ</name>
+            </item>
+            <item xml:id="goods__13">
+                <name xml:lang="tr">Nohud</name>
+                <name xml:lang="en">Chickpea</name>
+                <name xml:lang="tr" type="variation">Nohud</name>
+            </item>
+            <item xml:id="goods__14">
+                <name xml:lang="tr">Mercimek</name>
+                <name xml:lang="en">Lentil</name>
+            </item>
+            <item xml:id="goods__15">
+                <name xml:lang="tr">Pirinc</name>
+                <name xml:lang="en">Rice</name>
+            </item>
+            <item xml:id="goods__17">
+                <name xml:lang="tr">Beylerce üzümü</name>
+                <name xml:lang="en">Beylerce raisin</name>
+                <name xml:lang="tr" type="variation">Beğlerce üzümü</name>
+                <name xml:lang="tr" type="variation">Beylerce</name>
+                <name xml:lang="tr" type="variation">İzmir beylercesi</name>
+            </item>
+            <item xml:id="goods__18">
+                <name xml:lang="tr">Razaki üzüm</name>
+                <name xml:lang="en">Razaki raisin</name>
+            </item>
+            <item xml:id="goods__23">
+                <name xml:lang="tr">Pekmez</name>
+                <name xml:lang="en">Molasses</name>
+                <name xml:lang="tr" type="variation">Betmez</name>
+                <name xml:lang="tr" type="variation">Bekmez</name>
+            </item>
+            <item xml:id="goods__24">
+                <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="tr" type="variation">Nardeng</name>
+                <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
+            </item>
+            <item xml:id="goods__25">
+                <name xml:lang="tr">Bal / Asel</name>
+                <name xml:lang="en">Honey</name>
+                <name xml:lang="tr" type="variation">Bal</name>
+            </item>
+            <item xml:id="goods__27">
+                <name xml:lang="tr">Nişasta</name>
+                <name xml:lang="en">Starch</name>
+            </item>
+            <item xml:id="goods__28">
+                <name xml:lang="tr">Sirke</name>
+                <name xml:lang="en">Vinegar</name>
+            </item>
+            <item xml:id="goods__29">
+                <name xml:lang="tr">Soğan</name>
+                <name xml:lang="en">Onion</name>
+            </item>
+            <item xml:id="goods__36">
+                <name xml:lang="tr">Şariye</name>
+                <name xml:lang="en">Vermicelli</name>
+                <name xml:lang="tr" type="variation">Şehriye</name>
+            </item>
+            <item xml:id="goods__44">
+                <name xml:lang="tr">Buğday</name>
+                <name xml:lang="en">Wheat</name>
+                <name xml:lang="tr" type="variation">Hınta</name>
+            </item>
+            <item xml:id="goods__49">
+                <name xml:lang="tr">Sucuk</name>
+            </item>
+            <item xml:id="goods__53">
+                <name xml:lang="tr">Dakik</name>
+                <name xml:lang="en">Flour</name>
+            </item>
+            <item xml:id="goods__61">
+                <name xml:lang="tr">Trilye zeytunu</name>
+                <name xml:lang="en">Trilye olives</name>
+            </item>
+            <item xml:id="goods__64">
+                <name xml:lang="tr">Döğülmüş tuz</name>
+                <name xml:lang="en">Smashed salt</name>
+            </item>
+            <item xml:id="goods__93">
+                <name xml:lang="tr">Gömeç balı</name>
+                <name xml:lang="en">Gömeç honey</name>
+            </item>
+            <item xml:id="goods__95">
+                <name xml:lang="tr">Çörek otu</name>
+                <name xml:lang="en">Black seed</name>
+            </item>
+            <item xml:id="goods__108">
+                <name xml:lang="tr">Sabun</name>
+                <name xml:lang="en">Soap</name>
+            </item>
+            <item xml:id="goods__158">
+                <name xml:lang="tr">Revgan-ı şem</name>
+                <name xml:lang="tr" type="variation">Şem-i revgan</name>
+            </item>
+            <item xml:id="goods__192">
+                <name xml:lang="tr">Çakmak tozu</name>
+            </item>
+            <item xml:id="goods__196">
+                <name xml:lang="tr">Dil peyniri</name>
+            </item>
+            <item xml:id="goods__206">
+                <name xml:lang="tr">Temür hurdası</name>
+            </item>
+        </list>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 394 / 92a-1_<ref target="http://document__70">GrocerIST id_70</ref></head><p><anchor xml:id="xmlid__heading_h_lnxbz9"/>Medīne-i Üsküdar’da Mehmed Paşa mahallesinde vāki‘ eski hamam kurbunda bakkāl tāifesinden Tanaş veled-i Dimitri nām zımmī tārih-i defterden on gün mukaddem gāib olub hayāt ve memātı ma‘lūm olmadığı sikāt-ı Müslimīn ihbārlarıyla müte‘ayyen olmağla gāib mezbūrun dükkān-ı merkūmde mevcūd malını ahz ve kabz ve hıfza kıbel-i şerden kayyım nasb ve ta’yīn olunan hālā İstanbul bazarbaşısı Elhac Mehmed Ağa b. Elhac Hüseyin talebiyle  cemaat-i müslimin huzurlarında dükkān-ı merkūmda mevcūd olub tahrīr  olunan zehāir ve nükūdu defteridir ber vech-i ātī zikr olunur. </p><p>Hurrira Fi’l-yevmi’s-sānî aşer Muharremü’l-haram 1149.</p><p>Revgan-ı sāde: Fī 40 / Kıyye 66 / Kıymet 2640</p><p>Asel: Fī 16 / Kıyye 308 / Kıymet 4928</p><p>Revgan-ı zeyt: Fī 7.5 / Kıyye 520 / Kıymet</p><p>Pirinc: Fī 28 / Kıyye 53.5 / Kıymet 1498</p><p>Fındık: Fī 7 / Kıyye 65 / Kıymet 455</p><p>Sabun: Fī 724 / Kıyye 40 / Kıymet 960</p><p>Nişasta: Fī 12 / Kıyye 60 / Kıymet 720</p><p>Nohud: Fī 7 / Kıyye 77 / Kıymet 539 </p><p>Sirke: Fī 2 / Kıyye 525 / Kıymet 1050 </p><p>Beylerce: Fī 6 / Kıyye 14 / Kıymet 84 </p><p>Razaki üzüm: Fī 14 / Kıymet 22.5 </p><p>Şa‘riye: Fī 10 / Kıyye 25 / Kıymet 250 </p><p>Mercimek: Fī 4/ Kıyye 29 / Kıymet 116 </p><p>Buğday: Fī 5 / Kıyye 14 / Kıymet 80 </p><p>Kuş üzümü: Fī 20 / Kıyye 6/ Kıymet 40</p><p>Dakik: Fī 5 / Kıymet 93 </p><p>Pekmez: Fī 8 / Kıyye 20 / Kıymet 160 </p><p>Gömeç balı: Fī 24 / Kıyye 8/ Kıymet 172</p><p>Nardenk: Fī 8 / Kıyye 8 / Kıymet 64 </p><p>Soğan: Fī 2 / Kıyye 6 / Kıymet 12 </p><p>Trilye zeytūnu: Fī 7 / Kıyye 6 / Kıymet 42</p><p>Dil peyniri: Fī 22 / Kıyye 2 / Kıymet 44</p><p>Dövülmüş tuz: Fī 4 / Kıyye 48 / Kıymet 196 </p><p>Revgan-ı şem: Kıyye 1 / Kıymet 24</p><p>Çakmak tozu: Fī 20 / Keyl 2 / Kıymet 125 </p><p>Sucuk: Fī 20 / Kıyye 2 / Kıymet 40 </p><p>Temür hurdası: Fī 15 / Kıyye 7 / Kıymet 105</p><p>Dükkānı merkūmda olan çanak ve perākende hırdavat: Kıymet 1015</p><p>Hücrede mevcūd nakit: 790</p><p>Gāib mezbūrun hizmetkārı Andon nām zımmīnin ikrārı üzere yedinde olan bazarlık akçesi: 3000 </p></div>
         </body>

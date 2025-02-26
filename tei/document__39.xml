@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__39.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d. 394/ 59b-1</title>
+                <title type="main">: İSTM.ŞSC.14.d. 394/ 59b-1
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,43 +27,85 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d. 394/ 59b-1</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1768-11-10"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 394/ 59b-1</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__39">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Wife</persName>
-               </person>               <person role="mentioned">
-                <persName>Daughter</persName>
-               </person>               <person role="mentioned">
-                <persName>Sister</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__33" type="neighbourhood"><placeName> Aya Nikoli</placeName></place>            </listPlace>
-         </settingDesc>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 394/ 59b-1</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1768-11-10">1768-11-10
+                </date>
+                <date calendar="#islamic" when="1182">1182
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">41.12070 29.06818</geo>
+                </location>
+            </place>
+            <place xml:id="district__4" type="district">
+                <placeName>Galata</placeName>
+            </place>
+            <place xml:id="neighbourhood__33" type="neighbourhood">
+                <placeName> Aya Nikoli</placeName>
+            </place>
+            <place xml:id="nahiye__1" type="nahiye">
+                <placeName>İstinye</placeName>
+            </place>
+            <place xml:id="quarter__15" type="quarter">
+                <placeName>Yeniköy</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__39">
+                <persName>Bakkal Totoş</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Wife</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Daughter</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Sister</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__39">
+            </relation>
+        </listRelation>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_impatt586yd"/>İSTM.ŞSC.14.d. 394/ 59b-1<ref target="http://document__39">_ GrocerIST id_39</ref></head><p><anchor xml:id="xmlid__heading_h_4d34og8"/>Mahrūse-i Galata tevābi’nden İstinye nāhiyesine tābi’Yeniköy kasabasında Aya Nikola mahallesinde mütemekkin iken bundan akdem hālik olan bakkāl  Totoş? veled-i Yani veled-i Yanaki verāseti zevcesi  … bt. Marodi ve sulbiye sagīre kızları Ezmerağda ve li-ebeveyn kız karındaşları  … ve … münhasıra olduğu şer’an zāhir oldukdan sonra sagīrtān-ı mesfūrtānın tesviye-i emrlerine vasī … mesfūre .. …. talebleriye tahrīr olunan tereke-i hālik-i mesfūrdur ki ber vech-i ātī Fī evāhiri Cemāziyelāhir 1182</p><p>Mahalle-i mezkūrede vāki‘ bakkāl dükkānında mevcūd olan eşyā: 12000  </p><p>Mardindeki Yeniköy bağları … kürūmî mülk bağ: 24000 </p><p>… mülk-ü menzil der mahalle-i mezkūre: 60000 </p></div>
         </body>

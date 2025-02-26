@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__66.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 339 / 94b-1</title>
+                <title type="main">: İSTM.ŞSC.06.d. 339 / 94b-1
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,41 +27,76 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.06.d. 339 / 94b-1</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1709-05-21"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 339 / 94b-1</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__66">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Wife</persName>
-               </person>               <person role="mentioned">
-                <persName>Son</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__48" type="neighbourhood"><placeName>Kefere</placeName></place>            </listPlace>
-         </settingDesc>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 339 / 94b-1</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1709-05-21">1709-05-21
+                </date>
+                <date calendar="#islamic" when="1121">1121
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+            <place xml:id="district__16" type="district">
+                <placeName>Üsküdar</placeName>
+            </place>
+            <place xml:id="neighbourhood__48" type="neighbourhood">
+                <placeName>Kefere</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__66">
+                <persName>Bakkal Kristic v. Mihal</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Wife</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Son</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__66">
+            </relation>
+        </listRelation>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 339 / 94 b1_<ref target="http://document__66">GrocerIST id_66</ref></head><p>Medīne-i Üsküdarda Kefere mahallesinde sākin  iken bundan akdem hālik olan bakkāl Kristic veled-i Mihal veled-i Seferos? nām zımmīnin verāseti zevce-i metrūkesi Kokona bt. Panayot nām nasrāniye ile sulbī oğlu Panayot nām sagīre münhasıra olduğu lede’ş-şer‘i’l-enver zāhir ve müte‘ayyen oldukdan sonra sagīr mezbūrun tesviye-i emrine vasiyy-i muhtārı olan bakkāl Dimitri nām zımmī ile mesfūre Kokona taleb ve iltimāslarıyla tereke-i hālik-i mezbūr tahrīr ve taksīm olunub vech-i ātī üzere zikr olunur. Fi’l-yevmi’l-hādi aşer min-şehri Rebīʻi’l-evvel li-sene ihdā ve ışrīnve mi’e ve elf. 1121</p><p>Tencere: 1 / 120</p><p>Baklava tepsisi: 1 / 120</p><p>Taba: 1 / 60</p><p>Leğen ve ibrik: 240</p><p>Güğüm: 1 / 220</p><p>Tuç sahan: 4 / 100</p><p>Sagīr lenger: 2 / 300</p><p>Köhne alaca: 1 / 120</p><p>Diz çakşırı: 1 / 150</p><p>...</p><p>Kalpak ve aba çakşırı: 30</p><p>Beledī yasdık: 4 / 480</p><p>Çārşebli yorgan: 360</p><p>Köhne sagīr minder: 40</p><p>Minder: 240</p><p>Alaca kilim: 240</p><p>Mısır hasırı: 3 / 240</p><p>Köhne alaca mak‘ad: 60</p><p>Māī çuka nīmten: 300</p><p>Odun Kömür: 200</p><p>Bal fuçısı: 2 / 100</p><p>Bakkāl dükkānında olan sermāye: 16000</p><p>Ālāt-ı dükkān: 4000</p></div>
         </body>

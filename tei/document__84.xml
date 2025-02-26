@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__84.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 501 / 22b-3</title>
+                <title type="main">: İSTM.ŞSC.06.d. 501 / 22b-3
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,40 +27,145 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.06.d. 501 / 22b-3</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1778-08-14"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 501 / 22b-3</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__114">
-                <persName/>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__4"/><term xml:id="goods__5"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__18"/><term xml:id="goods__20"/><term xml:id="goods__23"/><term xml:id="goods__24"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__31"/><term xml:id="goods__45"/><term xml:id="goods__64"/><term xml:id="goods__175"/><term xml:id="goods__204"/>            </keywords>
-         </textClass>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 501 / 22b-3</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1778-08-14">1778-08-14
+                </date>
+                <date calendar="#islamic" when="1192">1192
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+            <place xml:id="district__16" type="district">
+                <placeName>Üsküdar</placeName>
+            </place>
+            <place xml:id="karye__7" type="karye">
+                <placeName>Hünkar</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__114">
+                <persName>Bakkal Panço v. Dimitri</persName>
+                <state type="status"><label>lost</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__114">
+            </relation>
+        </listRelation>
+        <list type="inventory">
+            <item xml:id="goods__1">
+                <name xml:lang="tr">Fındık</name>
+                <name xml:lang="en">Hazelnut</name>
+            </item>
+            <item xml:id="goods__4">
+                <name xml:lang="tr">Ceviz</name>
+                <name xml:lang="en">Walnut</name>
+            </item>
+            <item xml:id="goods__5">
+                <name xml:lang="tr">Revgan-ı zeyt</name>
+                <name xml:lang="en">Olive oil</name>
+                <name xml:lang="tr" type="variation">Zeyt yağı</name>
+                <name xml:lang="tr" type="variation">Revgan-ı zeyd</name>
+                <name xml:lang="tr" type="variation">Zeyt revgan</name>
+            </item>
+            <item xml:id="goods__13">
+                <name xml:lang="tr">Nohud</name>
+                <name xml:lang="en">Chickpea</name>
+                <name xml:lang="tr" type="variation">Nohud</name>
+            </item>
+            <item xml:id="goods__15">
+                <name xml:lang="tr">Pirinc</name>
+                <name xml:lang="en">Rice</name>
+            </item>
+            <item xml:id="goods__18">
+                <name xml:lang="tr">Razaki üzüm</name>
+                <name xml:lang="en">Razaki raisin</name>
+            </item>
+            <item xml:id="goods__20">
+                <name xml:lang="tr">Siyah üzüm</name>
+                <name xml:lang="tr" type="variation">Siyah</name>
+            </item>
+            <item xml:id="goods__23">
+                <name xml:lang="tr">Pekmez</name>
+                <name xml:lang="en">Molasses</name>
+                <name xml:lang="tr" type="variation">Betmez</name>
+                <name xml:lang="tr" type="variation">Bekmez</name>
+            </item>
+            <item xml:id="goods__24">
+                <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="tr" type="variation">Nardeng</name>
+                <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
+            </item>
+            <item xml:id="goods__28">
+                <name xml:lang="tr">Sirke</name>
+                <name xml:lang="en">Vinegar</name>
+            </item>
+            <item xml:id="goods__29">
+                <name xml:lang="tr">Soğan</name>
+                <name xml:lang="en">Onion</name>
+            </item>
+            <item xml:id="goods__31">
+                <name xml:lang="tr">Sarımsak</name>
+                <name xml:lang="en">Garlic</name>
+                <name xml:lang="tr" type="variation">Sarmusak</name>
+            </item>
+            <item xml:id="goods__45">
+                <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="tr" type="variation">Burgur</name>
+                <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
+            </item>
+            <item xml:id="goods__64">
+                <name xml:lang="tr">Döğülmüş tuz</name>
+                <name xml:lang="en">Smashed salt</name>
+            </item>
+            <item xml:id="goods__175">
+                <name xml:lang="tr">Kestane</name>
+                <name xml:lang="en">Chestnut</name>
+            </item>
+            <item xml:id="goods__204">
+                <name xml:lang="tr">Süpürge</name>
+                <name xml:lang="en">Broom</name>
+            </item>
+        </list>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 501 / 22b-3_<ref target="http://document__84">GrocerIST id_84</ref></head><p>Medīne-i Üsküdara tābi‘ Hünkār karyesinde vāki‘ Panço veled-i Dimitri dükkānında bakkāl olan Panko nām zımmī gaybet-i münkatı‘a  ile gāib ve hayāt ve memātı malūm olmayub mefkūd olmağla mefkūd merkūmun emvāl ve eşyāsını hıfza kıbel-i şer‘den vasī kayyım nasb olunan merkūm Panço zımmīnin taleb ve iltimāsıyla bakkāl ustaları ma‘rifetiyle  tahrīr  olunan eşyāsı defteridir ki ber vech-i ātī zikr olunur. Fī 20 Recebi’l-ferd 1192 </p><p>Pirinc: Kıyye 19 / Kıymet 428</p><p>Nohud: Kıyye 7 / Kıymet 70</p><p>Bulgur: Kıyye 3.5 / Kıymet 63</p><p>Sarımsak: Kıyye 3 / Kıymet 36</p><p>Siyāh üzüm: Kıyye 4 / Kıymet 64 </p><p>Soğan: Kıyye 12 / Kıymet 48</p><p>Razaki üzüm: Kıyye 2 / Kıymet 48</p><p>Fındık: Kıyye 2.5 / Kıymet 40</p><p>Ceviz: Aded 300 / Kıymet 30</p><p>Kestane: Kıyye 67 / Kıymet 24 </p><p>Dövülmüş tuz: Kıyye 35 / Kıymet 140 </p><p>Nardenk: Kıyye 17 / Kıymet 204</p><p>Pekmez: Kıyye 30 / Kıymet 480</p><p>Sirke: Kıyye 20 / Kıymet 100</p><p>Zeyt yağı: Kıyye 13.5 / Kıymet 607</p><p>Süpürge ve çanak ve hırdavat: Kıymet 1194</p></div>
         </body>

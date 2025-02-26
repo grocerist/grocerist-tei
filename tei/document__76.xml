@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__76.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 455 / 38a-1</title>
+                <title type="main">: İSTM.ŞSC.06.d. 455 / 38a-1
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,39 +27,73 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.06.d. 455 / 38a-1</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1760-11-05"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 455 / 38a-1</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__76">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Wife</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__54" type="neighbourhood"><placeName>Mirahor</placeName></place>            </listPlace>
-         </settingDesc>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 455 / 38a-1</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1760-11-05">1760-11-05
+                </date>
+                <date calendar="#islamic" when="1174">1174
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">40.99618 28.92857</geo>
+                </location>
+            </place>
+            <place xml:id="district__16" type="district">
+                <placeName>Üsküdar</placeName>
+            </place>
+            <place xml:id="neighbourhood__54" type="neighbourhood">
+                <placeName>Mirahor</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__76">
+                <persName>Vasil v. Dimitri</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Wife</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__76">
+            </relation>
+        </listRelation>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 455 / 38a-1_<ref target="http://document__76">GrocerIST id_76</ref></head><p>Medīne-i Üsküdarda Mirahor mahallesinde vāki‘ bakkāl dükkānında bakkāl iken bundan akdem hālik olan Vasil veled-i Dimitri nām zımmīnin verāseti Rum ilindeki Niş kasabasında … karyesinde sākin  olan zevcesi Pavne ve oğlu Nikolaya münhasıra olduğu mütebeyyin oldukdan sonra zikr olunan Mirahor mahallesinde vāki‘ bakkāl dükkānının gedik ta‘bīr olunur ālāt-ı ma‘lūmenin nısf-ı hālik-i  merkūm Vasilin ve nısf-ı āharı Nikola veled-i Dimonun … hālik merkūmun gedik ta‘bīr  olunan ālāt-ı malūmenin nısf-ı hissesi ahz ü zabt ve hıfz rü’yete  gāibân-ı mezbūrānın īsāle ve teslīme kıbel-i şerden vasī nasb ü ta’yīn olunan tereke-i merkūm Nikola taleb ve iltimāsıyla tahrīr  ve takvīm olunan nısf-ı gedik hissesidir ki ber vech-i ātī zikr olunur. Hurrira 26  şehri Rebī‘ilevvel  1174</p><p>Zeytūn yağı küpü: 1 / Kıymet 2500</p><p>Fuçı: 5 / Kıymet 1800</p><p>Turşu fuçısı: Kıymet 480</p><p>Kantar: Kıymet 600</p><p>Terāzū ma dirhem: Kıymet 1200</p><p>Havan ve sandık: 300</p></div>
         </body>

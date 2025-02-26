@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__22.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.254 / 64a-1</title>
+                <title type="main">: İSTM.ŞSC.14.d.254 / 64a-1
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,42 +27,185 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.254 / 64a-1</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1723-05-23"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.254 / 64a-1</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__22">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Beytülmal Emini</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__19" type="neighbourhood"><placeName>Karaköy</placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__1"/><term xml:id="goods__2"/><term xml:id="goods__3"/><term xml:id="goods__4"/><term xml:id="goods__5"/><term xml:id="goods__9"/><term xml:id="goods__12"/><term xml:id="goods__13"/><term xml:id="goods__15"/><term xml:id="goods__17"/><term xml:id="goods__20"/><term xml:id="goods__27"/><term xml:id="goods__29"/><term xml:id="goods__33"/><term xml:id="goods__34"/><term xml:id="goods__36"/><term xml:id="goods__45"/><term xml:id="goods__49"/><term xml:id="goods__53"/><term xml:id="goods__57"/><term xml:id="goods__58"/><term xml:id="goods__59"/><term xml:id="goods__60"/><term xml:id="goods__112"/>            </keywords>
-         </textClass>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.254 / 64a-1</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1723-05-23">1723-05-23
+                </date>
+                <date calendar="#islamic" when="1135">1135
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">41.02255 28.97764</geo>
+                </location>
+            </place>
+            <place xml:id="district__4" type="district">
+                <placeName>Galata</placeName>
+            </place>
+            <place xml:id="neighbourhood__19" type="neighbourhood">
+                <placeName>Karaköy</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__22">
+                <persName>Pereşkova</persName>
+                <state type="status"><label>lost</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__22">
+            </relation>
+        </listRelation>
+        <list type="inventory">
+            <item xml:id="goods__1">
+                <name xml:lang="tr">Fındık</name>
+                <name xml:lang="en">Hazelnut</name>
+            </item>
+            <item xml:id="goods__2">
+                <name xml:lang="tr">Fıstık</name>
+                <name xml:lang="tr" type="variation">Fısdık</name>
+            </item>
+            <item xml:id="goods__3">
+                <name xml:lang="tr">Badem</name>
+                <name xml:lang="en">Almond</name>
+                <name xml:lang="tr" type="variation">Badām</name>
+            </item>
+            <item xml:id="goods__4">
+                <name xml:lang="tr">Ceviz</name>
+                <name xml:lang="en">Walnut</name>
+            </item>
+            <item xml:id="goods__5">
+                <name xml:lang="tr">Revgan-ı zeyt</name>
+                <name xml:lang="en">Olive oil</name>
+                <name xml:lang="tr" type="variation">Zeyt yağı</name>
+                <name xml:lang="tr" type="variation">Revgan-ı zeyd</name>
+                <name xml:lang="tr" type="variation">Zeyt revgan</name>
+            </item>
+            <item xml:id="goods__9">
+                <name xml:lang="tr">Kaşkaval</name>
+                <name xml:lang="en">Kashkaval</name>
+            </item>
+            <item xml:id="goods__12">
+                <name xml:lang="tr">Böğrülce</name>
+                <name xml:lang="en">Pea</name>
+                <name xml:lang="tr" type="variation">Böğrülce</name>
+                <name xml:lang="tr" type="variation">Bölürce</name>
+                <name xml:lang="tr" type="variation">Böğrüce</name>
+            </item>
+            <item xml:id="goods__13">
+                <name xml:lang="tr">Nohud</name>
+                <name xml:lang="en">Chickpea</name>
+                <name xml:lang="tr" type="variation">Nohud</name>
+            </item>
+            <item xml:id="goods__15">
+                <name xml:lang="tr">Pirinc</name>
+                <name xml:lang="en">Rice</name>
+            </item>
+            <item xml:id="goods__17">
+                <name xml:lang="tr">Beylerce üzümü</name>
+                <name xml:lang="en">Beylerce raisin</name>
+                <name xml:lang="tr" type="variation">Beğlerce üzümü</name>
+                <name xml:lang="tr" type="variation">Beylerce</name>
+                <name xml:lang="tr" type="variation">İzmir beylercesi</name>
+            </item>
+            <item xml:id="goods__20">
+                <name xml:lang="tr">Siyah üzüm</name>
+                <name xml:lang="tr" type="variation">Siyah</name>
+            </item>
+            <item xml:id="goods__27">
+                <name xml:lang="tr">Nişasta</name>
+                <name xml:lang="en">Starch</name>
+            </item>
+            <item xml:id="goods__29">
+                <name xml:lang="tr">Soğan</name>
+                <name xml:lang="en">Onion</name>
+            </item>
+            <item xml:id="goods__33">
+                <name xml:lang="tr">Kefe tuzu</name>
+                <name xml:lang="en">Kefe salt</name>
+            </item>
+            <item xml:id="goods__34">
+                <name xml:lang="tr">Zeytun</name>
+                <name xml:lang="en">Olive</name>
+            </item>
+            <item xml:id="goods__36">
+                <name xml:lang="tr">Şariye</name>
+                <name xml:lang="en">Vermicelli</name>
+                <name xml:lang="tr" type="variation">Şehriye</name>
+            </item>
+            <item xml:id="goods__45">
+                <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="tr" type="variation">Burgur</name>
+                <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
+            </item>
+            <item xml:id="goods__49">
+                <name xml:lang="tr">Sucuk</name>
+            </item>
+            <item xml:id="goods__53">
+                <name xml:lang="tr">Dakik</name>
+                <name xml:lang="en">Flour</name>
+            </item>
+            <item xml:id="goods__57">
+                <name xml:lang="tr">Basdırma</name>
+                <name xml:lang="en">Pastrami</name>
+                <name xml:lang="tr" type="variation">Bastırma</name>
+                <name xml:lang="tr" type="variation">Pasdırma</name>
+            </item>
+            <item xml:id="goods__58">
+                <name xml:lang="tr">Kuş üzümü</name>
+                <name xml:lang="en">Currant</name>
+            </item>
+            <item xml:id="goods__59">
+                <name xml:lang="tr">Yumurta</name>
+                <name xml:lang="en">Egg</name>
+            </item>
+            <item xml:id="goods__60">
+                <name xml:lang="tr">Taze peynir</name>
+            </item>
+            <item xml:id="goods__112">
+                <name xml:lang="tr">Mum</name>
+                <name xml:lang="en">Candle</name>
+                <name xml:lang="tr" type="variation">Şem'</name>
+            </item>
+        </list>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_44kzy0f5yqlz"/>İSTM.ŞSC.14.d.254 / 64a-1_<ref target="http://document__22">GrocerIST id_22</ref></head><p>Mahrūse-i Galatada Karaköy nām mahallede bakkāl olduğu halde bundan akdem gaybet-i münkatı‘a ile gāib olub elān hayāt ve memātı ma’lūm olmamağla mefkūd olduğu civārda mütemekkin isimleri müssecil on dört nefer müslim ve kefere haberleriye zāhirde mütehakkık olan Pereşkova nām zımmīnin mahāll-i mezbūrda vāki‘ taht-ı icāresindeki bakkāl dükkānında mevcūd olan mallar zabt ve mā-yuhāfu aleyhi’l-helāk kısmından olan eşyāsı semen misliyle āhara bey‘ ve semeni hıfza bir vasī ve kayyım nasbından lābüd olmağın mahrūse-i mezbūre  ve tevābi‘nde voyvoda ve beytülmāl āmme ve hāsssa māl-i gāib ve māl-ı mefkūd kabzına bā-hatt-ı hümāyūn-ı şevket-makrūn memūr olan fahrü’l-eşbāh Elhac Ahmed Ağanın vekīli Murad Ağa mefkūd-ı mezbūra ber-vech-i muharrer kıbel-i şer‘den   dahi kayyım nasb olundukdan sonra mefkūd mezbūrun dükkān-ı mezbūrda olan eşyāsı seri-ül helāk olmağın ma‘rifet-i şer‘le ba‘de’l-müzāyede şeriyye āhara bey‘ ve semeni vasiyy-i mezbūr yedinde hıfz olundğu defteridir ki vech-i ātī üzere zikr olunur. Hurrire fī 17 Şaban 135 </p><p>Basdırma sucuk: Fī 19 / Kıyye 14 / Kıymet 266</p><p>Fıstık: Fī 20 / Kıyye 2 / Kıymet 40</p><p>Kuş üzümü: Fī 18 / Kıyye 3 / Kıymet 55 </p><p>Beylerce üzüm: Fī 10 / Kıyye 3 / Kıymet 30 </p><p>Ceviz: Aded 500 / Kıymet 27</p><p>Yumurta: Aded 90 / Kıymet 40</p><p>Taze peynir: Fī 1 / Kıymet 10 </p><p>Kaşkaval: Fī 10 / Kıyye 4 / Kıymet 40 </p><p>Badām: Fī 26 / Kıyye 2.5 / Kıymet 67 </p><p>Siyāh üzüm: Fī 9 / Kıyye 4 / Kıymet 36 </p><p>Fındık: Fī 8 / Kıyye 4 / Kıymet 32 </p><p>Bulgur: Fī 4.5 / Kıyye 9.5 / Kıymet 43 </p><p>Böğrülce: Fī 8 / Kıyye 4 / Kıymet 32</p><p>Şa‘riye: Fī 10 / Kıyye 5 / Kıymet 50 </p><p>Nişasta: Fī 9 / Kıyye 4 / kıymet 36 </p><p>Dakik: Fī 5 / Kıyye 6.5 / Kıymet 33 </p><p>Mum: Fī 24 / Kıyye 4 / Kıymet 96 </p><p>Pirinc: Fī 8 / Kıyye 32 / Kıymet 256 </p><p>Zeytun: Fī 10 / Kıyye 3 / Kıymet 30</p><p>Revgan-ı zeyt: Fī 35 / Kıyye11 / Kıymet 395</p><p>Kefe tuzu: Fī 2 / Kıyye 105 / Kıymet 210</p><p>Nohud: Fī 5 / Kıyye 50 / Kıymet 250</p><p>Soğan: Fī 3/ Kıyye 10 / Kıymet 30</p><p>Köhne fuçı ve potna ve desti tecemmülāt vesāir hırdavat: 1104</p></div>
         </body>

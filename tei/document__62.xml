@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__62.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.275 / 45b-3 (c)</title>
+                <title type="main">: İSTM.ŞSC.14.d.275 / 45b-3 (c)
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,42 +27,104 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.275 / 45b-3 (c)</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1730-12-26"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.275 / 45b-3 (c)</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__26">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Beytülmal Emini</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__5"/><term xml:id="goods__38"/><term xml:id="goods__71"/><term xml:id="goods__76"/><term xml:id="goods__79"/><term xml:id="goods__84"/><term xml:id="goods__161"/>            </keywords>
-         </textClass>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.275 / 45b-3 (c)</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1730-12-26">1730-12-26
+                </date>
+                <date calendar="#islamic" when="1143">1143
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+            <place xml:id="district__4" type="district">
+                <placeName>Galata</placeName>
+            </place>
+            <place xml:id="quarter__5" type="quarter">
+                <placeName>Karaköy Kapısı harici</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__26">
+                <persName>Bakkal Estavirnu</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__26">
+            </relation>
+        </listRelation>
+        <list type="inventory">
+            <item xml:id="goods__5">
+                <name xml:lang="tr">Revgan-ı zeyt</name>
+                <name xml:lang="en">Olive oil</name>
+                <name xml:lang="tr" type="variation">Zeyt yağı</name>
+                <name xml:lang="tr" type="variation">Revgan-ı zeyd</name>
+                <name xml:lang="tr" type="variation">Zeyt revgan</name>
+            </item>
+            <item xml:id="goods__38">
+                <name xml:lang="tr">Havyar</name>
+                <name xml:lang="en">Caviar</name>
+            </item>
+            <item xml:id="goods__71">
+                <name xml:lang="tr">Sardalya balığı</name>
+                <name xml:lang="en">Sardines</name>
+            </item>
+            <item xml:id="goods__76">
+                <name xml:lang="tr">Çütre balığı</name>
+            </item>
+            <item xml:id="goods__79">
+                <name xml:lang="tr">Karamürsel zeytunu</name>
+                <name xml:lang="en">Karamürsel olives</name>
+            </item>
+            <item xml:id="goods__84">
+                <name xml:lang="tr">Salamura peynir</name>
+                <name xml:lang="en">Brined cheese</name>
+            </item>
+            <item xml:id="goods__161">
+                <name xml:lang="tr">Kolyoz balığı</name>
+            </item>
+        </list>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_j3b1whhjlsbl"/>İSTM.ŞSC.14.d.275 / 45b-3_<ref target="http://document__26">GrocerIST id_26</ref> <ref target="http://document__61">GrocerIST id_61</ref> <ref target="http://document__62">GrocerIST id_62</ref><seg xml:space="preserve">  </seg><ref target="http://document__116">GrocerIST id_116</ref></head><p>Maḥrūse-i Ġalaṭa każāsı tevābiʿinden Ḳaraköy ḳapusı ḫāricinde sākin iken bundan aḳdem hālik olan baḳḳāl Estavrinu [?] nām zımmīnüñ ẓāhirde vāris-i maʿrūfı olmamaġla terekesi cānib-i beytü’l-māle ʿāʾid olduġı müteʿayyin olduḳdan ṣoñra maḥrūse-i mezbūre tevābiʿinde voyvoda ve beytü’l-māl emīni olan faḫrü’l-eşbāh El-ḥāc Muṣṭafā Aġa ṭarafından umūr-ı beytü’l-māli rüʾyete vekīl-i müsecceli olan şehīr Meḥmed Aġa maʿrifetiyle hālik-i mezbūruñ taḥrīr olınan muḥallefātı defteridür ki vech-i ātī üzre zikr olınur ḥurrire fī evāsıṭi şehri Rebīʿü’l- āḫir sene 1143.</p><div type="section"><p><ref target="http://document__26">a)</ref></p><p>Girit sabunu: Fī 21 / Kıyye 49 / Kıymet 1029</p><p>Mercimek: Fī 3 / Kıyye 62 / Kıymet 186</p><p>Nohud: Fī 6 / Kıyye 53 / Kıymet 318</p><p>Beylerce: Fī 3 / Kıyye 43 / Kıymet 129</p><p>Pirinc: Fī 9 / Kıyye 38 / Kıymet 348</p><p>Trilye zeytūnu: Fī 5 / Kıyye 40 / Kıymet 200</p><p>Havyar: Fī 14 / Kıyye 57 / Kıymet 798</p><p>Revgan-ı zeyt: Fī 15 / Kıyye 91 / Kıymet 1365</p><p>Kaşkaval: Fī 16 / Kıyye 7.5 / Kıymet 136</p><p>Fındık: Fī 6 / Kıyye 14.5 / Kıymet 87</p><p>Şa’riye: Fī 5 / Kıyye 8 / Kıymet 40</p><p>Böğrülce: Fī 6 / Kıyye 5.5 / Kıymet 33 </p><p>Tulum peyniri: Fī 8 / Kıyye 23 / Kıymet 184</p><p>Ton yağı: Fī 24 / Kıyye 3.5 / Kıymet 84</p><p>Sirke: 10</p><p>Nardenk: Fī 10.5 / Kıyye 35 / Kıymet 360</p><p>Salamura peyniri: Fī 9 / Kıyye 17.5 / Kıymet 157</p><p>Kavanozlar: Kıymet 100</p><p>Soğan sarımsak: Kıymet 120</p><p>Eflak tuzu: Fī 2 / Kıyye 128 / Kıymet 256 </p><p>Nişasta: Fī 8 / Kıyye 10 / Kıymet 80</p><p>Revgan-ı sāde: Fī 30 / Kıyye 12 / Kıymet 360</p></div><div type="section"><p><ref target="http://document__61">b)</ref></p><p>Hālik-i mezbūruñ maḥall-i mezbūrdaki saġīr dükkānında taḥrīr olınan rızḳıdur:</p><p>Sardalya balığı: Aded 2500 / Kıymet 237</p><p>Uskumru balığı: Aded 500 / Kıymet 120</p><p>Kolyoz balığı: Aded 800 / Kıymet 2400</p><p>Kolyarudya balığı: Aded 1500 / Kıymet 2400</p><p>Mersin balığı: Fī 17 / 38 / Kıymet 646</p><p>Atik çiroz balığı: Kıymet 30</p><p>Çütre balığı: Aded 6 / Fī 12 / Kıymet 72</p><p>Ton yağı: Fī 24/ Kıyye 57 / Kıymet 1392</p><p>Girit peyniri: Fī 16 / Kıyye 80 / Kıymet 1280</p><p>Ṣıġır dili: fī 14 / ʿaded 22 / ḳıymet 308</p><p>Revgan-ı sāde: Fī 33 / Kıyye 37 / Kıymet 1221 </p><p>Pirinc: Fī 9 / Kıyye 36 / Kıymet 324</p><p>Mercimek: Fī 3 / Kıyye 5 / Kıymet 15</p><p>Büber turşusu: Fuçı 1 / Kıymet 30</p><p>Zift: Fī 5 / Kıyye 18 / Kıymet 90</p><p>Havyar: Fī 14 / Kıyye 13.5 / Kıymet 189</p><p>Karamürsel zeytūnu: Fī 2 / Kıyye 5 / Kıymet 10</p><p>Kavanoz fuçılar: Kıymet 350</p><p>Morina balığı: Kantar 1 / 240</p><p>Kefe tuzu: Fī 3 / Keyl 160 / Kıymet 4800</p><p>Tirkoz balığı: Aded 9000 / </p><p>Sardalya balığı: Aded 1000 / Kıymet 90</p><p> Bakla: Fī 45 / Keyl 4 / Kıymet 180 </p><p> Nohud: Fī 120 / Keyl 6 / Kıymet 720</p><p>Def‛a  ṣıġır dili: fī 14 / 5 / ḳıymet 70</p><p>Odun pekmezi: Fī 48 / Kıyye 3 / Kıymet 144</p><p>Ihlamur ipi: ʿaded 50 / ḳıymet 50</p></div><div type="section"><p><ref target="http://document__62">c)</ref></p><p>Ḥālik-i mezbūruñ maḥall-i mezbūrdaki kebīr dükkānında taḥrīr olınan rızḳıdur:</p><p><anchor xml:id="xmlid__heading_h_tyjcwt"/>Çütre: Fī 12/ Aded 8 / Kıymet 96</p><p>Sintine yağı: 39</p><p>Cam kova: Fī 10 / Aded 75/ Kıymet 750</p><p>Tunus küpü: 2 / 80</p><p>Karamürsel zeytūnu: Fī 2 / Kıyye 15 / Kıymet 30 </p><p>Salamura peynir: Fī 8 / Kıyye 179.5 / Kıymet 1436</p><p>Revgan-ı zeyt: Fī 16 / Kıyye 170 / 2720</p><p>Sardalya balığı fuçıda: Kıymet 1700</p><p>Havyar: Fī 16 / Kıyye 317 / Kıymet 5072 </p></div><div type="section"><p><ref target="http://document__116">d)</ref></p><p>Hālik-i mezbūruñ maḥall-i mezbūrda Cāmiʿ-i şerīf taḥtındaki maḫzende taḥrīr olınan rızḳıdur</p><p>Ḳebīr dükkān ḳurbındaki maḫzende sardalya balıġı: Fuçı 13 / 100 /  ʿaded 13000 / ḳıymet 130000</p><p>Cemʿan Yekūn: 45000</p><p>e) Hālik-i mezbūruñ işbu dört maḥalde taḥrīr olınan metāʿıdur iki ʿaded baḳḳāl dükkānınuñ ālāt-ı lāzıme ve bisāṭ-ı maʿlūmesidür </p><p>Köhne piyade kayık: Kıymet 330</p><p>Def’a köhne piyade kayık: Kıymet 600</p><p>Def’a köhne piyade kayık: Kıymet 480</p><p>Def’a köhne piyade kayık: Kıymet 750</p><p>Def’a köhne piyade kayık: Kıymet 1800</p><p>Köhne yasdık: Kıymet 15</p><p>Köhne kilim: Kıymet 51</p><p>Köhne ihrām: Kıymet 21</p><p>Kebe: Kıymet 90</p><p>Gılıf ve torba: Kıymet 36</p><p>Minder: Kıymet 159</p><p>Def’a kebe: Kıymet 147</p><p>Şalvar: Kıymet 90</p><p>Def’a kebe: Kıymet 300</p><p>Gılıf hırdavat: Kıymet 51</p><p>Gılaf hırdavat: Kıymet 45</p><p>Don: Kıymet 75</p><p>Nakd meblağ: 4044</p></div></div>
         </body>

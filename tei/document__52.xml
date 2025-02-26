@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__52.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.528 / 83b-2</title>
+                <title type="main">: İSTM.ŞSC.14.d.528 / 83b-2
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,42 +27,131 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.528 / 83b-2</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1795-11-24"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.528 / 83b-2</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__52">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Beytülmal Emini</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__42" type="neighbourhood"><placeName>Yeni mahalle</placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__5"/><term xml:id="goods__10"/><term xml:id="goods__28"/><term xml:id="goods__29"/><term xml:id="goods__64"/><term xml:id="goods__67"/><term xml:id="goods__68"/><term xml:id="goods__102"/><term xml:id="goods__147"/><term xml:id="goods__151"/><term xml:id="goods__152"/><term xml:id="goods__326"/>            </keywords>
-         </textClass>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.528 / 83b-2</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1795-11-24">1795-11-24
+                </date>
+                <date calendar="#islamic" when="1210">1210
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+            <place xml:id="district__4" type="district">
+                <placeName>Galata</placeName>
+            </place>
+            <place xml:id="neighbourhood__42" type="neighbourhood">
+                <placeName>Yeni mahalle</placeName>
+            </place>
+            <place xml:id="nahiye__1" type="nahiye">
+                <placeName>İstinye</placeName>
+            </place>
+            <place xml:id="quarter__17" type="quarter">
+                <placeName>Sarıyer</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__52">
+                <persName>Bakkal Yorgi v. Kirikor</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__52">
+            </relation>
+        </listRelation>
+        <list type="inventory">
+            <item xml:id="goods__5">
+                <name xml:lang="tr">Revgan-ı zeyt</name>
+                <name xml:lang="en">Olive oil</name>
+                <name xml:lang="tr" type="variation">Zeyt yağı</name>
+                <name xml:lang="tr" type="variation">Revgan-ı zeyd</name>
+                <name xml:lang="tr" type="variation">Zeyt revgan</name>
+            </item>
+            <item xml:id="goods__10">
+                <name xml:lang="tr">Tulum peyniri</name>
+                <name xml:lang="en">Tulum cheese</name>
+            </item>
+            <item xml:id="goods__28">
+                <name xml:lang="tr">Sirke</name>
+                <name xml:lang="en">Vinegar</name>
+            </item>
+            <item xml:id="goods__29">
+                <name xml:lang="tr">Soğan</name>
+                <name xml:lang="en">Onion</name>
+            </item>
+            <item xml:id="goods__64">
+                <name xml:lang="tr">Döğülmüş tuz</name>
+                <name xml:lang="en">Smashed salt</name>
+            </item>
+            <item xml:id="goods__67">
+                <name xml:lang="tr">Büber</name>
+                <name xml:lang="en">Pepper</name>
+                <name xml:lang="tr" type="variation">Biber</name>
+            </item>
+            <item xml:id="goods__68">
+                <name xml:lang="tr">Lüle</name>
+                <name xml:lang="en">Pipe</name>
+            </item>
+            <item xml:id="goods__102">
+                <name xml:lang="tr">Tuzlu balık</name>
+                <name xml:lang="en">Salted fish</name>
+            </item>
+            <item xml:id="goods__147">
+                <name xml:lang="tr">Kömür</name>
+                <name xml:lang="en">Coal</name>
+            </item>
+            <item xml:id="goods__151">
+                <name xml:lang="tr">Sicim</name>
+                <name xml:lang="tr" type="variation">İp</name>
+            </item>
+            <item xml:id="goods__152">
+                <name xml:lang="tr">Şamandıra</name>
+            </item>
+            <item xml:id="goods__326">
+                <name xml:lang="tr">Kızak yağı</name>
+            </item>
+        </list>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_26in1rg"/>İSTM.ŞSC.14.d.528 / 83b-2_<ref target="http://document__52">GrocerIST id_52</ref></head><p>Mahrūse-i Galataya muzāfe İstinye nāhiyesine  tābi‘ Sarıyerde vāki‘ Yeni mahallede mütemekkin iken bundan akdem hālik olan Bakkāl Yorgi veled-i Kirikorun zāhirde vāris-i ma‘rūfu olmayub bi’l-cümle terekesi cānib-i beytülmāla āid olmağın mahrūse-i mezkūre ve tevābi‘nde voyvoda ve beytülmāl āmme ve hāssa emīni   Hācegān-ı Dīvān-ı Hümāyūn Hüseyin Şükrü Efendi b. Elhac Hasanın umūr-ı beytülmālı rü’yete vekīl-i müsecceli Mehmed Efendi b. Elhac Abdullāh talebi ve iltimāslarıyla tahrīr  olunan tereke-i hālik-i merkūmdur ki ber vech-i ātī zikr olunur. Fi’l-yevmi’s-sanī aşar min -Cemaziye’l-evvel sene aşara ve mi’eteyn ve elf. 12 Cemaziye’l-evvel 1210 </p><p>Tulum penairi: Kıyye 12 / Kıymet 288</p><p>Def’a penairi: Kıyye 2 / Kıymet 84</p><p>Soğan: Kıyye 100 / Kıymet 300</p><p>Tuz: Kile 10 / Kıymet 900</p><p>İnce tuz: Kıyye 35 / Kıymet 315</p><p>Zeytin yağı: Kıyye 8 / Kıymet 682</p><p>Kızak yağı: Kıyye 3 / Kıymet 180</p><p>Kömür: Kıyye 110 / Kıymet 330</p><p>Sirke: Kıyye 9 / Kıymet 540</p><p>Tuzlu balık: Kıyye 7 / Kıymet 2100</p><p>Biber: Kıymet 24</p><p>Lüle: Kıymet 45</p><p>Şamandıra: Kıymet 30</p><p>Sicim: Kıymet 90</p><p>Bir mikdār bardak: Kıymet 201</p><p>Zeytin yağı kapları: Kıymet 240</p><p>Varil küp: Kıymet 156</p><p>Terāzī ve dirhem: Kıymet 600</p><p>Döşek ve yasdık: Kıymet 240</p><p>Hırdavat: Kıymet 240</p><p>ÜSKÜDAR</p></div>
         </body>

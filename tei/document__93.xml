@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__93.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d. 164 / 8b-1</title>
+                <title type="main">: İSTM.ŞSC.15.d. 164 / 8b-1
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,43 +27,79 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.15.d. 164 / 8b-1</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1736-07-29"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 164 / 8b-1</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__97">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Wife</persName>
-               </person>               <person role="mentioned">
-                <persName>Son</persName>
-               </person>               <person role="mentioned">
-                <persName>Daughter</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__19" type="district"><placeName>Eyüp</placeName></place><place xml:id="neighbourhood__87" type="neighbourhood"><placeName>Balat Kapısı</placeName></place>            </listPlace>
-         </settingDesc>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 164 / 8b-1</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1736-07-29">1736-07-29
+                </date>
+                <date calendar="#islamic" when="1149">1149
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">41.03443 28.94669</geo>
+                </location>
+            </place>
+            <place xml:id="district__19" type="district">
+                <placeName>Eyüp</placeName>
+            </place>
+            <place xml:id="neighbourhood__87" type="neighbourhood">
+                <placeName>Balat Kapısı</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__97">
+                <persName>İşrapo v. Yani</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Wife</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Son</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Daughter</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="shareholder" active="#person__97">
+            </relation>
+        </listRelation>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 164 / 8b-1_<ref target="http://document__93">GrocerIST id_93</ref></head><p>Havāss-ı refī‘a kasabasına tābi‘  Küçük nām karyede mütemekkin iken bundan akdem hālik olan İşrapo veled-i Yaninin verāseti zevce-i metrūkesi Anya bt. Aleksandıri oğulları Penaki ve Konstantin ve sagīr oğulları Yorgaki ve Nikolakiye ve kebīre kızı Arhuniye ve sagīre kızı Fotiye münhasıra olmağla şer‘an zāhir ve müte‘ayyen oldukdan sonra sıgār-ı mezbūrunun bā-hüccet-i şer‘iyye vasiyy-i muhtārları olan Dimitri veled-i bāba Tanaş ile zevcesi mezbūre Anya ve oğulları mezbūran Penaki ve Konstantin ve Arhundi taleb ve ma‘rifetiyle tahrīr olunan tereke-i hālik-i mersūmdur ki vech-i ātī zikr olunur.   Fi’l-yevmi’l-ışrīn min Rebī ‘ulevvel li-sene tis’a ve ve erba‘īn ve mie ve elf. 1149</p><p>Sim saat: 1200</p><p>Sim bıçak: 600</p><p>Çuka çakşır: 720</p><p>Çuka dolama: 720</p><p>Sincab kürk: 1800</p><p>Köhne nīmten yelek kakım kürk: 300</p><p>Def‘a dolama: 740 </p><p>Sandık: 120</p><p>Sim kandil: 600</p><p>Kalpak: 120</p><p>Beledī döşek: 360</p><p>Yemeni yorgan: 290</p><p>Kilim: 600</p><p>Köhne keçe: 120</p><p>Orta keçesi: 360</p><p>Kuzu kürkü: 430</p><p>Evān-ı nuhas: 10 / 1200</p><p>Leğen ma ibrik: 180</p><p>Köhne kadife yasdık yüzü: 3 Çift / 720</p><p>Hamam rahtı: 480</p><p>Ayna: 60</p><p>Caba: 2 / 60</p><p>Bargir ma öküz: 2400</p><p>Kutu ma laza: 300</p><p>Def‘a caba (2) ma dikel (6): 150</p><p>Evānī-i nuhās: 500</p><p>Sini: 1 / 300</p><p>Kapı perdesi: 1 /120</p><p>Şamdan: 2 / 60</p><p>Köhne kebe: 1 / 180</p><p>Sofra ma peşkir: 60</p><p>Yanbolu kebesi: 1 / 150</p><p>Köhne ferace: 1 / 180</p><p>Siyāh kuzu kürk: 350</p><p>Çini tabak: 75</p><p>Şalvar sandık: 1 / 300</p><p>İhram: 180</p><p>Mısır hasırı: 1 / 150</p><p>-İstanbulda Balat kapusında vāki‘ bakkāl dükkānında olan sermāye: 13000</p><p>-İstanbulda Kiremit mahallesinde vāki‘ bakkāl dükkānında ālāt ve sermāye: 9000</p><p>-Yine İstanbulda loncada bakkāl dükkānında ālāt ve sermāye: 7000</p><p>-Karye-i mezbūrede vāki‘ menzil ve bağ ber vech-i tahmīn: 30000</p><p>-Yine karye-i mezbūrede vāki‘ nısf-ı dükkān: 6000</p></div>
         </body>

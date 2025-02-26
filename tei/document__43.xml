@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__43.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d. 406/ 27b-1</title>
+                <title type="main">: İSTM.ŞSC.14.d. 406/ 27b-1
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,41 +27,76 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d. 406/ 27b-1</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1770-10-25"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 406/ 27b-1</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__43">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Son</persName>
-               </person>               <person role="mentioned">
-                <persName>Daughter</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__24" type="neighbourhood"><placeName>Kalafatçıbaşı</placeName></place>            </listPlace>
-         </settingDesc>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 406/ 27b-1</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1770-10-25">1770-10-25
+                </date>
+                <date calendar="#islamic" when="1184">1184
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">41.04391 28.95329</geo>
+                </location>
+            </place>
+            <place xml:id="district__4" type="district">
+                <placeName>Galata</placeName>
+            </place>
+            <place xml:id="neighbourhood__24" type="neighbourhood">
+                <placeName>Kalafatçıbaşı</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__43">
+                <persName>Bakkal Yani v.  Andon</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Son</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Daughter</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__43">
+            </relation>
+        </listRelation>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_qvh2tm2owyou"/>İSTM.ŞSC.14.d. 406/ 27b-1_<ref target="http://document__43">GrocerIST id_43</ref></head><p>Mahrūse-i Galata hāricinde Kalafatçıbaşı mahallesinde mütemekkin iken bundan akdem müteallika hālikler olan bakkāl Yani veled-i Andon ve zevcesi Katerina bt. Polihac nām zevcānın verāseti sulbī sagīr oğlu Nikola ve sulbiye sagīre kızı … münhasıra olduğu şer’an zāhir oldukdan sonra hālikān-ı mesfūrān bakkāl Yani ve Katerinanın sülüs mallarını vesāyasını tenfīze ve sagīrān-ı mesfūrānın tesviye-i emrlerine ... verilen  bā-hüccet-i şer‘i… .. vasiyy-i muhtārı bakkāl Luka veled-i Panayot taleb iltimāsıyla tahrīr olunan tereke-i hālikān-ı mesfūrāndır ki ber vech-i ātī zikr olunur. 5 Receb 1184</p><p>Minder: 2 / 750</p><p>Alaca döşek: 549</p><p>Şayak yasdık: 8 / 1449</p><p>Minder yasdık yorgan: 2 / 1080</p><p>Köhne yorgan: 108</p><p>Köhne kürk: 3 / 150</p><p>Yasdık: 3 / 390</p><p>Sincab kürk: 2100</p><p>Kaplı sincab kürk: 3000</p><p>Çuka yasdık: 8 / 535</p><p>Seccade: 339</p><p>Yeşil çuka:  Zira 8 / 1480</p><p>Çārşeb: 189</p><p>Çārşeb: 240</p><p>Yasdık yüzü mukaddem: 240</p><p>Billur kāse hırdavat: 300</p><p>Bir mikdār tabak: 100</p><p>Çuka kaplı sincab kürk: 110</p><p>Şalī entari: 530</p><p>Şalī kaftan: 1000</p><p>Şalī şalvar: 410	</p><p>Çiçekli kaftan: 620</p><p>.. kaftan: 1450</p><p>Sincab …: Aded 100 / 2050</p><p>Şalī kaftan: 309</p><p>Satranç tahtası: 900</p><p>Şalī kaftan: 348</p><p>Şalī çintiyan: 309</p><p>Şalī biniş: 618</p><p>Peştamal parçası bürüncek: 330</p><p>Havlu parçası kadife: 225</p><p>Havlu: 101</p><p>Sandık hırdavat: 600</p><p>Parça yemeni: 7 / 753</p><p>Yağlık: 2 / 1000</p><p>Parça yemeni: 4 / 200</p><p>Def’a parça yemeni: 4 / 200</p><p>Parça yemeni: 2 / 100</p><p>Yağlık: 2 / 500</p><p>Parça yağlık kumaş: 200</p><p>Parça boğça: 120</p><p>.. tob: 1000</p><p>Havlu gömlek: 260</p><p>Makrame .. : 51</p><p>Şalvar: 2 / 510</p><p>Havlu peştamal: 417</p><p>Gömlek: 219</p><p>…: 164</p><p>Gömlek: 2 / 270</p><p>Çimtiyan: 120</p><p>İşleme yorgan: 200</p><p>Peştamal havlu: 150</p><p>Hırdavat: 108</p><p>Makrame: 1 / 120</p><p>Köhne entari ve cübbe: 108</p><p>Hırdavat: 78</p><p>Seccade: 570</p><p>Boğça: 150</p><p>Makrame .. : 135</p><p>Uçkur don: 201</p><p>Sandık hırdavat: 120</p><p>Yağmurluk…: 207</p><p>İplik: Zira 6 / 210</p><p>Sini: 680</p><p>Tencere: 221</p><p>… lengeri bakır lenger (2): 78</p><p>İbrik…: 129</p><p>Çuval: 2 / 145</p><p>Leğen ibrik: 600</p><p>Mangal: 360</p><p>Tencere: 4 / 800</p><p>Satır: 15</p><p>Hırdavat: 66</p><p>Kazgan: 561</p><p>Taba: 63</p><p>Sim kuşak: Fī 28 / dirhem 59 / 1652</p><p>Sim kuşak: 2 / 400</p><p>Sim kuşak: Fī 26.5 / dirhem 50 / 1325</p><p>Kolan: 250</p><p>Telli kolan: 780</p><p>Bir mikdār şerbet: 565</p><p>Def’a …: Fī 3 / dirhem 330 / 1265</p><p>Sim kaşık: 2 /400</p><p>İşleme kebe: 129</p><p>Sim sini: 130</p><p>Altın yüzük: 2320</p><p>İnci küpe çift: 1800</p><p>Altın bilezik: 10380</p><p>Sim düğme: Aded 16 / 330</p><p>.. inci ma altın: 5 / 2000</p><p>Bir mikdār sim: 1425</p><p>Elmas yüzük: 6000</p><p>Def’a elmas yüzük: 1500</p><p>Def’a elmas yüzük: 1620</p><p>Sim kutu: 660</p><p>Sagīr sandık: 180</p><p>Nakd der kīse: 1410</p><p>Bakkāl Yorgiden makbūz: 54000</p><p>Zehāir ve hırdavatı menzil: 3000</p></div>
         </body>

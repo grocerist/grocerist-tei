@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__50.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d. 504/ 86a-2</title>
+                <title type="main">: İSTM.ŞSC.14.d. 504/ 86a-2
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,41 +27,76 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d. 504/ 86a-2</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1790-11-23"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 504/ 86a-2</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__50">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Mother</persName>
-               </person>               <person role="mentioned">
-                <persName>Sister</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__7" type="neighbourhood"><placeName>Hüseyin Ağa</placeName></place>            </listPlace>
-         </settingDesc>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 504/ 86a-2</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1790-11-23">1790-11-23
+                </date>
+                <date calendar="#islamic" when="1205">1205
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">41.03528 28.97919</geo>
+                </location>
+            </place>
+            <place xml:id="district__4" type="district">
+                <placeName>Galata</placeName>
+            </place>
+            <place xml:id="neighbourhood__7" type="neighbourhood">
+                <placeName>Hüseyin Ağa</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__50">
+                <persName>Bakkal Artin</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Mother</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Sister</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__50">
+            </relation>
+        </listRelation>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_6yg51oigvfam"/>İSTM.ŞSC.14.d. 504/ 86a-2_<ref target="http://document__50">GrocerIST id_50</ref></head><p>Mahrūse-i Galata hāricinde Hüseyin Ağa mahallesinde mütemekkin iken bundan akdem hālik olan bakkāl Bertiz veled-i Serkizin verāsetini anası Hava bt. Krikor ve li-ebeveyn kız karındaşı … münhasıra olduğu lede’ş-şer’i nümāyān oldukdan sonra merkūm …vekil-i müseccelleri Tütüncü  Parsun veled-i … taleb ve iltimāsıyla tahrīr olunan tereke-i hālik-i merkūmdur ki ber vech-i ātī zikr olunur. 16 Rebī’ülevvel 1205</p><p>… kürk: 840</p><p>Minder: 2 / 480</p><p>Döşek: 480</p><p>Yasdık: 4 / 480</p><p>Sini: 1 / 600</p><p>Don Gömlek Dizlik: 240</p><p>Vekil-i merkūmun Ahmed Bey olub zimmetinde olan bazarcı semeni: 4200</p><p>Vekil-i merkūmun Ahmed Bey olub zimmetinde olan bargir semeni: 6600</p><p>Vekil-i merkūmun Ahmed Bey olub zimmetinde olan bargir semeni: 5520</p><p>Vekil-i merkūmun Ahmed Bey olub zimmetinde olan bargir semeni: 3000</p><p>Vekil-i merkūmun Ahmed Bey olub zimmetinde olan bargir semeni: 4800</p><p>Vekil-i merkūmun Ahmed Bey olub zimmetinde olan bargir semeni: 6000</p></div>
         </body>

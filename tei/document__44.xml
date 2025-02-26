@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__44.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d. 433/ 21a-3</title>
+                <title type="main">: İSTM.ŞSC.14.d. 433/ 21a-3
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,43 +27,86 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d. 433/ 21a-3</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin notBefore="1700" notAfter="1900"/>                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 433/ 21a-3</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__44">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Wife</persName>
-               </person>               <person role="mentioned">
-                <persName>Daughter</persName>
-               </person>               <person role="mentioned">
-                <persName>Fetus</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__33" type="neighbourhood"><placeName> Aya Nikoli</placeName></place>            </listPlace>
-         </settingDesc>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 433/ 21a-3</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#islamic" when="1190">1190
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">41.12070 29.06818</geo>
+                </location>
+            </place>
+            <place xml:id="district__4" type="district">
+                <placeName>Galata</placeName>
+            </place>
+            <place xml:id="neighbourhood__33" type="neighbourhood">
+                <placeName> Aya Nikoli</placeName>
+            </place>
+            <place xml:id="nahiye__1" type="nahiye">
+                <placeName>İstinye</placeName>
+            </place>
+            <place xml:id="quarter__15" type="quarter">
+                <placeName>Yeniköy</placeName>
+            </place>
+            <place xml:id="address__5" type="address">
+                <placeName>Mahkeme karşısı</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__44">
+                <persName>Bakkal Tanaş veled-i  Hristo</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Wife</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Daughter</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Fetus</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__44">
+            </relation>
+        </listRelation>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_lj3fapnlw6n8"/>İSTM.ŞSC.14.d. 433/ 21a-3_<ref target="http://document__44">GrocerIST id_44</ref></head><p>Mahrūse-i Galataya muzāfe İstinye nāhiyesine tābi‘ Yeniköyde Ayanikola mahallesinde mütemekkin iken bundan akdem hālik olan bakkāl Tanaş veled-i Hristonun verāseti zevcesi Dodosiye bt. Yorgi ve sulbiye sagīre kızı ... ve zevce-i mesfūrenin batnında mütebeyyin hamle münhasıra olduğu şer’an zāhir oldukdan sonra sagīre-i mesfūrenin tesviye-i umuruna ve haml-i mezkūrun hisse-i mevkūfesini zabt ve hıfza kıbel-i şerden vasi ve kayyım nasb olunan zevce-i mesfūre Dodosiyenin taleb ve iltimāsıyla tahrīr olunan tereke-i hālik mesfūrdur ki ber vech-i ātī zikr olunur. 25 ... 1190</p><p>Çuka biniş: 1200</p><p>Çuka şalvar: 600</p><p>Çuka nīmten: 300</p><p>Çuka cübbe kürk: 1800</p><p>Çuka cübbe: 200</p><p>Köhne entari: 120</p><p>Köhne dizlik: 60</p><p>… kebesi: 480</p><p>Alaca beylik ve kebe ve kuşak: 120</p><p>Köhne dizlik: 60</p><p>Yorgan ve Yanbolu kebesi: 240</p><p>Hālik mesfūrun zevcesi zimmetinde: 1200</p><p>Hālik mesfūrun karye-i mezkūrede mahkeme karşısında vāki‘ bakkāl dükkānı derūnunda mevcūd sermāyesi: 11910</p><p>Mahalle-i mezkūrede vāki‘ lede’l-ahālī ve’l-cīrān ma‘lūmü’l-hudūd ve müştemilat bir bab mülk menzilde hālik mesfūrun nısf-ı hisse-i şāyi’ası ber vech-i tahmīn: 24000 </p><p>Hālik mesfūrun dükkān derūnunda vāki‘ gedik ta’bīr olunur bakkāl ālātı ber vech-i tahmīn: 24000</p></div>
         </body>

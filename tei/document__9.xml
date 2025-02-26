@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__9.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.217 / 59a-2, 60</title>
+                <title type="main">: İSTM.ŞSC.14.d.217 / 59a-2, 60
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,46 +27,100 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.217 / 59a-2, 60</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1713-04-29"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.217 / 59a-2, 60</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__9">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Wife</persName>
-               </person>               <person role="mentioned">
-                <persName>Daughter</persName>
-               </person>               <person role="mentioned">
-                <persName>Fetus</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__22" type="neighbourhood"><placeName>Mustafa Paşa </placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__15"/><term xml:id="goods__21"/><term xml:id="goods__48"/><term xml:id="goods__50"/>            </keywords>
-         </textClass>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.217 / 59a-2, 60</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1713-04-29">1713-04-29
+                </date>
+                <date calendar="#islamic" when="1125">1125
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+            <place xml:id="district__4" type="district">
+                <placeName>Galata</placeName>
+            </place>
+            <place xml:id="neighbourhood__22" type="neighbourhood">
+                <placeName>Mustafa Paşa </placeName>
+            </place>
+            <place xml:id="quarter__8" type="quarter">
+                <placeName>Kurşunlu Mahzen Kapısı dahili</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__9">
+                <persName>Mustafa Beşe b. Abdullah</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Muslim</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Wife</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Daughter</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Fetus</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__9">
+            </relation>
+        </listRelation>
+        <list type="inventory">
+            <item xml:id="goods__15">
+                <name xml:lang="tr">Pirinc</name>
+                <name xml:lang="en">Rice</name>
+            </item>
+            <item xml:id="goods__21">
+                <name xml:lang="tr">İncir</name>
+                <name xml:lang="en">Fig</name>
+            </item>
+            <item xml:id="goods__48">
+                <name xml:lang="tr">Kuru üzüm</name>
+                <name xml:lang="en">Raisins</name>
+            </item>
+            <item xml:id="goods__50">
+                <name xml:lang="tr">Sumak</name>
+                <name xml:lang="en">Sumac</name>
+                <name xml:lang="tr" type="variation">Semuk</name>
+            </item>
+        </list>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_7ehsl31tvccx"/>İSTM.ŞSC.14.d.217 / 59a-2, 60_<ref target="http://document__9">GrocerIST id_9</ref></head><p>Mahrūse-i Galata tevābi‘inden Kurşunlu Mahzen Kapusu dāhilinde Mustafa Paşa mahallesinde sākin iken düyūnu terekesinden ezyed olduğu hālde vefāt eden Mustafa Beşe b. Abdullāhın verāseti zevce-i menkūha-i metrūkesi Fātma bt. Mehmede sagīr kızları Zeyneb ve Hadiceye ve mezbūr Fātma Hatunun batnında mevcūd olan hamle münhasıra olduğu zāhir ve müte‘ayyen oldukdan sonra sāgir-i mezbūrun vālidesi tesviye-i emrlerini ve müteveffā-yı mezbūrun terekesinden düyunu şeriyye aynü’l ayān kıbel-i şer’den mansūb vasīleri olan Fātma Hatun ma’rifetiyle müteveffā-i mezbūrun tahrīr olunan terekesidir ki vech-i ātī üzere zikr olunur. Fi’l-yevmi’s-sālis min şehr-i Rebī ‘ülahir 1125  </p><p>Müteveffā-i mezbūrun dükkānında olunan eşyāsıdır ki zikr olunur.</p><p>Semuk: Kıymet 450</p><p>Üzüm: Kıymet 120</p><p>İncir: Kıymet 40</p><p>Üzüm: Kıymet 60</p><p>Def‘a üzüm: Kıymet 21</p><p>Üzüm: Kıymet 30</p><p>Pirinc: Kıymet 20</p><p>Üzüm: Kıymet 80</p><p>Hırdavat: Kıymet 80</p></div>
         </body>

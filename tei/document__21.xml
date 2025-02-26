@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__21.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.254 / 59a-2</title>
+                <title type="main">: İSTM.ŞSC.14.d.254 / 59a-2
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,41 +27,76 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.254 / 59a-2</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1723-04-15"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.254 / 59a-2</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__21">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Wife</persName>
-               </person>               <person role="mentioned">
-                <persName>Daughter</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place>            </listPlace>
-         </settingDesc>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.254 / 59a-2</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1723-04-15">1723-04-15
+                </date>
+                <date calendar="#islamic" when="1135">1135
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+            <place xml:id="district__4" type="district">
+                <placeName>Galata</placeName>
+            </place>
+            <place xml:id="karye__3" type="karye">
+                <placeName>Karye-i Cedid</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__21">
+                <persName>Bakkal Lefter v. Dimitri</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Wife</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Daughter</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__21">
+            </relation>
+        </listRelation>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_yss8hpdrugvw"/>İSTM.ŞSC.14.d.254 / 59a-2_<ref target="http://document__21">GrocerIST id_21</ref></head><p>Mahrūse-i Galataya tābi‘ Karye-i cedīd sükkānından iken bundan akdem hālik olan bakkāl Lefter veled-i Dimitri nām zımmīnin verāseti zevce-i metrūkesi Koti bt. Penaki nām nasrāniyeye ve sulbīye sagīre kızları Pelaş ve Elina ve Anteye münhasıra olduğu şer’an zāhir oldukdan sonra sagīrān-ı mezbūrānın tesviye-i emrlerine kıbel-i şerden mansūb vasīleri olan anaları mezbūre Koti ma‘rifetiyle hālik mezbūrun tahrīr ve takvīm olunan muhallefāt defteridir ki ber vech-i ātī üzere zikr olunur. Hurrire fi 9 Receb 135</p><p>Üstlük: 240</p><p>Sagīr yasdık: 120</p><p>Yorgan: 240</p><p>Kalpak: 120</p><p>Cedīd kuşak: 480</p><p>Diz çakşırı: 120</p><p>Kontoş: 600</p><p>Kebe: 2/ 240</p><p>Köhne kaliçe: 120</p><p>Sagīr tencere: 60</p><p>Taba: 60</p><p>Kurşun kumkuma: 120</p><p>Bakla lengeri: 120</p><p>Tahta sandık: 60</p><p>Hırdavat-ı menzil: 500</p><p>…: Fī 80 /Aded 200 / 1200</p></div>
         </body>

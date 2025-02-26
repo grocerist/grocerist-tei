@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__71.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 405 / 87b-2</title>
+                <title type="main">: İSTM.ŞSC.06.d. 405 / 87b-2
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,40 +27,96 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.06.d. 405 / 87b-2</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1742-01-15"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 405 / 87b-2</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__71">
-                <persName/>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place>            </listPlace>
-         </settingDesc>         <textClass>
-            <keywords>
-<term xml:id="goods__5"/><term xml:id="goods__6"/><term xml:id="goods__23"/><term xml:id="goods__49"/><term xml:id="goods__270"/>            </keywords>
-         </textClass>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 405 / 87b-2</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1742-01-15">1742-01-15
+                </date>
+                <date calendar="#islamic" when="1154">1154
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+            <place xml:id="district__16" type="district">
+                <placeName>Üsküdar</placeName>
+            </place>
+            <place xml:id="quarter__13" type="quarter">
+                <placeName>Valide-i Cedid Camii</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__71">
+                <persName>Bakkal suhte Ömer</persName>
+                <state type="status"><label/></state>
+                <faith>Muslim</faith>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="" active="#person__71">
+            </relation>
+        </listRelation>
+        <list type="inventory">
+            <item xml:id="goods__5">
+                <name xml:lang="tr">Revgan-ı zeyt</name>
+                <name xml:lang="en">Olive oil</name>
+                <name xml:lang="tr" type="variation">Zeyt yağı</name>
+                <name xml:lang="tr" type="variation">Revgan-ı zeyd</name>
+                <name xml:lang="tr" type="variation">Zeyt revgan</name>
+            </item>
+            <item xml:id="goods__6">
+                <name xml:lang="tr">Revgan-ı sade</name>
+                <name xml:lang="en">Ghee</name>
+                <name xml:lang="en">Clarified Butter</name>
+                <name xml:lang="tr" type="variation">Sadeyağ</name>
+            </item>
+            <item xml:id="goods__23">
+                <name xml:lang="tr">Pekmez</name>
+                <name xml:lang="en">Molasses</name>
+                <name xml:lang="tr" type="variation">Betmez</name>
+                <name xml:lang="tr" type="variation">Bekmez</name>
+            </item>
+            <item xml:id="goods__49">
+                <name xml:lang="tr">Sucuk</name>
+            </item>
+            <item xml:id="goods__270">
+                <name xml:lang="tr">Torba yoğurt</name>
+            </item>
+        </list>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 405 / 87b-2_<ref target="http://document__71">GrocerIST id_71</ref></head><p>Medīne-i Üsküdarda Valide-i Cedid Camii şerif karşısındaki bakkāl suhte Ömerin dükānında  mevcūd olan ustalar ma‘rifeti ve ma‘rifet-i şer‘le tahrīr ve defter ve dükkān-ı merkūma bir mu’tebet kimesne vaz‘ olunmak bābında şeref-bahş-ı sudūr bulan fermān-ı ālīlerine imtisālen manav taifesinden Elhac Hasan ve manav Mahmud ve manav Mustafa ve Ali Beşe kefāletleriyle pazarbaşı vekīli Ali kulları husus-ı mezbūre mübāşir ta‘yīn buyrulan kapı kethüdālarından Elhac Ahmed Beşe kulları mübāşeretleriyle Osman b. Mustafa nām kimesne bakkāllık eylemek üzere mezbūre vaz‘ ve dükkān-ı merkūmdan zūhur edip mezbūr Osmana ma‘rifet-i şer‘le teslim olunan defterdir ki ber vech-i ātī zikr olunur. Hurrira fi 8 Zilka‘de sene 1154</p><p>Revgan-ı sāde: Kıymet 275</p><p>Desti içinde revgan-ı zeyt: Kıymet 41</p><p>Def’a desti içinde revgan-ı zeyt: Kıymet 3.5</p><p>Sucuk: Kıymet 40</p><p>Pekmez: Kıymet 20</p><p>Def‘a pekmez: Kıymet 74</p><p>Def‘a pekmez: Kıymet 25</p><p>Def‘a pekmez: Kıymet 40</p><p>Torba ile yoğurt: Kıymet 6</p><p>Terāzū ma takım: 2</p><p>…: 1</p><p>Sahan: 2</p><p>Kevgir sahan: 1</p><p>Yağ ölçeği: 6</p><p>Tencere ma kapak: 1</p><p>Kantar: 1</p><p>Akçe tahtası: 2</p><p>Ağaç tabla: 10</p><p>Ağaç çekmece içinde bıçak 1, tesbih ve mikras 1 </p><p>Sagir çekmece bunun içinde yalnız 1</p></div>
         </body>

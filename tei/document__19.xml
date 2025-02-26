@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__19.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d. 249/ 79a-2</title>
+                <title type="main">: İSTM.ŞSC.14.d. 249/ 79a-2
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,39 +27,76 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d. 249/ 79a-2</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1721-11-16"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 249/ 79a-2</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__19">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Beytülmal Emini</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__4" type="district"><placeName>Galata</placeName></place><place xml:id="neighbourhood__44" type="neighbourhood"><placeName>İbrahim Efendi</placeName></place>            </listPlace>
-         </settingDesc>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 249/ 79a-2</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1721-11-16">1721-11-16
+                </date>
+                <date calendar="#islamic" when="1134">1134
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+            <place xml:id="district__4" type="district">
+                <placeName>Galata</placeName>
+            </place>
+            <place xml:id="neighbourhood__44" type="neighbourhood">
+                <placeName>İbrahim Efendi</placeName>
+            </place>
+            <place xml:id="quarter__3" type="quarter">
+                <placeName>Fındıklı</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__19">
+                <persName>Astavor v. Yako</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Beytülmal Emini</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__19">
+            </relation>
+        </listRelation>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_shaar01iajkq"/>İSTM.ŞSC.14.d. 249 / 79a-2_<ref target="http://document__19">GrocerIST id_19</ref></head><p>Mahmiye-i Galata tevābi’nden Fındıklıda İbrahim Efendi mahallesinde bakkāl tāifesinden iken hālik olan Astavor veled-i Yako nām zımmīnin zāhirde vāris-i ma’rūfu olmayub terekesi bi’l-cümle canib-i beytülm āle aid olmağın mahmiye-i mezbūre ve tevābi’nde voyvoda ve beytülmāl āmme ve hāssa emīni olan fahrü’l-akrān  Elhac Ahmed Ağa b. Mehmed tarafından umūr-ı beytülmālı rü’yete vekīl-i müseccel olan Murad Ağa b. Ali ma‘rifetiyle hālik mesfūrun tahrīr olunan terekesidir ki ber vech-i ātī tahrīr olunub zikr olunur. 26 Muharrem 1134</p><p>Köhne Yanbolu: 2 / 110</p><p>Def’a Yanbolu kebesi: 120</p><p>Kırım kebesi: 2 / 160</p><p>Köhne zıbun ve köhne nīmten: 120</p><p>Köhne gömlek ve don: 50</p><p>Tahta sandık: 160</p><p>Bogasi entari: 80</p><p>Çuka nīmten: 300</p><p>Köhne kaftan: 250</p><p>Müsta‘mel mukaddem : 500</p><p>Def’a tahta sandık: 30</p><p>Lenger sahan: 50</p></div>
         </body>

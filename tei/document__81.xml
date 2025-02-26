@@ -3,10 +3,12 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__81.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 494 / 81a-1</title>
+                <title type="main">: İSTM.ŞSC.06.d. 494 / 81a-1
+                </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</persName>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
@@ -25,41 +27,76 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
             <sourceDesc>
-                <msDesc type="invetory">
+                <msDesc>
                     <msIdentifier>
-                        <institution>Name of the Archiv</institution>
+                        <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.06.d. 494 / 81a-1</idno>
                     </msIdentifier>
-                    <history><origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1776-04-09"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
         <profileDesc>
-         <abstract>
-            <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 494 / 81a-1</idno></ab>
-         </abstract>         <particDesc>
-            <listPerson>               <person role="main_person" xml:id="person__111">
-                <persName/>
-               </person>               <person role="mentioned">
-                <persName>Wife</persName>
-               </person>               <person role="mentioned">
-                <persName>Daughter</persName>
-               </person>            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <listPlace>
-<place xml:id="district__16" type="district"><placeName>Üsküdar</placeName></place><place xml:id="neighbourhood__52" type="neighbourhood"><placeName>Yenimahalle</placeName></place>            </listPlace>
-         </settingDesc>      </profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 494 / 81a-1</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+                <date calendar="#gregorian" when="1776-04-09">1776-04-09
+                </date>
+                <date calendar="#islamic" when="1190">1190
+                </date>
+            </creation>
+        </profileDesc>
     </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+            <place xml:id="district__16" type="district">
+                <placeName>Üsküdar</placeName>
+            </place>
+            <place xml:id="neighbourhood__52" type="neighbourhood">
+                <placeName>Yenimahalle</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+<person role="main_person" xml:id="person__111">
+                <persName>Bakkal Manok v. Agik</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <persName>Wife</persName>
+            </person>
+            <person role="mentioned">
+                <persName>Daughter</persName>
+            </person>
+        </listPerson>
+<listRelation>
+            <relation type="ownership" name="owner" active="#person__111">
+            </relation>
+        </listRelation>
+    </standOff>
     <text>
+
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 494 / 81a-1_<ref target="http://document__81">GrocerIST id_81</ref></head><p>Medīne-i Üsküdarda Yeni mahallede mütemekkin iken bundan akdem hālik olan bakkāl Manok veled-i Agik veled-i Manok zımmīnin verāseti zevce-i metrūkesi .. bt… nām nasrāniye ile sulbiye kebīre kızları Perapon ve … inhisarı  lede’ş-şer‘i’l-enver  mütehakkık oldukdan sonra verese-i mezbūrandan her birinin taleb ve iltimāslarıyla hālik merkūmun tahrīr ve terkīm olunan defteridir ki ber vech-i ātī zikr olunur. Fi 19 Safer 1190</p><p>Köhne aba nīmten: 240</p><p>Köhne kalpak: 30</p><p>Köhne entari:120</p><p>Çuka biniş: 60</p><p>Şayak şalvar: 60</p><p>Postal: 30</p><p>...</p><p>Tencere ma kapak: 240</p><p>Köhne leğen: 60</p><p>Yorgan ma çārşeb: 180</p><p>Yasdık ve minder: 240</p><p>Sahan ma kapak: 240</p><p>Hālik merkūmun mahalle-i mezbūrede vāki ‘ma‘lūmü’l-hudūd ve’l-müştemilāt bir bāb mülk menzili olub ... menzilinde ... arsasından doksan zirā‘  mahāllini hālik merkūm sağlığında zevcesi mezbūre ... nasrāniyeye bā-hüccet-i şer’iye bey etmekle maada olan arsa-i menzilin kıymeti: 38760</p></div>
         </body>
