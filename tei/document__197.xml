@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__197.xml">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">: İSTM.ŞSC.02.d.268/41
+                </title>
+                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator">Suemeyye Hosgoer Bueke</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Name of the Archive</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.02.d.268/41</idno>
+                    </msIdentifier>
+                    <history>                        <origin notBefore="1700" notAfter="1900"/>                     </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.02.d.268/41</idno>
+                </ab>
+            </abstract>
+
+            <creation>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">None None</geo>
+                </location>
+            </place>
+        </listPlace>
+        <listPerson>
+        </listPerson>
+    </standOff>
+    <text>
+
+        <body>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_h69ghiyk6fi3"/>İSTM.ŞSC.02.d.268/41 <ref target="http://document__197">GrocerIST id_197</ref></head><p>Sādır olan fermān-ı ālīlerine imtisalen kıbel-i şerden mürsel Kātib Mustafa Efendi İstanbulda kantarcılar sukkunda kain bakkāl Andon veled-i Yorgi zımminin taht-el icaresinde olan Ahmed Efendi ve Mehmed Efendi dükkānları demekle maruf iki bab bakkāl dükkānına varub huzur-ı müslimun akd-i meclis-i şeri … eylediği merkum Andon … … … Yorgi veled-i Yani zımmi muvacehesinde mesfur Yorgi bakkāllık ticaretinden …. ….</p><p>zikr olunan dükkānlarda … dahi hizmetkarları …. edüb .. mersum … olmağın dükkān-ı mezkurunda baki kalan emtiayı tahrir ve takvim ve yed-i emine vāz’ ve teslim olunmak matlubumdur dedik de fil hakika hal-i merkum Andon zımminin … olduğu bāzārbaşı … ustaları ihbarlarıyla … olmağın katib mezbur dükkanın …. olan emtia … tahrir ve takvim .. ve mutemed olduğu ihbar olunan merkum … kayyım nasb olunub …. teslim eylediği defterdir ki ber vech-i ati zikr olunur.</p><p>Dakik:  Fī 11 / 94 / 1033</p><p>Nişasta:  Fī  18 / 191.5 / 3447</p><p>Asel … ve revak:  Fī 39 / 253 / 9867</p><p>Mısır pirinci:  Fī 22 / Kıyye 294 / 6468</p><p>Trilye zeytunu:  Fī 13 / Kıyye 117.5 / 1527</p><p>Asel-i Eflak:  Fī 43 / Kıyye 688 / 29584</p><p>Bulgur:  Fī 12 / Kıyye 56 / 672</p><p>Nohud:  Fī  10 / Kıyye 51.5 / 515</p><p>Böğrülce:  Fī 12 / Kıyye 35 / 420</p><p>Mercimek:  Fī 11 / Kıyye 37.5 / 412</p><p>Kıbrıs Şariyesi:  Fī 33 / Kıyye 37.5 / 1237</p><p>… şariyesi:  Fī 20 / Kıyye 37.5 / 750</p><p>Sabun:  Fī 40 / Kıyye 140 / 5600	</p><p>Şem-i revgan:  Fī 52 / Kıyye 136.5 / 7098</p><p>Revgan-ı sade mahlut:  Fī 64 / Kıyye 829.5 / 53077</p><p>Fındık:  Fī 18 / Kıyye 18.5 / 314</p><p>…</p><p>Yufka:  Fī 4 / Kıyye 147.5 / 590</p><p>Sarımsak:  Fī 12 / Kıyye 14.5 / 174</p><p>Siyah üzüm:  Fī  16 / Kıyye 18.5 / 296</p><p>Razaki üzümü:  Fī 34 / Kıyye 13 / 312</p><p>Fındık:  Fī 33 / Kıyye 5 / 1182</p><p>Pestil:  Fī 18 / Kıyye 22 / Dirhem 300 / 409</p><p>Kuş üzümü:  Fī 34 / Kıyye 49 / Dirhem 100 / 1182</p><p>Kaşkaval peyniri:  Fī  45 / Kıyye 34 / 1530</p><p>Basdırma:  Fī 36/ Kıyye 11 / Dirhem 300 / 423</p><p>Sirke:  Fī 41 / Kıyye 235 / 1057</p><p>…</p><p>Nardenk:  Fī 10 / Kıyye 104 / 1040</p><p>Revgan-ı zeyt:  Fī 42 / Kıyye 62 / Dirhem 300 / 2694</p><p>…</p><p>…</p><p>Sabun:  Fī 33 / Kıyye 37 / 8091</p><p>Boş fuçı: 1 / 200</p><p>Destgah yüzü ve … vesair hırdavat: 5285</p><p>Nukud: 3900</p><p>yekun: 151422</p><p>Kasımpaşa</p></div>
+        </body>
+    </text>
+</TEI>
