@@ -117,6 +117,9 @@
                 <name xml:lang="en">Sumac</name>
                 <name xml:lang="tr" type="variation">Semuk</name>
             </item>
+            <item xml:id="goods__343">
+                <name xml:lang="tr">Çalı süpürgesi</name>
+            </item>
         </list>
     </standOff>
     <text>
