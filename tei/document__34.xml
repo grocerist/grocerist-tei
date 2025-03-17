@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__34.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d. 342/ 60a-1
+                <title type="main">: İSTM.ŞSC.14.d. 342 / 60a-1
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,7 +39,7 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.14.d. 342/ 60a-1</idno>
+                        <idno type="archive">İSTM.ŞSC.14.d. 342 / 60a-1</idno>
                     </msIdentifier>
                     <history>                        <origin notBefore="1700" notAfter="1900"/>                     </history>
                 </msDesc>
@@ -50,7 +50,7 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 342/ 60a-1</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 342 / 60a-1</idno>
                 </ab>
             </abstract>
 
@@ -96,7 +96,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_9hae5zur13g1"/>İSTM.ŞSC.14.d. 342/ 60a-1_<ref target="http://document__34">GrocerIST id_34</ref></head><p>Mahrūse-i Galata tevābi‘nden kasaba-i Kasımpaşada Elhac Hüsrev mahallesinde sākin iken bundan akdem cerīhan vefāt eden Bakkāl Hasan Beşe b. Ali b. Abdullāhın verāseti zevcesi Fatma Hatun bt. Hasan ve vālidesi Hava Hatun bt. Abdullāh zevce-i mezbūrenin batnında mütebeyyin hamle münhasıra olduğu şer’an müte’ayyen oldukdan sonra haml-i merkūmun hisse-i mevkūfesini kabz ve hıfza kıbel-i şer’den vasī nasb olunan vālidesi mezbūre Fatma Hatun iltimāsıyla tahrīr olunan tereke-i müteveffā-i mezbūrdur ki ber vech-i ātī zikr olunur. tarih</p><p>Tahta sandık: 300</p><p>Köhne magrib şalı ve zıbun: 240</p><p>Sarı şālī: 240</p><p>Kutnī kaftan: 1000</p><p>Çuka çakşır: 480</p><p>… dizlik: 90</p><p>Çuka şalvar: 360</p><p>Alaca küçük cübbe kürk: 3000</p><p>… kürk: 3000</p><p>Bez tob: 2 /360</p><p>Yorgan yüzü: 240</p><p>Destar sarık: 120</p><p>Hırdavat: 120</p><p>Fenar, tepsi, sahan, kahve ibriği: 300</p><p>Duhān ve kāğıd: 60</p><p>Güğüm: 240</p><p>Şamdan: 90</p><p>Kāse (3), bardak … fenar: 120</p><p>Yorgan: 300</p><p>Māī çārşeb: 90</p><p>Pabuç: 120</p><p>Kırım kebesi: 90</p><p>Sim hatım ve kīse: 60</p><p>…: 90</p><p>Öküz gönü: Aded 24 / 7560</p><p>Mum: Fī 39 / Kıyye 124 / Kıymet 4836</p><p>Der zimmet Mustafa: 3000</p><p>Dirhem ve terāzū: 120</p><p>Nakd der kīse: 165</p><p>Don, gömlek, uçkur: 360</p><p>Galatada Karaköy kapusında Mehmed kapudan dükkānı demekle ma’rūf bakkāl dükkānında mevcūd ālāt-ı lāzımeden müteveffā-i mezbūrun rub’ hissesi meblağ: 2400</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_9hae5zur13g1"/>İSTM.ŞSC.14.d. 342 / 60a-1_<ref target="http://document__34">GrocerIST id_34</ref></head><p>Mahrūse-i Galata tevābi‘nden kasaba-i Kasımpaşada Elhac Hüsrev mahallesinde sākin iken bundan akdem cerīhan vefāt eden Bakkāl Hasan Beşe b. Ali b. Abdullāhın verāseti zevcesi Fatma Hatun bt. Hasan ve vālidesi Hava Hatun bt. Abdullāh zevce-i mezbūrenin batnında mütebeyyin hamle münhasıra olduğu şer’an müte’ayyen oldukdan sonra haml-i merkūmun hisse-i mevkūfesini kabz ve hıfza kıbel-i şer’den vasī nasb olunan vālidesi mezbūre Fatma Hatun iltimāsıyla tahrīr olunan tereke-i müteveffā-i mezbūrdur ki ber vech-i ātī zikr olunur. tarih</p><p>Tahta sandık: 300</p><p>Köhne magrib şalı ve zıbun: 240</p><p>Sarı şālī: 240</p><p>Kutnī kaftan: 1000</p><p>Çuka çakşır: 480</p><p>… dizlik: 90</p><p>Çuka şalvar: 360</p><p>Alaca küçük cübbe kürk: 3000</p><p>… kürk: 3000</p><p>Bez tob: 2 /360</p><p>Yorgan yüzü: 240</p><p>Destar sarık: 120</p><p>Hırdavat: 120</p><p>Fenar, tepsi, sahan, kahve ibriği: 300</p><p>Duhān ve kāğıd: 60</p><p>Güğüm: 240</p><p>Şamdan: 90</p><p>Kāse (3), bardak … fenar: 120</p><p>Yorgan: 300</p><p>Māī çārşeb: 90</p><p>Pabuç: 120</p><p>Kırım kebesi: 90</p><p>Sim hatım ve kīse: 60</p><p>…: 90</p><p>Öküz gönü: Aded 24 / 7560</p><p>Mum: Fī 39 / Kıyye 124 / Kıymet 4836</p><p>Der zimmet Mustafa: 3000</p><p>Dirhem ve terāzū: 120</p><p>Nakd der kīse: 165</p><p>Don, gömlek, uçkur: 360</p><p>Galatada Karaköy kapusında Mehmed kapudan dükkānı demekle ma’rūf bakkāl dükkānında mevcūd ālāt-ı lāzımeden müteveffā-i mezbūrun rub’ hissesi meblağ: 2400</p></div>
         </body>
     </text>
 </TEI>

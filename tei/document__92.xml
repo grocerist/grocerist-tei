@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__92.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d. 134/ 95a-1
+                <title type="main">: İSTM.ŞSC.15.d. 134 / 95a-1
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,7 +39,7 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.15.d. 134/ 95a-1</idno>
+                        <idno type="archive">İSTM.ŞSC.15.d. 134 / 95a-1</idno>
                     </msIdentifier>
                     <history>                        <origin when-iso="1716-12-10"/>                    </history>
                 </msDesc>
@@ -50,7 +50,7 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 134/ 95a-1</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 134 / 95a-1</idno>
                 </ab>
             </abstract>
 
@@ -91,7 +91,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 134/ 95a-1_<ref target="http://document__92">GrocerIST id_92</ref></head><p>Medīne-i hazret-i Ebī Eyyüb el-Ensārī -radiye anhu Rabbühi’l-bārī- mahallātından Şah Sultan mahallesinde sākin iken bundan akdem vefāt eden bakkāl Ahmed Beşe b. Abdullāhın terekesinin sülüsünden vesāyasını tenfîze bā-hüccet-i şer‘iye vasiyy-i muhtārı olan Hüseyin Çelebi b. Mustafanın ber-mūceb-i defter-i kassām-ı askerī  tereke-i müteveffā-yı mezbūrdan kabz eylediği sülüs ve masārıfi defteridir ber-vech-i ātī zikrolunur. Fi’l-yevmi’l-hāmis ve’l-ışrīn min- Zilhicceti’ş-şerīfe li-sene semān ve’l-ışrīn ve mie ve elf. 1128</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 134 / 95a-1_<ref target="http://document__92">GrocerIST id_92</ref></head><p>Medīne-i hazret-i Ebī Eyyüb el-Ensārī -radiye anhu Rabbühi’l-bārī- mahallātından Şah Sultan mahallesinde sākin iken bundan akdem vefāt eden bakkāl Ahmed Beşe b. Abdullāhın terekesinin sülüsünden vesāyasını tenfîze bā-hüccet-i şer‘iye vasiyy-i muhtārı olan Hüseyin Çelebi b. Mustafanın ber-mūceb-i defter-i kassām-ı askerī  tereke-i müteveffā-yı mezbūrdan kabz eylediği sülüs ve masārıfi defteridir ber-vech-i ātī zikrolunur. Fi’l-yevmi’l-hāmis ve’l-ışrīn min- Zilhicceti’ş-şerīfe li-sene semān ve’l-ışrīn ve mie ve elf. 1128</p></div>
         </body>
     </text>
 </TEI>

@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__7.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.212/ 34b-2
+                <title type="main">: İSTM.ŞSC.14.d.212 / 34b-2
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,7 +39,7 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.14.d.212/ 34b-2</idno>
+                        <idno type="archive">İSTM.ŞSC.14.d.212 / 34b-2</idno>
                     </msIdentifier>
                     <history>                        <origin when-iso="1711-11-07"/>                    </history>
                 </msDesc>
@@ -50,7 +50,7 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.212/ 34b-2</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.212 / 34b-2</idno>
                 </ab>
             </abstract>
 
@@ -151,7 +151,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_rpnjw5ve2hr1"/>İSTM.ŞSC.14.d.212/ 34b-2_<ref target="http://document__7">GrocerIST id_7</ref></head><p>Mahrūse-i Galatada Sultan Bayezid mahallesinde mütemekkin iken bundan akdem hālik olan Bakkāl Dimitri veled-i Yorgi nām zımmīnin verāseti zevce-i metrūkesi … bt. Kozi nām nasrāniyeye ve batnında mevcūd ve mütehakkık cümle münhasıra olduğu lede’ş şer‘i müte‘ayyen oldukdan sonra cümle mezbūre kıbel-i şer’den vasī nasb olunan mezbūre … talebiyle hālik mezbūrun muhallefātı defteridir ki vech-i ātī üzere zikr olunur. </p><p>Fī 26 Ramazan 23</p><p>Soğan: Fī 2 / Kıyye 190 / Kıymet 380</p><p>Fındık: Fī 4 / Kıyye 100 / Kıymet 400</p><p>Kaşkaval peyniri: Fī 20 / Kıyye 40 / Kıymet 800</p><p>Zeyt yağı: Fī 20 / Kıyye 40 / Kıymet 800</p><p>Sāde yağ: Fī 40 / Kıyye 10 / Kıymet 400</p><p>Tulum peyniri: Fī 15 / Kıyye 20 / Kıymet 300</p><p>Nardenk: Fī 5 / Kıyye 60 / Kıymet 300</p><p>Sirke: Fī 2 / Kıyye 100 / Kıymet 200</p><p>Sucuk: Fī 8 / Kıyye 50 / Kıymet 400</p><p>Pirinc: Fī 8 / Kıyye 150 / Kıymet 1200</p><p>Pekmez: Kıyye 140 / Kıymet 840</p><p>Ālāt-ı bakkāl ma kantar: 80</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_rpnjw5ve2hr1"/>İSTM.ŞSC.14.d.212 / 34b-2_<ref target="http://document__7">GrocerIST id_7</ref></head><p>Mahrūse-i Galatada Sultan Bayezid mahallesinde mütemekkin iken bundan akdem hālik olan Bakkāl Dimitri veled-i Yorgi nām zımmīnin verāseti zevce-i metrūkesi … bt. Kozi nām nasrāniyeye ve batnında mevcūd ve mütehakkık cümle münhasıra olduğu lede’ş şer‘i müte‘ayyen oldukdan sonra cümle mezbūre kıbel-i şer’den vasī nasb olunan mezbūre … talebiyle hālik mezbūrun muhallefātı defteridir ki vech-i ātī üzere zikr olunur. </p><p>Fī 26 Ramazan 23</p><p>Soğan: Fī 2 / Kıyye 190 / Kıymet 380</p><p>Fındık: Fī 4 / Kıyye 100 / Kıymet 400</p><p>Kaşkaval peyniri: Fī 20 / Kıyye 40 / Kıymet 800</p><p>Zeyt yağı: Fī 20 / Kıyye 40 / Kıymet 800</p><p>Sāde yağ: Fī 40 / Kıyye 10 / Kıymet 400</p><p>Tulum peyniri: Fī 15 / Kıyye 20 / Kıymet 300</p><p>Nardenk: Fī 5 / Kıyye 60 / Kıymet 300</p><p>Sirke: Fī 2 / Kıyye 100 / Kıymet 200</p><p>Sucuk: Fī 8 / Kıyye 50 / Kıymet 400</p><p>Pirinc: Fī 8 / Kıyye 150 / Kıymet 1200</p><p>Pekmez: Kıyye 140 / Kıymet 840</p><p>Ālāt-ı bakkāl ma kantar: 80</p></div>
         </body>
     </text>
 </TEI>

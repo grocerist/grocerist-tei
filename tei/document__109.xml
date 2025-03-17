@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__109.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 566/92b-1
+                <title type="main">: İSTM.ŞSC.06.d. 566 / 92b-1
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,7 +39,7 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.06.d. 566/92b-1</idno>
+                        <idno type="archive">İSTM.ŞSC.06.d. 566 / 92b-1</idno>
                     </msIdentifier>
                     <history>                        <origin when-iso="1808-06-04"/>                    </history>
                 </msDesc>
@@ -50,7 +50,7 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 566/92b-1</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 566 / 92b-1</idno>
                 </ab>
             </abstract>
 
