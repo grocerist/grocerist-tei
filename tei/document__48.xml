@@ -72,6 +72,9 @@
             <place xml:id="district__4" type="district">
                 <placeName>Galata</placeName>
             </place>
+            <place xml:id="neighbourhood__109" type="neighbourhood">
+                <placeName>Memi Kethüda</placeName>
+            </place>
             <place xml:id="quarter__2" type="quarter">
                 <placeName>Kasımpaşa</placeName>
             </place>
