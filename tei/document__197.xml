@@ -65,6 +65,9 @@
                     <geo decls="#dd">None None</geo>
                 </location>
             </place>
+            <place xml:id="district__26" type="district">
+                <placeName>İstanbul</placeName>
+            </place>
         </listPlace>
         <listPerson>
         </listPerson>
