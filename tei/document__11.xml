@@ -114,6 +114,12 @@
                 <name xml:lang="en">Almond</name>
                 <name xml:lang="tr" type="variation">Badām</name>
             </item>
+            <item xml:id="goods__6">
+                <name xml:lang="tr">Revgan-ı sade</name>
+                <name xml:lang="en">Ghee</name>
+                <name xml:lang="en">Clarified Butter</name>
+                <name xml:lang="tr" type="variation">Sadeyağ</name>
+            </item>
             <item xml:id="goods__9">
                 <name xml:lang="tr">Kaşkaval</name>
                 <name xml:lang="en">Kashkaval</name>
