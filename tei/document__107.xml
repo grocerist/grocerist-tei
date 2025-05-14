@@ -66,7 +66,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.07727 28.90307</geo>
                 </location>
             </place>
             <place xml:id="district__19" type="district">
