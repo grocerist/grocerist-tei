@@ -72,6 +72,9 @@
             <place xml:id="district__16" type="district">
                 <placeName>Üsküdar</placeName>
             </place>
+            <place xml:id="neighbourhood__79" type="neighbourhood">
+                <placeName>Tenbel</placeName>
+            </place>
             <place xml:id="karye__4" type="karye">
                 <placeName>Kuzguncuk</placeName>
             </place>

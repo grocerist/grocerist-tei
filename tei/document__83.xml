@@ -62,7 +62,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.02533 29.02767</geo>
                 </location>
             </place>
             <place xml:id="district__16" type="district">
@@ -70,6 +70,9 @@
             </place>
             <place xml:id="neighbourhood__84" type="neighbourhood">
                 <placeName>Selami</placeName>
+            </place>
+            <place xml:id="neighbourhood__85" type="neighbourhood">
+                <placeName>Dorbalı (Torbalı)</placeName>
             </place>
         </listPlace>
         <listPerson>

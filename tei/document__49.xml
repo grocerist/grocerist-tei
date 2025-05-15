@@ -71,6 +71,9 @@
             <place xml:id="neighbourhood__76" type="neighbourhood">
                 <placeName>Kulaksız</placeName>
             </place>
+            <place xml:id="neighbourhood__77" type="neighbourhood">
+                <placeName>Seyyid Ali</placeName>
+            </place>
             <place xml:id="quarter__2" type="quarter">
                 <placeName>Kasımpaşa</placeName>
             </place>

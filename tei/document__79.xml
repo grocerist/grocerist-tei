@@ -68,6 +68,9 @@
             <place xml:id="district__16" type="district">
                 <placeName>Üsküdar</placeName>
             </place>
+            <place xml:id="karye__16" type="karye">
+                <placeName>Kısıklı</placeName>
+            </place>
             <place xml:id="address__8" type="address">
                 <placeName>Yük İskelesi kurbü</placeName>
             </place>

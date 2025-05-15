@@ -66,14 +66,14 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.04747 28.93551</geo>
                 </location>
             </place>
             <place xml:id="district__19" type="district">
                 <placeName>Eyüp</placeName>
             </place>
-            <place xml:id="neighbourhood__31" type="neighbourhood">
-                <placeName>Camii Kebir</placeName>
+            <place xml:id="neighbourhood__110" type="neighbourhood">
+                <placeName>Camiikebir</placeName>
             </place>
         </listPlace>
         <listPerson>

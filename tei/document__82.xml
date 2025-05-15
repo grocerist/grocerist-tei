@@ -70,6 +70,12 @@
             <place xml:id="district__16" type="district">
                 <placeName>Üsküdar</placeName>
             </place>
+            <place xml:id="karye__17" type="karye">
+                <placeName>Kulak</placeName>
+            </place>
+            <place xml:id="karye__18" type="karye">
+                <placeName>Karaca Ahmed Sultan</placeName>
+            </place>
             <place xml:id="address__9" type="address">
                 <placeName>Arasta kurbü</placeName>
             </place>
