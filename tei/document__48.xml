@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__48.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d. 472 / 33b-1
+                <title type="main">: İSTM.ŞSC.14.d.472 / 33b-1
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,9 +39,9 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.14.d. 472 / 33b-1</idno>
+                        <idno type="archive">İSTM.ŞSC.14.d.472 / 33b-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1785-02-03"/>                    </history>
+                    <history>                        <origin when-iso="1785-03-05"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -50,12 +50,12 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 472 / 33b-1</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.472 / 33b-1</idno>
                 </ab>
             </abstract>
 
             <creation>
-                <date calendar="#gregorian" when="1785-02-03">1785-02-03
+                <date calendar="#gregorian" when="1785-03-05">1785-03-05
                 </date>
                 <date calendar="#islamic" when="1199">1199
                 </date>

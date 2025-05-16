@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__51.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d. 507 / 20b-2
+                <title type="main">: İSTM.ŞSC.14.d.507 / 20b-2
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,9 +39,9 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.14.d. 507 / 20b-2</idno>
+                        <idno type="archive">İSTM.ŞSC.14.d.507 / 20b-2</idno>
                     </msIdentifier>
-                    <history>                        <origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1791-06-25"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -50,11 +50,15 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 507 / 20b-2</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.507 / 20b-2</idno>
                 </ab>
             </abstract>
 
             <creation>
+                <date calendar="#gregorian" when="1791-06-25">1791-06-25
+                </date>
+                <date calendar="#islamic" when="1205">1205
+                </date>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -94,7 +98,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_n3js0cm68eij"/>İSTM.ŞSC.14.d. 507 / 20b-2_<ref target="http://document__51">GrocerIST id_51</ref></head><p>Mahrūse-i Galata tevābi‘nden kasaba Beşiktaşa tābi’ Arnavud karyesinde iskele karşısında vāki‘ bakkāl dükkānında bakkāl iken bundan akdem düyūnu terekesinden ezyed olduğu halde hālik olan Tanaş veled-i Polminonun zāhirde vāris-i ma’rūfu olmayub bi’l-cümle terekesi cānib-i beytülmāle āid olmak üzere mahrūse-i mezkūrede ve tevābi’nde voyvoda ve beytülmāl āmme ve hāssa emīni Hacegan düyūnu hümāyūndan Esseyid Halil Efendi b. Mehmedin umūr-ı beytülmālı rü’yete vekīl-i müsecceli Elhac İsmail Ağa b. Hasan ve zikr-i ati .. taleb iltimāslarıyla tahrīr ve beynel …. olunduğu ber vech-i ātī zikr olunur.  fil yevm </p><p>Sim sac ve cübbe mercan: 270</p><p>Mak’ad: 30</p><p>Boy kebesi: 450</p><p>Sim hurdaları: 6</p><p>Akçe kesesi: 45</p><p>Köhne cübbe ve entari: 60</p><p>Peştamal: 2 / 330</p><p>Köhne kuşak, don gömlek, potur: 99</p><p>Yorgan: 204</p><p>Kilim: 201</p><p>Yelek yasdık: 180</p><p>…</p><p>Celalī gömlek: 297</p><p>Pirinc devāt ve bıçak: 180</p><p>Servi sandık: 210</p><p>Akçe kesesi: 3 / 150</p><p>Kilit: 60</p><p>Çorab: 75</p><p>Sabun: 9</p><p>Çizme çift: 6 / 603</p><p>Ayak mesti çift: 3 / 180</p><p>.. çuval (1): 195</p><p>Köhne entari ve yelek ve nīmten: 186</p><p>Ayak mesti: 15</p><p>Minder çuval: 348</p><p>Nakdi mevcud: 255</p><p>Dükkān-ı mezkūrede hālik-i merkūmun bakkāl emtiası: 18000</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_n3js0cm68eij"/>İSTM.ŞSC.14.d. 507 / 20b-2_<ref target="http://document__51">GrocerIST id_51</ref></head><p>Mahrūse-i Galata tevābi‘nden kasaba Beşiktaşa tābi’ Arnavud karyesinde iskele karşısında vāki‘ bakkāl dükkānında bakkāl iken bundan akdem düyūnu terekesinden ezyed olduğu halde hālik olan Tanaş veled-i Polminonun zāhirde vāris-i ma’rūfu olmayub bi’l-cümle terekesi cānib-i beytülmāle āid olmak üzere mahrūse-i mezkūrede ve tevābi’nde voyvoda ve beytülmāl āmme ve hāssa emīni Hacegan düyūnu hümāyūndan Esseyid Halil Efendi b. Mehmedin umūr-ı beytülmālı rü’yete vekīl-i müsecceli Elhac İsmail Ağa b. Hasan ve zikr-i ati .. taleb iltimāslarıyla tahrīr ve beynel …. olunduğu ber vech-i ātī zikr olunur. 23 şevval 1205 </p><p>Sim sac ve cübbe mercan: 270</p><p>Mak’ad: 30</p><p>Boy kebesi: 450</p><p>Sim hurdaları: 6</p><p>Akçe kesesi: 45</p><p>Köhne cübbe ve entari: 60</p><p>Peştamal: 2 / 330</p><p>Köhne kuşak, don gömlek, potur: 99</p><p>Yorgan: 204</p><p>Kilim: 201</p><p>Yelek yasdık: 180</p><p>…</p><p>Celalī gömlek: 297</p><p>Pirinc devāt ve bıçak: 180</p><p>Servi sandık: 210</p><p>Akçe kesesi: 3 / 150</p><p>Kilit: 60</p><p>Çorab: 75</p><p>Sabun: 9</p><p>Çizme çift: 6 / 603</p><p>Ayak mesti çift: 3 / 180</p><p>.. çuval (1): 195</p><p>Köhne entari ve yelek ve nīmten: 186</p><p>Ayak mesti: 15</p><p>Minder çuval: 348</p><p>Nakdi mevcud: 255</p><p>Dükkān-ı mezkūrede hālik-i merkūmun bakkāl emtiası: 18000</p></div>
         </body>
     </text>
 </TEI>

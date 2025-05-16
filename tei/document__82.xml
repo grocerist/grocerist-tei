@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__82.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 495 / 25a-1
+                <title type="main">: İSTM.ŞSC.06.d.495 / 25a-1
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,9 +39,9 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.06.d. 495 / 25a-1</idno>
+                        <idno type="archive">İSTM.ŞSC.06.d.495 / 25a-1</idno>
                     </msIdentifier>
-                    <history>                        <origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1775-10-26"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -50,11 +50,13 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 495 / 25a-1</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.495 / 25a-1</idno>
                 </ab>
             </abstract>
 
             <creation>
+                <date calendar="#gregorian" when="1775-10-26">1775-10-26
+                </date>
                 <date calendar="#islamic" when="1189">1189
                 </date>
             </creation>
@@ -64,7 +66,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.01361 29.02000</geo>
                 </location>
             </place>
             <place xml:id="district__16" type="district">
