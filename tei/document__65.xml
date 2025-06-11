@@ -175,6 +175,7 @@
             </item>
             <item xml:id="goods__24">
                 <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="en">Treacle made from the juice of pomegranates or of damsons</name>
                 <name xml:lang="tr" type="variation">Nardeng</name>
                 <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
             </item>
@@ -206,6 +207,7 @@
             </item>
             <item xml:id="goods__45">
                 <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="en">Bulgur</name>
                 <name xml:lang="tr" type="variation">Burgur</name>
                 <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
             </item>
@@ -237,6 +239,7 @@
             </item>
             <item xml:id="goods__65">
                 <name xml:lang="tr">Köfter</name>
+                <name xml:lang="en">a sweet made of starch and boiled-down grape juice i.</name>
             </item>
             <item xml:id="goods__93">
                 <name xml:lang="tr">Gömeç balı</name>
@@ -244,6 +247,7 @@
             </item>
             <item xml:id="goods__94">
                 <name xml:lang="tr">Kızılcık kurusu</name>
+                <name xml:lang="en">Dried cornelian cherry</name>
             </item>
             <item xml:id="goods__108">
                 <name xml:lang="tr">Sabun</name>
@@ -260,7 +264,7 @@
             </item>
             <item xml:id="goods__155">
                 <name xml:lang="tr">Bakla</name>
-                <name xml:lang="en">Bakla</name>
+                <name xml:lang="en">Broad bean</name>
             </item>
             <item xml:id="goods__179">
                 <name xml:lang="tr">Ab-ı limon</name>
@@ -269,6 +273,7 @@
             </item>
             <item xml:id="goods__180">
                 <name xml:lang="tr">Dolmalık yaprak</name>
+                <name xml:lang="en">Leaves for stuffing (used for making dolma)</name>
             </item>
             <item xml:id="goods__181">
                 <name xml:lang="tr">Revak asel</name>
@@ -282,7 +287,7 @@
             </item>
             <item xml:id="goods__185">
                 <name xml:lang="tr">İğde</name>
-                <name xml:lang="en">İğde</name>
+                <name xml:lang="en">Oleaster</name>
             </item>
             <item xml:id="goods__186">
                 <name xml:lang="tr">Emrud kurusu</name>
@@ -291,6 +296,7 @@
             </item>
             <item xml:id="goods__187">
                 <name xml:lang="tr">Yerli kaşkaval</name>
+                <name xml:lang="en">Locally produced kashkaval</name>
             </item>
             <item xml:id="goods__188">
                 <name xml:lang="tr">Tuğla tozu</name>
@@ -298,9 +304,12 @@
             </item>
             <item xml:id="goods__189">
                 <name xml:lang="tr">Tarhana</name>
+                <name xml:lang="en">Fermented soup base made from a mixture of yogurt</name>
+                <name xml:lang="en">flour and vegetables</name>
             </item>
             <item xml:id="goods__190">
                 <name xml:lang="tr">Çorlu kaşkavalı</name>
+                <name xml:lang="en">Kashkaval of Çorlu</name>
             </item>
             <item xml:id="goods__191">
                 <name xml:lang="tr">Edremit siyahı üzüm</name>
@@ -308,9 +317,11 @@
             </item>
             <item xml:id="goods__193">
                 <name xml:lang="tr">Tahin</name>
+                <name xml:lang="en">Tahini</name>
             </item>
             <item xml:id="goods__206">
                 <name xml:lang="tr">Temür hurdası</name>
+                <name xml:lang="en">Scrap iron</name>
             </item>
             <item xml:id="goods__209">
                 <name xml:lang="tr">Gemlik tuzu</name>
@@ -318,12 +329,14 @@
             </item>
             <item xml:id="goods__259">
                 <name xml:lang="tr">Leh tuzu</name>
+                <name xml:lang="en">Polish salt</name>
             </item>
             <item xml:id="goods__260">
                 <name xml:lang="tr">Demet odunu</name>
             </item>
             <item xml:id="goods__261">
                 <name xml:lang="tr">Leh kaşkavalı</name>
+                <name xml:lang="en">Polish kashkaval</name>
             </item>
             <item xml:id="goods__275">
                 <name xml:lang="tr">İzmir siyahı üzüm</name>

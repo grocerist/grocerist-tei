@@ -168,6 +168,7 @@
             </item>
             <item xml:id="goods__45">
                 <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="en">Bulgur</name>
                 <name xml:lang="tr" type="variation">Burgur</name>
                 <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
             </item>
@@ -193,6 +194,9 @@
             </item>
             <item xml:id="goods__66">
                 <name xml:lang="tr">Lakerda balığı</name>
+                <name xml:lang="en">Lakerda fish (typically refers to bonito or mackerel prepared as lakerda</name>
+                <name xml:lang="en">a traditional salted fish</name>
+                <name xml:lang="en">similar to pickled or brined bonito</name>
             </item>
             <item xml:id="goods__67">
                 <name xml:lang="tr">Büber</name>
@@ -205,9 +209,11 @@
             </item>
             <item xml:id="goods__72">
                 <name xml:lang="tr">Uskumru balığı</name>
+                <name xml:lang="en">Mackerel</name>
             </item>
             <item xml:id="goods__74">
                 <name xml:lang="tr">Mersin balığı</name>
+                <name xml:lang="en">Sturgeon</name>
             </item>
             <item xml:id="goods__101">
                 <name xml:lang="tr">Fasulye</name>
@@ -219,10 +225,12 @@
             </item>
             <item xml:id="goods__155">
                 <name xml:lang="tr">Bakla</name>
-                <name xml:lang="en">Bakla</name>
+                <name xml:lang="en">Broad bean</name>
             </item>
             <item xml:id="goods__189">
                 <name xml:lang="tr">Tarhana</name>
+                <name xml:lang="en">Fermented soup base made from a mixture of yogurt</name>
+                <name xml:lang="en">flour and vegetables</name>
             </item>
             <item xml:id="goods__275">
                 <name xml:lang="tr">İzmir siyahı üzüm</name>
@@ -230,6 +238,7 @@
             </item>
             <item xml:id="goods__355">
                 <name xml:lang="tr">Dakik-i has</name>
+                <name xml:lang="en">Finer flour</name>
             </item>
             <item xml:id="goods__361">
                 <name xml:lang="tr">Balmumu</name>
@@ -238,12 +247,14 @@
             </item>
             <item xml:id="goods__378">
                 <name xml:lang="tr">Döğülmüş buğday</name>
+                <name xml:lang="en">Beaten wheat</name>
             </item>
             <item xml:id="goods__391">
                 <name xml:lang="tr">Şariyye makarna</name>
             </item>
             <item xml:id="goods__397">
                 <name xml:lang="tr">Çürük mum</name>
+                <name xml:lang="en">Spoilt candle</name>
             </item>
             <item xml:id="goods__398">
                 <name xml:lang="tr">Ahtapot ... balık</name>
@@ -258,6 +269,7 @@
             </item>
             <item xml:id="goods__401">
                 <name xml:lang="tr">Bardak</name>
+                <name xml:lang="en">Cup</name>
             </item>
             <item xml:id="goods__402">
                 <name xml:lang="tr">Ihlamur</name>
@@ -265,6 +277,7 @@
             </item>
             <item xml:id="goods__403">
                 <name xml:lang="tr">Yeşil zeytun</name>
+                <name xml:lang="en">Green olives</name>
             </item>
         </list>
     </standOff>

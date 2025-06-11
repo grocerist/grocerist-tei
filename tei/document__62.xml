@@ -109,6 +109,7 @@
             </item>
             <item xml:id="goods__76">
                 <name xml:lang="tr">Çütre balığı</name>
+                <name xml:lang="en">Grey triggerfish</name>
             </item>
             <item xml:id="goods__79">
                 <name xml:lang="tr">Karamürsel zeytunu</name>
@@ -120,6 +121,7 @@
             </item>
             <item xml:id="goods__161">
                 <name xml:lang="tr">Kolyoz balığı</name>
+                <name xml:lang="en">Chub mackarel</name>
             </item>
         </list>
     </standOff>

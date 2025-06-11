@@ -240,6 +240,7 @@
             </item>
             <item xml:id="goods__94">
                 <name xml:lang="tr">Kızılcık kurusu</name>
+                <name xml:lang="en">Dried cornelian cherry</name>
             </item>
             <item xml:id="goods__98">
                 <name xml:lang="tr">Sarıca inciri</name>
@@ -256,6 +257,7 @@
             </item>
             <item xml:id="goods__174">
                 <name xml:lang="tr">Turşu yaprağı</name>
+                <name xml:lang="en">Pickling leaf</name>
             </item>
             <item xml:id="goods__184">
                 <name xml:lang="tr">Keçi peyniri</name>
@@ -263,32 +265,38 @@
             </item>
             <item xml:id="goods__185">
                 <name xml:lang="tr">İğde</name>
-                <name xml:lang="en">İğde</name>
+                <name xml:lang="en">Oleaster</name>
             </item>
             <item xml:id="goods__192">
                 <name xml:lang="tr">Çakmak tozu</name>
+                <name xml:lang="en">Flint powder</name>
             </item>
             <item xml:id="goods__193">
                 <name xml:lang="tr">Tahin</name>
+                <name xml:lang="en">Tahini</name>
             </item>
             <item xml:id="goods__202">
                 <name xml:lang="tr">Lob inciri</name>
-                <name xml:lang="en">Lob incir</name>
+                <name xml:lang="en">Lob figs</name>
             </item>
             <item xml:id="goods__206">
                 <name xml:lang="tr">Temür hurdası</name>
+                <name xml:lang="en">Scrap iron</name>
             </item>
             <item xml:id="goods__259">
                 <name xml:lang="tr">Leh tuzu</name>
+                <name xml:lang="en">Polish salt</name>
             </item>
             <item xml:id="goods__260">
                 <name xml:lang="tr">Demet odunu</name>
             </item>
             <item xml:id="goods__261">
                 <name xml:lang="tr">Leh kaşkavalı</name>
+                <name xml:lang="en">Polish kashkaval</name>
             </item>
             <item xml:id="goods__265">
                 <name xml:lang="tr">Döğülmüş Leh tuzu</name>
+                <name xml:lang="en">Beaten Polish salt</name>
             </item>
             <item xml:id="goods__275">
                 <name xml:lang="tr">İzmir siyahı üzüm</name>

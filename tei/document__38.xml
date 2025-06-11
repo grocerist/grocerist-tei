@@ -183,6 +183,7 @@
             </item>
             <item xml:id="goods__160">
                 <name xml:lang="tr">Üzüm</name>
+                <name xml:lang="en">Raisins</name>
             </item>
             <item xml:id="goods__166">
                 <name xml:lang="tr">Peynir</name>

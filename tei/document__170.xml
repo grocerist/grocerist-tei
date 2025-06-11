@@ -66,7 +66,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.04103 28.95524</geo>
                 </location>
             </place>
             <place xml:id="district__25" type="district">
@@ -121,16 +121,20 @@
             </item>
             <item xml:id="goods__151">
                 <name xml:lang="tr">Sicim</name>
+                <name xml:lang="en">String</name>
                 <name xml:lang="tr" type="variation">İp</name>
             </item>
             <item xml:id="goods__343">
                 <name xml:lang="tr">Çalı süpürgesi</name>
+                <name xml:lang="en">Brushwood broom</name>
             </item>
             <item xml:id="goods__376">
                 <name xml:lang="tr">Beyaz fasulye</name>
+                <name xml:lang="en">White bean</name>
             </item>
             <item xml:id="goods__377">
                 <name xml:lang="tr">Ak tuz</name>
+                <name xml:lang="en">White salt</name>
             </item>
             <item xml:id="goods__380">
                 <name xml:lang="tr">Kavanoz</name>

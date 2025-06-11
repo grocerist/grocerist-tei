@@ -131,6 +131,7 @@
             </item>
             <item xml:id="goods__24">
                 <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="en">Treacle made from the juice of pomegranates or of damsons</name>
                 <name xml:lang="tr" type="variation">Nardeng</name>
                 <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
             </item>
@@ -180,6 +181,7 @@
             </item>
             <item xml:id="goods__45">
                 <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="en">Bulgur</name>
                 <name xml:lang="tr" type="variation">Burgur</name>
                 <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
             </item>
@@ -204,6 +206,7 @@
             </item>
             <item xml:id="goods__72">
                 <name xml:lang="tr">Uskumru balığı</name>
+                <name xml:lang="en">Mackerel</name>
             </item>
             <item xml:id="goods__146">
                 <name xml:lang="tr">Hatab</name>
@@ -211,6 +214,7 @@
             </item>
             <item xml:id="goods__160">
                 <name xml:lang="tr">Üzüm</name>
+                <name xml:lang="en">Raisins</name>
             </item>
             <item xml:id="goods__166">
                 <name xml:lang="tr">Peynir</name>

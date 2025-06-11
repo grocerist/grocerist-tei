@@ -179,6 +179,7 @@
             </item>
             <item xml:id="goods__45">
                 <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="en">Bulgur</name>
                 <name xml:lang="tr" type="variation">Burgur</name>
                 <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
             </item>

@@ -135,6 +135,7 @@
             </item>
             <item xml:id="goods__24">
                 <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="en">Treacle made from the juice of pomegranates or of damsons</name>
                 <name xml:lang="tr" type="variation">Nardeng</name>
                 <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
             </item>
@@ -175,6 +176,7 @@
             </item>
             <item xml:id="goods__45">
                 <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="en">Bulgur</name>
                 <name xml:lang="tr" type="variation">Burgur</name>
                 <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
             </item>
@@ -215,9 +217,11 @@
             </item>
             <item xml:id="goods__345">
                 <name xml:lang="tr">Kaşar peyniri</name>
+                <name xml:lang="en">A type of aged yellow cheese</name>
             </item>
             <item xml:id="goods__349">
                 <name xml:lang="tr">Şorbalık şariye</name>
+                <name xml:lang="en">Soup vermicelli</name>
                 <name xml:lang="tr" type="variation">Şorbalık şehriye</name>
             </item>
             <item xml:id="goods__361">
@@ -230,12 +234,15 @@
             </item>
             <item xml:id="goods__412">
                 <name xml:lang="tr">Kurumuş şariyye</name>
+                <name xml:lang="en">Dried vermicelli</name>
             </item>
             <item xml:id="goods__414">
                 <name xml:lang="tr">Sarı şariyye</name>
+                <name xml:lang="en">Yellow vermicelli</name>
             </item>
             <item xml:id="goods__427">
                 <name xml:lang="tr">Edirne kaşarı</name>
+                <name xml:lang="en">Edirne kashar cheese (a type of aged yellow cheese from Edirne</name>
             </item>
         </list>
     </standOff>

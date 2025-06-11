@@ -134,6 +134,7 @@
             </item>
             <item xml:id="goods__24">
                 <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="en">Treacle made from the juice of pomegranates or of damsons</name>
                 <name xml:lang="tr" type="variation">Nardeng</name>
                 <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
             </item>
@@ -167,6 +168,7 @@
             </item>
             <item xml:id="goods__160">
                 <name xml:lang="tr">Üzüm</name>
+                <name xml:lang="en">Raisins</name>
             </item>
         </list>
     </standOff>

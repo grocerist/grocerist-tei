@@ -163,7 +163,7 @@
             </item>
             <item xml:id="goods__155">
                 <name xml:lang="tr">Bakla</name>
-                <name xml:lang="en">Bakla</name>
+                <name xml:lang="en">Broad bean</name>
             </item>
             <item xml:id="goods__177">
                 <name xml:lang="tr">Leblebi</name>
@@ -176,6 +176,7 @@
             </item>
             <item xml:id="goods__252">
                 <name xml:lang="tr">Mum yağı</name>
+                <name xml:lang="en">Candle oil</name>
             </item>
             <item xml:id="goods__275">
                 <name xml:lang="tr">İzmir siyahı üzüm</name>
@@ -189,6 +190,7 @@
             </item>
             <item xml:id="goods__395">
                 <name xml:lang="tr">Sabun  tozu</name>
+                <name xml:lang="en">Soap powder</name>
             </item>
             <item xml:id="goods__396">
                 <name xml:lang="tr">Eflak peyniri</name>

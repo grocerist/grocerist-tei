@@ -145,6 +145,7 @@
             </item>
             <item xml:id="goods__20">
                 <name xml:lang="tr">Siyah üzüm</name>
+                <name xml:lang="en">Black raisins</name>
                 <name xml:lang="tr" type="variation">Siyah</name>
             </item>
             <item xml:id="goods__27">
@@ -170,6 +171,7 @@
             </item>
             <item xml:id="goods__45">
                 <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="en">Bulgur</name>
                 <name xml:lang="tr" type="variation">Burgur</name>
                 <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
             </item>
@@ -196,6 +198,7 @@
             </item>
             <item xml:id="goods__60">
                 <name xml:lang="tr">Taze peynir</name>
+                <name xml:lang="en">Unaged cheese</name>
             </item>
             <item xml:id="goods__112">
                 <name xml:lang="tr">Mum</name>

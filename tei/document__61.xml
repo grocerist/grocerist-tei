@@ -131,25 +131,31 @@
             </item>
             <item xml:id="goods__72">
                 <name xml:lang="tr">Uskumru balığı</name>
+                <name xml:lang="en">Mackerel</name>
             </item>
             <item xml:id="goods__73">
                 <name xml:lang="tr">Kolyarudya balığı</name>
+                <name xml:lang="en">Young horse mackarel</name>
             </item>
             <item xml:id="goods__74">
                 <name xml:lang="tr">Mersin balığı</name>
+                <name xml:lang="en">Sturgeon</name>
             </item>
             <item xml:id="goods__75">
                 <name xml:lang="tr">Çiroz balığı</name>
+                <name xml:lang="en">Sun-dried mackerel</name>
             </item>
             <item xml:id="goods__76">
                 <name xml:lang="tr">Çütre balığı</name>
+                <name xml:lang="en">Grey triggerfish</name>
             </item>
             <item xml:id="goods__77">
                 <name xml:lang="tr">Girit pekmezi</name>
-                <name xml:lang="en">Girit molasses</name>
+                <name xml:lang="en">Creatan molasses</name>
             </item>
             <item xml:id="goods__78">
                 <name xml:lang="tr">Büber turşusu</name>
+                <name xml:lang="en">Pickled peppers</name>
                 <name xml:lang="tr" type="variation">Biber turşusu</name>
             </item>
             <item xml:id="goods__79">
@@ -158,16 +164,18 @@
             </item>
             <item xml:id="goods__80">
                 <name xml:lang="tr">Morina balığı</name>
+                <name xml:lang="en">Codfish</name>
             </item>
             <item xml:id="goods__81">
                 <name xml:lang="tr">Terkoz balığı</name>
             </item>
             <item xml:id="goods__83">
                 <name xml:lang="tr">Odun pekmezi</name>
+                <name xml:lang="en">Wood smoked molasses</name>
             </item>
             <item xml:id="goods__155">
                 <name xml:lang="tr">Bakla</name>
-                <name xml:lang="en">Bakla</name>
+                <name xml:lang="en">Broad bean</name>
             </item>
             <item xml:id="goods__162">
                 <name xml:lang="tr">Zift</name>
@@ -175,6 +183,7 @@
             </item>
             <item xml:id="goods__435">
                 <name xml:lang="tr">Girit peyniri</name>
+                <name xml:lang="en">Creatan cheese</name>
             </item>
         </list>
     </standOff>

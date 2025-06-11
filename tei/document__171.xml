@@ -125,6 +125,7 @@
             </item>
             <item xml:id="goods__20">
                 <name xml:lang="tr">Siyah üzüm</name>
+                <name xml:lang="en">Black raisins</name>
                 <name xml:lang="tr" type="variation">Siyah</name>
             </item>
             <item xml:id="goods__21">
@@ -139,6 +140,7 @@
             </item>
             <item xml:id="goods__24">
                 <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="en">Treacle made from the juice of pomegranates or of damsons</name>
                 <name xml:lang="tr" type="variation">Nardeng</name>
                 <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
             </item>
@@ -170,6 +172,7 @@
             </item>
             <item xml:id="goods__383">
                 <name xml:lang="tr">Kili basdırması</name>
+                <name xml:lang="en">Pastrami of Kili</name>
             </item>
             <item xml:id="goods__384">
                 <name xml:lang="tr">Emrud kakı</name>

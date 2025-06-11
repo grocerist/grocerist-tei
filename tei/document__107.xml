@@ -114,9 +114,11 @@
             </item>
             <item xml:id="goods__194">
                 <name xml:lang="tr">Yapağı yün</name>
+                <name xml:lang="en">Unprocessed wool</name>
             </item>
             <item xml:id="goods__227">
                 <name xml:lang="tr">Ham sirke</name>
+                <name xml:lang="en">Wine</name>
             </item>
             <item xml:id="goods__230">
                 <name xml:lang="tr">Saman</name>

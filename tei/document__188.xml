@@ -130,6 +130,7 @@
             </item>
             <item xml:id="goods__426">
                 <name xml:lang="tr">Gön</name>
+                <name xml:lang="en">Leather</name>
             </item>
         </list>
     </standOff>

@@ -202,6 +202,7 @@
             </item>
             <item xml:id="goods__90">
                 <name xml:lang="tr">Gemlik zeytunu</name>
+                <name xml:lang="en">Gemlik olives</name>
             </item>
             <item xml:id="goods__91">
                 <name xml:lang="tr">Akdeniz balı</name>
@@ -209,6 +210,7 @@
             </item>
             <item xml:id="goods__92">
                 <name xml:lang="tr">Kabuklu acıbadem</name>
+                <name xml:lang="en">Shelled bitter almonds</name>
             </item>
             <item xml:id="goods__93">
                 <name xml:lang="tr">Gömeç balı</name>
@@ -221,11 +223,11 @@
             </item>
             <item xml:id="goods__155">
                 <name xml:lang="tr">Bakla</name>
-                <name xml:lang="en">Bakla</name>
+                <name xml:lang="en">Broad bean</name>
             </item>
             <item xml:id="goods__164">
                 <name xml:lang="tr">Girit zeytunu</name>
-                <name xml:lang="en">Girit olive</name>
+                <name xml:lang="en">Cretan olives</name>
             </item>
         </list>
     </standOff>

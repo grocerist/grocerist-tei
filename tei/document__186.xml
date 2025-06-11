@@ -126,6 +126,7 @@
             </item>
             <item xml:id="goods__20">
                 <name xml:lang="tr">Siyah üzüm</name>
+                <name xml:lang="en">Black raisins</name>
                 <name xml:lang="tr" type="variation">Siyah</name>
             </item>
             <item xml:id="goods__23">
@@ -136,6 +137,7 @@
             </item>
             <item xml:id="goods__24">
                 <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="en">Treacle made from the juice of pomegranates or of damsons</name>
                 <name xml:lang="tr" type="variation">Nardeng</name>
                 <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
             </item>
@@ -176,6 +178,7 @@
             </item>
             <item xml:id="goods__45">
                 <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="en">Bulgur</name>
                 <name xml:lang="tr" type="variation">Burgur</name>
                 <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
             </item>
@@ -222,39 +225,52 @@
             </item>
             <item xml:id="goods__150">
                 <name xml:lang="tr">Çıra</name>
+                <name xml:lang="en">Kindling wood</name>
             </item>
             <item xml:id="goods__189">
                 <name xml:lang="tr">Tarhana</name>
+                <name xml:lang="en">Fermented soup base made from a mixture of yogurt</name>
+                <name xml:lang="en">flour and vegetables</name>
             </item>
             <item xml:id="goods__193">
                 <name xml:lang="tr">Tahin</name>
+                <name xml:lang="en">Tahini</name>
             </item>
             <item xml:id="goods__196">
                 <name xml:lang="tr">Dil peyniri</name>
+                <name xml:lang="en">String cheese</name>
             </item>
             <item xml:id="goods__252">
                 <name xml:lang="tr">Mum yağı</name>
+                <name xml:lang="en">Candle oil</name>
             </item>
             <item xml:id="goods__343">
                 <name xml:lang="tr">Çalı süpürgesi</name>
+                <name xml:lang="en">Brushwood broom</name>
             </item>
             <item xml:id="goods__355">
                 <name xml:lang="tr">Dakik-i has</name>
+                <name xml:lang="en">Finer flour</name>
             </item>
             <item xml:id="goods__370">
                 <name xml:lang="tr">Fındık içi</name>
+                <name xml:lang="en">Nutmeat</name>
             </item>
             <item xml:id="goods__404">
                 <name xml:lang="tr">Koğa yoğurdu</name>
+                <name xml:lang="en">Bucket yogurt</name>
             </item>
             <item xml:id="goods__405">
                 <name xml:lang="tr">Atik peyniri</name>
+                <name xml:lang="en">Aged cheese</name>
             </item>
             <item xml:id="goods__406">
                 <name xml:lang="tr">Nan-ı aziz</name>
+                <name xml:lang="en">Bread</name>
             </item>
             <item xml:id="goods__407">
                 <name xml:lang="tr">Sığır dili</name>
+                <name xml:lang="en">Borage</name>
             </item>
         </list>
     </standOff>

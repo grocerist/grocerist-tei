@@ -112,6 +112,7 @@
             </item>
             <item xml:id="goods__45">
                 <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="en">Bulgur</name>
                 <name xml:lang="tr" type="variation">Burgur</name>
                 <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
             </item>
@@ -127,6 +128,7 @@
             </item>
             <item xml:id="goods__151">
                 <name xml:lang="tr">Sicim</name>
+                <name xml:lang="en">String</name>
                 <name xml:lang="tr" type="variation">İp</name>
             </item>
             <item xml:id="goods__204">
@@ -135,6 +137,7 @@
             </item>
             <item xml:id="goods__219">
                 <name xml:lang="tr">Katran</name>
+                <name xml:lang="en">Tar</name>
             </item>
             <item xml:id="goods__260">
                 <name xml:lang="tr">Demet odunu</name>

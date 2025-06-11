@@ -140,6 +140,7 @@
             </item>
             <item xml:id="goods__151">
                 <name xml:lang="tr">Sicim</name>
+                <name xml:lang="en">String</name>
                 <name xml:lang="tr" type="variation">İp</name>
             </item>
             <item xml:id="goods__152">
@@ -147,6 +148,7 @@
             </item>
             <item xml:id="goods__326">
                 <name xml:lang="tr">Kızak yağı</name>
+                <name xml:lang="en">Sled grease</name>
             </item>
         </list>
     </standOff>

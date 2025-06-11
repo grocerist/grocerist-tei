@@ -150,6 +150,7 @@
             </item>
             <item xml:id="goods__24">
                 <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="en">Treacle made from the juice of pomegranates or of damsons</name>
                 <name xml:lang="tr" type="variation">Nardeng</name>
                 <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
             </item>
@@ -203,9 +204,11 @@
             </item>
             <item xml:id="goods__74">
                 <name xml:lang="tr">Mersin balığı</name>
+                <name xml:lang="en">Sturgeon</name>
             </item>
             <item xml:id="goods__78">
                 <name xml:lang="tr">Büber turşusu</name>
+                <name xml:lang="en">Pickled peppers</name>
                 <name xml:lang="tr" type="variation">Biber turşusu</name>
             </item>
             <item xml:id="goods__99">
@@ -218,7 +221,7 @@
             </item>
             <item xml:id="goods__155">
                 <name xml:lang="tr">Bakla</name>
-                <name xml:lang="en">Bakla</name>
+                <name xml:lang="en">Broad bean</name>
             </item>
             <item xml:id="goods__158">
                 <name xml:lang="tr">Revgan-ı şem</name>
@@ -226,6 +229,7 @@
             </item>
             <item xml:id="goods__174">
                 <name xml:lang="tr">Turşu yaprağı</name>
+                <name xml:lang="en">Pickling leaf</name>
             </item>
             <item xml:id="goods__199">
                 <name xml:lang="tr">Trablus sabunu</name>

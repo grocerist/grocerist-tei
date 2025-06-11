@@ -111,9 +111,11 @@
             </item>
             <item xml:id="goods__226">
                 <name xml:lang="tr">Arak</name>
+                <name xml:lang="en">Arak</name>
             </item>
             <item xml:id="goods__227">
                 <name xml:lang="tr">Ham sirke</name>
+                <name xml:lang="en">Wine</name>
             </item>
         </list>
     </standOff>

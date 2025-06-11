@@ -127,6 +127,7 @@
             </item>
             <item xml:id="goods__20">
                 <name xml:lang="tr">Siyah üzüm</name>
+                <name xml:lang="en">Black raisins</name>
                 <name xml:lang="tr" type="variation">Siyah</name>
             </item>
             <item xml:id="goods__21">
@@ -185,6 +186,7 @@
             </item>
             <item xml:id="goods__113">
                 <name xml:lang="tr">Çarçube kağıdı</name>
+                <name xml:lang="en">Framing paper</name>
             </item>
             <item xml:id="goods__158">
                 <name xml:lang="tr">Revgan-ı şem</name>
@@ -196,6 +198,7 @@
             </item>
             <item xml:id="goods__206">
                 <name xml:lang="tr">Temür hurdası</name>
+                <name xml:lang="en">Scrap iron</name>
             </item>
             <item xml:id="goods__235">
                 <name xml:lang="tr">Tahin helvası</name>
@@ -214,18 +217,22 @@
             </item>
             <item xml:id="goods__240">
                 <name xml:lang="tr">Enfiye</name>
+                <name xml:lang="en">Snuff</name>
             </item>
             <item xml:id="goods__244">
                 <name xml:lang="tr">Mısır ipliği</name>
             </item>
             <item xml:id="goods__336">
                 <name xml:lang="tr">Kahve şekeri</name>
+                <name xml:lang="en">Coffee sugar</name>
             </item>
             <item xml:id="goods__337">
                 <name xml:lang="tr">Hunnap</name>
+                <name xml:lang="en">Jujube</name>
             </item>
             <item xml:id="goods__338">
                 <name xml:lang="tr">Sünbül</name>
+                <name xml:lang="en">Hyacinth</name>
             </item>
         </list>
     </standOff>

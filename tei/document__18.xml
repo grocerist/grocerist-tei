@@ -130,6 +130,7 @@
             </item>
             <item xml:id="goods__160">
                 <name xml:lang="tr">Üzüm</name>
+                <name xml:lang="en">Raisins</name>
             </item>
             <item xml:id="goods__166">
                 <name xml:lang="tr">Peynir</name>
@@ -139,6 +140,7 @@
             </item>
             <item xml:id="goods__169">
                 <name xml:lang="tr">Kav</name>
+                <name xml:lang="en">Tinder</name>
             </item>
             <item xml:id="goods__170">
                 <name xml:lang="tr">Karpuz</name>

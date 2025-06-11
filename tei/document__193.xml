@@ -137,6 +137,7 @@
             </item>
             <item xml:id="goods__20">
                 <name xml:lang="tr">Siyah üzüm</name>
+                <name xml:lang="en">Black raisins</name>
                 <name xml:lang="tr" type="variation">Siyah</name>
             </item>
             <item xml:id="goods__21">
@@ -207,6 +208,7 @@
             </item>
             <item xml:id="goods__193">
                 <name xml:lang="tr">Tahin</name>
+                <name xml:lang="en">Tahini</name>
             </item>
             <item xml:id="goods__200">
                 <name xml:lang="tr">Kağıd</name>
@@ -225,21 +227,25 @@
             </item>
             <item xml:id="goods__406">
                 <name xml:lang="tr">Nan-ı aziz</name>
+                <name xml:lang="en">Bread</name>
             </item>
             <item xml:id="goods__415">
                 <name xml:lang="tr">İzmir böğrülcesi</name>
+                <name xml:lang="en">İzmir balck-eyed pea</name>
             </item>
             <item xml:id="goods__422">
                 <name xml:lang="tr">Tekfurdağı fasulyesi</name>
             </item>
             <item xml:id="goods__423">
                 <name xml:lang="tr">Revgan-ı mahlut</name>
+                <name xml:lang="en">Mixed oil</name>
             </item>
             <item xml:id="goods__432">
                 <name xml:lang="tr">Revgan-ı yedek</name>
             </item>
             <item xml:id="goods__434">
                 <name xml:lang="tr">Kara bakla</name>
+                <name xml:lang="en">Black broad bean</name>
             </item>
         </list>
     </standOff>
