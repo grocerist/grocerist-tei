@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__106.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d. 272 / 27b-1
+                <title type="main">: İSTM.ŞSC.15.d.272 / 27b-1
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,7 +39,7 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.15.d. 272 / 27b-1</idno>
+                        <idno type="archive">İSTM.ŞSC.15.d.272 / 27b-1</idno>
                     </msIdentifier>
                     <history>                        <origin when-iso="1791-04-03"/>                    </history>
                 </msDesc>
@@ -50,7 +50,7 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 272 / 27b-1</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d.272 / 27b-1</idno>
                 </ab>
             </abstract>
 
@@ -66,7 +66,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">40.98628 28.87384</geo>
                 </location>
             </place>
             <place xml:id="district__19" type="district">
@@ -232,7 +232,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 272 / 27b-1_<ref target="http://document__106">GrocerIST id_106</ref></head><p><anchor xml:id="xmlid__heading_h_1ksv4uv"/>Havāss-ı refî‘a kazāsına tabi Makrahorya karyesinde sākin iken bundan akdem vefāt eden bakkāl  Esseyid Süleyman Beşe b. Esseyid Mehmedin verāseti zevce-i menkūha-i metrūkesi Ümmügülsüm Hatun bt. Abdullāh ile sulbiye sagīre kızları Şerife Aişe ve Şerife Fatmaya ve Vilāyet-i Anadoluda Ezircan kazāsında sākin bābası mezbūr Esseyid Mehmed Beşe b. Abdullāha ba‘de’l-inhisār sagīrātan-ı mezbūretānın tesviye-i emrlerine kıbel-i şerden bā-hüccet vasī ve kayyım nasb ve ta‘yīn olunan anaları mezbūre Ümmügülsüm Hatun ile bābası gāib-i mezbūr Mehmed Beşenin hisse-i ırsiyesini ahz ü kabza ve kendiye irsāl ve īsāle kıbel-i şerden bā-hüccet vasī ve kayyım nasb ve ta‘yīn olunan Barutçubaşı Ali Ağa b. Mehmed taleb ve ma‘rifetleri ve ma‘rifet-i şer‘le tahrīr ve fürūht olunan müteveffā-i mezbūrun terekesi defteridir ki vech-i ātī zikr olunur.  Fi 29 Receb 1205 </p><p>Köhne aba: 1 / 93</p><p>Müsta’mel dizlik: 1 / 105</p><p>Def‘a dizlik: 1 / 150</p><p>Müsta’mel aba: 1 / 270</p><p>Müsta’mel aba şalvar: 1 / 276</p><p>Cedīd alaca entari: 1 / 696</p><p>Köhne çuka yeşil biniş: 1 / 270</p><p>Cedīd hatayī çuka cübbe: 1860</p><p>Müsta’mel çuka şalvar: 1650</p><p>Müsta’mel poşu: 1 / 1455</p><p>Köhne kuşak ma kalpak: 1 / 186</p><p>Piştov çift ma gılıf: 1 / 870</p><p>Çerkezi bıçak: 1 / 18</p><p>Hançer: 1 / 1380</p><p>Kılıç: 1 / 1260</p><p>Piştov püskülü: 30</p><p>Köhne sim bandol saat: 900</p><p>Def‘a kılıç: 1 / 600</p><p>Çuval: 10 / 300</p><p>Sirke: Kıyye 10.5 / 900</p><p>Kömür: Kıyye 300 / 900</p><p>Nakd mevcūd: 3300</p><p>Müteveffā-i mezbūr hayātında ticāret eylediği bakkāl dükkānı derūnunda mevcūd ecnās-ı emtiā-i ma‘lūmesidir ki ber vech-i ātī zikr olunur: </p><p>Tahin helvası: Fī 54 / Kıyye 9.5 / Kıymet 513</p><p>Mudurnu peyniri: Fī 81  / Kıyye 19  / Kıymet 1599</p><p>Pekmez-i safi : Fī 24  / Kıyye 163 / Kıymet 3912</p><p>Revgan-ı zeyt: Fī 60 / Kıyye 87 / Kıymet 5220</p><p>Mum: Fī 90 / Kıyye 4 / Kıymet 360</p><p>Zeytūn: Fī 24 / Kıyye 31 / Kıymet 748</p><p>Soğan: Fī 7.5 / Kıyye 40 / Kıymet 300</p><p>Limon: Aded 110 / Kıymet 120</p><p>Kestane: Kıyye 3 / Kıymet 45</p><p>Razaki üzümü: Fī 36 / Kıyye 6 / Kıymet 216</p><p>Tuz: Fī 15 / Kıyye 10 / Kıymet 150</p><p>Fındık: Fī 24 / Kıyye 4 / Kıymet 96</p><p>Nohud: Fī 24 / Kıyye 8 / Kıymet 168</p><p>Pirinc: Fī 360 / Kıyye 7 / Kıymet 2520</p><p>Sabun: Fī 60 / Kıyye 5 / Kıymet 300</p><p>İncir: Fī 24 / Kıyye 7 / Kıymet 168</p><p>Siyāh üzüm: Fī 21 / Kıyye 33 / Kıymet 693</p><p>Temür hurdası: Fī 24 / Kıyye 43 / Kıymet 1032</p><p>Dūhan: Fī 25 / Kıyye 65 / Kıymet 1125</p><p>Ceviz: Fī 120 / Aded 2000 / Kıymet 240</p><p>Çārçūbe kāğıdı tob: 240</p><p>Büber: Dirhem 300 / 240</p><p>Yazı kāğıdı: 60</p><p>Balmumu: 240</p><p>Barut ma kurşun: 180</p><p>Şa‘īr: Fī 120 / Keyl 7.5 / Kıymet 900 </p><p>Kahve şekeri, enfiye, lüle, kahve terāzisi ma derāhim kantar, dūhan kavanozu, hunnap tob, tahta anbar,  sünbül, tahta sandık, mısır ipliği, Def’a iplik, arşın ve hırdavat: 4800</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 272 / 27b-1_<ref target="http://document__106">GrocerIST id_106</ref></head><p><anchor xml:id="xmlid__heading_h_1ksv4uv"/>Havāss-ı refî‘a kazāsına tabi Makrahorya karyesinde sākin iken bundan akdem vefāt eden bakkāl  Esseyid Süleyman Beşe b. Esseyid Mehmedin verāseti zevce-i menkūha-i metrūkesi Ümmügülsüm Hatun bt. Abdullāh ile sulbiye sagīre kızları Şerife Aişe ve Şerife Fatmaya ve Vilāyet-i Anadoluda Ezircan kazāsında sākin bābası mezbūr Esseyid Mehmed Beşe b. Abdullāha ba‘de’l-inhisār sagīrātan-ı mezbūretānın tesviye-i emrlerine kıbel-i şerden bā-hüccet vasī ve kayyım nasb ve ta‘yīn olunan anaları mezbūre Ümmügülsüm Hatun ile bābası gāib-i mezbūr Mehmed Beşenin hisse-i ırsiyesini ahz ü kabza ve kendiye irsāl ve īsāle kıbel-i şerden bā-hüccet vasī ve kayyım nasb ve ta‘yīn olunan Barutçubaşı Ali Ağa b. Mehmed taleb ve ma‘rifetleri ve ma‘rifet-i şer‘le tahrīr ve fürūht olunan müteveffā-i mezbūrun terekesi defteridir ki vech-i ātī zikr olunur.  Fi 29 Receb 1205 </p><p>Köhne aba: 1 / 93</p><p>Müsta’mel dizlik: 1 / 105</p><p>Def‘a dizlik: 1 / 150</p><p>Müsta’mel aba: 1 / 270</p><p>Müsta’mel aba şalvar: 1 / 276</p><p>Cedīd alaca entari: 1 / 696</p><p>Köhne çuka yeşil biniş: 1 / 270</p><p>Cedīd hatayī çuka cübbe: 1860</p><p>Müsta’mel çuka şalvar: 1650</p><p>Müsta’mel poşu: 1 / 1455</p><p>Köhne kuşak ma kalpak: 1 / 186</p><p>Piştov çift ma gılıf: 1 / 870</p><p>Çerkezi bıçak: 1 / 18</p><p>Hançer: 1 / 1380</p><p>Kılıç: 1 / 1260</p><p>Piştov püskülü: 30</p><p>Köhne sim bandol saat: 900</p><p>Def‘a kılıç: 1 / 600</p><p>Çuval: 10 / 300</p><p>Sirke: Kıyye 10.5 / 900</p><p>Kömür: Kıyye 300 / 900</p><p>Nakd mevcūd: 3300</p><p>Müteveffā-i mezbūr hayātında ticāret eylediği bakkāl dükkānı derūnunda mevcūd ecnās-ı emtiā-i ma‘lūmesidir ki ber vech-i ātī zikr olunur: </p><p>Tahin helvası: Fī 54 / Kıyye 9.5 / Kıymet 513</p><p>Mudurnu peyniri: Fī 81  / Kıyye 19  / Kıymet 1599</p><p>Pekmez-i safi : Fī 24  / Kıyye 163 / Kıymet 3912</p><p>Revgan-ı zeyt: Fī 60 / Kıyye 87 / Kıymet 5220</p><p>Mum: Fī 90 / Kıyye 4 / Kıymet 360</p><p>Zeytūn: Fī 24 / Kıyye 31 / Kıymet 748</p><p>Soğan: Fī 7.5 / Kıyye 40 / Kıymet 300</p><p>Limon: Aded 110 / Kıymet 120</p><p>Kestane: Kıyye 3 / Kıymet 45</p><p>Razaki üzümü: Fī 36 / Kıyye 6 / Kıymet 216</p><p>Tuz: Fī 15 / Kıyye 10 / Kıymet 150</p><p>Fındık: Fī 24 / Kıyye 4 / Kıymet 96</p><p>Nohud: Fī 24 / Kıyye 8 / Kıymet 168</p><p>Pirinc: Fī 360 /Keyl 7 / Kıymet 2520</p><p>Sabun: Fī 60 / Kıyye 5 / Kıymet 300</p><p>İncir: Fī 24 / Kıyye 7 / Kıymet 168</p><p>Siyāh üzüm: Fī 21 / Kıyye 33 / Kıymet 693</p><p>Temür hurdası: Fī 24 / Kıyye 43 / Kıymet 1032</p><p>Dūhan: Fī 25 / Kıyye 65 / Kıymet 1125</p><p>Ceviz: Fī 120 / Aded 2000 / Kıymet 240</p><p>Çārçūbe kāğıdı tob: 240</p><p>Büber: Dirhem 300 / 240</p><p>Yazı kāğıdı: 60</p><p>Balmumu: 240</p><p>Barut ma kurşun: 180</p><p>Şa‘īr: Fī 120 / Keyl 7.5 / Kıymet 900 </p><p>Kahve şekeri, enfiye, lüle, kahve terāzisi ma derāhim kantar, dūhan kavanozu, hunnap tob, tahta anbar,  sünbül, tahta sandık, mısır ipliği, Def’a iplik, arşın ve hırdavat: 4800</p></div>
         </body>
     </text>
 </TEI>

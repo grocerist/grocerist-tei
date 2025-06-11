@@ -41,7 +41,7 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.400 / 55a-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1770-03-21"/>                    </history>
+                    <history>                        <origin when-iso="1770-02-20"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -55,7 +55,7 @@
             </abstract>
 
             <creation>
-                <date calendar="#gregorian" when="1770-03-21">1770-03-21
+                <date calendar="#gregorian" when="1770-02-20">1770-02-20
                 </date>
                 <date calendar="#islamic" when="1183">1183
                 </date>
@@ -66,7 +66,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.06875 29.04279</geo>
                 </location>
             </place>
             <place xml:id="district__4" type="district">

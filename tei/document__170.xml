@@ -41,7 +41,7 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.02.d.257 / 33</idno>
                     </msIdentifier>
-                    <history>                        <origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1774-12-16"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -55,6 +55,10 @@
             </abstract>
 
             <creation>
+                <date calendar="#gregorian" when="1774-12-16">1774-12-16
+                </date>
+                <date calendar="#islamic" when="1188">1188
+                </date>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -68,7 +72,10 @@
             <place xml:id="district__25" type="district">
                 <placeName>İstanbul Bab</placeName>
             </place>
-            <place xml:id="karye__27" type="karye">
+            <place xml:id="neighbourhood__111" type="neighbourhood">
+                <placeName>Keçeci Piri</placeName>
+            </place>
+            <place xml:id="address__19" type="address">
                 <placeName>Seferli Çeşme</placeName>
             </place>
         </listPlace>
@@ -134,7 +141,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_cbekmz3hi1kn"/>İSTM.ŞSC.02.d.257 / 33 <ref target="http://document__170">GrocerIST id_170</ref></head><p>Sādır olan fermān-ı ālīye imtisālen cānib-i şer‘-iden mürsel Kātib Mustafa Efendi İstanbulda Seferliçeşme karyesinde … mahallesinde vāki’ mukaffel bakkāl dükkānına varub zeyl-i defterde muharrerü’l-esāmi müslimīn huzurlarına akd-i meclis-i şer’ hatir eylediği zikr olunan dükkānın mutasarrıfı Ebubekir nām kimesne meclis-i mukadder-ı mezkūrda takrīr-i kelām idüb dükkān-ı mezkūrda müşāhereten müstecirim olan Yovan nām zımmī yirmi altı aydan beru firar ve gaybet idüb hayātı ve memātı malūm ve dükkān-ı mezkūrda mukaffel kalmağla dükkān-ı mezkūr feth ve derūnunda mevcūd bulunan gāib-i mezbūrun eşyāsı tahrīr ve hali mütebeyyin oluncaya değin li-ecli’l-hıfz yed-i emīne vaz‘ ve dükkān-ı mezkūr tahliye ve bana teslīm olunması matlubumdur dedik de mezbūrun hali mütebeyyin oluncaya değin li-ecli’l-hıfz müslimīn mezkūrun ihbārlarıyla kayyım nasb ve ta’yin eylediği Ebubekir b. Elhac Mehmede  vāz’ ve teslīm olunan eşyā defter budur ki ber vech-i ātī zikr olunur. fil yevm el sani…..  </p><p>Beyaz fasulye: 140</p><p>Sagīr ve kebīr kavanoz:  Aded 40/ 250</p><p>Döğülmüş tuz: Fī 50 / 250</p><p>Ak tuz: Fī 50 / 30</p><p>Kefe tuzu: Keyl 1 / 48</p><p>Hatab çekme: Aded 1 / 150</p><p>Çalı süpürgesi: Aded 27 / 27</p><p>Revgan-ı mum: 12 / 120</p><p>Asel: 25 / 250</p><p>Sicim vesaire: 15</p><p>Revgan-ı zeyt: 40/ 240</p><p>Nişasta: 2 / 56</p><p>Yekun: 2076</p><p>ālāt-ı gedik fuçı: Aded 15</p><p>Mizan  ma takım: Aded 2</p><p>Kalbur: Aded 3</p><p>Kantar:  Aded 1</p><p>Desti:  Aded 2</p><p>Küfe: Aded 3</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_cbekmz3hi1kn"/>İSTM.ŞSC.02.d.257 / 33 <ref target="http://document__170">GrocerIST id_170</ref></head><p>Sādır olan fermān-ı ālīye imtisālen cānib-i şer‘-iden mürsel Kātib Mustafa Efendi İstanbulda Seferliçeşme karyesinde Keçeci Piri mahallesinde vāki’ mukaffel bakkāl dükkānına varub zeyl-i defterde muharrerü’l-esāmi müslimīn huzurlarına akd-i meclis-i şer’ hatir eylediği zikr olunan dükkānın mutasarrıfı Ebubekir nām kimesne meclis-i mukadder-ı mezkūrda takrīr-i kelām idüb dükkān-ı mezkūrda müşāhereten müstecirim olan Yovan nām zımmī yirmi altı aydan beru firar ve gaybet idüb hayātı ve memātı malūm ve dükkān-ı mezkūrda mukaffel kalmağla dükkān-ı mezkūr feth ve derūnunda mevcūd bulunan gāib-i mezbūrun eşyāsı tahrīr ve hali mütebeyyin oluncaya değin li-ecli’l-hıfz yed-i emīne vaz‘ ve dükkān-ı mezkūr tahliye ve bana teslīm olunması matlubumdur dedik de mezbūrun hali mütebeyyin oluncaya değin li-ecli’l-hıfz müslimīn mezkūrun ihbārlarıyla kayyım nasb ve ta’yin eylediği Ebubekir b. Elhac Mehmede  vāz’ ve teslīm olunan eşyā defter budur ki ber vech-i ātī zikr olunur. fil yevm el sani aşer min şevval mükerrem li sene seman ve semanin ve mie ve elf. (  12 şevval 1188)   </p><p>Beyaz fasulye: 140</p><p>Sagīr ve kebīr kavanoz:  Aded 40/ 250</p><p>Döğülmüş tuz: Fī 50 / 250</p><p>Ak tuz: Fī 50 / 30</p><p>Kefe tuzu: Keyl 1 / 48</p><p>Hatab çekme: Aded 1 / 150</p><p>Çalı süpürgesi: Aded 27 / 27</p><p>Revgan-ı mum: 12 / 120</p><p>Asel: Kıyye 25 / Meblağ 250</p><p>Sicim vesaire: 15</p><p>Revgan-ı zeyt: 40/ 240</p><p>Nişasta: 2 / 56</p><p>Yekun: 2076</p><p>ālāt-ı gedik fuçı: Aded 15</p><p>Mizan  ma takım: Aded 2</p><p>Kalbur: Aded 3</p><p>Kantar:  Aded 1</p><p>Desti:  Aded 2</p><p>Küfe: Aded 3</p></div>
         </body>
     </text>
 </TEI>

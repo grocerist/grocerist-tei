@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__100.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d. 205 / 51a-2
+                <title type="main">: İSTM.ŞSC.15.d.205 / 51a-2
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,9 +39,9 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.15.d. 205 / 51a-2</idno>
+                        <idno type="archive">İSTM.ŞSC.15.d.205 / 51a-2</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1760-01-12"/>                    </history>
+                    <history>                        <origin when-iso="1761-12-20"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -50,12 +50,12 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 205 / 51a-2</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d.205 / 51a-2</idno>
                 </ab>
             </abstract>
 
             <creation>
-                <date calendar="#gregorian" when="1760-01-12">1760-01-12
+                <date calendar="#gregorian" when="1761-12-20">1761-12-20
                 </date>
                 <date calendar="#islamic" when="1175">1175
                 </date>
@@ -66,7 +66,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.07725 28.90305</geo>
                 </location>
             </place>
             <place xml:id="district__19" type="district">
@@ -120,7 +120,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head> İSTM.ŞSC.15.d. 205 / 51a-2_<ref target="http://document__100">GrocerIST id_100</ref></head><p>Vilāyet-i Rumilinde Yenişehir Fener kāzasına muzāfe Ağrafa nāhiyesi ahalisinden olub havāss-ı aliyye kāzasına tābi‘ Küçükköy nām karyede mütemekkin iken bundan akdem hālik olan bakkāl Yani veled-i Aleksi veled-i Yani nām hālikin verāseti zevce-i metrūkesi Anice bt. Todori nām nasrāniye ile li-ebeveyn er karındaşları olub mārrü’z-zikr Ağrefe nāhiyesinde mütemekkin İsteryo ve Tanaş nām zımmīlere münhasıra olduğu zāhir ve mukarrer oldukdan sonra gāibān-ı merkūmānın hisse-i ırsiyelerini hıfza ve zabta vasī ve kayyım nasb olunan anası Zoli bt. Yani ile zevce-i merkūme Anice nasrāniye taleb ve ma’rifetleriyle tahrīr ve takvīm olunan tereke-i hālik-i merkūmdur ki vech-i ātī zikr olunur. Fi’l-yevmi’s-sālis ve‘l ışrīn min-Cemaziye’l-evvel li sene hamse ve seb‘in ve mie ve elf. 1175 </p><p>Köhne yelek: 1 /45</p><p>Kuzu kürk: 1 / 90</p><p>Acem gömleği: 1 / 60</p><p>Köhne entari: 15</p><p>Köhne dizlik: 15</p><p>Aba? entari: 1 / 15</p><p>Köhne gömlek: 1 / 90</p><p>Aba? şalvar: 1 / 15</p><p>Peştemal: 1 / 15</p><p>Çift bıçak: 1 / 30</p><p>Kılıflı: 1 / 30</p><p>Kalçın: 1 / 8</p><p>Tuzluk: 1 / 7</p><p>Kuşak ve çorab: 1 / 16</p><p>Saman hınta: 720</p><p>Otluk araba: 360</p><p>Ham sirke ber vech-i tahmīn: Fī 40 / Kıyye 110 / 4400</p><p>Arak: Kıyye 60 / 975</p><p>Fuçı kebīr ve sagīr: 450</p><p>Darı: Fī 60 / Keyl 15 / 900</p><p>Soğan: Fī 6 / Kıyye 66 / 44</p><p>Kutu: 3 / 90</p><p>Caba: 3 / 60</p><p>Dikel: 2 / 60</p><p>Pirinc: Fī 15 / Kıyye 5 / 75</p><p>Bakkāl dükkānı derūnunda ālāt ve temür ve bir mikdār  bardak ve mum ve kıyye hasır  vesāir hırdavat: 500</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head> İSTM.ŞSC.15.d. 205 / 51a-2_<ref target="http://document__100">GrocerIST id_100</ref></head><p>Vilāyet-i Rumilinde Yenişehir Fener kāzasına muzāfe Ağrafa nāhiyesi ahalisinden olub havāss-ı aliyye kāzasına tābi‘ Küçükköy nām karyede mütemekkin iken bundan akdem hālik olan bakkāl Yani veled-i Aleksi veled-i Yani nām hālikin verāseti zevce-i metrūkesi Anice bt. Todori nām nasrāniye ile li-ebeveyn er karındaşları olub mārrü’z-zikr Ağrefe nāhiyesinde mütemekkin İsteryo ve Tanaş nām zımmīlere münhasıra olduğu zāhir ve mukarrer oldukdan sonra gāibān-ı merkūmānın hisse-i ırsiyelerini hıfza ve zabta vasī ve kayyım nasb olunan anası Zoli bt. Yani ile zevce-i merkūme Anice nasrāniye taleb ve ma’rifetleriyle tahrīr ve takvīm olunan tereke-i hālik-i merkūmdur ki vech-i ātī zikr olunur. Fi’l-yevmi’s-sālis ve‘l ışrīn min-Cemaziye’l-evvel li sene hamse ve seb‘in ve mie ve elf. 1175 ( 23 cemziyelevvel 1175) </p><p>Köhne yelek: 1 /45</p><p>Kuzu kürk: 1 / 90</p><p>Acem gömleği: 1 / 60</p><p>Köhne entari: 15</p><p>Köhne dizlik: 15</p><p>Aba? entari: 1 / 15</p><p>Köhne gömlek: 1 / 90</p><p>Aba? şalvar: 1 / 15</p><p>Peştemal: 1 / 15</p><p>Çift bıçak: 1 / 30</p><p>Kılıflı: 1 / 30</p><p>Kalçın: 1 / 8</p><p>Tuzluk: 1 / 7</p><p>Kuşak ve çorab: 1 / 16</p><p>Saman hınta: 720</p><p>Otluk araba: 360</p><p>Ham sirke ber vech-i tahmīn: Fī 40 / Kıyye 110 / 4400</p><p>Arak: Kıyye 60 / 975</p><p>Fuçı kebīr ve sagīr: 450</p><p>Darı: Fī 60 / Keyl 15 / 900</p><p>Soğan: Fī 2/ Kıyye 22 / 44</p><p>Kutu: 3 / 90</p><p>Caba: 3 / 60</p><p>Dikel: 2 / 60</p><p>Pirinc: Fī 15 / Kıyye 5 / 75</p><p>Bakkāl dükkānı derūnunda ālāt ve temür ve bir mikdār  bardak ve mum ve kıyye hasır  vesāir hırdavat: 500</p></div>
         </body>
     </text>
 </TEI>

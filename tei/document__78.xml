@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__78.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 465 / 77a-2
+                <title type="main">: İSTM.ŞSC.06.d.465 / 77a-2
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,9 +39,9 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.06.d. 465 / 77a-2</idno>
+                        <idno type="archive">İSTM.ŞSC.06.d.465 / 77a-2</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1765-04-20"/>                    </history>
+                    <history>                        <origin when-iso="1765-04-21"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -50,12 +50,12 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 465 / 77a-2</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.465 / 77a-2</idno>
                 </ab>
             </abstract>
 
             <creation>
-                <date calendar="#gregorian" when="1765-04-20">1765-04-20
+                <date calendar="#gregorian" when="1765-04-21">1765-04-21
                 </date>
                 <date calendar="#islamic" when="1178">1178
                 </date>
@@ -66,14 +66,14 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.05293 29.05345</geo>
                 </location>
             </place>
             <place xml:id="district__16" type="district">
                 <placeName>Üsküdar</placeName>
             </place>
             <place xml:id="karye__7" type="karye">
-                <placeName>Hünkar</placeName>
+                <placeName>Çengar</placeName>
             </place>
         </listPlace>
         <listPerson>
@@ -188,7 +188,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 465 / 77a-2_<ref target="http://document__78">GrocerIST id_78</ref></head><p>Medīne-i Üsküdara tābi‘ Hünkar karyesinde vāki‘ Mühürdar Ağa nām kimesnenin dükkānında müstecir gediklu bakkāl iken bundan akdem gaybet-i münkatı‘a ile gāib  olub hayāt ve memātı ma’lūm olmamağla hāli mütebeyyin olunca dükkān-ı mezbūrda mevcūd eşyāsını kabz ve hıfza bir kayyım nasb olunmak lābüd olmağın kıbel-i şeri şerifden karye-i mezbūrede hālā subaşı olan Esseyid Mustafa b. Ahmed kayyım nasb olunmak talebiyle mefkūd merkūm Edirneli Anderya nam zımmīnin tahrīr ve tahmīn olunan eşyāsı defteridir ki ber vech-i ātī zikr olunur. Fi 29 Şevval 1178 </p><p>Süpürge: Kıymet 38</p><p>Ihlamur: Kıymet 242</p><p>Dakik ve incir ve üzüm ve fındık ve fısdık: Kıymet 66</p><p>Çömlek ve bardak: Kıymet 440</p><p>Biber ve fısdık: Kıymet 25</p><p><anchor type="commentRangeStart" n="3"/>Hurda ?: Kıymet 45<anchor type="commentRangeEnd" n="3"/><note place="comment" resp="#USER" n="3"><date when="2023-01-06T08:09:00Z"/>girilmedi</note></p><p>Şem-i revgan: Kıymet 36</p><p>Bez ve uçkurluk: Kıymet 44</p><p>Çıra ve soğan: Kıymet 36</p><p>T(d)arı: Keyl: 1.5 / Kıymet 36</p><p>Zenbil: Aded 6 / Kıymet 48</p><p><anchor type="commentRangeStart" n="4"/>…</p><p>.. Kürk: Kıymet 66<anchor type="commentRangeEnd" n="4"/><note place="comment" resp="#USER" n="4"><date when="2023-01-23T11:27:00Z"/>girilmedi</note></p><p>Böğrülce: Kıyye 5 / Kıymet 60</p><p>Nohud: Kıyye 3 / Kıymet 63</p><p>Fasulye: Kıyye 2 / Kıymet 26</p><p>Dövülmüş arpa ve buğday: Kıymet 24</p><p>Bulgur: Kıyye 1.5 / Kıymet 12</p><p>Pirinc: Kıyye 14 / Kıymet 168</p><p>Şa‘īr: Keyl: 2 / Kıymet 18</p><p>Şa‘īr: 2 / 27</p><p>Tuz: Kıyye 2 / Kıymet 40</p><p>Tulum peyniri: Kıyye 10 / Kıymet 150</p><p>Nardenk: Kıymet 30 	</p><p>Revgan-ı sāde: Kıyye 1 / Kıymet 45</p><p>Revgan-ı zeyt: Kıyye 3 / Kıymet 100</p><p>Sirke: Kıyye 125 / Kıymet 437</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 465 / 77a-2_<ref target="http://document__78">GrocerIST id_78</ref></head><p>Medīne-i Üsküdara tābi‘ Çengār karyesinde vāki‘ Mühürdar Ağa nām kimesnenin dükkānında müstecir gediklu bakkāl iken bundan akdem gaybet-i münkatı‘a ile gāib  olub hayāt ve memātı ma’lūm olmamağla hāli mütebeyyin olunca dükkān-ı mezbūrda mevcūd eşyāsını kabz ve hıfza bir kayyım nasb olunmak lābüd olmağın kıbel-i şeri şerifden karye-i mezbūrede hālā subaşı olan Esseyid Mustafa b. Ahmed kayyım nasb olunmak talebiyle mefkūd merkūm Edirneli Anderya nam zımmīnin tahrīr ve tahmīn olunan eşyāsı defteridir ki ber vech-i ātī zikr olunur. Fi 29 Şevval 1178 </p><p>Süpürge: Kıymet 38</p><p>Ihlamur: Kıymet 242</p><p>Dakik ve incir ve üzüm ve fındık ve fısdık: Kıymet 66</p><p>Çömlek ve bardak: Kıymet 440</p><p>Biber ve fısdık: Kıymet 25</p><p><anchor type="commentRangeStart" n="3"/>Hurda ?: Kıymet 45<anchor type="commentRangeEnd" n="3"/><note place="comment" resp="#USER" n="3"><date when="2023-01-06T08:09:00Z"/>girilmedi</note></p><p>Şem-i revgan: Kıymet 36</p><p>Bez ve uçkurluk: Kıymet 44</p><p>Çıra ve soğan: Kıymet 36</p><p>T(d)arı: Keyl: 1.5 / Kıymet 36</p><p>Zenbil: Aded 6 / Kıymet 48</p><p><anchor type="commentRangeStart" n="4"/>…</p><p>.. Kürk: Kıymet 66<anchor type="commentRangeEnd" n="4"/><note place="comment" resp="#USER" n="4"><date when="2023-01-23T11:27:00Z"/>girilmedi</note></p><p>Böğrülce: Kıyye 5 / Kıymet 60</p><p>Nohud: Kıyye 3 / Kıymet 63</p><p>Fasulye: Kıyye 2 / Kıymet 26</p><p>Dövülmüş arpa ve buğday: Kıymet 24</p><p>Bulgur: Kıyye 1.5 / Kıymet 12</p><p>Pirinc: Kıyye 14 / Kıymet 168</p><p>Şa‘īr: Keyl: 2 / Kıymet 18</p><p>Şa‘īr: 2 / 27</p><p>Tuz: Kıyye 2 / Kıymet 40</p><p>Tulum peyniri: Kıyye 10 / Kıymet 150</p><p>Nardenk: Kıymet 30 	</p><p>Revgan-ı sāde: Kıyye 1 / Kıymet 45</p><p>Revgan-ı zeyt: Kıyye 3 / Kıymet 100</p><p>Sirke: Kıyye 125 / Kıymet 437</p></div>
         </body>
     </text>
 </TEI>

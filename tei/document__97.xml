@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__97.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d. 194 / 10b-1
+                <title type="main">: İSTM.ŞSC.15.d.194 / 10b-1
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,9 +39,9 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.15.d. 194 / 10b-1</idno>
+                        <idno type="archive">İSTM.ŞSC.15.d.194 / 10b-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1754-11-26"/>                    </history>
+                    <history>                        <origin when-iso="1754-11-27"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -50,12 +50,12 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 194 / 10b-1</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d.194 / 10b-1</idno>
                 </ab>
             </abstract>
 
             <creation>
-                <date calendar="#gregorian" when="1754-11-26">1754-11-26
+                <date calendar="#gregorian" when="1754-11-27">1754-11-27
                 </date>
                 <date calendar="#islamic" when="1168">1168
                 </date>
@@ -66,7 +66,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.03890 28.93087</geo>
                 </location>
             </place>
             <place xml:id="district__19" type="district">
@@ -207,7 +207,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 194 / 10b-1_<ref target="http://document__97">GrocerIST id_97</ref></head><p>Medīne-i Eyübde Otakçı mahallesinde vāki‘ Mustafa Efendinin mutassarıfı olduğu iki bāb bakkāl dükkānının müsteciri olan bakkāl Yorgi zımmī gaybet ve firār ettiğinden zikr olunan dükkānlar mu‘attal ve kapalu kalub derūnunda mevcūd bakkāl emtiasının telef olmak mukarrer olduğudan mā‘adā mahalle-i mezbūre ahalisi muzāyakası mūcib olduğunu ihbār ve iltimāslarına bināen savb-ı şerden irsāl olunan Mehmed Efendi bakkāl dükkānlarına varub hırfet-i mezkūr ustaları vesāir cemaat-i müslimin hazır oldukları halde iki aded bakkāl dükkānlarında mevcūd emti’a külliyen  tahrīr  ve takvīm ve emīn-i muhtārlarına kayyım nasb olunan Ömer b. Ali nām kimesneye teslīm olunan zehāir defteridir ki ber vech-i ātī zikr olunur. Fi’l-yevmi’l-āşir min-şehri  Saferi’l-hayr. 1168</p><p>Kefe tuzu: Kıyye 8 / Meblağ 18</p><p>Böğrülce: Kıyye 12 / Meblağ 10</p><p>Nohud: Kıymet 25</p><p>Bulgur ve buğday: Kıyye 3 / Meblağ 18</p><p>Pirinc: Keyl 2/ Meblağ 24</p><p>Eflak tuzu: Kıyye 4 / Meblağ 30</p><p>Nişasta: Kıyye 3 / Meblağ 30</p><p>Un: Kıyye 1 / Meblağ 6</p><p>Ceviz: Aded 1000 / Meblağ 60</p><p>Fındık: Kıyye 2 / 20</p><p>Sarımsak: Kıyye 1 / Meblağ 12</p><p>T(D)arı: 21</p><p>Soğan: Kıyye 2 / Meblağ 6</p><p>Su bardağı: Aded 37 / </p><p>Sagīr desti: 29 / 87</p><p>Büyük desti: 15 / 120</p><p>Sagīr beyaz ibrik: 15 / 10</p><p>Yağ bardağı: 20</p><p>Arpa: Keyl 4 / 180</p><p>Nardenk: 5 / 350</p><p>Sāde yağ: 1 / 40</p><p>Tuzlu balık: 5 / 25</p><p>Potna…: 30</p><p>Sirke: 100 / 300</p><p>Bakkāl odunu: 4 / 600</p><p>Temür hırdavat: 10</p><p>Basdırma: 1 / 10</p><p>Minder: 1 / 20</p><p>Kebe: 1 / 10</p><p>Kaba hasır: 10</p><p>Def‘a karşısında olan bakkāl dükkānı eşyāsıdır ki ber vech-i ātī zikr olunur:</p><p>Yeşil tarak güğüm: 36 / 180</p><p>Yeşil bardak: 20 / 40</p><p>Yeşil şamdan: 3 / 25</p><p>...: 2 / 20</p><p>Beyaz bardak: 9 / 9</p><p>Beyaz bardak: 9</p><p>Gübre: 25 / 12</p><p>Kahve kutusu: 1 / 10</p><p>Keyl: 10</p><p>Lüle: 15 / 6</p><p>Bir mikdār  sicim: 60</p><p>Nardenk: 15 / 9</p><p>Bekmez: 6</p><p>Köhne kebe: 2 / 60</p><p>Acem gömleği: 20</p><p>Vech-i muharrer üzere iki aded küşād ve tahliye olunan bakkāl dükkānlarında mevcūd tahrīr ve takvīm olunduğu üzere iki bin sekiz yüz yetmiş dokuz akçeye emīn-i mezbūra teslim olunduğu şerh verildi. </p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 194 / 10b-1_<ref target="http://document__97">GrocerIST id_97</ref></head><p>Medīne-i Eyübde Otakçı mahallesinde vāki‘ Mustafa Efendinin mutassarıfı olduğu iki bāb bakkāl dükkānının müsteciri olan bakkāl Yorgi zımmī gaybet ve firār ettiğinden zikr olunan dükkānlar mu‘attal ve kapalu kalub derūnunda mevcūd bakkāl emtiasının telef olmak mukarrer olduğudan mā‘adā mahalle-i mezbūre ahalisi muzāyakası mūcib olduğunu ihbār ve iltimāslarına bināen savb-ı şerden irsāl olunan Mehmed Efendi bakkāl dükkānlarına varub hırfet-i mezkūr ustaları vesāir cemaat-i müslimin hazır oldukları halde iki aded bakkāl dükkānlarında mevcūd emti’a külliyen  tahrīr  ve takvīm ve emīn-i muhtārlarına kayyım nasb olunan Ömer b. Ali nām kimesneye teslīm olunan zehāir defteridir ki ber vech-i ātī zikr olunur. Fi’l-yevmi’l-āşir min-şehri  Saferi’l-hayr. 1168 (10 safer 1168)</p><p>Kefe tuzu: Kıyye 8 / Meblağ 18</p><p>Böğrülce: Kıyye 12 / Meblağ 10</p><p>Nohud: Kıymet 25</p><p>Bulgur ve buğday: Kıyye 3 / Meblağ 18</p><p>Pirinc: Kıyye 2/ Meblağ 24</p><p>Eflak tuzu: Kıyye 4 / Meblağ 30</p><p>Nişasta: Kıyye 3 / Meblağ 30</p><p>Un: Kıyye 1 / Meblağ 6</p><p>Ceviz: Aded 1000 / Meblağ 60</p><p>Fındık: Kıyye 2 / 20</p><p>Sarımsak: Kıyye 1 / Meblağ 12</p><p>T(D)arı: 21</p><p>Soğan: Kıyye 2 / Meblağ 6</p><p>Su bardağı: Aded 37 / </p><p>Sagīr desti: 29 / 87</p><p>Büyük desti: 15 / 120</p><p>Sagīr beyaz ibrik: 15 / 10</p><p>Yağ bardağı: 20</p><p>Arpa: Keyl 4 / 180</p><p>Nardenk: 5 / 350</p><p>Sāde yağ: 1 / 40</p><p>Tuzlu balık: 5 / 25</p><p>Potna…: 30</p><p>Sirke: 100 / 300</p><p>Bakkāl odunu: 4 / 600</p><p>Temür hırdavat: 10</p><p>Basdırma: 1 / 10</p><p>Minder: 1 / 20</p><p>Kebe: 1 / 10</p><p>Kaba hasır: 10</p><p>Def‘a karşısında olan bakkāl dükkānı eşyāsıdır ki ber vech-i ātī zikr olunur:</p><p>Yeşil tarak güğüm: 36 / 180</p><p>Yeşil bardak: 20 / 40</p><p>Yeşil şamdan: 3 / 25</p><p>...: 2 / 20</p><p>Beyaz bardak: 9 / 9</p><p>Beyaz bardak: 9</p><p>Gübre: 25 / 12</p><p>Kahve kutusu: 1 / 10</p><p>Keyl: 10</p><p>Lüle: 15 / 6</p><p>Bir mikdār  sicim: 60</p><p>Nardenk: 15 / 9</p><p>Bekmez: 6</p><p>Köhne kebe: 2 / 60</p><p>Acem gömleği: 20</p><p>Vech-i muharrer üzere iki aded küşād ve tahliye olunan bakkāl dükkānlarında mevcūd tahrīr ve takvīm olunduğu üzere iki bin sekiz yüz yetmiş dokuz akçeye emīn-i mezbūra teslim olunduğu şerh verildi. </p></div>
         </body>
     </text>
 </TEI>

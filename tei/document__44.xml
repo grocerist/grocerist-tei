@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__44.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d. 433 / 21a-3
+                <title type="main">: İSTM.ŞSC.14.d.433 / 21a-3
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,9 +39,9 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.14.d. 433 / 21a-3</idno>
+                        <idno type="archive">İSTM.ŞSC.14.d.433 / 21a-3</idno>
                     </msIdentifier>
-                    <history>                        <origin notBefore="1700" notAfter="1900"/>                     </history>
+                    <history>                        <origin when-iso="1776-11-07"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -50,11 +50,13 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d. 433 / 21a-3</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.433 / 21a-3</idno>
                 </ab>
             </abstract>
 
             <creation>
+                <date calendar="#gregorian" when="1776-11-07">1776-11-07
+                </date>
                 <date calendar="#islamic" when="1190">1190
                 </date>
             </creation>
@@ -64,14 +66,14 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">41.12070 29.06818</geo>
+                    <geo decls="#dd">41.12072 29.06820</geo>
                 </location>
             </place>
             <place xml:id="district__4" type="district">
                 <placeName>Galata</placeName>
             </place>
             <place xml:id="neighbourhood__33" type="neighbourhood">
-                <placeName> Aya Nikoli</placeName>
+                <placeName>Aya Nikoli</placeName>
             </place>
             <place xml:id="nahiye__1" type="nahiye">
                 <placeName>İstinye</placeName>
@@ -108,7 +110,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_lj3fapnlw6n8"/>İSTM.ŞSC.14.d. 433 / 21a-3_<ref target="http://document__44">GrocerIST id_44</ref></head><p>Mahrūse-i Galataya muzāfe İstinye nāhiyesine tābi‘ Yeniköyde Ayanikola mahallesinde mütemekkin iken bundan akdem hālik olan bakkāl Tanaş veled-i Hristonun verāseti zevcesi Dodosiye bt. Yorgi ve sulbiye sagīre kızı ... ve zevce-i mesfūrenin batnında mütebeyyin hamle münhasıra olduğu şer’an zāhir oldukdan sonra sagīre-i mesfūrenin tesviye-i umuruna ve haml-i mezkūrun hisse-i mevkūfesini zabt ve hıfza kıbel-i şerden vasi ve kayyım nasb olunan zevce-i mesfūre Dodosiyenin taleb ve iltimāsıyla tahrīr olunan tereke-i hālik mesfūrdur ki ber vech-i ātī zikr olunur. 25 ... 1190</p><p>Çuka biniş: 1200</p><p>Çuka şalvar: 600</p><p>Çuka nīmten: 300</p><p>Çuka cübbe kürk: 1800</p><p>Çuka cübbe: 200</p><p>Köhne entari: 120</p><p>Köhne dizlik: 60</p><p>… kebesi: 480</p><p>Alaca beylik ve kebe ve kuşak: 120</p><p>Köhne dizlik: 60</p><p>Yorgan ve Yanbolu kebesi: 240</p><p>Hālik mesfūrun zevcesi zimmetinde: 1200</p><p>Hālik mesfūrun karye-i mezkūrede mahkeme karşısında vāki‘ bakkāl dükkānı derūnunda mevcūd sermāyesi: 11910</p><p>Mahalle-i mezkūrede vāki‘ lede’l-ahālī ve’l-cīrān ma‘lūmü’l-hudūd ve müştemilat bir bab mülk menzilde hālik mesfūrun nısf-ı hisse-i şāyi’ası ber vech-i tahmīn: 24000 </p><p>Hālik mesfūrun dükkān derūnunda vāki‘ gedik ta’bīr olunur bakkāl ālātı ber vech-i tahmīn: 24000</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_lj3fapnlw6n8"/>İSTM.ŞSC.14.d. 433 / 21a-3_<ref target="http://document__44">GrocerIST id_44</ref></head><p>Mahrūse-i Galataya muzāfe İstinye nāhiyesine tābi‘ Yeniköyde Ayanikola mahallesinde mütemekkin iken bundan akdem hālik olan bakkāl Tanaş veled-i Hristonun verāseti zevcesi Dodosiye bt. Yorgi ve sulbiye sagīre kızı ... ve zevce-i mesfūrenin batnında mütebeyyin hamle münhasıra olduğu şer’an zāhir oldukdan sonra sagīre-i mesfūrenin tesviye-i umuruna ve haml-i mezkūrun hisse-i mevkūfesini zabt ve hıfza kıbel-i şerden vasi ve kayyım nasb olunan zevce-i mesfūre Dodosiyenin taleb ve iltimāsıyla tahrīr olunan tereke-i hālik mesfūrdur ki ber vech-i ātī zikr olunur. 25 ramazan 1190</p><p>Çuka biniş: 1200</p><p>Çuka şalvar: 600</p><p>Çuka nīmten: 300</p><p>Çuka cübbe kürk: 1800</p><p>Çuka cübbe: 200</p><p>Köhne entari: 120</p><p>Köhne dizlik: 60</p><p>… kebesi: 480</p><p>Alaca beylik ve kebe ve kuşak: 120</p><p>Köhne dizlik: 60</p><p>Yorgan ve Yanbolu kebesi: 240</p><p>Hālik mesfūrun zevcesi zimmetinde: 1200</p><p>Hālik mesfūrun karye-i mezkūrede mahkeme karşısında vāki‘ bakkāl dükkānı derūnunda mevcūd sermāyesi: 11910</p><p>Mahalle-i mezkūrede vāki‘ lede’l-ahālī ve’l-cīrān ma‘lūmü’l-hudūd ve müştemilat bir bab mülk menzilde hālik mesfūrun nısf-ı hisse-i şāyi’ası ber vech-i tahmīn: 24000 </p><p>Hālik mesfūrun dükkān derūnunda vāki‘ gedik ta’bīr olunur bakkāl ālātı ber vech-i tahmīn: 24000</p></div>
         </body>
     </text>
 </TEI>

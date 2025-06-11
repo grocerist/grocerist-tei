@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__94.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d. 170 / 111b-3
+                <title type="main">: İSTM.ŞSC.15.d.170 / 111b-3
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,9 +39,9 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.15.d. 170 / 111b-3</idno>
+                        <idno type="archive">İSTM.ŞSC.15.d.170 / 111b-3</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1743-04-03"/>                    </history>
+                    <history>                        <origin when-iso="1743-04-13"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -50,12 +50,12 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d. 170 / 111b-3</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d.170 / 111b-3</idno>
                 </ab>
             </abstract>
 
             <creation>
-                <date calendar="#gregorian" when="1743-04-03">1743-04-03
+                <date calendar="#gregorian" when="1743-04-13">1743-04-13
                 </date>
                 <date calendar="#islamic" when="1156">1156
                 </date>
@@ -66,7 +66,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">40.95861 28.83892</geo>
                 </location>
             </place>
             <place xml:id="district__19" type="district">

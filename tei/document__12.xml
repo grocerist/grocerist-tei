@@ -41,7 +41,7 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.237 / 16a-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1716-10-02"/>                    </history>
+                    <history>                        <origin when-iso="1716-09-27"/>                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -55,7 +55,7 @@
             </abstract>
 
             <creation>
-                <date calendar="#gregorian" when="1716-10-02">1716-10-02
+                <date calendar="#gregorian" when="1716-09-27">1716-09-27
                 </date>
                 <date calendar="#islamic" when="1128">1128
                 </date>

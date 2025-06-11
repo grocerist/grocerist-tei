@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__84.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 501 / 22b-3
+                <title type="main">: İSTM.ŞSC.06.d.501 / 22b-3
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,7 +39,7 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.06.d. 501 / 22b-3</idno>
+                        <idno type="archive">İSTM.ŞSC.06.d.501 / 22b-3</idno>
                     </msIdentifier>
                     <history>                        <origin when-iso="1778-08-14"/>                    </history>
                 </msDesc>
@@ -50,7 +50,7 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 501 / 22b-3</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.501 / 22b-3</idno>
                 </ab>
             </abstract>
 
@@ -66,14 +66,14 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.05293 29.05345</geo>
                 </location>
             </place>
             <place xml:id="district__16" type="district">
                 <placeName>Üsküdar</placeName>
             </place>
             <place xml:id="karye__7" type="karye">
-                <placeName>Hünkar</placeName>
+                <placeName>Çengar</placeName>
             </place>
         </listPlace>
         <listPerson>
@@ -167,7 +167,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 501 / 22b-3_<ref target="http://document__84">GrocerIST id_84</ref></head><p>Medīne-i Üsküdara tābi‘ Hünkār karyesinde vāki‘ Panço veled-i Dimitri dükkānında bakkāl olan Panko nām zımmī gaybet-i münkatı‘a  ile gāib ve hayāt ve memātı malūm olmayub mefkūd olmağla mefkūd merkūmun emvāl ve eşyāsını hıfza kıbel-i şer‘den vasī kayyım nasb olunan merkūm Panço zımmīnin taleb ve iltimāsıyla bakkāl ustaları ma‘rifetiyle  tahrīr  olunan eşyāsı defteridir ki ber vech-i ātī zikr olunur. Fī 20 Recebi’l-ferd 1192 </p><p>Pirinc: Kıyye 19 / Kıymet 428</p><p>Nohud: Kıyye 7 / Kıymet 70</p><p>Bulgur: Kıyye 3.5 / Kıymet 63</p><p>Sarımsak: Kıyye 3 / Kıymet 36</p><p>Siyāh üzüm: Kıyye 4 / Kıymet 64 </p><p>Soğan: Kıyye 12 / Kıymet 48</p><p>Razaki üzüm: Kıyye 2 / Kıymet 48</p><p>Fındık: Kıyye 2.5 / Kıymet 40</p><p>Ceviz: Aded 300 / Kıymet 30</p><p>Kestane: Kıyye 67 / Kıymet 24 </p><p>Dövülmüş tuz: Kıyye 35 / Kıymet 140 </p><p>Nardenk: Kıyye 17 / Kıymet 204</p><p>Pekmez: Kıyye 30 / Kıymet 480</p><p>Sirke: Kıyye 20 / Kıymet 100</p><p>Zeyt yağı: Kıyye 13.5 / Kıymet 607</p><p>Süpürge ve çanak ve hırdavat: Kıymet 1194</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 501 / 22b-3_<ref target="http://document__84">GrocerIST id_84</ref></head><p>Medīne-i Üsküdara tābi‘ Çengār karyesinde vāki‘ Panço veled-i Dimitri dükkānında bakkāl olan Panko nām zımmī gaybet-i münkatı‘a  ile gāib ve hayāt ve memātı malūm olmayub mefkūd olmağla mefkūd merkūmun emvāl ve eşyāsını hıfza kıbel-i şer‘den vasī kayyım nasb olunan merkūm Panço zımmīnin taleb ve iltimāsıyla bakkāl ustaları ma‘rifetiyle  tahrīr  olunan eşyāsı defteridir ki ber vech-i ātī zikr olunur. Fī 20 Recebi’l-ferd 1192 </p><p>Pirinc: Kıyye 19 / Kıymet 428</p><p>Nohud: Kıyye 7 / Kıymet 70</p><p>Bulgur: Kıyye 3.5 / Kıymet 63</p><p>Sarımsak: Kıyye 3 / Kıymet 36</p><p>Siyāh üzüm: Kıyye 4 / Kıymet 64 </p><p>Soğan: Kıyye 12 / Kıymet 48</p><p>Razaki üzüm: Kıyye 2 / Kıymet 48</p><p>Fındık: Kıyye 2.5 / Kıymet 40</p><p>Ceviz: Aded 300 / Kıymet 30</p><p>Kestane: Kıyye 67 / Kıymet 24 </p><p>Dövülmüş tuz: Kıyye 35 / Kıymet 140 </p><p>Nardenk: Kıyye 17 / Kıymet 204</p><p>Pekmez: Kıyye 30 / Kıymet 480</p><p>Sirke: Kıyye 20 / Kıymet 100</p><p>Zeyt yağı: Kıyye 13.5 / Kıymet 607</p><p>Süpürge ve çanak ve hırdavat: Kıymet 1194</p></div>
         </body>
     </text>
 </TEI>

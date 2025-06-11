@@ -3,7 +3,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__77.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d. 456 / 82b-3
+                <title type="main">: İSTM.ŞSC.06.d.456 / 82b-3
                 </title>
                 <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
@@ -39,7 +39,7 @@
                     <msIdentifier>
                         <institution>Name of the Archive</institution>
                         <repository>Name of the Repository</repository>
-                        <idno type="archive">İSTM.ŞSC.06.d. 456 / 82b-3</idno>
+                        <idno type="archive">İSTM.ŞSC.06.d.456 / 82b-3</idno>
                     </msIdentifier>
                     <history>                        <origin when-iso="1761-09-25"/>                    </history>
                 </msDesc>
@@ -50,7 +50,7 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d. 456 / 82b-3</idno>
+                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.456 / 82b-3</idno>
                 </ab>
             </abstract>
 
@@ -66,7 +66,7 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.00992 29.03864</geo>
                 </location>
             </place>
             <place xml:id="district__16" type="district">
@@ -245,7 +245,7 @@
     <text>
 
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 456 / 82b-3_<ref target="http://document__77">GrocerIST id_77</ref></head><p>Medīne-i Üsküdarda Süleyman Ağa mahallesi sūkkānından Köprübaşı nām mahallede bakkāl iken bundan gaybet-i münkatı‘a ile gāib olub hayāt ve memātı malūm olmayan Yorgi veled-i Andon nām zımmīnin müstecir olduğu dükkān-ı merkūmda olan eşyāsını ahz u hıfz cümle ustaların ma‘rifetiyle  vasī ve kayyım nasb ve ta‘yīn olunan yine taīfe-i mezbūrdan  Anayos veled-i [] nām zımmīye ma‘rifet-i şer‘ ve ustalar ma‘rifetiyle teslīm olunan gāib-i mezbūrun dükkān-ı merkūmda olan eşyāsıdır ki ber vech-i ātī zikr olunur. Fi 25 Saferi’l-hayr 1175</p><p>Nişasta: Fī 16 / Kıyye 52.5 / Meblağ 832</p><p>Zeytūn: Fī 10 / Kıyye 21.5 / Meblağ 215</p><p>Şa‘riye: Fī 16 / Kıyye 10 / Meblağ 160</p><p>Fısdık: Fī 18 / Kıyye 18.5 / Kıymet 333</p><p>Tulum peyniri: Fī 21 / Kıyye 23.5 / Meblağ 493</p><p>Kaşkaval peyniri: Fī 18 / Kıyye 4.5 / Meblağ 81</p><p>Böğrülce: Fī 9 / Kıyye 25 / Meblağ 225</p><p>Kaba tuz: Fī 3 / Kıyye 22 / Meblağ 66</p><p>Dövülmüş tuz: Fī 4 / Kıyye 6 / Meblağ 24</p><p>Trablus sabunu: Fī 32 / Kıyye 21.5 / Meblağ 696</p><p>Pekmez: Fī 10 / Kıyye 48 / Meblağ 480</p><p>Asel: Fī 25 / Kıyye 92 / Meblağ 2300</p><p>Revgan-ı sāde: Fī 50 / Kıyye 20 / Meblağ 1000</p><p>Pirinc: Fī [] / Kıyye 543/ Meblağ 8145</p><p>Def‘a revgan-ı sāde: Fī 58 / Kıyye 45.5 / Meblağ 2639</p><p>Havyar: Kıyye 1 / Meblağ 60</p><p>Şem-i revgan: Fī 38 / Kıyye 6 / Meblağ 228</p><p>Mercimek: Fī 6 / Kıyye 6 / Meblağ 36</p><p>Nardenk: Fī 12 / Kıyye 5 / Meblağ 60</p><p>Revgan-ı zeyt: Fī 32 / Kıyye 152 / Meblağ 4864</p><p>Nohud: Fī 9 / Kıyye 8 / Meblağ 72</p><p>Biber turşusu: Meblağ 30</p><p>Bakla Mercimek Böğrülce Nohud: Meblağ 153</p><p>Yumurta: 54</p><p>Çuval: 3 / 90</p><p>Mersin balığı: 30</p><p>Kavanoz: 600</p><p>Kefe tuzu: 24</p><p>Bir mikdār asel: 36</p><p>Dövülmüş arpa buğday: 54</p><p>Kāğıd: 24</p><p>Badem ve Fıstık: 60</p><p>Limon: 12</p><p><anchor type="commentRangeStart" n="1"/>?<anchor type="commentRangeEnd" n="1"/><note place="comment" resp="#USER" n="1"><date when="2023-01-06T08:04:00Z"/>girilmedi</note></p><p>Turb: 36</p><p>Şa‘riye: 54</p><p>Sirke: Fi 3 / Kıyye 700 / Kıymet 2100</p><p><anchor type="commentRangeStart" n="2"/>?<anchor type="commentRangeEnd" n="2"/><note place="comment" resp="#USER" n="2"><date when="2023-01-23T11:14:00Z"/>girilmedi</note></p><p>Hatab: 450</p><p>Kaba tuz: Fi 3 / Kıyye 200 / Kıymet 600</p><p>Turşu yaprağı: 1200</p><p>Nakit: 1080</p><p>Zımmem ber mūceb-i defter alacak: 3727</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 456 / 82b-3_<ref target="http://document__77">GrocerIST id_77</ref></head><p>Medīne-i Üsküdarda Süleyman Ağa mahallesi sūkkānından Köprübaşı nām mahallede bakkāl iken bundan gaybet-i münkatı‘a ile gāib olub hayāt ve memātı malūm olmayan Yorgi veled-i Andon nām zımmīnin müstecir olduğu dükkān-ı merkūmda olan eşyāsını ahz u hıfz cümle ustaların ma‘rifetiyle  vasī ve kayyım nasb ve ta‘yīn olunan yine taīfe-i mezbūrdan  Anayos veled-i [] nām zımmīye ma‘rifet-i şer‘ ve ustalar ma‘rifetiyle teslīm olunan gāib-i mezbūrun dükkān-ı merkūmda olan eşyāsıdır ki ber vech-i ātī zikr olunur. Fi 25 Saferi’l-hayr 1175</p><p>Nişasta: Fī 16 / Kıyye 52.5 / Meblağ 832</p><p>Zeytūn: Fī 10 / Kıyye 21.5 / Meblağ 215</p><p>Şa‘riye: Fī 16 / Kıyye 10 / Meblağ 160</p><p>Fısdık: Fī 18 / Kıyye 18.5 / Kıymet 333</p><p>Tulum peyniri: Fī 21 / Kıyye 23.5 / Meblağ 493</p><p>Kaşkaval peyniri: Fī 18 / Kıyye 4.5 / Meblağ 81</p><p>Böğrülce: Fī 9 / Kıyye 25 / Meblağ 225</p><p>Kaba tuz: Fī 3 / Kıyye 22 / Meblağ 66</p><p>Dövülmüş tuz: Fī 4 / Kıyye 6 / Meblağ 24</p><p>Trablus sabunu: Fī 32 / Kıyye 21.5 / Meblağ 696</p><p>Pekmez: Fī 10 / Kıyye 48 / Meblağ 480</p><p>Asel: Fī 25 / Kıyye 92 / Meblağ 2300</p><p>Revgan-ı sāde: Fī 50 / Kıyye 20 / Meblağ 1000</p><p>Pirinc: Fī [15] / Kıyye 543/ Meblağ 8145</p><p>Def‘a revgan-ı sāde: Fī 58 / Kıyye 45.5 / Meblağ 2639</p><p>Havyar: Kıyye 1 / Meblağ 60</p><p>Şem-i revgan: Fī 38 / Kıyye 6 / Meblağ 228</p><p>Mercimek: Fī 6 / Kıyye 6 / Meblağ 36</p><p>Nardenk: Fī 12 / Kıyye 5 / Meblağ 60</p><p>Revgan-ı zeyt: Fī 32 / Kıyye 152 / Meblağ 4864</p><p>Nohud: Fī 9 / Kıyye 8 / Meblağ 72</p><p>Biber turşusu: Meblağ 30</p><p>Bakla Mercimek Böğrülce Nohud: Meblağ 153</p><p>Yumurta: 54</p><p>Çuval: 3 / 90</p><p>Mersin balığı: 30</p><p>Kavanoz: 600</p><p>Kefe tuzu: 24</p><p>Bir mikdār asel: 36</p><p>Dövülmüş arpa buğday: 54</p><p>Kāğıd: 24</p><p>Badem ve Fıstık: 60</p><p>Limon: 12</p><p><anchor type="commentRangeStart" n="1"/>?<anchor type="commentRangeEnd" n="1"/><note place="comment" resp="#USER" n="1"><date when="2023-01-06T08:04:00Z"/>girilmedi</note></p><p>Turb: 36</p><p>Şa‘riye: 54</p><p>Sirke: Fi 3 / Kıyye 700 / Kıymet 2100</p><p><anchor type="commentRangeStart" n="2"/>?<anchor type="commentRangeEnd" n="2"/><note place="comment" resp="#USER" n="2"><date when="2023-01-23T11:14:00Z"/>girilmedi</note></p><p>Hatab: 450</p><p>Kaba tuz: Fi 3 / Kıyye 200 / Kıymet 600</p><p>Turşu yaprağı: 1200</p><p>Nakit: 1080</p><p>Zımmem ber mūceb-i defter alacak: 3727</p></div>
         </body>
     </text>
 </TEI>

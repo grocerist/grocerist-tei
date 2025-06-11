@@ -66,14 +66,14 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.02547 28.97501</geo>
                 </location>
             </place>
             <place xml:id="district__4" type="district">
                 <placeName>Galata</placeName>
             </place>
             <place xml:id="neighbourhood__9" type="neighbourhood">
-                <placeName>Hasan Ağa </placeName>
+                <placeName>Hasan Ağa</placeName>
             </place>
         </listPlace>
         <listPerson>
