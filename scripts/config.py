@@ -4,7 +4,6 @@ CONVERSION_DOMAIN = "https://teigarage.tei-c.org/"
 TMP_DIR = os.path.join(".", "tmp")
 SOURCE_DOC_GIDS = [
     "1Dl4IPqu6OQnf1AwI03rNsx2DJDtaA2NB",
-    "1bI8s536JXNbqIGi9v7n84Ed-4czcr9yw",
 ]
 SOURCE_DOCX_FILENAMES = [f"source_{i}.docx" for i in range(len(SOURCE_DOC_GIDS))]
 SOURCE_DOCX_URLS = [f"https://drive.google.com/uc?id={gid}" for gid in SOURCE_DOC_GIDS]
