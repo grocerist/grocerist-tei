@@ -66,11 +66,14 @@
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">None None</geo>
+                    <geo decls="#dd">41.01806 28.96718</geo>
                 </location>
             </place>
             <place xml:id="district__26" type="district">
                 <placeName>İstanbul</placeName>
+            </place>
+            <place xml:id="neighbourhood__128" type="neighbourhood">
+                <placeName>Kantarcılar</placeName>
             </place>
         </listPlace>
         <listPerson>
