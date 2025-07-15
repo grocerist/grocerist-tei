@@ -77,7 +77,7 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__94">
+<person role="main_person" xml:id="person__280">
                 <persName>Yani v. Yorgi</persName>
                 <state type="status"><label>lost</label></state>
                 <faith>Non muslim</faith>
@@ -85,7 +85,7 @@
             </person>
         </listPerson>
 <listRelation>
-            <relation type="ownership" name="tenant" active="#person__94">
+            <relation type="ownership" name="tenant" active="#person__280">
             </relation>
         </listRelation>
         <list type="inventory">
