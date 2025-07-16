@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__170.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.02.d.257 / 33
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.02.d.257 / 33</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.02.d.257 / 33</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1774-12-16"/>                    </history>
+                    <history>
+                        <origin when-iso="1774-12-16"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.02.d.257 / 33</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1774-12-16">1774-12-16
-                </date>
-                <date calendar="#islamic" when="1188">1188
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -80,17 +90,17 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__144">
+            <person role="main_person" xml:id="person__144">
                 <persName>Yovan</persName>
                 <state type="status"><label>lost</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
             </person>
             <person role="mentioned">
-                <persName>Kayyım</persName>
+                <p>Kayyım</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="tenant" active="#person__144">
             </relation>
         </listRelation>
@@ -141,9 +151,84 @@
                 <name xml:lang="en">Jar</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__955">
+                <measureGrp>
+                    <measure type="value" quantity="25.0" unit="kıyye" commodity="Bal / Asel">250.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1923">
+                <measureGrp>
+                    <measure type="value" commodity="Beyaz fasulye">140.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1924">
+                <measureGrp>
+                    <measure type="value" commodity="Döğülmüş tuz">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1925">
+                <measureGrp>
+                    <measure type="value" commodity="Ak tuz">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1926">
+                <measureGrp>
+                    <measure type="value" quantity="1.0" unit="keyl" commodity="Kefe tuzu">48.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1927">
+                <measureGrp>
+                    <measure type="value" quantity="1.0" unit="çekme" commodity="Hatab">150.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1928">
+                <measureGrp>
+                    <measure type="value" quantity="27.0" unit="adet" commodity="Çalı süpürgesi">27.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1929">
+                <measureGrp>
+                    <measure type="value" quantity="12.0" commodity="Mum yağı">120.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1930">
+                <measureGrp>
+                    <measure type="value" quantity="25.0" unit="kıyye" commodity="Bal / Asel">250.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1931">
+                <measureGrp>
+                    <measure type="value" quantity="40.0" commodity="Revgan-ı zeyt">240.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1932">
+                <measureGrp>
+                    <measure type="value" quantity="2.0" commodity="Nişasta">56.0</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__4">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__5">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__14">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__58">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__106">
+                <name xml:lang="tr"/>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_cbekmz3hi1kn"/>İSTM.ŞSC.02.d.257 / 33 <ref target="http://document__170">GrocerIST id_170</ref></head><p>Sādır olan fermān-ı ālīye imtisālen cānib-i şer‘-iden mürsel Kātib Mustafa Efendi İstanbulda Seferliçeşme karyesinde Keçeci Piri mahallesinde vāki’ mukaffel bakkāl dükkānına varub zeyl-i defterde muharrerü’l-esāmi müslimīn huzurlarına akd-i meclis-i şer’ hatir eylediği zikr olunan dükkānın mutasarrıfı Ebubekir nām kimesne meclis-i mukadder-ı mezkūrda takrīr-i kelām idüb dükkān-ı mezkūrda müşāhereten müstecirim olan Yovan nām zımmī yirmi altı aydan beru firar ve gaybet idüb hayātı ve memātı malūm ve dükkān-ı mezkūrda mukaffel kalmağla dükkān-ı mezkūr feth ve derūnunda mevcūd bulunan gāib-i mezbūrun eşyāsı tahrīr ve hali mütebeyyin oluncaya değin li-ecli’l-hıfz yed-i emīne vaz‘ ve dükkān-ı mezkūr tahliye ve bana teslīm olunması matlubumdur dedik de mezbūrun hali mütebeyyin oluncaya değin li-ecli’l-hıfz müslimīn mezkūrun ihbārlarıyla kayyım nasb ve ta’yin eylediği Ebubekir b. Elhac Mehmede  vāz’ ve teslīm olunan eşyā defter budur ki ber vech-i ātī zikr olunur. fil yevm el sani aşer min şevval mükerrem li sene seman ve semanin ve mie ve elf. (  12 şevval 1188)   </p><p>Beyaz fasulye: 140</p><p>Sagīr ve kebīr kavanoz:  Aded 40/ 250</p><p>Döğülmüş tuz: Fī 50 / 250</p><p>Ak tuz: Fī 50 / 30</p><p>Kefe tuzu: Keyl 1 / 48</p><p>Hatab çekme: Aded 1 / 150</p><p>Çalı süpürgesi: Aded 27 / 27</p><p>Revgan-ı mum: 12 / 120</p><p>Asel: Kıyye 25 / Meblağ 250</p><p>Sicim vesaire: 15</p><p>Revgan-ı zeyt: 40/ 240</p><p>Nişasta: 2 / 56</p><p>Yekun: 2076</p><p>ālāt-ı gedik fuçı: Aded 15</p><p>Mizan  ma takım: Aded 2</p><p>Kalbur: Aded 3</p><p>Kantar:  Aded 1</p><p>Desti:  Aded 2</p><p>Küfe: Aded 3</p></div>
         </body>

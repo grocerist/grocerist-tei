@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__136.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d.173 / 71a-2,72 (b)
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.15.d.173 / 71a-2,72 (b)</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.15.d.173 / 71a-2,72 (b)</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1744-08-20"/>                    </history>
+                    <history>
+                        <origin when-iso="1744-08-20"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d.173 / 71a-2,72 (b)</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1744-08-20">1744-08-20
-                </date>
-                <date calendar="#islamic" when="1157">1157
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,20 +87,31 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__99">
+            <person role="main_person" xml:id="person__99">
                 <persName>Yorgi v. Franko</persName>
                 <state type="status"><label>lost</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="tenant" active="#person__99">
             </relation>
         </listRelation>
+        <list type="prices">
+            <item xml:id="price__1025">
+                <measureGrp>
+                    <measure type="value" quantity="15.0" unit="kıyye">30.0</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__2">
+                <name xml:lang="tr"/>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 173 / 71a-2,72_<ref target="http://document__95">GrocerIST id_95</ref> <ref target="http://document__136">GrocerIST id_136</ref></head><p>Medīne-i hazret-i Ebī Eyyüb el-Ensārī -radiye anhu Rabbühü’l-bārī-de Yavud? mahallesinde vāki‘ bakkāl dükkānında müsteciren mütemekkin iken bundan akdem firār ve gaybet idüb hayātı ve memātı ma‘lūm olmayan Yorgi veled-i Franko nām gāibin zāhirde vāris-i ma‘rūf ve ma‘rūfesi olmamağla dükkān-ı mezkūrede Elhac Hüsrev mahallesinde vāki‘ bakkāl dükkānı derūnlarında ve mahzeninde mevcūd terekesi cānib-i beytülmāle aid olmağla medīne-i mezbūrede beytülmālı kabza memūr olan Mustafa Ağa b. Hasan taleb ve ma‘rifetiyle  tahrīr ve fürūht olunan gāib-i mesfūrun dükkān-ı mezbūrlarında olan eşyāsıdır ki ber vech-i ātī zikr olunur.  Fi’l-yevmi’l-hādī aşar min-Recebi’l-ferd sene seb‘a ve hamsīn ve mie ve elf. 1157 (11 receb 1157)</p><p>Kavanoz: 16 / 32</p><p>Tarak (8) tencere (4): 12</p><p>Sırlı desti: 1 /10</p><p>Urgan ve ıhlamur: 45</p><p>Sicim ve torba: 9</p><p>Dakik ve bulgur ve mercimek ve tuz ma zenbil: 30</p><p>Süpürge: 4 / 15</p><p>Desti: 5 / 30</p><p>Kantar, katran ve tahta tabla: 250</p><p>Fuçı: 9 / 300</p><p>Soğan: Kıyye 5 / Kıymet 6</p><p>Yağ badyesi: 40</p><p>Tabanca çift: 120</p><p>Kazma (1) ma koğa (2): 44</p><p>Bıçak: 10</p><p>Yağ küpü: 2 / 150</p><p>Fuçı: 1 / 10</p><p>Peştahta: 1 / 20</p><p>Hırdavat: 150</p><p>Gāib-i merkūm Yorginin mahalle-i mezbūrede vāki‘ mahzende mevcūd olan eşyāsıdır ki zikr olunur:</p><p>Kebīr sirke fuçısı: 240</p><p>Potna: 4 / 120</p><p>Def’a şikeste potna: 3 / 100</p><p>Arpa: Keyl 2 / 60</p><p>T (D)arı: Keyl 2/ 60 </p><p>Yular: 2 / 20</p><p>Şikeste kantar: 2 / 60</p><p>Kazma: 1 / 45</p><p>Süpürge: 10 / 10</p><p>Ihlamur: 3 / 6</p><p>Demet odun : 100</p><p>Şinik: 1 / 15</p><p>Otlak: 6</p><p>Koğa (2) ve Gerdel (4): 88</p><p>Temür:  10 / 30</p><p>Tabla: 2 / 40</p><p>Sepet: 8 / 81</p><p>Keser: 1 / 20</p><p>Küp: 50</p><p>Hırdavat-ı mahzen: 30</p><p>Cem‘an yekūn:1180</p><p>Gāib-i merkūmun Elhac Hüsrev mahallesinde vāki‘ bakkāl dükkānında mevcūd olan eşyāsıdır zikr olunur:</p><p>Arpa: Keyl 3 / 90</p><p>Potna: 8 / 250</p><p>Sicim 14 / 15</p><p>Sirke fuçısı: 30</p><p>Soğan: Kıyye 15 / 30 </p><p>Tekne: 1 / 30</p><p>Desti: 1 / 30</p><p>Badya ve havan: 40</p><p>Hırdavat-ı dükkān ma tuz: 630</p></div>
         </body>

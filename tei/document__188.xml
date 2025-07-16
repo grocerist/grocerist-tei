@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__188.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.01.d.66 / 38a-1
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.01.d.66 / 38a-1</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.01.d.66 / 38a-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1795-11-11"/>                    </history>
+                    <history>
+                        <origin when-iso="1795-11-11"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.01.d.66 / 38a-1</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1795-11-11">1795-11-11
-                </date>
-                <date calendar="#islamic" when="1210">1210
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,13 +87,13 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__163">
+            <person role="main_person" xml:id="person__163">
                 <persName>Esseyid Ahmed b. Abdullah</persName>
                 <state type="status"><label>lost</label></state>
                 <faith>Muslim</faith>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="tenant" active="#person__163">
             </relation>
         </listRelation>
@@ -133,9 +143,80 @@
                 <name xml:lang="en">Leather</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__923">
+                <measureGrp>
+                    <measure type="value" quantity="70.0" unit="kıyye" commodity="Revgan-ı sade">4200.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__993">
+                <measureGrp>
+                    <measure type="value" quantity="13.0" unit="kıyye" commodity="Nohud">312.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1627">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Tekfurdağı şariyyesi">480.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1628">
+                <measureGrp>
+                    <measure type="value" quantity="70.0" unit="kıyye" commodity="Revgan-ı sade">4200.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1629">
+                <measureGrp>
+                    <measure type="value" quantity="12.0" unit="kıyye" commodity="Kaşkaval">132.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1630">
+                <measureGrp>
+                    <measure type="value" quantity="12.0" unit="kıyye" commodity="Tulum peyniri">288.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1631">
+                <measureGrp>
+                    <measure type="value" quantity="4.0" unit="kıyye" commodity="Böğrülce">72.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1632">
+                <measureGrp>
+                    <measure type="value" quantity="13.0" unit="kıyye" commodity="Nohud">312.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1633">
+                <measureGrp>
+                    <measure type="value" quantity="60.0" unit="kıyye" commodity="Pekmez">1800.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1634">
+                <measureGrp>
+                    <measure type="value" quantity="2.0" unit="kıyye" commodity="Mum">147.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1635">
+                <measureGrp>
+                    <measure type="value" commodity="Gön">24.0</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__10">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__149">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__150">
+                <name xml:lang="tr"/>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_vywp0fxn0dfp"/>İSTM.ŞSC.01.d.66 / 38a-1 <ref target="http://document__188">GrocerIST id_188</ref></head><p>İstanbulda Simkeşhane kurbunda … karşısında vāki’ Elhac Mustafa dükkānı demekle marūf bakkāl dükkānı derūnunda mevcūd gedik ta’bīr olunur ālāt-ı lāzıme-i malūmeye mutasarrıf olan Havva bt. Abdullah nām hatunun vekīli … Lütfullah Efendi bin Ebubekir müvekkile-i mezbūrun müsteciri Esseyid Ahmed b. Abdullah tārīh-i defterden altı ay mukaddem firār ve gaybet idüb hayātı ve memātı malūm olmayub dükkān-ı mezkūr mukaffel ve mu’attal kalmağın ol tarīkde sākin Abdullahhın mezbūrun bilaçareteyn mutasarrafı zımmī … olmağla dükkān-ı mezkūr derūnunda mevcūd gāib mezbūrun terk eylediği eşyāsı zāyi’ ve telef olmak ihtimāli gālib olmağla gedik-i mutasarrıfesi Hava mezbūrenin vekīli merkūm dükkan- ı mezkūr ma’rifet-i şer ve bāzārbaşı ve ustalar ma‘rifetiyle küşād ve derūnunda olan gāib mezbūrun eşyāsı tahrīr ve yed-i emine vaz’ olunmasını iltimās etmekle kıbel-i şer’den mürsel Kātib-i sāni Merhābāzade Mahmud Efendi dükkān-ı mezbūra varub bāzārbaşı ve bakkāl ustaları … muvācehelerinde .. feth ü küşād gāib merkūmun hāli mütebeyyin oluncaya değin … … … … uhdesinde gelmekle … … ihbār olunan bakkāl esnāfından Yusuf b. İbrahim nām kimesne kıbel-i şer’den kayyım nasb ve tayīn olunub dükkān-ı mezkūrda olub bakkāl… olan eşyā mürūr-ı eyyām ile telef ve zāyi’ olur … olmağla … … bey … … olunmak gāib mezbūr sükkānında … ve kayyım-ı merkūm hakkında … olmağla ma’rifet-i şer ile kıymetleri takvīm ve … olan meblağ-ı mezkūr merkūm Yusuf kabz ettirülmesine eşyā defteridir ki ber-vech-i ātī zikr olunur. Fi 28 rebiülahir 1210</p><p>Tekfurdağı … şa’riyesi:  Fī 48 / Kıyye 10 / 480</p><p>Ednā mahlūt revgan-ı sāde:  Fī 60 / Kıyye 70 / 4200</p><p>Ednā kaşkaval peyniri:  Fī 12 / Kıyye 12 / 132</p><p>Tulum peyniri: Fī24 / Kıyye 12 / 288</p><p>Böğrülce:  Fī 24 / Kıyye 4 / 72</p><p>Nohud:  Fī 24 / Kıyye 13 / 312</p><p>Fuçı pekmezi:  Fī 30 / Kıyye 60 / 1800</p><p>Mum: Kıyye 2 / 147</p><p>Sırlı sekizlik şişe: Aded 87 / 2088</p><p>Saka: 2 / 480</p><p>Gön: 1 / 24</p><p>Fuçı: Fī 20 / Aded 15 / 300</p><p>Yekūn: 15551</p></div>
         </body>

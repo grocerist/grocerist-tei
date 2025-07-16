@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__84.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d.501 / 22b-3
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.06.d.501 / 22b-3</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.06.d.501 / 22b-3</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1778-08-14"/>                    </history>
+                    <history>
+                        <origin when-iso="1778-08-14"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.501 / 22b-3</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1778-08-14">1778-08-14
-                </date>
-                <date calendar="#islamic" when="1192">1192
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,14 +87,14 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__114">
+            <person role="main_person" xml:id="person__114">
                 <persName>Bakkal Panço v. Dimitri</persName>
                 <state type="status"><label>lost</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__114">
             </relation>
         </listRelation>
@@ -166,9 +176,111 @@
                 <name xml:lang="en">Broom</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__865">
+                <measureGrp>
+                    <measure type="value" quantity="19.0" unit="kıyye" commodity="Pirinc">428.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__982">
+                <measureGrp>
+                    <measure type="value" quantity="7.0" unit="kıyye" commodity="Nohud">70.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1022">
+                <measureGrp>
+                    <measure type="value" quantity="12.0" unit="kıyye" commodity="Soğan">48.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1385">
+                <measureGrp>
+                    <measure type="value" quantity="19.0" unit="kıyye" commodity="Pirinc">428.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1386">
+                <measureGrp>
+                    <measure type="value" quantity="7.0" unit="kıyye" commodity="Nohud">70.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1387">
+                <measureGrp>
+                    <measure type="value" quantity="3.5" unit="kıyye" commodity="Bulgur">63.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1388">
+                <measureGrp>
+                    <measure type="value" quantity="3.0" unit="kıyye" commodity="Sarımsak">36.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1389">
+                <measureGrp>
+                    <measure type="value" quantity="4.0" unit="kıyye" commodity="Siyah üzüm">64.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1390">
+                <measureGrp>
+                    <measure type="value" quantity="12.0" unit="kıyye" commodity="Soğan">48.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1391">
+                <measureGrp>
+                    <measure type="value" quantity="2.0" unit="kıyye" commodity="Razaki üzüm">48.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1392">
+                <measureGrp>
+                    <measure type="value" quantity="2.5" unit="kıyye" commodity="Fındık">40.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1393">
+                <measureGrp>
+                    <measure type="value" quantity="300.0" unit="adet" commodity="Ceviz">30.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1394">
+                <measureGrp>
+                    <measure type="value" quantity="67.0" unit="kıyye" commodity="Kestane">24.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1395">
+                <measureGrp>
+                    <measure type="value" quantity="35.0" unit="kıyye" commodity="Döğülmüş tuz">140.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1396">
+                <measureGrp>
+                    <measure type="value" quantity="17.0" unit="kıyye" commodity="Nardenk">204.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1397">
+                <measureGrp>
+                    <measure type="value" quantity="30.0" unit="kıyye" commodity="Pekmez">480.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1398">
+                <measureGrp>
+                    <measure type="value" quantity="20.0" unit="kıyye" commodity="Sirke">100.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1399">
+                <measureGrp>
+                    <measure type="value" quantity="13.5" unit="kıyye" commodity="Revgan-ı zeyt">607.0</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__47">
+                <name xml:lang="tr"/>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 501 / 22b-3_<ref target="http://document__84">GrocerIST id_84</ref></head><p>Medīne-i Üsküdara tābi‘ Çengār karyesinde vāki‘ Panço veled-i Dimitri dükkānında bakkāl olan Panko nām zımmī gaybet-i münkatı‘a  ile gāib ve hayāt ve memātı malūm olmayub mefkūd olmağla mefkūd merkūmun emvāl ve eşyāsını hıfza kıbel-i şer‘den vasī kayyım nasb olunan merkūm Panço zımmīnin taleb ve iltimāsıyla bakkāl ustaları ma‘rifetiyle  tahrīr  olunan eşyāsı defteridir ki ber vech-i ātī zikr olunur. Fī 20 Recebi’l-ferd 1192 </p><p>Pirinc: Kıyye 19 / Kıymet 428</p><p>Nohud: Kıyye 7 / Kıymet 70</p><p>Bulgur: Kıyye 3.5 / Kıymet 63</p><p>Sarımsak: Kıyye 3 / Kıymet 36</p><p>Siyāh üzüm: Kıyye 4 / Kıymet 64 </p><p>Soğan: Kıyye 12 / Kıymet 48</p><p>Razaki üzüm: Kıyye 2 / Kıymet 48</p><p>Fındık: Kıyye 2.5 / Kıymet 40</p><p>Ceviz: Aded 300 / Kıymet 30</p><p>Kestane: Kıyye 67 / Kıymet 24 </p><p>Dövülmüş tuz: Kıyye 35 / Kıymet 140 </p><p>Nardenk: Kıyye 17 / Kıymet 204</p><p>Pekmez: Kıyye 30 / Kıymet 480</p><p>Sirke: Kıyye 20 / Kıymet 100</p><p>Zeyt yağı: Kıyye 13.5 / Kıymet 607</p><p>Süpürge ve çanak ve hırdavat: Kıymet 1194</p></div>
         </body>

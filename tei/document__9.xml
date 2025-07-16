@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__9.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.217 / 59a-2, 60
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.14.d.217 / 59a-2, 60</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.217 / 59a-2, 60</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1713-04-29"/>                    </history>
+                    <history>
+                        <origin when-iso="1713-04-29"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.217 / 59a-2, 60</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1713-04-29">1713-04-29
-                </date>
-                <date calendar="#islamic" when="1125">1125
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -80,22 +90,22 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__9">
+            <person role="main_person" xml:id="person__9">
                 <persName>Mustafa Beşe b. Abdullah</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Muslim</faith>
             </person>
             <person role="mentioned">
-                <persName>Wife</persName>
+                <p>Wife</p>
             </person>
             <person role="mentioned">
-                <persName>Daughter</persName>
+                <p>Daughter</p>
             </person>
             <person role="mentioned">
-                <persName>Fetus</persName>
+                <p>Fetus</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__9">
             </relation>
         </listRelation>
@@ -122,9 +132,50 @@
                 <name xml:lang="en">Brushwood broom</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__161">
+                <measureGrp>
+                    <measure type="value">0.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__162">
+                <measureGrp>
+                    <measure type="value" commodity="Üzüm">120.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__163">
+                <measureGrp>
+                    <measure type="value" commodity="İncir">40.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__164">
+                <measureGrp>
+                    <measure type="value" commodity="Üzüm">60.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__165">
+                <measureGrp>
+                    <measure type="value" commodity="Üzüm">21.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__166">
+                <measureGrp>
+                    <measure type="value" commodity="Üzüm">30.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__167">
+                <measureGrp>
+                    <measure type="value" commodity="Pirinc">20.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__168">
+                <measureGrp>
+                    <measure type="value" commodity="Üzüm">80.0</measure>
+                </measureGrp>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_7ehsl31tvccx"/>İSTM.ŞSC.14.d.217 / 59a-2, 60_<ref target="http://document__9">GrocerIST id_9</ref></head><p>Mahrūse-i Galata tevābi‘inden Kurşunlu Mahzen Kapusu dāhilinde Mustafa Paşa mahallesinde sākin iken düyūnu terekesinden ezyed olduğu hālde vefāt eden Mustafa Beşe b. Abdullāhın verāseti zevce-i menkūha-i metrūkesi Fātma bt. Mehmede sagīr kızları Zeyneb ve Hadiceye ve mezbūr Fātma Hatunun batnında mevcūd olan hamle münhasıra olduğu zāhir ve müte‘ayyen oldukdan sonra sāgir-i mezbūrun vālidesi tesviye-i emrlerini ve müteveffā-yı mezbūrun terekesinden düyunu şeriyye aynü’l ayān kıbel-i şer’den mansūb vasīleri olan Fātma Hatun ma’rifetiyle müteveffā-i mezbūrun tahrīr olunan terekesidir ki vech-i ātī üzere zikr olunur. Fi’l-yevmi’s-sālis min şehr-i Rebī ‘ülahir 1125 (3 rebiülahir 1125)  </p><p>Müteveffā-i mezbūrun dükkānında olunan eşyāsıdır ki zikr olunur.</p><p>Semuk: Kıymet 450</p><p>Üzüm: Kıymet 120</p><p>İncir: Kıymet 40</p><p>Üzüm: Kıymet 60</p><p>Def‘a üzüm: Kıymet 21</p><p>Üzüm: Kıymet 30</p><p>Pirinc: Kıymet 20</p><p>Üzüm: Kıymet 80</p><p>Hırdavat: Kıymet 80</p></div>
         </body>

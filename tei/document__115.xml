@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__115.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.275 / 8b-1(d)
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.14.d.275 / 8b-1(d)</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.275 / 8b-1(d)</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1728-09-25"/>                    </history>
+                    <history>
+                        <origin when-iso="1728-09-25"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.275 / 8b-1(d)</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1728-09-25">1728-09-25
-                </date>
-                <date calendar="#islamic" when="1141">1141
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,20 +87,19 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__24">
+            <person role="main_person" xml:id="person__24">
                 <persName>Yani v. Panayot</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__24">
             </relation>
         </listRelation>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_my5vetci6fx1"/>İSTM.ŞSC.14.d.275 / 8b-1_<ref target="http://document__24">GrocerIST id_24</ref> <ref target="http://document__59">GrocerIST id_59</ref> <ref target="http://document__60">GrocerIST id_60</ref> <ref target="http://document__115">GrocerIST id_115</ref></head><p>Mahrūse-i Galata hāricinde Galata mevlevīhānesi kurbunda bakkāl olduğu hālde bundan akdem hālik olan Yani veled-i Panayot veled-i Yorgi’nin verāseti hālā vilāyet-i Rumelinde Yenişehir nevāhisinden Ağrafa nāhiyesine tābī‘ Kerasova nām karyede sākinler zevce-i metrūkesi Anasta bt. Nikola ile sulbī oğlu .. ve sulbiye kızları Agora ve Kaliye inhisārı tahakkukundan sonra hālik mezbūrun cümle umūruna vasiyy-i muhtār olan ammi oğlu bakkāl Dimitri veled-i Şilo ma‘rifetiyle  hālik mezbūrun bu tarafda tahrīr olunan muhallefātı defterdir ki vech-i ātī üzere zikr olunur. Hurrire 20 Saferi’l-hayr 1141 </p><div type="section"><p><ref target="http://document__24">a)</ref></p><p>Şa’riye: Fī 7 / Kıyye 85 / Kıymet 595</p><p>Pirinc: Fī 70 / Keyl 36 / Kıymet 2520</p><p>Kenevir tohumu: Fī 70 / Keyl 4 / Kıymet 280</p><p>Nohud: Fī 9 / Keyl 24 / Kıymet 225</p><p>Nişasta: Fī 11 / Kıyye 140 / Kıymet 1400</p><p>Fındık: Fī 5 / Kıyye 66 / Kıymet 330</p><p>Böğrülce: Fī 80 / Keyl 2.5 / Kıymet 200</p><p>Ceviz: Fī 3 /Aded 5000 / Kıymet 150</p><p>Eflak tuzu: Fī 2 / Kıyye 250 / Kıymet 500</p><p>Fıstık: Fī 10 / Kıyye 2 / Kıymet 20</p><p>Nardenk: Fī 6 / Kıyye 35 / Kıymet 210</p><p>Asel: Fī 14 / Kıyye 3 / Kıymet 420</p><p>Arpa: Fī 30 / Keyl 20 / Kıymet 600</p><p>Mum: Fī 20 / Kıyye 23 / Kıymet 460</p><p>Darı: Fī 20 / Keyl 5.5 / Kıymet 110</p><p>Revgan-ı sāde: Fī 28 / Kıyye 100 / Kymet 2800</p><p>Mercimek: Fī 60 /Keyl 3 / Kıymet 180</p><p>Sirke: Fī 2 / Kıyye 400 / Kıymet 800</p><p>Trilye zeytūnu: Fī 6 / Kıyye 250 / Kıymet 1500</p><p>Soğan: Fī 2 / Kıyye 150 / Kıymet 300</p><p>Revgan-ı zeyt: Fī 15 / Kıyye 180 / Kıymet 2700</p><p>Sabun: Fī 20 / Kıyye 77 / Kıymet 1540</p><p>Şīrugan: Fī 17 / Kıyye 3 / Kıymet 51</p><p>Sarımsak: Fī 80 / Aded 2000 / 160</p><p>Dükkān yüzündeki zehāir: Kıymet 1000</p><p>Hatab: Kıymet 200</p><p>Kazgan tencere: 1er / Kıymet 660</p><p>Fuçılar destiler ve ālāt-ı bakkāl ve tecemmülat-ı dükkān: Kıymet 4000</p></div><div type="section"><p><ref target="http://document__59">b)</ref></p><p>Mevlevihane kurbündeki bakkāl dükkānındaki pazarbaşı ve ustalar marifetleriyle tahrīr olunan: </p><p>Nişasta: Fī 10 / Kıyye 30 / Kıymet 300</p><p>Şa’riye: Fī 7 / Kıyye 40 / Kıymet 280</p><p>Soğan: Fī 2 / Kıyye 60 / Kıymet 120</p><p>Trilye zeytūnu: Fī 6 / Kıyye 60 / Kıymet 360</p><p>Böğrülce: Fī 80 / Keyl 1.5 / Kıymet 120</p><p>Revgan-ı sāde: Fī 28 / Kıyye 15 / Kıymet 420</p><p>Revgan-ı zeyt: Fī 15 / Kıyye 30 / Kıymet 450</p><p>Kaşkaval peyniri: Fī 14 / Kıyye 48 / Kıymet 672</p><p>Kefe tuzu: Fī 30 / Kıyye 4 / Kıymet 120</p><p>Eflak Tuzu: Fī 2 / Kıyye 150 / Kıymet 300</p><p>Asel: Fī 14 / Kıyye 30 / Kıymet 420</p><p>Nardenk: Fī 6 / Kıyye 30 / Kıymet 180</p><p>Mum: Fī 20 / Kıyye 15 / Kıymet 300</p><p>Dükkān yüzündeki zehāir: Kıymet 200</p><p>Hatab: 200</p><p>Fuçılar destiler ve ālāt-ı bakkāl ve tecemmüllāt-ı dükkān: 1800</p></div><div type="section"><p><ref target="http://document__60">c)</ref></p><p>Dörtyolağzı nām mahalledeki bakkāl dükkānındaki pazarbaşı ve ustalar ma‘rifetiyle tahrīr olunan: </p><p>Şa’riye: Fī 7 / Kıyye 35 / Kıymet 245</p><p>Pirinc: Fī 70 / Keyl 18 / Kıymet 1260</p><p>Soğan: Fī 2 / Kıyye 250 / Kıymet 500</p><p>Nohud: Fī 90 / Keyl 1.5 / Kıymet 135</p><p>Ceviz: Fī 30 / Aded 5000 / 150</p><p>Kaşkaval peyniri: Fī 14 / Kıyye 20 / Kıymet 280</p><p>Daru: Fī 20 / Keyl 4 / Kıymet 80</p><p>Kenevir tohumu: Keyl 1 / 70 </p><p>Revgan-ı sāde: Fī 28 / Kıyye 60 / Kıymet 1680</p><p>Pekmez: Fī 6 / Kıyye 10 / Kıymet 60</p><p>Asel: Fī 14 / Kıyye 5 / Kıymet 8</p><p>Nişasta: Fī 10 / Kıyye 100 / Kıymet 1000</p><p>Revgan-ı zeyt: Fī 15 / Kıyye 80 / Kıymet 1200</p><p>Trilye zeytūnu: Fī 6 / Kıyye 50 / Kıymet 300</p><p>Kefe tuzu: Fī 30 / Kıyye 3 / Kıymet 90</p><p>Mum: Fī 20 / Kıyye 10 / Kıymet 200</p><p>Şīrugan: Fī 17 / Kıyye 10 / Kıymet 170</p><p>Sabun: Fī 20 / Kıyye 32 / Kıymet 640</p><p>Dükkān yüzündeki zehāir: Kıymet 400</p><p>Fuçılar destiler ālāt-ı bakkāl tecemmüllāt-ı dükkān: 1500</p></div><div type="section"><p><ref target="http://document__115">d)</ref> </p><p>Aslanağzı nām mahalledeki bakkāl dükkānındaki pazarbaşı ve ustalar ma‘rifetiyle  tahrīr  olunur: Kıymet 10050</p></div></div>
         </body>

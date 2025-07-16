@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__35.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.352 / 6a-1
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.14.d.352 / 6a-1</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.352 / 6a-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1759-10-30"/>                    </history>
+                    <history>
+                        <origin when-iso="1759-10-30"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.352 / 6a-1</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1759-10-30">1759-10-30
-                </date>
-                <date calendar="#islamic" when="1173">1173
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -83,29 +93,28 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__35">
+            <person role="main_person" xml:id="person__35">
                 <persName>Bakkal Simal v. Nikola</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
             </person>
             <person role="mentioned">
-                <persName>Wife</persName>
+                <p>Wife</p>
             </person>
             <person role="mentioned">
-                <persName>Daughter</persName>
+                <p>Daughter</p>
             </person>
             <person role="mentioned">
-                <persName>Son</persName>
+                <p>Son</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__35">
             </relation>
         </listRelation>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_640cvs634qjl"/>İSTM.ŞSC.14.d. 352 / 6a-1_<ref target="http://document__35">GrocerIST id_35</ref></head><p>Mahrūse-i Galata tevābi‘nden İstinye nāhiyesine tābi‘ kasaba-i Yeniköyde vāki‘  Kürkçü mahallesinde mütemekkin iken bundan akdem hālik olan bakkāl Simal veled-i Nikolanın verāseti zevcesi Kasandıra bt. Kakod ve sulbiye kebīre kızı ….Aragorya ve sulbī sagīr oğlu … münhasıra olduğu şer’an zāhir oldukdan sonra sagīr mesfūr .. ile … tesviye-i emrlerine  kıbel-i şer‘-i şerīf-i vasī nasb olunan Dimitri veled-i Yani ve mesfūre Kasandıra taleb ve iltimāslarıyla tahrīr olunan tereke-i hālik mesfūrdur ki ber vech-i ātī zikr olunur. 8 rebiülevvel 1173</p><p>Tencere: 2 / 360</p><p>Sini: 400</p><p>Güğüm: 360</p><p>İhram : 3 / 300</p><p>Beledī yasdık: 4 / 400</p><p>Beledī yasdık döşek: 360</p><p>Taba, tencere (6): 360</p><p>Kurşun mum … 45</p><p>Köhne nāfe kürk: 240</p><p>Kazgan: 500</p><p>Kebe: 2 / 360</p><p>Yorgan: 480</p><p>Çuka cübbe: 300</p><p>…: 180</p><p>Köhne kuşak ve kalpak: 180</p><p>Çārşeb: 120</p><p>Köhne entari: 2 / 360</p><p>Dizlik ve kaliçe: 180</p><p>Kazgan: 1440</p><p>Laza: 3 / 1200</p><p>Varil: 8 / 480</p><p>Varil: 120</p><p>Kutu çift: 5 / 600</p><p>Hasır: 120</p><p>Hālik mesfūrun kasaba-i Yeniköyde bağlar hilālinde vāki’ kürumi mülk-ü bağ 2 kıt’a ber vech-i tahmin: 36000</p><p>Hālik mesfūrun kasaba-i mezkūrede vāki‘ mülk-ü menzil kıymeti ber vech-i tahmīn zikr olunur: 48000</p><p>Bağların mahsūlunden hāsıl olan meblağ: 24000</p><p>Kezālik mülk-ü mesfūrun kasaba-i mezkūrede vāki’ bakkāl dükkānında olan eşyā vesāir ālāt-ı lāzıme kıymeti : 48000</p><p>Kürekçi Karlo veled-i Kostadan makbūz: 60000</p></div>
         </body>

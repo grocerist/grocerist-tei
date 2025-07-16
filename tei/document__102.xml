@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__102.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d.230 / 69a-1
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.15.d.230 / 69a-1</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.15.d.230 / 69a-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1775-02-16"/>                    </history>
+                    <history>
+                        <origin when-iso="1775-02-16"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d.230 / 69a-1</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1775-02-16">1775-02-16
-                </date>
-                <date calendar="#islamic" when="1188">1188
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,17 +87,17 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__104">
+            <person role="main_person" xml:id="person__104">
                 <persName>Tanaş v. Niko</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
             </person>
             <person role="mentioned">
-                <persName>Beytülmal Emini</persName>
+                <p>Beytülmal Emini</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="tenant" active="#person__104">
             </relation>
         </listRelation>
@@ -153,9 +163,60 @@
                 <name xml:lang="en">Hay</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__1488">
+                <measureGrp>
+                    <measure type="value" commodity="Saman">360.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1489">
+                <measureGrp>
+                    <measure type="value" commodity="Hatab">300.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1490">
+                <measureGrp>
+                    <measure type="value" quantity="80.0" unit="kıyye" commodity="Arak">1960.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1491">
+                <measureGrp>
+                    <measure type="value" quantity="20.0" unit="kıyye" commodity="Ham sirke">240.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1492">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="keyl" commodity="Şair">1200.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1493">
+                <measureGrp>
+                    <measure type="value" quantity="22.0" unit="kıyye" commodity="Sirke">1320.0</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__4">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__10">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__19">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__45">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__60">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__78">
+                <name xml:lang="tr"/>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 230 / 69a-1_<ref target="http://document__102">GrocerIST id_102</ref></head><p>Havāss-ı refî‘a kazāsına tābi‘ Terkos? karyesinde vāki‘ orta dükkān demekle ma‘rūf bakkāl dükkānının müsteciri iken bundan akdem hālik olan Tanaş veled-i Niko zımmīnin zāhirde vāris-i ma‘rūfesi olmayub terekesi cānib-i beytülmāle āid ve rāci‘ olmağla karye-i mezbūrede  bilā-vāris-i ma‘rūf ve ma‘rūfe fevt olanların beytülmālını kabza memūr olan vergi? kalem-i mültezimi lan Uzerli Mustafa Ağa b. [] tarafından müseccel vekīlleri olan Nurullah Efendi b. Elhac Mustafa ve Bostani Esseyid İbrahim b. Esseyid Halil nām kimesneler taleb ve ma‘rifetleriyle tahrīr olunan hālik mesfūrun terekesi defteridir ki ber vech-i ātī zikr olunur.  Fi’l-yevmi’l-hāmis aşer min Zilhicceti’ş-şerīfe sene semān ve semānin ve mie ve elf. 1188 ( 15 Zilhicce 1188)</p><p>Tahta sofra ma hasır : 300</p><p>Tabaklar: 300</p><p>Temür sacayak: 600</p><p>Minder ma yasdık: 300</p><p>Köhne entari ma dizlik ma don ma kuzu kürkü ma kalpak ve fes: 360</p><p>Hırdavat: 300</p><p>Def’a hırdavat: 760</p><p>Def’a hasır ma hurda temür vesāir ālāt: 360</p><p>Şamdan ma tabak ma tulum: 300</p><p>Evānī-ı nuhās: 216</p><p>Def‘a tahta sofra ma köhne yasdık ma kebe: 300</p><p>Bir mikdār saman: 360</p><p>Bir mikdār hatab: 300</p><p>Caba (2) ma bel (1) ma değirmen ma eğer ma keçi derisi (4) : 300</p><p>Sagīr fuçı: 5 / 300</p><p>Bir mikdār arak: Kıyye 80 / 1960</p><p>Ham sirke: Kıyye 20 / 240</p><p>Şa‘īr: Keyl 10 / 1200</p><p>Sirke: Kıyye 22 / 1320</p><p>Nakd-i mevcūd: 600</p><p>Derūn-u dükkānda mevcūd pirinc ve revgan-ı sāde ve böğrülce ve bakla ve basdırma ve sucuk ve tabak ve kantar vesāir ālātı bakkāl: 5700</p></div>
         </body>
