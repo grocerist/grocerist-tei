@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__18.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.249 / 9b-2
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.14.d.249 / 9b-2</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.249 / 9b-2</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1720-12-03"/>                    </history>
+                    <history>
+                        <origin when-iso="1720-12-03"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.249 / 9b-2</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1720-12-03">1720-12-03
-                </date>
-                <date calendar="#islamic" when="1133">1133
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,25 +87,25 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__118">
+            <person role="main_person" xml:id="person__118">
                 <persName>Elhac Osman b. İbrahim</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Muslim</faith>
             </person>
             <person role="mentioned">
-                <persName>Wife</persName>
+                <p>Wife</p>
             </person>
             <person role="mentioned">
-                <persName>Son</persName>
+                <p>Son</p>
             </person>
             <person role="mentioned">
-                <persName>Daughter</persName>
+                <p>Daughter</p>
             </person>
             <person role="mentioned">
-                <persName>Mother</persName>
+                <p>Mother</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__118">
             </relation>
         </listRelation>
@@ -147,9 +157,70 @@
                 <name xml:lang="en">Watermelon</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__286">
+                <measureGrp>
+                    <measure type="value" commodity="Karpuz">98.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__287">
+                <measureGrp>
+                    <measure type="value" commodity="Peynir">178.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__288">
+                <measureGrp>
+                    <measure type="value" commodity="İncir">60.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__289">
+                <measureGrp>
+                    <measure type="value" quantity="49.0" unit="keyl" commodity="Pirinc">3822.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__290">
+                <measureGrp>
+                    <measure type="value" quantity="25.0" unit="keyl" commodity="Revgan-ı zeyt">1562.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__291">
+                <measureGrp>
+                    <measure type="value" quantity="20.0" unit="kıyye" commodity="Bal / Asel">3515.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__292">
+                <measureGrp>
+                    <measure type="value" quantity="154.0" unit="keyl" commodity="Fındık">65.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__293">
+                <measureGrp>
+                    <measure type="value" quantity="152.0" unit="keyl" commodity="Fındık">456.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__294">
+                <measureGrp>
+                    <measure type="value" commodity="Fındık">518.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__295">
+                <measureGrp>
+                    <measure type="value" commodity="Bal / Asel">799.0</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__16">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__17">
+                <name xml:lang="tr"/>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_boheezcv8a10"/>İSTM.ŞSC.14.d.249 / 9b-2_<ref target="http://document__18">GrocerIST id_18</ref></head><p>Mahmiye-i Galata dahilinde Emekyemez mahallesinde sākin iken bundan akdem düyūnu terekesinden ezyed olduğu hālde vefāt eden Elhac Osman b. İbrahimin verāseti zevce-i menkūha-i metrūkesi Afife bt. Mustafa ile sagīr oğlu Ali ve Mehmede ve sagīre kızı Fatmaya ve Amasyada sākine vālidesi Hadice bt. Abdullāha münhasıra olduğu şer‘an zāhir ve nümāyān oldukdan sonra sıgār-ı mezbūrunun tevsiye-i emirlerine kıbel-i şerden mansūb-u vasīsi olan olan Mustafa Beşe b.[] ma‘rifetiyle müteveffā-i mezbūrun tahrīr olunan terekesidir ki ber vech-i ātī zikr olunur. Fi’s-sānī min Saferi’l-hayr 1133</p><p><anchor xml:id="xmlid__heading_h_3znysh7"/>Minder: Kıymet 210</p><p>Mai şalvar: Kıymet 180</p><p>Kutni alaca: Kıymet 300</p><p>Zıbun: Kıymet 40</p><p>Torak: Kıymet130</p><p>Çuval: Kıymet 48</p><p>Gömlek: Kıymet 40</p><p>Kazgan: Kıymet 900</p><p>Heybe: Kıymet 39</p><p>Köhne kebe: Kıymet 42</p><p>Def’a heybe: Kıymet 60</p><p>Karabine: Kıymet180</p><p>Salındırma: Kıymet300</p><p>Kara kılıç: Kıymet 180</p><p>Kutnu: Kıymet 30</p><p>Bıçak: Kıymet 12</p><p>Leğen ibrik: Kıymet 400</p><p>Sac ayak: Kıymet 90 </p><p>Buhurdan: Kıymet 30</p><p>Bez: Zira 8 / Kıymet 230</p><p>Fincan (5) ve tepsi: Kıymet 120</p><p>Lenger(3) Sahan: Kıymet 90</p><p>Kurşunī kuşak: Kıymet 6</p><p>Kumkuma: Kıymet 30</p><p>Bogasi parçası: Kıymet 30</p><p>Destere: Kıymet 3</p><p>Mum asel: Kıymet 15</p><p>Seccade: Kıymet 80 </p><p>Vezne ve devat: Kıymet 30</p><p>Piştahta: Kıymet 60</p><p>Sepet sandık: Kıymet 110</p><p>Sandık: Kıymet 15</p><p>Kav: Fi 28 / Kıymet 748</p><p>Sarık: Kıymet 180</p><p>Duhān: Fi 73 / Kıymet 2598</p><p>Koğa: 25 / Kıymet 212</p><p>Perverde: Kıymet 680</p><p>Karpuz: 28 / Kıymet 98</p><p>Peynir (panir): Fī 41 / Kıymet 178</p><p>İncir: Fī 12 / Kıymet 60</p><p>Küp: Kıymet 360</p><p>Üzüm: Fī 13 / Kıymet 65</p><p>Pirinc: Fi 78 / Keyl 49 / Kıymet 3822 </p><p>Revgan-ı zeyt: Fi 62 / Keyl 25 / Kıymet 1562 </p><p>Asel: Fī 20 / Kıyye 14 / Kıymet 3515</p><p>Fındık: Fī 6 / Keyl 154 / Kıymet 65	</p><p>Def’a fındık: Fī 3 / Keyl 152 / Kıymet 456 </p><p>Dükkān içinde olan eşyā-ı malūme semeni: Kıymet 4800</p><p>Zimmemden alınan: 300</p><p>Def’a fındık: Kıymet 518</p><p>Kayık semeni Kıymet 3000</p><p>Def’a asel: Kıymet 799</p></div>
         </body>

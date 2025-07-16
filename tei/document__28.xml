@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__28.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.276 / 9b-1
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.14.d.276 / 9b-1</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.276 / 9b-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1731-11-27"/>                    </history>
+                    <history>
+                        <origin when-iso="1731-11-27"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.276 / 9b-1</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1731-11-27">1731-11-27
-                </date>
-                <date calendar="#islamic" when="1144">1144
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -80,16 +90,16 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__28">
+            <person role="main_person" xml:id="person__28">
                 <persName>Bakkal Molla Hasan b. Abdullah</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Muslim</faith>
             </person>
             <person role="mentioned">
-                <persName>Beytülmal Emini</persName>
+                <p>Beytülmal Emini</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__28">
             </relation>
         </listRelation>
@@ -213,9 +223,141 @@
                 <name xml:lang="en">Broad bean</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__495">
+                <measureGrp>
+                    <measure type="value" commodity="Döğülmüş tuz">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__496">
+                <measureGrp>
+                    <measure type="value" commodity="Peksimet">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__497">
+                <measureGrp>
+                    <measure type="value" commodity="Bakla">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__498">
+                <measureGrp>
+                    <measure type="value" quantity="150.0" unit="kıyye" commodity="Kaba soğan">300.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__499">
+                <measureGrp>
+                    <measure type="value" quantity="80.0" unit="kıyye" commodity="Arpacık soğanı">320.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__500">
+                <measureGrp>
+                    <measure type="value" commodity="Zeytun">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__501">
+                <measureGrp>
+                    <measure type="value" commodity="Sirke">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__502">
+                <measureGrp>
+                    <measure type="value" commodity="Kömür">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__503">
+                <measureGrp>
+                    <measure type="value" commodity="Kefe tuzu">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__504">
+                <measureGrp>
+                    <measure type="value" commodity="Revgan-ı zeyt">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__505">
+                <measureGrp>
+                    <measure type="value" quantity="62.0" unit="kıyye" commodity="Bal / Asel">992.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__506">
+                <measureGrp>
+                    <measure type="value" quantity="204.0" unit="kıyye" commodity="Revgan-ı sade">8120.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__507">
+                <measureGrp>
+                    <measure type="value" quantity="21.0" unit="kıyye" commodity="Revgan-ı sade">630.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__508">
+                <measureGrp>
+                    <measure type="value" commodity="Şariye">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__509">
+                <measureGrp>
+                    <measure type="value" quantity="238.0" unit="kıyye" commodity="Pirinc">1908.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__510">
+                <measureGrp>
+                    <measure type="value" commodity="Şair">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__511">
+                <measureGrp>
+                    <measure type="value" commodity="Fındık">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__512">
+                <measureGrp>
+                    <measure type="value" commodity="İncir">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__513">
+                <measureGrp>
+                    <measure type="value" commodity="Razaki üzüm">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__514">
+                <measureGrp>
+                    <measure type="value" commodity="Siyah üzüm">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__515">
+                <measureGrp>
+                    <measure type="value" commodity="Sucuk">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__516">
+                <measureGrp>
+                    <measure type="value" commodity="Basdırma">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__517">
+                <measureGrp>
+                    <measure type="value" commodity="Tulum peyniri">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__518">
+                <measureGrp>
+                    <measure type="value" commodity="Revgan-ı don">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__519">
+                <measureGrp>
+                    <measure type="value" commodity="Çorlu peyniri">None</measure>
+                </measureGrp>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_6lkumwm80u17"/>İSTM.ŞSC.14.d.276 / 9b-1_<ref target="http://document__28">GrocerIST id_28</ref></head><p>Mahrūse-i Galata muzāfatından İstinye nāhiyesine tābi Bey bağçesi karyesinde sākin iken bundan akdem vefāt eden Bakkāl Molla Hasan b. Abdullah b. Abdülmennanın  zāhirde vārisi ma‘rūfu olmayub bi’l-cümle terekesi cānib-i beytülmāle āid olmağın mahrūse-i mezkūr ve tevābinde voyvoda ve beytülmāl āmme ve hāssa emīni olan fahrü’l-eşbāh Elhac Mustafa Ağa b. Ahmed tarafından umūr-ı beytülmālı  rü’yete vekīl-i müseccel olan Osman Çavuş b. İbrahim taleb ve iltimāsıyla ve marifeti şerle tahrīr ve bey’ olunan terike-i müteveffā-i mezbūrdur ki ber vech-i ātī zikr olunur. Fi’l-yevmi’sābi ‘ve’l-ışrīn min Cumādelūlā   1144 (27 cumadelula 1144)</p><p>Döğülmüş tuz: Fī 2 / Kıyye 196 / Kıymet 392</p><p>Peksimet: Fī 3 / Kıyye 95 / Kıymet 285</p><p>Kaba tuz: Fī 2 / Kıyye 85 / Kıymet 170</p><p>Bakla: Fī 5 / Kıyye 20 / Kıymet 100</p><p>Kaba soğan: Fī 2 / Kıyye 150 / Kıymet 300</p><p>Arpacık soğanı: Fī 4 / Kıyye 80 / Kıymet 320</p><p> Zeytūn: Fī 7 / Kıyye 90 / Kıymet 630</p><p>Sirke: Fī 2 / Kıyye 100 / Kıymet 200</p><p>Kömür: Fī 1 / Kıyye 2500 / Kıymet 2500</p><p>Kefe tuzu: Fī 36 / Kıyye 10 / Kıymet 360</p><p>Zeyt revgan: Fī 20 / Kıyye 360 / Kıymet 7200</p><p>Asel: Fī 16 / Kıyye 62 / Kıymet 992</p><p>Revgan-ı sāde: Fī 40 / Kıyye 204 / Kıymet 8120</p><p>Def’a revgan-ı sāde: Fī 30 / Kıyye 21 / Kıymet 630</p><p>Şa’riye: Fī 8 / Kıyye 15.5 / Kıymet 124</p><p>Pirinc: Fī 8 / Kıyye 238 / Kıymet 1908?</p><p>Arpa: Fī 45 / Keyl 35 / Kıymet 1575</p><p>Fındık: Fī 10 / Kıyye 8 / Kıymet 80</p><p>İncir: Fī 7 / Kıyye 110 / Kıymet 770</p><p>Razaki üzüm: Fī 14 / Kıyye 54 / Kıymet 756</p><p>Siyāh üzüm: Fī 8 / Kıyye 50 / Kıymet 400</p><p>Sucuk: Kıyye 8 / Kıymet 144</p><p>Basdırma: Fī 10 / Kıyye 21 / Kıymet 210</p><p>Tulum peyniri: Fī 18 / Kıyye 19 / Kıymet 342</p><p>Don yağı: Fī 22 / Kıyye 3 / Kıymet 66</p><p>Çorlu peyniri: Fī 22 / Kıyye 13 / Kıymet 286</p><p>Hırdavat-ı dükkān: 7200 </p></div>
         </body>

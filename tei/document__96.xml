@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__96.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d.174 / 41a-2
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.15.d.174 / 41a-2</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.15.d.174 / 41a-2</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1746-02-02"/>                    </history>
+                    <history>
+                        <origin when-iso="1746-02-02"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d.174 / 41a-2</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1746-02-02">1746-02-02
-                </date>
-                <date calendar="#islamic" when="1159">1159
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,23 +87,23 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__100">
+            <person role="main_person" xml:id="person__100">
                 <persName>Bakkal Dimitri v. Hristo</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
             </person>
             <person role="mentioned">
-                <persName>Wife</persName>
+                <p>Wife</p>
             </person>
             <person role="mentioned">
-                <persName>Daughter</persName>
+                <p>Daughter</p>
             </person>
             <person role="mentioned">
-                <persName>Cousin</persName>
+                <p>Cousin</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="shareholder" active="#person__100">
             </relation>
         </listRelation>
@@ -104,9 +114,20 @@
                 <name xml:lang="tr" type="variation">Hınta</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__1460">
+                <measureGrp>
+                    <measure type="value" quantity="44.0" unit="keyl" commodity="Buğday">22000.0</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__64">
+                <name xml:lang="tr"/>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 174 / 41a-2_<ref target="http://document__96">GrocerIST id_96</ref></head><p>Havāss-ı refī‘a kazāsı muzāfātından Çekmece-i Kebīrde mütemekkin iken bundan akdem hālik olan bakkāl Dimitri veled-i Hristonun verāseti zevce-i metrūkesi Afendirye bt. Yorgaki nām nāsraniye ile sulbiye kebīre kızları Zora ve Gevher ve Dominaya ve min cihet-i usūbe ammisi oğlu olub hālā diyār-ı āharda olan Yorgakiye münhasıra olduğu şer’an zāhir ve müte’ayyen oldukdan sonra gāib-i mezbūrun hisse-i ırsiyesini ahz ü kabz zabt ve hıfza kıbel-i şerden vasī ve kayyım nasb olunan mezbūre Afendirye ile mezbūrat Zora ve Gevhere ve Dominaya taleb ve ma‘rifetleriyle  tahrīr ve takvīm olunan tereke-i hālik-i mersūmdur ki ber vech-i ātī zikr olunur.  Fi’l-yevmi’l-aşir min-Muharremi‘l-haram li sene tisʻa ve hamsīn ve mie ve elf. 10 muharrem 1159</p><p>-Kasaba-i mezbūrede vāki‘ bakkāl dükkānında hālik mersūmun sermāyesi: 24000</p><p>-Kasaba-i mezbūrede vāki‘ hālik mersūmun mülk-ü kürkçü dükkānı ber vech-i tahmīn: 7200</p><p>Hınta: Fi 50 / Keyl 44 / Kıymet 22000</p><p>Kazgan: 3000</p><p>Evānī-i nuhās vesāir eşyā: 12000</p><p>Der zimmet-i Bayramoğlu der çekmece: 33000</p><p>Der zimmet-i Nikola der çekmece: 32400</p><p>Nakd akçe mevcūd: 30000</p></div>
         </body>

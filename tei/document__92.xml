@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__92.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d.134 / 95a-1
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.15.d.134 / 95a-1</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.15.d.134 / 95a-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1716-12-10"/>                    </history>
+                    <history>
+                        <origin when-iso="1716-12-10"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d.134 / 95a-1</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1716-12-10">1716-12-10
-                </date>
-                <date calendar="#islamic" when="1128">1128
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,19 +87,18 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__88">
+            <person role="main_person" xml:id="person__88">
                 <persName>Bakkal Ahmed Beşe b. Abdullah</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Muslim</faith>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__88">
             </relation>
         </listRelation>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 134 / 95a-1_<ref target="http://document__92">GrocerIST id_92</ref></head><p>Medīne-i hazret-i Ebī Eyyüb el-Ensārī -radiye anhu Rabbühi’l-bārī- mahallātından Şah Sultan mahallesinde sākin iken bundan akdem vefāt eden bakkāl Ahmed Beşe b. Abdullāhın terekesinin sülüsünden vesāyasını tenfîze bā-hüccet-i şer‘iye vasiyy-i muhtārı olan Hüseyin Çelebi b. Mustafanın ber-mūceb-i defter-i kassām-ı askerī  tereke-i müteveffā-yı mezbūrdan kabz eylediği sülüs ve masārıfi defteridir ber-vech-i ātī zikrolunur. Fi’l-yevmi’l-hāmis ve’l-ışrīn min- Zilhicceti’ş-şerīfe li-sene semān ve’l-ışrīn ve mie ve elf. 1128 (25 zilhicce 1128)</p></div>
         </body>

@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__86.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d.522 / 21b-4
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.06.d.522 / 21b-4</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.06.d.522 / 21b-4</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1786-04-11"/>                    </history>
+                    <history>
+                        <origin when-iso="1786-04-11"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.522 / 21b-4</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1786-04-11">1786-04-11
-                </date>
-                <date calendar="#islamic" when="1200">1200
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -80,26 +90,26 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__115">
+            <person role="main_person" xml:id="person__115">
                 <persName>Dimitri v. Polizo</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
             </person>
             <person role="mentioned">
-                <persName>Wife</persName>
+                <p>Wife</p>
             </person>
             <person role="mentioned">
-                <persName>Son</persName>
+                <p>Son</p>
             </person>
             <person role="mentioned">
-                <persName>Daughter</persName>
+                <p>Daughter</p>
             </person>
             <person role="mentioned">
-                <persName>Fetus</persName>
+                <p>Fetus</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__115">
             </relation>
         </listRelation>
@@ -181,9 +191,143 @@
                 <name xml:lang="en">Eflak honey</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__867">
+                <measureGrp>
+                    <measure type="value" quantity="118.0" unit="kıyye" commodity="Pirinc">3442.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__913">
+                <measureGrp>
+                    <measure type="value" quantity="85.0" unit="kıyye" commodity="Revgan-ı sade">5610.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__914">
+                <measureGrp>
+                    <measure type="value" quantity="140.0" unit="kıyye" commodity="Revgan-ı sade">10500.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__916">
+                <measureGrp>
+                    <measure type="value" quantity="59.0" unit="kıyye" commodity="Revgan-ı sade">4799.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__951">
+                <measureGrp>
+                    <measure type="value" quantity="80.0" unit="kıyye" commodity="Bal / Asel">1680.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__952">
+                <measureGrp>
+                    <measure type="value" quantity="12.0" unit="kıyye" commodity="Bal / Asel">636.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__984">
+                <measureGrp>
+                    <measure type="value" quantity="57.0" unit="kıyye" commodity="Nohud">570.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1023">
+                <measureGrp>
+                    <measure type="value" quantity="33.0" unit="kıyye" commodity="Soğan">264.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1433">
+                <measureGrp>
+                    <measure type="value" quantity="140.0" unit="kıyye" commodity="Revgan-ı sade">10500.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1434">
+                <measureGrp>
+                    <measure type="value" quantity="39.0" unit="kıyye" commodity="Fındık">858.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1435">
+                <measureGrp>
+                    <measure type="value" quantity="36.0" unit="kıyye" commodity="Şariye">814.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1436">
+                <measureGrp>
+                    <measure type="value" quantity="29.0" unit="kıyye" commodity="Sabun">1392.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1437">
+                <measureGrp>
+                    <measure type="value" quantity="118.0" unit="kıyye" commodity="Pirinc">3442.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1438">
+                <measureGrp>
+                    <measure type="value" quantity="105.0" unit="kıyye" commodity="Nişasta">2835.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1439">
+                <measureGrp>
+                    <measure type="value" quantity="57.0" unit="kıyye" commodity="Nohud">570.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1440">
+                <measureGrp>
+                    <measure type="value" quantity="128.0" unit="kıyye" commodity="Bulgur">1152.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1441">
+                <measureGrp>
+                    <measure type="value" quantity="12.0" unit="kıyye" commodity="Eflak balı">636.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1442">
+                <measureGrp>
+                    <measure type="value" quantity="34.0" unit="kıyye" commodity="Zeytun">578.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1443">
+                <measureGrp>
+                    <measure type="value" quantity="33.0" unit="kıyye" commodity="Soğan">264.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1444">
+                <measureGrp>
+                    <measure type="value" quantity="365.0" unit="kıyye" commodity="Pekmez">5475.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1445">
+                <measureGrp>
+                    <measure type="value" quantity="97.5" unit="kıyye" commodity="Revgan-ı zeyt">5850.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1446">
+                <measureGrp>
+                    <measure type="value" quantity="59.0" unit="kıyye" commodity="Revgan-ı sade">4799.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1447">
+                <measureGrp>
+                    <measure type="value" quantity="166.0" unit="kıyye" commodity="Eflak tuzu">996.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1448">
+                <measureGrp>
+                    <measure type="value" quantity="170.0" unit="kıyye" commodity="Sirke">850.0</measure>
+                </measureGrp>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 522 / 21b-4_<ref target="http://document__86">GrocerIST id_86</ref></head><p>Medīne-i Üsküdarda Hüseyin Ağa mahallesinde Ağa hamamı nām mahalde bakkāl iken bundan akdem hālik olan Dimitri v. Polizo nām zımmīnin verāseti zevce-i metrūkesi olub vilāyet-i Rumilinde Yenişehir Fenar kazāsına muzāfe Agrefe nāhiyesine tabi Zoğlub? nām karyede mütemekkin Katerina bt. Askarlat nām nasrāniye ile sulbī sagīr oğlu Astaryo ve sulbiye sagīre kızları Mağdelinçe ve Agoriçeye zevce-i mersūme Katerina nasrāniyenin batnında mütebeyyin hamle münhasıra olduğu tahakkukundan sonra hālik merkūmun medīne-i mezbūrede olan terekesini kabz …. merkūmeye irsāl ve īsāle kıbel-i şer‘den vasī nasb olunan Şerbetçi Konstantin veled-i Vasil nām zımmīnin taleb iltimāsıyla hālik merkūmun tahrīr ve terkīm olunan terekesi defteridir ki ber vech-i ātī zikr olunur. Fi 11cemaziyelahir1200 </p><p>Mahlūt revgan-ı sāde: Fī 66 / Kıyye 85 / 5610</p><p>Revgan-ı sāde: Fī 75/ Kıyye 140 / 10500</p><p>Fındık: Fī 22 / Kıyye 39 / 858</p><p>Şa‘riye: Fī 31 / Kıyye 36 / 814</p><p>Sabun: Fī 48 / Kıyye 29 / 1392</p><p>Pirinc: Fī 29 / Kıyye 118 / 3442</p><p>Nişasta: Fī 27 / Kıyye 105 / 2835</p><p>Nohud: Fī 10 / Kıyye 57 / 570</p><p>Bulgur: Fī 9 / Kıyye 128 / 1152</p><p>Asel desti: Fī 21 / Kıyye 80 /</p><p>Asel-i Eflak: Fī 35 / Kıyye 12 / 636</p><p>Zeytūn: Fī 17 / Kıyye 34 / 578</p><p>Soğan: Fī 8 / Kıyye 33 / 264</p><p>Pekmez: Fī 15 / Kıyye 365 / 5475</p><p>Revgan-ı zeyt: Fī 60 / Kıyye 97.5 / 5850</p><p>Def‘a revgan-ı sāde: Fī 81 / Kıyye 59 / 4799</p><p>Eflak tuzu: Fī 6 / Kıyye 166 / 996</p><p>Sirke: Fī 5 / Kıyye 170 / 850</p><p>Zuhūr eden nakd: 480</p><p>Hālik merkūmun mutasarrıfı olduğu bakkāl dükkānı derūnunda beyne’l-esnāf gedik ta‘bīr olunur ālāt-ı lāzımeden olan rub‘ hisse-i şāyi’asının kıymeti: 30000</p></div>
         </body>

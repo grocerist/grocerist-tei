@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__87.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d.548 / 43a-2
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.06.d.548 / 43a-2</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.06.d.548 / 43a-2</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1799-04-13"/>                    </history>
+                    <history>
+                        <origin when-iso="1799-04-13"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.548 / 43a-2</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1799-04-13">1799-04-13
-                </date>
-                <date calendar="#islamic" when="1213">1213
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,31 +87,30 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__116">
+            <person role="main_person" xml:id="person__116">
                 <persName>Bakkal Elhac Hasan Ağa b. Ali</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Muslim</faith>
             </person>
             <person role="mentioned">
-                <persName>Wife</persName>
+                <p>Wife</p>
             </person>
             <person role="mentioned">
-                <persName>Daughter</persName>
+                <p>Daughter</p>
             </person>
             <person role="mentioned">
-                <persName>Brother</persName>
+                <p>Brother</p>
             </person>
             <person role="mentioned">
-                <persName>Sister</persName>
+                <p>Sister</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__116">
             </relation>
         </listRelation>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d.548 / 43a-2_<ref target="http://document__87">GrocerIST id_87</ref></head><p>Vilāyet-i Anadoluda Bolu sancağında Dirgine kazāsına tābi‘ Karaağaç karye ahālīsinden olub İznikmid kazāsında terekesi olduğu hālde medīne-i Üsküdarda Bulgurlu mahallesinde sākin  iken bundan akdem medyūnen vefāt eden bakkāl Elhac Hasan Ağa b. Alinin verāseti zevce-i menkūha-i metrūkesi Rabia Hatun bt. Mehmed ile zevce-i āharasından mütevellīde sulbiye kebīre kızı Aişe ve li-ebeveyn karındaşları Hüseyin ve Kezban ebnā-i mezbūr Aliye münhasıra olduğu lede’ş-şer‘i’l-enver zāhir ve müte‘ayyen oldukdan sonra zevce-i mezbūre Rabia Hatun ile kezālik zātı mu’arrefe bt. mezbūr Aişe ve karındaşları mezbūrunun taleb ve ma’rifetleriyle tahrīr  ve ba‘de’l-müzāyede bey’ olunan terekesi defteridir ki ber vech-i ātī zikr olunur. Hurrira 8 zilkadde 1213</p><p>Kıtık memlū beledī yasdık: 485</p><p>Minder: 2 / 570</p><p>Bir mikdār yün ve sepet: 1270</p><p>Köhne kilim: 450</p><p>Kilim: 970</p><p>Alaca entari yorgan: 960</p><p>Yemenī yorgan: 720</p><p>Köhne yorgan: 550</p><p>Kaba hasır: 200</p><p>Köhne çuka hırka ve acem gömleği: 125</p><p>Nīmten hırka: 360</p><p>Köhne çuka ... ve zıbun: 325</p><p>Çuka cübbe ve kuşak: 1840</p><p>Köhne Diyabekir entarisi: 100</p><p>Köhne entari ve zıbun: 265</p><p>Köhne sim destar: 430</p><p>Köhne destar: 320</p><p>Don ve gömlek ve uçkur: 270</p><p>Bez gömlek: 2 / 705</p><p>Köhne hırka ve makrame: 150</p><p>Dokuma makrame: 210</p><p>Beledī yasdık: 224</p><p>Yeşil çuka: 330</p><p>..</p><p>Kudūrī alatı: 210</p><p>Pirinc devat ve kalemtıraş: 930</p><p>Evānī-i nuhās: 2428</p><p>Sepet sandık ağaç kaşık: 210</p><p>Köhne alaca entari: 240</p><p>Nakd mevcūd: 3600</p><p>Havass-ı Refia / EYÜP</p></div>
         </body>

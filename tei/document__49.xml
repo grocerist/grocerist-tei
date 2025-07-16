@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__49.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.496 / 35b-3
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.14.d.496 / 35b-3</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.496 / 35b-3</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1789-04-23"/>                    </history>
+                    <history>
+                        <origin when-iso="1789-04-23"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.496 / 35b-3</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1789-04-23">1789-04-23
-                </date>
-                <date calendar="#islamic" when="1203">1203
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -86,29 +96,28 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__49">
+            <person role="main_person" xml:id="person__49">
                 <persName>Bakkal Trandafil v. Yori</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
             </person>
             <person role="mentioned">
-                <persName>Wife</persName>
+                <p>Wife</p>
             </person>
             <person role="mentioned">
-                <persName>Son</persName>
+                <p>Son</p>
             </person>
             <person role="mentioned">
-                <persName>Daughter</persName>
+                <p>Daughter</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="shareholder" active="#person__49">
             </relation>
         </listRelation>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_xf3by2u61amk"/>İSTM.ŞSC.14.d. 496 / 35b-3_<ref target="http://document__49">GrocerIST id_49</ref></head><p>Mahrūse-i Galataya muzāfe kasaba-i Kasımpaşada Tatavla nām mahallede mütemekkin iken bundan akdem hālik olan bakkāl Trandafil veled-i Yorinin verāseti zevcesi .. bt. Tanaş ve sulbī kebīr oğulları Yorgi ve Hristo ve sulbī sagīr oğulları Anastaş ve Dimitri sulbiye kebīre kızı Alinaya münhasıra olduğu lede’ş-şer‘i’l-enver zāhir oldukdan sonra hālik-i merkūmun bi’l-cümle terekesini ahz ü kabz  …. … düyūn-ı müsbitesini … sagīrān-ı mezbūrān Anastaş ve Dimitrinin tesviye-i emrlerini rüyete ...verilen …. vasiyy-i muhtārı olan Trandafil veled-i Yorgi ve merkūmun taleb ve iltimāslarıyla tahrīr olunan tereke-i hālik-i merkūmdur ki ber vech-i ātī zikr olunur. 27 receb 1203</p><p>Biniş: : 2400</p><p>Entari: 1800</p><p>Dizlik cübbe: 1800</p><p>Kalpak, kuşak: 600</p><p>Devat: 180</p><p>Don, gömlek, uçkur, yağlık: 2400</p><p>Döşek, yorgan (2), yasdık (3), çārşeb, yorgan, Yanbolu: 3600</p><p>Bıçak: 600</p><p>Saat: 3000</p><p>Kasaba-i mezkūrede Kulaksız mahallesinde vāki‘Yusuf Paşa dükkānı ta’bir olunur bakkāl dükkānı derūnunda mevcūde hālik -i merkūmun nısf-ı bakkāl ālāt-ı lazımesi: 90000 </p><p>Dükkān-ı mezkūrede hālik merkūmun sermāyesi: 60000 </p><p>Kasaba-i mezkūrede Seyyid Ali mahallesinde vāki‘ Softa kapudan dükkānı ta’bir olunur bakkāl dükkānında hālik-i merkūmun nısf-ı gediği ve ālāt-ı lāzımesi: 40000 </p><p>Dükkān-ı mezkūrede hālik merkūmun sermāyesi: 33620 </p></div>
         </body>

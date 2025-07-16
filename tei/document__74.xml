@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__74.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.06.d.442 / 20a-2
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.06.d.442 / 20a-2</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.06.d.442 / 20a-2</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1756-04-03"/>                    </history>
+                    <history>
+                        <origin when-iso="1756-04-03"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.06.d.442 / 20a-2</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1756-04-03">1756-04-03
-                </date>
-                <date calendar="#islamic" when="1169">1169
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,28 +87,27 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__74">
+            <person role="main_person" xml:id="person__74">
                 <persName>Elhac Mahmud Ağa b. Hasan</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Muslim</faith>
             </person>
             <person role="mentioned">
-                <persName>Wife</persName>
+                <p>Wife</p>
             </person>
             <person role="mentioned">
-                <persName>Daughter</persName>
+                <p>Daughter</p>
             </person>
             <person role="mentioned">
-                <persName>Son</persName>
+                <p>Son</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__74">
             </relation>
         </listRelation>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.06.d. 442 / 20a-2_<ref target="http://document__74">GrocerIST id_74</ref></head><p>Mahmiye-i İstanbul’da Kapu Ağası mahallesinde sākin iken bundan akdem vefāt eden Elhac Mahmud Ağa b. Hasanın verāseti zevce-i menkūha-i metrūkesi Nefise bt. Abdullāh nām hatun ile sulbiye kebīre kızı Fatmaya ve sulbiye sagīre kızı Amineye ve sulbī sagīr oğulları Mahmud ve Osmana münhasıra olduğu tahakkukundan sonra sagīrān-ı mezbūrunun bā-hüccet-i şer‘iye vasiyy-i muhtārları olan Çorbacı Hüseyin Ağa b. Mustafa nām kimesne ile  zātı ta‘rīf-i şer‘ī ile ma‘rīfe olan zevce-i mezbūrenin vekīl-i müseccel-i şer‘īsi olan Esseyid İbrahim Ağa b. Mehmed ile kezālik zātı vech-i şer‘ī üzere ma‘rīfe olan mezbūre şerife Fatıma hatunun vekīl-i sābitü’l-vekālesi olan Veli Efendi b. Receb nām kimesneler taleb ve ma’rifetiyle müteveffā-i mezbūrun medīne-i mezbūrede Sinan Paşa mahallesinde mevcūd olub ba‘de’l-müzāyede bey’ olunan terekesi defteridir ki ber vech-i ātī zikr olunur.   </p><p>Hurrira Fi’l-yevmi’l-sālis min-Recebi’l-ferd li-sene tis‘a ve sittin ve mi’e ve elf 1169 (3 Receb 1169)</p><p>Köhne çuka mak‘ad: 3 / 1330</p><p>Beledī döşek: 405</p><p>Kutnī mak‘ad: 840</p><p>Döşek: 505</p><p>Kırmızı şilte: 300</p><p>Yüz yasdığı: 151</p><p>Minder: 500</p><p>Çatma yasdık: 2400</p><p>Köhne yasdık: 5 / 700</p><p>Baş yasdığı: 250</p><p>Def‘a çatma yasdık: 2650</p><p>Minder: 605</p><p>Minder: 725</p><p>Def‘a minder: 205</p><p>Def‘a minder: 620</p><p>Köhne şilte ve mak‘ad: 205</p><p>Kavuk: 60</p><p>Minder: 3 / 1220</p><p>Def‘a minder: 3 / 1005</p><p>Minder: 2 / 1200</p><p>Beledī yasdık: 13 / 3500</p><p>Beyaz ihrām: 3 / 290</p><p>Tüfenk: 1060</p><p>Yatağan bıçağı: 185</p><p>...</p><p>Penbe ve garar: 1010</p><p>Def‘a penbe ve garar: 1090</p><p>Sagīr minder: 170</p><p>Çuka yasdık: 2 / 290</p><p>Minder: 301</p><p>Kaliçe seccade: 311</p><p>Çuka mak‘ad: 405</p><p>...</p><p>Kapu perdesi ve hırdavat: 165</p><p>Leğen ibrik: 215</p><p>Def‘a leğen ibrik: 240</p><p>Sagīr sini: 450</p><p>Leğen ibrik: 170</p><p>Def‘a leğen ibrik: 205</p><p>Yaldızlı leğen ibrik: 640</p><p>Güğüm: 2 / 615</p><p>Tencere (3) kapak (3) taba: 1000</p><p>Sahan kapak (5): 490</p><p>Tas: 120</p><p>Lenger sini kapak  / 2 / 120</p><p>Bakır mangal: 210</p><p>Şamdan: 2 / 105</p><p>Abdest leğeni: 320</p><p>Kebīr lenger kapak taba desti: 620</p><p>Sahan (2), kapak, tas: 400</p><p>Sagīr sahan : 6 / 210</p><p>Temür mangal: 490</p><p>Kırmızı şilte ma yasdık: 320</p><p>Kaliçe: 1060</p><p>Fanus: 90</p><p>Fağfur kase: 81</p><p>Beledī döşek: 1080</p><p>Kırmızı şilte: 800</p><p>Mısır hasırı: 70</p><p>Beledī yasdık: 40</p><p>Ceviz tahtası: 3000</p><p>Der-zimmet Elhac Mahmud Efendi: 60000</p><p>Mülk menzil der mahalle-i mezbūre:  420000 </p><p>Mülk bakkāl dükkānı der mahalle-i mezbūre: 60000</p><p>Def‘a bakkāl dükkānı der mahalle-i Kefçe : 48000</p></div>
         </body>

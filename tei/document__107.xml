@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__107.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.15.d.275 / 99b-1
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.15.d.275 / 99b-1</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.15.d.275 / 99b-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1793-02-06"/>                    </history>
+                    <history>
+                        <origin when-iso="1793-02-06"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.15.d.275 / 99b-1</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1793-02-06">1793-02-06
-                </date>
-                <date calendar="#islamic" when="1207">1207
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -77,20 +87,20 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__108">
+            <person role="main_person" xml:id="person__108">
                 <persName>Bakkal Esper v. Todori</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
             </person>
             <person role="mentioned">
-                <persName>Wife</persName>
+                <p>Wife</p>
             </person>
             <person role="mentioned">
-                <persName>Beytülmal Emini</persName>
+                <p>Beytülmal Emini</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__108">
             </relation>
         </listRelation>
@@ -133,9 +143,83 @@
                 <name xml:lang="en">Fish</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__918">
+                <measureGrp>
+                    <measure type="value" quantity="6.5" unit="kıyye" commodity="Revgan-ı sade">380.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1536">
+                <measureGrp>
+                    <measure type="value" commodity="Sucuk">220.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1537">
+                <measureGrp>
+                    <measure type="value" quantity="6.6" unit="kıyye" commodity="Revgan-ı sade">380.0</measure>
+                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1538">
+                <measureGrp>
+                    <measure type="value" commodity="Yapağı yün">66.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1539">
+                <measureGrp>
+                    <measure type="value" commodity="Soğan">99.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1540">
+                <measureGrp>
+                    <measure type="value" commodity="Tulum peyniri">603.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1541">
+                <measureGrp>
+                    <measure type="value" commodity="Balık">18.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1542">
+                <measureGrp>
+                    <measure type="value" commodity="Revgan-ı çerviş">120.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1543">
+                <measureGrp>
+                    <measure type="value" commodity="Revgan-ı sade">196.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1544">
+                <measureGrp>
+                    <measure type="value" commodity="Şair">2600.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1545">
+                <measureGrp>
+                    <measure type="value" commodity="Ham sirke">900.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1546">
+                <measureGrp>
+                    <measure type="value" commodity="Saman">120.0</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__3">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__21">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__51">
+                <name xml:lang="tr"/>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head>İSTM.ŞSC.15.d. 275 / 99b-1_<ref target="http://document__107">GrocerIST id_107</ref></head><p>Cennet mekān firdevs-āşiyān merhūm ve mağfūrun-leh Sultan Bayezid Han veli -tābe serāhu-  hazretlerinin İstanbulda vāki‘ camii şerifi ve imāret-i āmireleri evkāfı hududu dāhilinde kāin havāss-ı refi‘a  kāzasına tābi’ Küçük köy nām karyede mütemekkin iken bundan akdem duyūnu terekesinden ezyed olduğu halde maslūben halik olan bakkāl Esper veled-i Todori zımmīnin zāhirde zevce-i metrūkesi Marya bt. Sonkunaki nasrāniyeden gayri vāris-i ma‘rūf ve ma‘rūfe olmayub terekesinin rub‘u zevcesi merkūme ve selāse-i erbā ‘ı  cānib-i beytülmāle āid ve rāci olmağla karye-i mezbūrede bilā-vāris-i ma‘rūf ve ma‘rūfe hālik olanların terekelerini vakf-ı müşārun tarafından kabza memūr ve me’zūn olan karye-i mezbūre subaşısı fahrü’l-akrān İbrahim Efendi b. Mustafa tarafından vekīl-i müsecceli Bostancı Mehmed b. Mustafa ile zevcesi Marya nasrāniye ve erbāb-ı garīm taleb ve ma‘rifetleri ve ma‘rifet-i şer‘le tahrīr ve fürūht olunan hālik-i mersūmun tereke-i kāsırası defteridir ki ber vech-i ātī zikr olunur. Fī 24 min Cemāziyelahir 1207  </p><p><anchor xml:id="xmlid__heading_h_44sinio"/>Sucuk: 220</p><p>Revgan-ı sāde: Kıyye 6.5 / 380</p><p>Tulum: 101</p><p>Bir mikdār yapağı: 66</p><p>Soğan: 99</p><p>Tulum peyniri: 603</p><p>..:</p><p>Def‘a .. :</p><p>Püskül: 18</p><p>Hırdavat: 102</p><p>Piştov: 90</p><p>Balta: 15</p><p>Balık ve kutu: 51</p><p>Bukağı: 30</p><p>Çuval: 93</p><p> Evānī-ı nühāsiye: 1000</p><p>Temür seklam: 21</p><p>Yatağan bıçağı: 30</p><p>Bir mikdār yapağı: 15</p><p>Hırdavat: 21</p><p>Balık: 18</p><p>Revgan-ı çerviş: 120</p><p>Hırdavat revgan-ı sāde: 196</p><p>Bir mikdār yapağı: 42</p><p>Kolan: 18</p><p>Çuval ma rikāb: 78</p><p>Sarık: 21</p><p>Hırdavat: 24</p><p>Çorab: 20</p><p>Çuka entari: 321</p><p>Beyaz dizlik: 130</p><p>Makrame ve havlu: 200</p><p>Hırdavat: 66</p><p>Bıçak: 24</p><p>Beyaz evrāk defteri: 30</p><p>Filinta tüfenk: 200</p><p>Piştov tek: 60</p><p>Şa‘īr ber vech-i tāhmin: 2600</p><p>Ham sirke: 900</p><p>Bir mikdār saman: 120</p><p>Hırdavat-ı dükkān: 1200</p><p>Toru bārgir: 3040</p><p>Bir re’s kır bargir:  1040</p><p>İstanbul</p></div>
         </body>

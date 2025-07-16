@@ -3,9 +3,8 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__16.xml">
         <fileDesc>
             <titleStmt>
-                <title type="main">: İSTM.ŞSC.14.d.241 / 3a-1
-                </title>
-                <title type="sub">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <title level="a">İSTM.ŞSC.14.d.241 / 3a-1</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
@@ -13,10 +12,10 @@
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Wien</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
                         <placeName>
-                            <country>A</country>
+                            <country key="AT">Austria</country>
                             <settlement>Wien</settlement>
                         </placeName>
                     </address>
@@ -30,6 +29,17 @@
                     <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
                     </persName>
                 </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -41,7 +51,9 @@
                         <repository>Name of the Repository</repository>
                         <idno type="archive">İSTM.ŞSC.14.d.241 / 3a-1</idno>
                     </msIdentifier>
-                    <history>                        <origin when-iso="1718-01-04"/>                    </history>
+                    <history>
+                        <origin when-iso="1718-01-04"/>
+                    </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -53,13 +65,11 @@
                 <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.241 / 3a-1</idno>
                 </ab>
             </abstract>
-
-            <creation>
-                <date calendar="#gregorian" when="1718-01-04">1718-01-04
-                </date>
-                <date calendar="#islamic" when="1130">1130
-                </date>
-            </creation>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
@@ -80,22 +90,22 @@
             </place>
         </listPlace>
         <listPerson>
-<person role="main_person" xml:id="person__16">
+            <person role="main_person" xml:id="person__16">
                 <persName>Bakkal Ali Beşe b. Mehmed</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Muslim</faith>
             </person>
             <person role="mentioned">
-                <persName>Wife</persName>
+                <p>Wife</p>
             </person>
             <person role="mentioned">
-                <persName>Daughter</persName>
+                <p>Daughter</p>
             </person>
             <person role="mentioned">
-                <persName>Brother</persName>
+                <p>Brother</p>
             </person>
         </listPerson>
-<listRelation>
+        <listRelation>
             <relation type="ownership" name="owner" active="#person__16">
             </relation>
         </listRelation>
@@ -117,9 +127,73 @@
                 <name xml:lang="en">Fig</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__281">
+                <measureGrp>
+                    <measure type="value" quantity="132.0" unit="kıyye" commodity="Kaşkaval">1795.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__282">
+                <measureGrp>
+                    <measure type="value" quantity="7.5" unit="kantar" commodity="Fındık">1500.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__283">
+                <measureGrp>
+                    <measure type="value" commodity="İncir">700.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__284">
+                <measureGrp>
+                    <measure type="value" commodity="Tulum peyniri">2620.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__285">
+                <measureGrp>
+                    <measure type="value" quantity="5.0" unit="kıyye" commodity="Üzüm">30.0</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__2">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__3">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__4">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__8">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__9">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__10">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__11">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__17">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__18">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__26">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__25">
+                <name xml:lang="tr"/>
+            </item>
+            <item xml:id="utensil__27">
+                <name xml:lang="tr"/>
+            </item>
+        </list>
     </standOff>
     <text>
-
         <body>
             <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_m2phf8x6qb9r"/>İSTM.ŞSC.14.d.241 / 3a-1_<ref target="http://document__16">GrocerIST id_16</ref></head><p>Mahrūse-i Galata tevābi‘inden kasaba-i Kasımpaşada Elhac Hasan mahallesinde sākin iken bundan akdem vefāt eden Bakkāl Ali Beşe b. Mehmed b. Abdullāh nām mütevvefānın verāseti zevce-i menkūhe-i metrūkesi Hadice bt. Mustafa nām hatun ile sulbiye sagīre kızları Amineye ve Afifeye ve li-ebeveyn er karındaşı Mustafa kapudana münhasıra olduğu lede’ş şer‘i zāhir ve mütebeyyin oldukdan sonra mezbūre ile karındaşı mezbūr Mustafa kapudan ma‘rifetiyle  müteveffā-i mezbūrun tahrīr olunan terekesidir ki zikr olunur. </p><p> Fī-āhiri Saferi’l-hayr 1130</p><p>Bakkāl dükkānında mevcūd eşyālardır: </p><p>Kaşkaval: Kıyye132 / Kıymet 1795</p><p>Fındık: Kantar 7.5 / Kıymet 1500 </p><p>İncir-i hamid?:  1 / Kıymet 700</p><p>Tulum Peyniri: 14 / 2620</p><p>Potna: 6 / Kıymet 150</p><p>Küp: 2 / Kıymet 160</p><p>Boş fuçı: Kıymet 160</p><p>Çuval: 3 / Kıymet 135</p><p>Seklem: 2 / Kıymet 30</p><p>Zenbil: 1 / Kıymet 90</p><p>Tabla: Kıymet 75</p><p>Üzüm: Kıyye 5 / Kıymet 30</p><p>Dirhem ma terāzū: Kıymet 360</p><p>Kantar: 2 / Kıymet 180</p><p>Piştahta ve akçe kesesi: Kıymet 70</p><p>Müteveffā-i mezbūrun taht-ı icāresinde olan dükkān müceddeden binā olunmağla icāresine mahsūb olmak üzere kendi malından virdüğü akçeden bākī kalan: 2730</p></div>
         </body>
