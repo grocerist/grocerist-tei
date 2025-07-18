@@ -203,7 +203,7 @@
         <list type="utensils">
             {% for x in info.utensils %}
             <item xml:id="utensil__{{ x.id }}">
-                <name xml:lang="tr">{{ x.name }}</name>
+                <name xml:lang="tr">{{ x.value }}</name>
                 {% if x.notes %}
                 <note>{{ x.notes }}</note>
                 {% endif %}
