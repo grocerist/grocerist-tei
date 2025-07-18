@@ -192,7 +192,7 @@
                         if x.unit %} unit="{{x.unit.value}}" {% endif -%} {%- if x.good[0] %} commodity="{{x.good[0].value}}"
                         {% endif -%}>{{x.total_value}}</measure>
                     {% if x.currency %}
-                    <measure type="currency">{{x.currency}}</measure>
+                    <measure type="currency">{{x.currency.value}}</measure>
                     {% endif %}
                 </measureGrp>
             </item>
