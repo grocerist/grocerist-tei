@@ -9,7 +9,7 @@
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
                 </principal>
-                <funder>
+                <funder key="https://d-nb.info/gnd/108889819X">
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
                         <street>Georg-Coch-Platz 2</street>
@@ -41,8 +41,8 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher>Austrian Center for Digital Humanities</publisher>
-            <publisher>Yavuz Köse</publisher>
+            <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+            <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
             </availability>
@@ -261,13 +261,13 @@
             <item xml:id="price__696">
                 <measureGrp>
                     <measure type="value" quantity="247.0" unit="kıyye" commodity="Revgan-ı sade">6669.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__697">
                 <measureGrp>
                     <measure type="value" quantity="117.0" unit="kıyye" commodity="Karadeniz aseli">1638.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__698">
@@ -353,7 +353,7 @@
             <item xml:id="price__714">
                 <measureGrp>
                     <measure type="value" quantity="70.0" unit="kıyye" commodity="Soğan">70.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__715">
@@ -369,7 +369,7 @@
             <item xml:id="price__717">
                 <measureGrp>
                     <measure type="value" quantity="70.5" unit="keyl" commodity="Pirinc">4935.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__718">
@@ -385,7 +385,7 @@
             <item xml:id="price__720">
                 <measureGrp>
                     <measure type="value" quantity="4.5" unit="keyl" commodity="Nohud">300.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__721">
@@ -421,7 +421,7 @@
             <item xml:id="price__727">
                 <measureGrp>
                     <measure type="value" quantity="130.0" unit="kıyye" commodity="Revgan-ı sade">3120.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__728">
@@ -437,10 +437,10 @@
         </list>
         <list type="utensils">
             <item xml:id="utensil__13">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Kavanoz</name>
             </item>
             <item xml:id="utensil__33">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Zeyt yağı bardağı</name>
             </item>
         </list>
     </standOff>

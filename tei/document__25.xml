@@ -9,7 +9,7 @@
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
                 </principal>
-                <funder>
+                <funder key="https://d-nb.info/gnd/108889819X">
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
                         <street>Georg-Coch-Platz 2</street>
@@ -41,8 +41,8 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher>Austrian Center for Digital Humanities</publisher>
-            <publisher>Yavuz Köse</publisher>
+            <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+            <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
             </availability>
@@ -336,13 +336,13 @@
             <item xml:id="price__389">
                 <measureGrp>
                     <measure type="value" quantity="7.0" unit="kıyye" commodity="Revgan-ı sade">252.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__390">
                 <measureGrp>
                     <measure type="value" quantity="120.0" unit="keyl" commodity="Pirinc">612.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__391">
@@ -403,7 +403,7 @@
             <item xml:id="price__402">
                 <measureGrp>
                     <measure type="value" quantity="150.0" unit="kıyye" commodity="Soğan">450.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__403">
@@ -479,7 +479,7 @@
             <item xml:id="price__418">
                 <measureGrp>
                     <measure type="value" quantity="10.0" unit="kıyye" commodity="Nohud">90.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__419">

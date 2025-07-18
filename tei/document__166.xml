@@ -9,7 +9,7 @@
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
                 </principal>
-                <funder>
+                <funder key="https://d-nb.info/gnd/108889819X">
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
                         <street>Georg-Coch-Platz 2</street>
@@ -41,8 +41,8 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher>Austrian Center for Digital Humanities</publisher>
-            <publisher>Yavuz Köse</publisher>
+            <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+            <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
             </availability>
@@ -207,31 +207,31 @@
             <item xml:id="price__872">
                 <measureGrp>
                     <measure type="value" quantity="17.0" unit="kıyye" commodity="Pirinc">136.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__919">
                 <measureGrp>
                     <measure type="value" quantity="26.0" unit="kıyye" commodity="Revgan-ı sade">1040.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__953">
                 <measureGrp>
                     <measure type="value" quantity="16.0" unit="kıyye" commodity="Bal / Asel">256.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__989">
                 <measureGrp>
                     <measure type="value" quantity="17.0" unit="kıyye" commodity="Nohud">68.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1847">
                 <measureGrp>
                     <measure type="value" quantity="26.0" unit="kıyye" commodity="Revgan-ı sade">1040.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1848">
@@ -242,7 +242,7 @@
             <item xml:id="price__1849">
                 <measureGrp>
                     <measure type="value" quantity="16.0" commodity="Bal / Asel">256.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1850">
@@ -258,7 +258,7 @@
             <item xml:id="price__1852">
                 <measureGrp>
                     <measure type="value" quantity="17.0" commodity="Nohud">68.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1853">
@@ -339,85 +339,85 @@
         </list>
         <list type="utensils">
             <item xml:id="utensil__1">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Taba</name>
             </item>
             <item xml:id="utensil__2">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Zenbil</name>
             </item>
             <item xml:id="utensil__4">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Kantar</name>
             </item>
             <item xml:id="utensil__8">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Terazi</name>
             </item>
             <item xml:id="utensil__10">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Fuçı</name>
             </item>
             <item xml:id="utensil__11">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Tabla</name>
             </item>
             <item xml:id="utensil__17">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Küp</name>
             </item>
             <item xml:id="utensil__18">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Potna</name>
             </item>
             <item xml:id="utensil__21">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Bıçak</name>
             </item>
             <item xml:id="utensil__36">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Nardenk destisi</name>
             </item>
             <item xml:id="utensil__61">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Nişasta fuçısı</name>
             </item>
             <item xml:id="utensil__64">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Kazgan</name>
             </item>
             <item xml:id="utensil__76">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Destere</name>
             </item>
             <item xml:id="utensil__77">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Keser</name>
             </item>
             <item xml:id="utensil__79">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Havan</name>
             </item>
             <item xml:id="utensil__87">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Akçe tahtası</name>
             </item>
             <item xml:id="utensil__88">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Rende</name>
             </item>
             <item xml:id="utensil__121">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Faraş</name>
             </item>
             <item xml:id="utensil__122">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Peynir tablası</name>
             </item>
             <item xml:id="utensil__123">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Zeytun teknesi</name>
             </item>
             <item xml:id="utensil__124">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Sini</name>
             </item>
             <item xml:id="utensil__125">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Bal fuçısı</name>
             </item>
             <item xml:id="utensil__126">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Süzgü</name>
             </item>
             <item xml:id="utensil__129">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Bal destisi</name>
             </item>
             <item xml:id="utensil__130">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Attar fuçısı</name>
             </item>
             <item xml:id="utensil__131">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Pirinç kalburu</name>
             </item>
             <item xml:id="utensil__132">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Balta</name>
             </item>
         </list>
     </standOff>

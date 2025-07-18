@@ -9,7 +9,7 @@
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
                 </principal>
-                <funder>
+                <funder key="https://d-nb.info/gnd/108889819X">
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
                         <street>Georg-Coch-Platz 2</street>
@@ -41,8 +41,8 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher>Austrian Center for Digital Humanities</publisher>
-            <publisher>Yavuz Köse</publisher>
+            <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+            <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
             </availability>
@@ -178,7 +178,7 @@
             <item xml:id="price__684">
                 <measureGrp>
                     <measure type="value" quantity="100.0" unit="kıyye" commodity="Soğan">300.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__685">
@@ -239,19 +239,19 @@
         </list>
         <list type="utensils">
             <item xml:id="utensil__6">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Bardak</name>
             </item>
             <item xml:id="utensil__8">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Terazi</name>
             </item>
             <item xml:id="utensil__9">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Dirhem</name>
             </item>
             <item xml:id="utensil__10">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Fuçı</name>
             </item>
             <item xml:id="utensil__102">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Zeytun yağı kapları</name>
             </item>
         </list>
     </standOff>

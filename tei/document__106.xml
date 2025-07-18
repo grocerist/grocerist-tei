@@ -9,7 +9,7 @@
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
                 </principal>
-                <funder>
+                <funder key="https://d-nb.info/gnd/108889819X">
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
                         <street>Georg-Coch-Platz 2</street>
@@ -41,8 +41,8 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher>Austrian Center for Digital Humanities</publisher>
-            <publisher>Yavuz Köse</publisher>
+            <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+            <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
             </availability>
@@ -252,19 +252,19 @@
             <item xml:id="price__870">
                 <measureGrp>
                     <measure type="value" quantity="7.0" unit="keyl" commodity="Pirinc">2520.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__987">
                 <measureGrp>
                     <measure type="value" quantity="8.0" unit="kıyye" commodity="Nohud">168.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1029">
                 <measureGrp>
                     <measure type="value" quantity="40.0" unit="kıyye" commodity="Soğan">300.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1510">
@@ -310,7 +310,7 @@
             <item xml:id="price__1518">
                 <measureGrp>
                     <measure type="value" quantity="40.0" unit="kıyye" commodity="Soğan">300.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1519">
@@ -341,13 +341,13 @@
             <item xml:id="price__1524">
                 <measureGrp>
                     <measure type="value" quantity="8.0" unit="kıyye" commodity="Nohud">168.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1525">
                 <measureGrp>
                     <measure type="value" quantity="7.0" unit="keyl" commodity="Pirinc">2520.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1526">
@@ -403,25 +403,25 @@
         </list>
         <list type="utensils">
             <item xml:id="utensil__2">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Zenbil</name>
             </item>
             <item xml:id="utensil__4">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Kantar</name>
             </item>
             <item xml:id="utensil__9">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Dirhem</name>
             </item>
             <item xml:id="utensil__48">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Kahve terazisi</name>
             </item>
             <item xml:id="utensil__49">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Duhan kavanozu</name>
             </item>
             <item xml:id="utensil__50">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Sandık</name>
             </item>
             <item xml:id="utensil__103">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Arşın</name>
             </item>
         </list>
     </standOff>

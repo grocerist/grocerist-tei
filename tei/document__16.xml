@@ -9,7 +9,7 @@
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
                 </principal>
-                <funder>
+                <funder key="https://d-nb.info/gnd/108889819X">
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
                         <street>Georg-Coch-Platz 2</street>
@@ -41,8 +41,8 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher>Austrian Center for Digital Humanities</publisher>
-            <publisher>Yavuz Köse</publisher>
+            <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+            <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
             </availability>
@@ -159,40 +159,40 @@
         </list>
         <list type="utensils">
             <item xml:id="utensil__2">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Zenbil</name>
             </item>
             <item xml:id="utensil__3">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Çuval</name>
             </item>
             <item xml:id="utensil__4">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Kantar</name>
             </item>
             <item xml:id="utensil__8">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Terazi</name>
             </item>
             <item xml:id="utensil__9">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Dirhem</name>
             </item>
             <item xml:id="utensil__10">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Fuçı</name>
             </item>
             <item xml:id="utensil__11">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Tabla</name>
             </item>
             <item xml:id="utensil__17">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Küp</name>
             </item>
             <item xml:id="utensil__18">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Potna</name>
             </item>
             <item xml:id="utensil__26">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Seklem</name>
             </item>
             <item xml:id="utensil__25">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Piştahta</name>
             </item>
             <item xml:id="utensil__27">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Akçe kesesi</name>
             </item>
         </list>
     </standOff>

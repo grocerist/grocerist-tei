@@ -9,7 +9,7 @@
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
                 </principal>
-                <funder>
+                <funder key="https://d-nb.info/gnd/108889819X">
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
                         <street>Georg-Coch-Platz 2</street>
@@ -41,8 +41,8 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher>Austrian Center for Digital Humanities</publisher>
-            <publisher>Yavuz Köse</publisher>
+            <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+            <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
             </availability>
@@ -308,7 +308,7 @@
             <item xml:id="price__317">
                 <measureGrp>
                     <measure type="value" quantity="32.0" unit="kıyye" commodity="Pirinc">256.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__318">
@@ -329,25 +329,25 @@
             <item xml:id="price__321">
                 <measureGrp>
                     <measure type="value" quantity="50.0" unit="kıyye" commodity="Nohud">250.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__322">
                 <measureGrp>
                     <measure type="value" quantity="10.0" unit="kıyye" commodity="Soğan">30.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
         </list>
         <list type="utensils">
             <item xml:id="utensil__5">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Desti</name>
             </item>
             <item xml:id="utensil__10">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Fuçı</name>
             </item>
             <item xml:id="utensil__18">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Potna</name>
             </item>
         </list>
     </standOff>

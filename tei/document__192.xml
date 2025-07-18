@@ -9,7 +9,7 @@
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
                         Köse</persName>
                 </principal>
-                <funder>
+                <funder key="https://d-nb.info/gnd/108889819X">
                     <name>FWF - Der Wissenschaftsfonds</name>
                     <address>
                         <street>Georg-Coch-Platz 2</street>
@@ -41,8 +41,8 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher>Austrian Center for Digital Humanities</publisher>
-            <publisher>Yavuz Köse</publisher>
+            <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+            <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
             </availability>
@@ -262,25 +262,25 @@
             <item xml:id="price__882">
                 <measureGrp>
                     <measure type="value" quantity="168.0" unit="kıyye" commodity="Pirinc">7077.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__925">
                 <measureGrp>
                     <measure type="value" quantity="11.0" unit="kıyye" commodity="Revgan-ı sade">924.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__996">
                 <measureGrp>
                     <measure type="value" quantity="103.0" unit="kıyye" commodity="Nohud">1854.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1036">
                 <measureGrp>
                     <measure type="value" quantity="25.0" unit="kıyye" commodity="Soğan">250.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1700">
@@ -291,7 +291,7 @@
             <item xml:id="price__1701">
                 <measureGrp>
                     <measure type="value" quantity="168.0" unit="kıyye" commodity="Pirinc">7077.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1702">
@@ -317,7 +317,7 @@
             <item xml:id="price__1706">
                 <measureGrp>
                     <measure type="value" quantity="103.0" unit="kıyye" commodity="Nohud">1854.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
             <item xml:id="price__1707">
@@ -433,37 +433,37 @@
             <item xml:id="price__1729">
                 <measureGrp>
                     <measure type="value" quantity="25.0" unit="kıyye" commodity="Soğan">250.0</measure>
-                    <measure type="currency">{'id': 18609, 'value': 'akçe', 'color': 'brown'}</measure>
+                    <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
         </list>
         <list type="utensils">
             <item xml:id="utensil__2">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Zenbil</name>
             </item>
             <item xml:id="utensil__3">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Çuval</name>
             </item>
             <item xml:id="utensil__5">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Desti</name>
             </item>
             <item xml:id="utensil__6">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Bardak</name>
             </item>
             <item xml:id="utensil__10">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Fuçı</name>
             </item>
             <item xml:id="utensil__13">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Kavanoz</name>
             </item>
             <item xml:id="utensil__32">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Destgah</name>
             </item>
             <item xml:id="utensil__144">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Kapu</name>
             </item>
             <item xml:id="utensil__145">
-                <name xml:lang="tr"/>
+                <name xml:lang="tr">Sicim</name>
             </item>
         </list>
     </standOff>
