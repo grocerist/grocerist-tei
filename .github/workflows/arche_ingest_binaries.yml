@@ -1,0 +1,30 @@
+name: ARCHE-Binary-Ingest
+
+on:
+  workflow_dispatch
+
+jobs:
+  ingest_binaries:
+    name: Ingest Binary Data into ARCHE
+    runs-on: ubuntu-latest
+    env:
+      ARCHE_USER: pandorfer
+      ARCHE_PASSWORD: ${{secrets.ARCHE_PASSWORD}}
+      ARCHE: https://arche-curation.acdh-dev.oeaw.ac.at/api
+      TOPCOLID: https://id.acdh.oeaw.ac.at/grocerist
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v4
+    - name: Setup python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.12"
+    - name: install python things
+      run: pip install -r requirements.txt
+    - name: Fetch the data
+      run: ./fetch_data.sh
+    - name: create arche metadata
+      run: python arche/make_metadata.py
+    - name: run binaries import
+      run: ./arche/arche__ingest_binaries.sh
+    

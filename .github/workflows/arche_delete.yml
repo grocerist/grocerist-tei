@@ -1,0 +1,22 @@
+name: ARCHE-Delete
+
+on:
+  workflow_dispatch
+
+jobs:
+  build_pages:
+    name: Delete data from ARCHE 
+    runs-on: ubuntu-latest
+    env:
+      ARCHE_USER: pandorfer
+      ARCHE_PASSWORD: ${{secrets.ARCHE_PASSWORD}}
+      ARCHE: https://arche-curation.acdh-dev.oeaw.ac.at/api
+      TOPCOLID: https://id.acdh.oeaw.ac.at/grocerist
+      TITLEIMAGE: https://id.acdh.oeaw.ac.at/grocerist/title-img.jpg
+      PROJECTID: https://id.acdh.oeaw.ac.at/grocerist/project
+
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v4
+    - name: delete data
+      run: ./arche/arche__delete.sh

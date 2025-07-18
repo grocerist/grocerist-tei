@@ -1,0 +1,174 @@
+@prefix acdh: <https://vocabs.acdh.oeaw.ac.at/schema#> .
+@prefix acdhi: <https://id.acdh.oeaw.ac.at/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+<https://d-nb.info/gnd/130017086> a acdh:Person ;
+    acdh:hasTitle "Christian Danz"@de .
+
+<https://d-nb.info/gnd/1043833846> a acdh:Person ;
+    acdh:hasTitle "Andorfer, Peter"@de .
+
+<https://d-nb.info/gnd/108889819X> a acdh:Organisation ;
+    acdh:hasTitle "FWF Der Wissenschaftsfonds"@de .
+
+<https://d-nb.info/gnd/2101270-2> a acdh:Organisation ;
+    acdh:hasTitle "Evangelisch-Theologische Fakultät der Universität Wien, Institut für Systematische Theologie und Religionswissenschaft"@de .
+
+<https://d-nb.info/gnd/2024497-6> a acdh:Organisation ;
+    acdh:hasTitle "Evangelisch-Theologische Fakultät der Ludwig-Maximilians-Universität München, Abteilung für Systematische Theologie"@de .
+
+<https://id.acdh.oeaw.ac.at/grocerist> a acdh:TopCollection ;
+    acdh:hasPid "https://hdl.handle.net/21.11115/0000-0016-DA82-F" ; # don't change this, this handle already points to https://id.acdh.oeaw.ac.at/grocerist
+    acdh:hasRelatedProject <https://id.acdh.oeaw.ac.at/grocerist/project> ;
+    acdh:hasDescription """The digital edition Paul Tillich – Correspondence 1886–1933 makes accessible, for the first time in scholarly form, a selection of letters from the early life of the German Protestant theologian Paul Tillich (1886–1965). Covering his formative years, the collection documents his personal development, theological formation, and intellectual positioning in the German academic and cultural landscape prior to his emigration. The letters provide insights into Tillich’s education, his service in World War I, his engagement with religious socialism, and his academic rise during the Weimar Republic. They reveal the emergence of Tillich’s theological and philosophical thinking, his social and professional networks, and his increasing political awareness leading up to the National Socialist seizure of power. The edition offers annotated texts, contextual metadata, and is fully aligned with digital edition standards. It contributes to research on early 20th-century theology, German intellectual history, and the political entanglements of religious thought before 1933."""@en ;
+    acdh:hasDescription """Die digitale Ausgabe „Paul Tillich – Korrespondenz 1886–1933“ macht erstmals in wissenschaftlicher Form eine Auswahl von Briefen aus dem frühen Leben des deutschen protestantischen Theologen Paul Tillich (1886–1965) zugänglich. Die Sammlung umfasst seine prägenden Jahre und dokumentiert seine persönliche Entwicklung, seine theologische Ausbildung und seine intellektuelle Positionierung in der deutschen akademischen und kulturellen Landschaft vor seiner Emigration. Die Briefe geben Einblicke in Tillichs Ausbildung, seinen Dienst im Ersten Weltkrieg, sein Engagement für den religiösen Sozialismus und seinen akademischen Aufstieg während der Weimarer Republik. Sie zeigen die Entstehung von Tillichs theologischem und philosophischem Denken, seine sozialen und beruflichen Netzwerke und sein wachsendes politisches Bewusstsein im Vorfeld der nationalsozialistischen Machtergreifung. Die Ausgabe bietet kommentierte Texte, kontextbezogene Metadaten und entspricht vollständig den Standards für digitale Ausgaben. Sie leistet einen Beitrag zur Forschung über die Theologie des frühen 20. Jahrhunderts, die deutsche Geistesgeschichte und die politischen Verflechtungen des religiösen Denkens vor 1933.)"""@de ;
+    acdh:hasCoverageStartDate "1877-01-01"^^xsd:date ;
+    acdh:hasCoverageEndDate "1933-01-31"^^xsd:date ;
+    acdh:hasTitle """Tillich Briefe — Die Korrespondenz von Paul Tillich"""@de ;
+    acdh:hasLifeCycleStatus <https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/active> ;
+    acdh:hasCompleteness "Diese Sammlung wird sukzessive erweitert."@de ;
+    # acdh:hasUrl "https://grocerist.acdh.oeaw.ac.at" ;
+    acdh:hasSubject "digital edition"@en ;
+    acdh:hasSubject "Digitale Edition"@de ;
+    acdh:hasSubject "Paul Tillich"@en ;
+    acdh:hasSubject "Paul Tillich"@de ;
+    acdh:hasSubject "Protestant theology"@en ;
+    acdh:hasSubject "Protestantische Theologie"@de ;
+    acdh:hasSubject "religious socialism"@en ;
+    acdh:hasSubject "religiöser Sozialismus"@de ;
+    acdh:hasSubject "exile studies"@en ;
+    acdh:hasSubject "Exilforschung"@de ;
+    acdh:hasSubject "World War I"@en ;
+    acdh:hasSubject "Erster Weltkrieg"@de ;
+    acdh:hasSubject "Weimar Republic"@en ;
+    acdh:hasSubject "Weimarer Republik"@de ;
+    acdh:hasSubject "emigration"@en ;
+    acdh:hasSubject "Auswanderung"@de ;
+    acdh:hasSubject "religion and politics"@en ;
+    acdh:hasSubject "Religion und Politik"@de ;
+    acdh:hasSubject "intellectual exile"@en ;
+    acdh:hasSubject "intellektuelles Exil"@de ;
+    acdh:hasSubject "20th-century theology"@en ;
+    acdh:hasSubject "Theologie des 20. Jahrhunderts"@de ;
+    acdh:hasSubject "intellectual networks"@en ;
+    acdh:hasSubject "intellektuelle Netzwerke"@de ;
+    acdh:hasTemporalCoverage "20th century"@en;
+    acdh:hasTemporalCoverage "20. Jahrhundert"@de;
+    acdh:hasSpatialCoverage <https://sws.geonames.org/2921044/> ;  # Deutschland
+    acdh:hasSpatialCoverage <https://sws.geonames.org/2658434/> ;  # Switzerland
+    acdh:hasSpatialCoverage <https://sws.geonames.org/3017382/> ;  # France
+    acdh:hasSpatialCoverage <https://sws.geonames.org/798544/> ;  # Polnand
+    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/6032> ,
+        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/603222> ,
+        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/603118> ,
+        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/603908> ;
+    acdh:hasEditor <https://orcid.org/0000-0003-4096-603X> ,
+        <https://orcid.org/0009-0008-1033-0819> ;
+    acdh:hasCreator <https://orcid.org/0009-0002-5479-2296> ,
+        <https://orcid.org/0000-0002-8410-4290> ,
+        <https://orcid.org/0000-0001-5007-7397> ,
+        <https://orcid.org/0000-0002-8408-8657> ,
+        <https://orcid.org/0000-0002-0440-4008> ,
+        <https://orcid.org/0009-0005-1475-7324> ,
+        <https://orcid.org/0009-0003-2985-2151> ,
+        <https://orcid.org/0009-0008-9645-8839> ,
+        <https://orcid.org/0009-0007-2445-9093> ,
+        <https://orcid.org/0009-0003-9642-5125> ,
+        <https://orcid.org/0009-0006-5231-3094> ,
+        <https://orcid.org/0009-0008-3689-759X> ,
+        <https://orcid.org/0009-0007-4965-1495> ,
+        <https://orcid.org/0009-0008-1033-0819> ,
+        <https://orcid.org/0000-0003-4096-603X> ,
+        <https://orcid.org/0000-0003-4671-1839> .
+
+<https://id.acdh.oeaw.ac.at/grocerist/editions> a acdh:Collection ;
+    acdh:hasTitle """TEI/XML kodierte Editionsdaten"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/grocerist> .
+
+<https://id.acdh.oeaw.ac.at/grocerist/meta> a acdh:Collection ;
+    acdh:hasTitle """Paratexte"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/grocerist> .
+
+<https://id.acdh.oeaw.ac.at/grocerist/indices> a acdh:Collection ;
+    acdh:hasTitle """Registerdaten"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/grocerist> .
+
+<https://id.acdh.oeaw.ac.at/grocerist/title-image.jpg> a acdh:Resource ;
+    acdh:hasTitle """Titelbild zu: Tillich Briefe"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/grocerist> ;
+    acdh:isTitleImageOf <https://id.acdh.oeaw.ac.at/grocerist> ;
+    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    acdh:hasLicensor  <https://orcid.org/0000-0002-0440-4008> ;
+    acdh:hasOwner  <https://orcid.org/0000-0002-0440-4008> ;
+    acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/image> ;
+    acdh:hasRightsHolder <https://orcid.org/0000-0002-0440-4008> .
+
+<https://id.acdh.oeaw.ac.at/grocerist/project> a acdh:Project ;
+    acdh:hasContact <https://d-nb.info/gnd/130017086> ;
+    acdh:hasPrincipalInvestigator <https://d-nb.info/gnd/130017086> ;
+    acdh:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    acdh:hasRelatedCollection <https://id.acdh.oeaw.ac.at/grocerist> ;
+    acdh:hasFunder <https://d-nb.info/gnd/108889819X> ;
+    acdh:hasTitle "Edition des Briefwechsels von Paul Tillich (1887-1933)"@de ;
+    acdh:hasTitle "Edition Paul Tillich´s Correspondence (1887-1933)"@en ;
+    acdh:hasUrl "https://www.fwf.ac.at/en/research-radar/10.55776/I4857" ;
+    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/6032> ,
+        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/603222> ,
+        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/603118> ,
+        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/603908> ;
+    acdh:hasSubject "digital edition"@en ;
+    acdh:hasSubject "Digitale Edition"@de ;
+    acdh:hasStartDate "2021-02-01" ;
+    acdh:hasEndDate "2024-04-30" ;
+    acdh:hasDescription """In dem vom FWF und der DFG geförderten Internationalen Joint Project wird an der Evangelisch- Theologischen Fakultät der Universität Wien und an der Evangelisch-Theologischen Fakultät der Uni- versität München Paul Tillichs (1886-1965) umfangreiche Korrespondenz aus seiner deutschen Zeit von 1887 bis 1933 in einer Hybridedition in drei Clustern der Forschung zugänglich gemacht: Cluster I: Korrespondenz des jungen Tillich bis zum Beginn des 1. Weltkriegs, Cluster II: Kriegskorrespondenz, Cluster III: Korrespondenz der deutschen Zeit bis zur Emigration. Paul Tillich, der zu den bedeutendsten und einflussreichsten protestantischen Theologen und Religi- onsphilosophen des 20. Jahrhunderts gehört, lehrte nach Studium, Promotion und Habilitation an den Theologischen Fakultäten Berlin und Marburg, der Technische Hochschule Dresden und der Universi- tät Frankfurt am Main. Während der 1920er Jahre pflegte er enge Kontakte mit Ökonomen und Poli- tikwissenschaftlern, Kultur- und Sozialwissenschaftlern und Philosophen. Tillich war einer der ers ten nichtjüdischen Hochschullehrer, die im April 1933 von den Nationalsozialisten beurlaubt wurden. In den USA, in die er im selben Jahr emigrierte, fand er nach anfänglichen Schwierigkeiten eine neue Wirkungsstätte und machte eine beispielhafte Karriere in seiner neuen Heimat. Das Hybrideditionsprojekt behebt ein gravierendes Desiderat der bisherigen Forschung. Bislang exis- tiert keine kritischen Standards genügende Ausgabe seines umfangreichen Briefwechsels. Während von anderen wichtigen Theologen und Philosophen des 20. Jahrhunderts inzwischen deren Korrespon- denzen in kritischen Editionen vorliegen und zu einer unverzichtbaren Quelle für eine Rekonstruktion von deren Denken wurden, ist das bei Tillich nicht der Fall. Erst eine solche Edition macht es möglich, den Werdegang sowie die verzweigten Netzwerke, in denen sich sein Denken formte, wissenschaftlich zu erschließen. Das betrifft neben der Werkgeschichte auch die Biographie, die bislang nur unzu- reichend erforscht ist. Mit der Edition von Tillichs Korrespondenz aus seiner deutschen Zeit leistet das Projekt nicht nur eine grundlegende Vorarbeit für eine geistes- und ideengeschichtliche Erschließung seines Werkes, es rückt auch Aspekte und Zusammenhänge seines Wirkens in das Blickfeld, die bis - lang völlig unberücksichtigt geblieben sind. Dadurch eröffnet es völlig neue Perspektiven auf die Werkgeschichte seines Denkens in den komplexen theologisch-philosophischen und politischen De- battenlagen des 20. Jahrhunderts. Gerade aufgrund der Heterogenität der Wirksamkeit Tillichs, s einer vielfältigen Kontakte in Sozial-, Kultur- und diversen anderen Wissenschaften ist seine Korrespondenz von herausragender Bedeutung für die Erschließung der geistigen und politischen Geschichte des 20. Jahrhunderts."""@de ;
+    acdh:hasDescription """In the International Joint Project supported by the Austrian Science Fund and the Deutsche For- schungsgemeinschaft (FWF and DFG), Paul Tillichs (1886-1965) extensive correspondence from his German period from 1887 to 1933 will be made accessible to research in a hybrid edition in three clus- ters at the Faculty of Protestant Theology at the University of Vienna and the Faculty of Protestant Theology at the University of Munich: Cluster I: Correspondence of the young Tillich until the beginning of World War I, Cluster II: War Correspondence, Cluster III: Correspondence of the German time until emigration. Paul Tillich, one of the most important and influential Protestant theologians and philosophers of reli- gion of the 20th century, taught at the theological faculties of Berlin and Marburg, the Technic al Uni- versity of Dresden and the University of Frankfurt am Main after his studies, doctorate and habilita- tion. During the 1920s he maintained close contacts with economists and political scientis ts , c ultural and social scientists and philosophers. Tillich was one of the first non-Jewish university lecturers to be granted leave by the National Socialists in April 1933. In the USA, to which he emigrated in the s ame year, he found a new place of work after initial difficulties and made an exemplary career in his new home. The hybrid edition project remedies a serious desideratum of previous research. So far, no critical standards-satisfactory edition of his extensive correspondence has been published. While other im- portant theologians and philosophers of the 20th century have now had their correspondence published in critical editions and become an indispensable source for a reconstruction of their thinking, this is not the case with Tillich. Only such an edition makes it possible to scientifically explore his career and the ramified networks in which his thought was formed. This applies not only to the history of his works, but also to his biography, which has not yet been sufficiently researched. With the edition of Tillichs correspondence from his German period, the project not only does fundamental groundw ork for an intellectual and intellectual history of his work, it also brings into focus aspects and connections of his work that have been completely ignored until now. In this way, it opens up completely new perspectives on the work history of his thought in the complex theological-philosophical and politic al debates of the 20th century. Precisely because of the heterogeneity of Tillichs effectiveness, his many contacts in the social, cultural and various other sciences, his correspondence is of outstanding im- portance for the exploration of the intellectual and political history of the 20th century."""@en .
+
+
+<https://orcid.org/0009-0002-5479-2296> a acdh:Person;
+    acdh:hasTitle "Alma Ament"@und .
+
+<https://orcid.org/0000-0002-8410-4290> a acdh:Person;
+    acdh:hasTitle "Andreas Burri"@und .
+
+<https://orcid.org/0000-0001-5007-7397> a acdh:Person;
+    acdh:hasTitle "Emil Lusser"@und .
+
+<https://orcid.org/0000-0002-8408-8657> a acdh:Person;
+    acdh:hasTitle "Friedrich Schumann"@und .
+
+<https://orcid.org/0000-0002-0440-4008> a acdh:Person;
+    acdh:hasTitle "Gerrit Mauritz"@und .
+
+<https://orcid.org/0009-0005-1475-7324> a acdh:Person;
+    acdh:hasTitle "Jonas Epple"@und .
+
+<https://orcid.org/0009-0003-2985-2151> a acdh:Person;
+    acdh:hasTitle "Julian Jöri"@und .
+
+<https://orcid.org/0009-0008-9645-8839> a acdh:Person;
+    acdh:hasTitle "Leopold Potyka"@und .
+
+<https://orcid.org/0009-0007-2445-9093> a acdh:Person;
+    acdh:hasTitle "Niklas von Hülsen"@und .
+
+<https://orcid.org/0009-0003-9642-5125> a acdh:Person;
+    acdh:hasTitle "Paul Schömann"@und .
+
+<https://orcid.org/0009-0006-5231-3094> a acdh:Person;
+    acdh:hasTitle "Sebastian Kueffner"@und .
+
+<https://orcid.org/0009-0008-3689-759X> a acdh:Person;
+    acdh:hasTitle "Harald Haury"@und .
+
+<https://orcid.org/0009-0007-4965-1495> a acdh:Person;
+    acdh:hasTitle "Johannes Heider"@und .
+
+<https://orcid.org/0009-0008-1033-0819> a acdh:Person;
+    acdh:hasTitle "Friedrich Wilhelm Graf"@und .
+
+<https://orcid.org/0000-0003-4096-603X> a acdh:Person;
+    acdh:hasTitle "Christian Danz"@und .
+
+<https://orcid.org/0000-0003-4671-1839> a acdh:Person;
+    acdh:hasTitle "Thomas Scheiwiller"@und .
