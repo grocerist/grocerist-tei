@@ -109,6 +109,9 @@
             </person>
         </listPerson>
     </standOff>
+    <facsimile>
+        <graphic url="https://id.acdh.oeaw.ac.at/grocerist/facs/6392451_0001.jpg"/>
+    </facsimile>
     <text>
         <body>
             <div><p>This document does not contain any groceries.</p></div>

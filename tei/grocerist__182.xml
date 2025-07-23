@@ -165,6 +165,9 @@
             </item>
         </list>
     </standOff>
+    <facsimile>
+        <graphic url="https://id.acdh.oeaw.ac.at/grocerist/facs/9618955_0001.jpg"/>
+    </facsimile>
     <text>
         <body>
             <div><p>This document does not contain any groceries.</p></div>
