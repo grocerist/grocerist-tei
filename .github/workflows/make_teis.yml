@@ -26,7 +26,7 @@ jobs:
           python scripts/download_docx.py
       - name: split and enrich files
         run: |
-          python scripts/split.py
+          python scripts/create_doc_teis.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

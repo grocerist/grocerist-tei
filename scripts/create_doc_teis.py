@@ -4,6 +4,7 @@ import lxml.etree as ET
 import jinja2
 import requests
 from acdh_tei_pyutils.tei import TeiReader
+
 # import copy
 
 
@@ -12,6 +13,19 @@ from config import TEI_DIR, SOURCE_XML_FILES, DOCUMENT_URL
 nsmap = {
     "tei": "http://www.tei-c.org/ns/1.0",
 }
+
+
+def create_tei_document(doc_id, body_content, doc_info, template, has_transcript):
+    # Create and save a TEI document using a Jinja2 template
+    file_name = f"{doc_id}.xml"
+    object_data = {"doc_id": doc_id, "file_name": file_name, "body": body_content}
+
+    context = {"object": object_data, "info": doc_info, "has_transcript": has_transcript}
+
+    xml_data = template.render(context)
+    doc = TeiReader(xml_data)
+    doc.tree_to_file(os.path.join(TEI_DIR, file_name))
+
 
 templateLoader = jinja2.FileSystemLoader(searchpath="./scripts/templates")
 templateEnv = jinja2.Environment(
@@ -26,6 +40,7 @@ data = r.json()
 shutil.rmtree(TEI_DIR, ignore_errors=True)
 os.makedirs(TEI_DIR, exist_ok=True)
 
+# Process documents with a transcript
 for source_xml in SOURCE_XML_FILES:
     doc = TeiReader(source_xml)
     nsmap = doc.nsmap
@@ -78,14 +93,16 @@ for source_xml in SOURCE_XML_FILES:
             #     print("original text was changed during processing")
 
             doc_id = ref.split("/")[-1]
-            file_name = f"{doc_id}.xml"
-            object["doc_id"] = doc_id
             doc_cur_nr = doc_id.split("__")[-1]
-            object["file_name"] = file_name
-            object["body"] = ET.tostring(x).decode("utf-8")
-            context = {}
-            context["object"] = object
-            context["info"] = data[doc_cur_nr]
-            xml_data = template.render(context)
-            doc = TeiReader(xml_data)
-            doc.tree_to_file(os.path.join(TEI_DIR, file_name))
+            body_content = ET.tostring(x).decode("utf-8")
+            create_tei_document(doc_id, body_content, data[doc_cur_nr], template, has_transcript=True)
+
+
+# Process documents without transcripts
+for doc_id, doc_info in data.items():
+    # Check if this document already has a TEI file (i.e. was processed above)
+    file_name = f"grocerist__{doc_id}.xml"
+    if not os.path.exists(os.path.join(TEI_DIR, file_name)):
+        full_doc_id = f"grocerist__{doc_id}"
+        body_content = "<div><p>This document does not contain any groceries.</p></div>"
+        create_tei_document(full_doc_id, body_content, doc_info, template, has_transcript=False)
