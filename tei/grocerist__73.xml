@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="grocerist__73.xml">
+        <fileDesc>
+            <titleStmt>
+                <title level="a">İSTM.ŞSC.06.d.440 / 24b-1</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
+                </principal>
+                <funder key="https://d-nb.info/gnd/108889819X">
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
+                        <placeName>
+                            <country key="AT">Austria</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator" key="https://orcid.org/0009-0006-6400-6198">Sümeyye Hoşgör Büke
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+                <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Name of the Archive</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d.440 / 24b-1</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin when-iso="1755-04-21"/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <ab>Data of the grocer's shop inventory
+                    with shelfmark <idno>İSTM.ŞSC.06.d.440 / 24b-1</idno>
+                </ab>
+            </abstract>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
+        </profileDesc>
+    </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">41.02350 29.03198</geo>
+                </location>
+            </place>
+            <place xml:id="district__16" type="district">
+                <placeName>Üsküdar</placeName>
+            </place>
+            <place xml:id="neighbourhood__52" type="neighbourhood">
+                <placeName>Yenimahalle</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+            <person role="main_person" xml:id="person__110">
+                <persName>Bakkal Panayot v. İsteradik</persName>
+                <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <p>Brother</p>
+            </person>
+        </listPerson>
+        <listRelation>
+            <relation type="ownership" name="owner" active="#person__110">
+            </relation>
+        </listRelation>
+        <list type="inventory">
+            <item xml:id="goods__68">
+                <name xml:lang="tr">Lüle</name>
+                <name xml:lang="en">Pipe</name>
+            </item>
+            <item xml:id="goods__239">
+                <name xml:lang="tr">Kahve</name>
+                <name xml:lang="en">Coffee</name>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__2">
+                <name xml:lang="tr">Zenbil</name>
+            </item>
+            <item xml:id="utensil__3">
+                <name xml:lang="tr">Çuval</name>
+            </item>
+            <item xml:id="utensil__4">
+                <name xml:lang="tr">Kantar</name>
+            </item>
+            <item xml:id="utensil__8">
+                <name xml:lang="tr">Terazi</name>
+            </item>
+            <item xml:id="utensil__9">
+                <name xml:lang="tr">Dirhem</name>
+            </item>
+            <item xml:id="utensil__11">
+                <name xml:lang="tr">Tabla</name>
+            </item>
+            <item xml:id="utensil__15">
+                <name xml:lang="tr">Tekne</name>
+            </item>
+            <item xml:id="utensil__16">
+                <name xml:lang="tr">Kova</name>
+            </item>
+            <item xml:id="utensil__17">
+                <name xml:lang="tr">Küp</name>
+            </item>
+            <item xml:id="utensil__21">
+                <name xml:lang="tr">Bıçak</name>
+            </item>
+            <item xml:id="utensil__46">
+                <name xml:lang="tr">Kaşık</name>
+            </item>
+            <item xml:id="utensil__47">
+                <name xml:lang="tr">Çanak</name>
+            </item>
+            <item xml:id="utensil__50">
+                <name xml:lang="tr">Sandık</name>
+            </item>
+            <item xml:id="utensil__54">
+                <name xml:lang="tr">Kömür terazisi</name>
+            </item>
+            <item xml:id="utensil__55">
+                <name xml:lang="tr">Yağ destisi</name>
+            </item>
+            <item xml:id="utensil__56">
+                <name xml:lang="tr">Zeytun fuçısı</name>
+            </item>
+            <item xml:id="utensil__57">
+                <name xml:lang="tr">Zeyt yağı kovası</name>
+            </item>
+            <item xml:id="utensil__58">
+                <name xml:lang="tr">Kalbur</name>
+            </item>
+            <item xml:id="utensil__59">
+                <name xml:lang="tr">Böğrülce anbarı</name>
+            </item>
+            <item xml:id="utensil__60">
+                <name xml:lang="tr">Sofra</name>
+            </item>
+            <item xml:id="utensil__61">
+                <name xml:lang="tr">Nişasta fuçısı</name>
+            </item>
+            <item xml:id="utensil__62">
+                <name xml:lang="tr">Balık tabası</name>
+            </item>
+            <item xml:id="utensil__63">
+                <name xml:lang="tr">Tencere</name>
+            </item>
+            <item xml:id="utensil__64">
+                <name xml:lang="tr">Kazgan</name>
+            </item>
+            <item xml:id="utensil__65">
+                <name xml:lang="tr">Huni</name>
+            </item>
+            <item xml:id="utensil__66">
+                <name xml:lang="tr">Yumurta sepeti</name>
+            </item>
+            <item xml:id="utensil__67">
+                <name xml:lang="tr">Tahin çömleği</name>
+            </item>
+            <item xml:id="utensil__68">
+                <name xml:lang="tr">Peynir kutusu</name>
+            </item>
+            <item xml:id="utensil__69">
+                <name xml:lang="tr">Misafir sofrası</name>
+            </item>
+            <item xml:id="utensil__70">
+                <name xml:lang="tr">Pirinç hunisi</name>
+            </item>
+            <item xml:id="utensil__71">
+                <name xml:lang="tr">Tas</name>
+            </item>
+            <item xml:id="utensil__72">
+                <name xml:lang="tr">İbrik</name>
+            </item>
+            <item xml:id="utensil__73">
+                <name xml:lang="tr">Vezne</name>
+            </item>
+            <item xml:id="utensil__74">
+                <name xml:lang="tr">Çekmece</name>
+            </item>
+            <item xml:id="utensil__75">
+                <name xml:lang="tr">Biblo kutusu</name>
+            </item>
+            <item xml:id="utensil__76">
+                <name xml:lang="tr">Destere</name>
+            </item>
+            <item xml:id="utensil__77">
+                <name xml:lang="tr">Keser</name>
+            </item>
+            <item xml:id="utensil__78">
+                <name xml:lang="tr">Şamdan</name>
+            </item>
+            <item xml:id="utensil__79">
+                <name xml:lang="tr">Havan</name>
+            </item>
+            <item xml:id="utensil__80">
+                <name xml:lang="tr">Kandil</name>
+            </item>
+            <item xml:id="utensil__81">
+                <name xml:lang="tr">Badya</name>
+            </item>
+            <item xml:id="utensil__82">
+                <name xml:lang="tr">Süzek</name>
+            </item>
+            <item xml:id="utensil__83">
+                <name xml:lang="tr">Fenar</name>
+            </item>
+            <item xml:id="utensil__84">
+                <name xml:lang="tr">Dara</name>
+            </item>
+            <item xml:id="utensil__85">
+                <name xml:lang="tr">İskemle</name>
+            </item>
+            <item xml:id="utensil__86">
+                <name xml:lang="tr">Pirinç kilesi</name>
+            </item>
+            <item xml:id="utensil__87">
+                <name xml:lang="tr">Akçe tahtası</name>
+            </item>
+            <item xml:id="utensil__88">
+                <name xml:lang="tr">Rende</name>
+            </item>
+            <item xml:id="utensil__89">
+                <name xml:lang="tr">Devad</name>
+            </item>
+            <item xml:id="utensil__90">
+                <name xml:lang="tr">Hokka</name>
+            </item>
+            <item xml:id="utensil__91">
+                <name xml:lang="tr">Çatal-ı Haliç</name>
+            </item>
+            <item xml:id="utensil__92">
+                <name xml:lang="tr">Sirke hunisi</name>
+            </item>
+            <item xml:id="utensil__93">
+                <name xml:lang="tr">Mum kutusu</name>
+            </item>
+            <item xml:id="utensil__94">
+                <name xml:lang="tr">Yağ malası</name>
+            </item>
+            <item xml:id="utensil__95">
+                <name xml:lang="tr">Manula</name>
+            </item>
+            <item xml:id="utensil__96">
+                <name xml:lang="tr">Saban</name>
+            </item>
+            <item xml:id="utensil__97">
+                <name xml:lang="tr">Dükkan perdesi</name>
+            </item>
+            <item xml:id="utensil__98">
+                <name xml:lang="tr">Çengel</name>
+            </item>
+            <item xml:id="utensil__100">
+                <name xml:lang="tr">Zeytun fuçısı</name>
+            </item>
+        </list>
+    </standOff>
+    <text>
+        <body>
+            <div><p>This document does not contain any groceries.</p></div>
+        </body>
+    </text>
+</TEI>

@@ -22,7 +22,8 @@
                 </funder>
                 <respStmt>
                     <resp>Transcription and Annotation</resp>
-                    <persName role="acdh:hasCreator" key="https://orcid.org/0009-0006-6400-6198">Sümeyye Hoşgör Büke</persName>
+                    <persName role="acdh:hasCreator" key="https://orcid.org/0009-0006-6400-6198">Sümeyye Hoşgör Büke
+                    </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI creation</resp>
@@ -41,11 +42,11 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
-            <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
-            </availability>
+                <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+                <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -65,7 +66,8 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <ab>Transcription of the grocerist shop inventory with shelfmark <idno>İSTM.ŞSC.14.d.472 / 33b-1</idno>
+                <ab>Data of the grocer's shop inventory
+                    with shelfmark <idno>İSTM.ŞSC.14.d.472 / 33b-1</idno>
                 </ab>
             </abstract>
             <calendarDesc>

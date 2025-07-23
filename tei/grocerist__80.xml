@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="grocerist__80.xml">
+        <fileDesc>
+            <titleStmt>
+                <title level="a">İSTM.ŞSC.06.d.491 / 51b-2</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
+                </principal>
+                <funder key="https://d-nb.info/gnd/108889819X">
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
+                        <placeName>
+                            <country key="AT">Austria</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator" key="https://orcid.org/0009-0006-6400-6198">Sümeyye Hoşgör Büke
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+                <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Name of the Archive</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d.491 / 51b-2</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin when-iso="1774-03-24"/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <ab>Data of the grocer's shop inventory
+                    with shelfmark <idno>İSTM.ŞSC.06.d.491 / 51b-2</idno>
+                </ab>
+            </abstract>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
+        </profileDesc>
+    </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">41.02492 29.01859</geo>
+                </location>
+            </place>
+            <place xml:id="district__16" type="district">
+                <placeName>Üsküdar</placeName>
+            </place>
+            <place xml:id="neighbourhood__62" type="neighbourhood">
+                <placeName>Tenbel Elhac Mehmed</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+            <person role="main_person" xml:id="person__80">
+                <persName>Yovan v. Vasil</persName>
+                <state type="status"><label>lost</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+        </listPerson>
+        <listRelation>
+            <relation type="ownership" name="tenant" active="#person__80">
+            </relation>
+        </listRelation>
+        <list type="inventory">
+            <item xml:id="goods__5">
+                <name xml:lang="tr">Revgan-ı zeyt</name>
+                <name xml:lang="en">Olive oil</name>
+                <name xml:lang="tr" type="variation">Zeyt yağı</name>
+                <name xml:lang="tr" type="variation">Revgan-ı zeyd</name>
+                <name xml:lang="tr" type="variation">Zeyt revgan</name>
+            </item>
+            <item xml:id="goods__6">
+                <name xml:lang="tr">Revgan-ı sade</name>
+                <name xml:lang="en">Ghee</name>
+                <name xml:lang="en">Clarified Butter</name>
+                <name xml:lang="tr" type="variation">Sadeyağ</name>
+            </item>
+            <item xml:id="goods__9">
+                <name xml:lang="tr">Kaşkaval</name>
+                <name xml:lang="en">Kashkaval</name>
+            </item>
+            <item xml:id="goods__10">
+                <name xml:lang="tr">Tulum peyniri</name>
+                <name xml:lang="en">Tulum cheese</name>
+            </item>
+            <item xml:id="goods__13">
+                <name xml:lang="tr">Nohud</name>
+                <name xml:lang="en">Chickpea</name>
+                <name xml:lang="tr" type="variation">Nohud</name>
+            </item>
+            <item xml:id="goods__14">
+                <name xml:lang="tr">Mercimek</name>
+                <name xml:lang="en">Lentil</name>
+            </item>
+            <item xml:id="goods__15">
+                <name xml:lang="tr">Pirinc</name>
+                <name xml:lang="en">Rice</name>
+            </item>
+            <item xml:id="goods__17">
+                <name xml:lang="tr">Beylerce üzümü</name>
+                <name xml:lang="en">Beylerce raisin</name>
+                <name xml:lang="tr" type="variation">Beğlerce üzümü</name>
+                <name xml:lang="tr" type="variation">Beylerce</name>
+                <name xml:lang="tr" type="variation">İzmir beylercesi</name>
+            </item>
+            <item xml:id="goods__18">
+                <name xml:lang="tr">Razaki üzüm</name>
+                <name xml:lang="en">Razaki raisin</name>
+            </item>
+            <item xml:id="goods__22">
+                <name xml:lang="tr">Keçiboynuzu / Harnup</name>
+                <name xml:lang="en">Carob</name>
+                <name xml:lang="tr" type="variation">Keçi boynuzu</name>
+                <name xml:lang="tr" type="variation">Harnub</name>
+                <name xml:lang="tr" type="variation">Harnup</name>
+                <name xml:lang="tr" type="variation">Harub</name>
+            </item>
+            <item xml:id="goods__23">
+                <name xml:lang="tr">Pekmez</name>
+                <name xml:lang="en">Molasses</name>
+                <name xml:lang="tr" type="variation">Betmez</name>
+                <name xml:lang="tr" type="variation">Bekmez</name>
+            </item>
+            <item xml:id="goods__24">
+                <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="en">Treacle made from the juice of pomegranates or of damsons</name>
+                <name xml:lang="tr" type="variation">Nardeng</name>
+                <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
+            </item>
+            <item xml:id="goods__25">
+                <name xml:lang="tr">Bal / Asel</name>
+                <name xml:lang="en">Honey</name>
+                <name xml:lang="tr" type="variation">Bal</name>
+            </item>
+            <item xml:id="goods__27">
+                <name xml:lang="tr">Nişasta</name>
+                <name xml:lang="en">Starch</name>
+            </item>
+            <item xml:id="goods__28">
+                <name xml:lang="tr">Sirke</name>
+                <name xml:lang="en">Vinegar</name>
+            </item>
+            <item xml:id="goods__30">
+                <name xml:lang="tr">Tuz</name>
+                <name xml:lang="en">Salt</name>
+            </item>
+            <item xml:id="goods__34">
+                <name xml:lang="tr">Zeytun</name>
+                <name xml:lang="en">Olive</name>
+            </item>
+            <item xml:id="goods__36">
+                <name xml:lang="tr">Şariye</name>
+                <name xml:lang="en">Vermicelli</name>
+                <name xml:lang="tr" type="variation">Şehriye</name>
+            </item>
+            <item xml:id="goods__40">
+                <name xml:lang="tr">Lahana turşusu</name>
+                <name xml:lang="en">Pickled cabbage</name>
+            </item>
+            <item xml:id="goods__45">
+                <name xml:lang="tr">Bulgur</name>
+                <name xml:lang="en">Bulgur</name>
+                <name xml:lang="tr" type="variation">Burgur</name>
+                <note>Wheat grains prepared like rice or like pearl-barley (redhouse p. 463)</note>
+            </item>
+            <item xml:id="goods__64">
+                <name xml:lang="tr">Döğülmüş tuz</name>
+                <name xml:lang="en">Smashed salt</name>
+            </item>
+            <item xml:id="goods__88">
+                <name xml:lang="tr">Arpacık soğanı</name>
+                <name xml:lang="en">Pearl onion</name>
+            </item>
+            <item xml:id="goods__147">
+                <name xml:lang="tr">Kömür</name>
+                <name xml:lang="en">Coal</name>
+            </item>
+            <item xml:id="goods__189">
+                <name xml:lang="tr">Tarhana</name>
+                <name xml:lang="en">Fermented soup base made from a mixture of yogurt</name>
+                <name xml:lang="en">flour and vegetables</name>
+            </item>
+            <item xml:id="goods__202">
+                <name xml:lang="tr">Lob inciri</name>
+                <name xml:lang="en">Lob figs</name>
+            </item>
+            <item xml:id="goods__275">
+                <name xml:lang="tr">İzmir siyahı üzüm</name>
+                <name xml:lang="tr" type="variation">İzmir siyahı</name>
+            </item>
+        </list>
+        <list type="prices">
+            <item xml:id="price__864">
+                <measureGrp>
+                    <measure type="value" quantity="26.0" unit="kıyye" commodity="Pirinc">546.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__911">
+                <measureGrp>
+                    <measure type="value" quantity="61.0" unit="kıyye" commodity="Revgan-ı sade">5124.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__949">
+                <measureGrp>
+                    <measure type="value" quantity="32.0" unit="kıyye" commodity="Bal / Asel">768.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__981">
+                <measureGrp>
+                    <measure type="value" quantity="9.5" unit="kıyye" commodity="Nohud">114.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1006">
+                <measureGrp>
+                    <measure type="value" quantity="24.0" unit="kıyye" commodity="Arpacık soğanı">336.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1359">
+                <measureGrp>
+                    <measure type="value" quantity="2.0" unit="kıyye" commodity="Nişasta">64.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1360">
+                <measureGrp>
+                    <measure type="value" quantity="6.0" unit="kıyye" commodity="Tarhana">120.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1361">
+                <measureGrp>
+                    <measure type="value" quantity="9.5" unit="kıyye" commodity="Nohud">114.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1362">
+                <measureGrp>
+                    <measure type="value" quantity="26.0" unit="kıyye" commodity="Pirinc">546.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1363">
+                <measureGrp>
+                    <measure type="value" quantity="21.0" unit="kıyye" commodity="Bulgur">546.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1364">
+                <measureGrp>
+                    <measure type="value" quantity="14.0" unit="kıyye" commodity="Mercimek">165.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1365">
+                <measureGrp>
+                    <measure type="value" quantity="13.5" unit="kıyye" commodity="Keçiboynuzu / Harnup">108.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1366">
+                <measureGrp>
+                    <measure type="value" quantity="197.5" unit="kıyye" commodity="İzmir üzümü">2172.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1367">
+                <measureGrp>
+                    <measure type="value" quantity="26.0" unit="kıyye" commodity="Tulum peyniri">520.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1368">
+                <measureGrp>
+                    <measure type="value" quantity="71.5" unit="kıyye" commodity="Razaki üzüm">1501.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1369">
+                <measureGrp>
+                    <measure type="value" quantity="37.0" unit="kıyye" commodity="İzmir siyahı üzüm">624.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1370">
+                <measureGrp>
+                    <measure type="value" quantity="29.0" unit="kıyye" commodity="Beylerce üzümü">464.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1371">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Şariye">250.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1372">
+                <measureGrp>
+                    <measure type="value" quantity="67.0" unit="kıyye" commodity="Lob inciri">1474.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1373">
+                <measureGrp>
+                    <measure type="value" quantity="50.0" unit="kıyye" commodity="İnce tuz">200.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1374">
+                <measureGrp>
+                    <measure type="value" quantity="36.0" unit="kıyye" commodity="Nardenk">360.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1375">
+                <measureGrp>
+                    <measure type="value" quantity="32.0" unit="kıyye" commodity="Bal / Asel">768.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1376">
+                <measureGrp>
+                    <measure type="value" quantity="43.0" unit="kıyye" commodity="Pekmez">645.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1377">
+                <measureGrp>
+                    <measure type="value" quantity="61.0" unit="kıyye" commodity="Revgan-ı sade">5124.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1378">
+                <measureGrp>
+                    <measure type="value" quantity="24.0" unit="kıyye" commodity="Arpacık soğanı">336.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1379">
+                <measureGrp>
+                    <measure type="value" quantity="12.0" unit="kıyye" commodity="Zeytun">288.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1380">
+                <measureGrp>
+                    <measure type="value" commodity="Lahana turşusu">450.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1381">
+                <measureGrp>
+                    <measure type="value" quantity="3.5" unit="keyl" commodity="Kaba tuz">21.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1382">
+                <measureGrp>
+                    <measure type="value" quantity="17.0" unit="kıyye" commodity="Kaşkaval">930.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1383">
+                <measureGrp>
+                    <measure type="value" quantity="200.0" unit="kıyye" commodity="Sirke">1000.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1384">
+                <measureGrp>
+                    <measure type="value" commodity="Kömür">400.0</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__2">
+                <name xml:lang="tr">Zenbil</name>
+            </item>
+            <item xml:id="utensil__13">
+                <name xml:lang="tr">Kavanoz</name>
+            </item>
+        </list>
+    </standOff>
+    <text>
+        <body>
+            <div><p>This document does not contain any groceries.</p></div>
+        </body>
+    </text>
+</TEI>
