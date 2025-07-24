@@ -101,8 +101,8 @@ for source_xml in SOURCE_XML_FILES:
 # Process documents without transcripts
 for doc_id, doc_info in data.items():
     # Check if this document already has a TEI file (i.e. was processed above)
-    file_name = f"grocerist__{doc_id}.xml"
+    file_name = f"document__{doc_id}.xml"
     if not os.path.exists(os.path.join(TEI_DIR, file_name)):
-        full_doc_id = f"grocerist__{doc_id}"
+        full_doc_id = f"document__{doc_id}"
         body_content = "<div><p>This document does not contain any groceries.</p></div>"
         create_tei_document(full_doc_id, body_content, doc_info, template, has_transcript=False)
