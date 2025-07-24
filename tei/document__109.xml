@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__109.xml">
+        <fileDesc>
+            <titleStmt>
+                <title level="a">İSTM.ŞSC.06.d.566 / 92b-1</title>
+                <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
+                        Köse</persName>
+                </principal>
+                <funder key="https://d-nb.info/gnd/108889819X">
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Wien</postCode>
+                        <placeName>
+                            <country key="AT">Austria</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transcription and Annotation</resp>
+                    <persName role="acdh:hasCreator" key="https://orcid.org/0009-0006-6400-6198">Sümeyye Hoşgör Büke
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0001-6580-5182">Michaela
+                        Rausch-Supola</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI creation</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0009-4161-9532">Kinga
+                        Sramó</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher key="https://d-nb.info/gnd/1123037736">Austrian Center for Digital Humanities</publisher>
+                <publisher key="https://orcid.org/0000-0002-8740-5275">Yavuz Köse</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Name of the Archive</institution>
+                        <repository>Name of the Repository</repository>
+                        <idno type="archive">İSTM.ŞSC.06.d.566 / 92b-1</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin when-iso="1808-06-04"/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <geoDecl xml:id="dd" datum="WGS84-DD">World Geodetic System: decimal degrees</geoDecl>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <ab>Data of the grocer's shop inventory
+                    with shelfmark <idno>İSTM.ŞSC.06.d.566 / 92b-1</idno>
+                </ab>
+            </abstract>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
+        </profileDesc>
+    </teiHeader>
+    <standOff>
+        <listPlace>
+            <place>
+                <location>
+                    <geo decls="#dd">41.01779 29.02026</geo>
+                </location>
+            </place>
+            <place xml:id="district__16" type="district">
+                <placeName>Üsküdar</placeName>
+            </place>
+            <place xml:id="neighbourhood__64" type="neighbourhood">
+                <placeName>Debbağlar</placeName>
+            </place>
+        </listPlace>
+        <listPerson>
+            <person role="main_person" xml:id="person__92">
+                <persName>Bakkal Yani v. [ ]</persName>
+                <state type="status"><label>lost</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
+            </person>
+            <person role="mentioned">
+                <p>Owner</p>
+            </person>
+            <person role="mentioned">
+                <p>İstanbul bazarbaşısı</p>
+            </person>
+        </listPerson>
+        <listRelation>
+            <relation type="ownership" name="tenant" active="#person__92">
+            </relation>
+        </listRelation>
+        <list type="inventory">
+            <item xml:id="goods__12">
+                <name xml:lang="tr">Böğrülce</name>
+                <name xml:lang="en">Pea</name>
+                <name xml:lang="tr" type="variation">Böğrülce</name>
+                <name xml:lang="tr" type="variation">Bölürce</name>
+                <name xml:lang="tr" type="variation">Böğrüce</name>
+            </item>
+            <item xml:id="goods__23">
+                <name xml:lang="tr">Pekmez</name>
+                <name xml:lang="en">Molasses</name>
+                <name xml:lang="tr" type="variation">Betmez</name>
+                <name xml:lang="tr" type="variation">Bekmez</name>
+            </item>
+            <item xml:id="goods__24">
+                <name xml:lang="tr">Nardenk</name>
+                <name xml:lang="en">Treacle made from the juice of pomegranates or of damsons</name>
+                <name xml:lang="tr" type="variation">Nardeng</name>
+                <note>a sharp kind of syrup made from some fruit either grapes, applesi plums and pomegranate (redhouse)</note>
+            </item>
+            <item xml:id="goods__25">
+                <name xml:lang="tr">Bal / Asel</name>
+                <name xml:lang="en">Honey</name>
+                <name xml:lang="tr" type="variation">Bal</name>
+            </item>
+            <item xml:id="goods__27">
+                <name xml:lang="tr">Nişasta</name>
+                <name xml:lang="en">Starch</name>
+            </item>
+            <item xml:id="goods__29">
+                <name xml:lang="tr">Soğan</name>
+                <name xml:lang="en">Onion</name>
+            </item>
+            <item xml:id="goods__31">
+                <name xml:lang="tr">Sarımsak</name>
+                <name xml:lang="en">Garlic</name>
+                <name xml:lang="tr" type="variation">Sarmusak</name>
+            </item>
+            <item xml:id="goods__53">
+                <name xml:lang="tr">Dakik</name>
+                <name xml:lang="en">Flour</name>
+            </item>
+            <item xml:id="goods__101">
+                <name xml:lang="tr">Fasulye</name>
+            </item>
+            <item xml:id="goods__204">
+                <name xml:lang="tr">Süpürge</name>
+                <name xml:lang="en">Broom</name>
+            </item>
+            <item xml:id="goods__251">
+                <name xml:lang="tr">Kabuklu badem</name>
+                <name xml:lang="en">Shelled almonds</name>
+            </item>
+            <item xml:id="goods__252">
+                <name xml:lang="tr">Mum yağı</name>
+                <name xml:lang="en">Candle oil</name>
+            </item>
+        </list>
+        <list type="prices">
+            <item xml:id="price__964">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Bal / Asel">400.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1039">
+                <measureGrp>
+                    <measure type="value" quantity="122.0" unit="kıyye" commodity="Soğan">63.0</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+        </list>
+        <list type="utensils">
+            <item xml:id="utensil__6">
+                <name xml:lang="tr">Bardak</name>
+            </item>
+            <item xml:id="utensil__36">
+                <name xml:lang="tr">Nardenk destisi</name>
+            </item>
+            <item xml:id="utensil__52">
+                <name xml:lang="tr">Pekmez destisi</name>
+            </item>
+            <item xml:id="utensil__53">
+                <name xml:lang="tr">Yoğurt çanağı</name>
+            </item>
+            <item xml:id="utensil__72">
+                <name xml:lang="tr">İbrik</name>
+            </item>
+            <item xml:id="utensil__78">
+                <name xml:lang="tr">Şamdan</name>
+            </item>
+            <item xml:id="utensil__80">
+                <name xml:lang="tr">Kandil</name>
+            </item>
+        </list>
+    </standOff>
+    <facsimile>
+        <graphic url="https://id.acdh.oeaw.ac.at/grocerist/facs/6392187_0001.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div><p>This document does not contain any groceries.</p></div>
+        </body>
+    </text>
+</TEI>
