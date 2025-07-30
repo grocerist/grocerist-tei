@@ -2,7 +2,7 @@ import glob
 import os
 import shutil
 from tqdm import tqdm
-from acdh_cidoc_pyutils import extract_begin_end
+# from acdh_cidoc_pyutils import extract_begin_end
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import extract_fulltext, make_entity_label, get_xmlid
 from rdflib import Namespace, URIRef, RDF, Graph, Literal, XSD
@@ -17,7 +17,7 @@ APP_URL = "https://grocerist.acdh.oeaw.ac.at/"
 ACDH = Namespace("https://vocabs.acdh.oeaw.ac.at/schema#")
 COLS = [ACDH["TopCollection"], ACDH["Collection"], ACDH["Resource"]]
 COL_URIS = set()
-
+"""
 # following code is needed because different (?) place entities share the same geonames-id
 # this leads to acdh:Place objects with more than one acdh:hasTitle properties, which is not allowed
 
@@ -39,11 +39,38 @@ for x in doc.any_xpath(".//tei:person[@xml:id and ./tei:idno[@type='gnd']]"):
     lookup_dict[entity_id] = label
 
 # end of this annoying workaround
-
-files = sorted(glob.glob("data/editions/*.xml"))
+"""
+"""
+mandatory info for resources:
+- hasTitle °
+- hasIdentifier
+- hasCategory °
+- hasMetadataCreator
+- hasLicensor
+- hasRightsHolder
+- hasLicense  °
+- isPartOf °
+curation related:
+- hasDepositor
+- hasAvailableDate
+- hasHosting
+recommended:
+- hasDescription
+- hasLanguage
+- hasExtent
+- hasUpdatedDate
+- hasPrincipalInvestigator
+- hasFormat
+- hasCurator
+- hasSubmissionDate
+- hasAcceptedDate
+- hasTransferDate
+"""
+files = sorted(glob.glob("tei/*.xml"))
 # files = files[30:50]
 for x in tqdm(files):
     doc = TeiReader(x)
+    # hä? find out what cur_col_id is supposed to be, I'm assuming there was some original function different from this code
     cur_col_id = os.path.split(x)[-1].replace(".xml", "")
     cur_doc_id = f"{cur_col_id}.xml"
 
@@ -67,12 +94,14 @@ for x in tqdm(files):
     )
 
     # title
-    title = extract_fulltext(doc.any_xpath(".//tei:titleStmt/tei:title[1]")[0])
+    title = extract_fulltext(doc.any_xpath(".//tei:titleStmt/tei:title[@level='a']")[0])
+    # make lang undefined, because the title is the shelfmark?
+    # or sth like title to the title, then it would be English
     g.add(
         (
             cur_doc_uri,
             ACDH["hasTitle"],
-            Literal(f"{title}", lang="de"),
+            Literal(f"{title}", lang="und"),
         )
     )
     g.add(
@@ -84,24 +113,24 @@ for x in tqdm(files):
     )
 
     # start/end date
-    try:
-        start, end = extract_begin_end(
-            doc.any_xpath(".//tei:correspAction[@type='sent']/tei:date")[0]
-        )
-    except IndexError:
-        start, end = False, False
-    if start:
-        g.add(
-            (
-                cur_doc_uri,
-                ACDH["hasCoverageStartDate"],
-                Literal(start, datatype=XSD.date),
-            )
-        )
-    if end:
-        g.add(
-            (cur_doc_uri, ACDH["hasCoverageEndDate"], Literal(start, datatype=XSD.date))
-        )
+    # try:
+    #     start, end = extract_begin_end(
+    #         doc.any_xpath(".//tei:correspAction[@type='sent']/tei:date")[0]
+    #     )
+    # except IndexError:
+    #     start, end = False, False
+    # if start:
+    #     g.add(
+    #         (
+    #             cur_doc_uri,
+    #             ACDH["hasCoverageStartDate"],
+    #             Literal(start, datatype=XSD.date),
+    #         )
+    #     )
+    # if end:
+    #     g.add(
+    #         (cur_doc_uri, ACDH["hasCoverageEndDate"], Literal(start, datatype=XSD.date))
+    #     )
 
     # actors (persons):
     for y in doc.any_xpath(
@@ -142,6 +171,7 @@ for x in tqdm(files):
         g.add((cur_doc_uri, ACDH["hasSpatialCoverage"], entity_uri))
 
     # hasCreator
+    # wouldn't this need to be more specific? like persName from the respStmt with the role "acdh:hasCreator"?
     for y in doc.any_xpath(".//tei:name[@key]"):
         editor_name = extract_fulltext(y)
         editor_id = y.attrib["key"]
@@ -152,50 +182,50 @@ for x in tqdm(files):
             g.add((cur_doc_uri, ACDH["hasCreator"], creator_uri))
 
     # hasExtent
-    nr_of_pages = len(doc.any_xpath(".//tei:pb"))
+    nr_of_pages = len(doc.any_xpath(".//tei:facsimile/tei:graphic"))
     if nr_of_pages > 1:
         g.add(
             (
                 cur_doc_uri,
                 ACDH["hasExtent"],
-                Literal(f"{nr_of_pages} Seiten", lang="de"),
+                Literal(f"{nr_of_pages} pages", lang="en"),
             )
         )
     else:
         g.add(
-            (cur_doc_uri, ACDH["hasExtent"], Literal(f"{nr_of_pages} Seite", lang="de"))
+            (cur_doc_uri, ACDH["hasExtent"], Literal(f"{nr_of_pages} pages", lang="en"))
         )
 
     # indices and meta
-    for y in ["indices", "meta"]:
-        for x in glob.glob(f"./data/{y}/*.xml"):
-            doc = TeiReader(x)
-            cur_doc_id = os.path.split(x)[-1]
-            cur_doc_uri = URIRef(f"{TOP_COL_URI}/{cur_doc_id}")
-            g.add((cur_doc_uri, RDF.type, ACDH["Resource"]))
-            g.add((cur_doc_uri, ACDH["isPartOf"], URIRef(f"{TOP_COL_URI}/{y}")))
-            g.add(
-                (
-                    cur_doc_uri,
-                    ACDH["hasLicense"],
-                    URIRef("https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"),
-                )
-            )
-            title = extract_fulltext(doc.any_xpath(".//tei:titleStmt/tei:title[1]")[0])
-            g.add(
-                (
-                    cur_doc_uri,
-                    ACDH["hasTitle"],
-                    Literal(f"{title}", lang="de"),
-                )
-            )
-            g.add(
-                (
-                    cur_doc_uri,
-                    ACDH["hasCategory"],
-                    URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"),
-                )
-            )
+    # for y in ["indices", "meta"]:
+    #     for x in glob.glob(f"./data/{y}/*.xml"):
+    #         doc = TeiReader(x)
+    #         cur_doc_id = os.path.split(x)[-1]
+    #         cur_doc_uri = URIRef(f"{TOP_COL_URI}/{cur_doc_id}")
+    #         g.add((cur_doc_uri, RDF.type, ACDH["Resource"]))
+    #         g.add((cur_doc_uri, ACDH["isPartOf"], URIRef(f"{TOP_COL_URI}/{y}")))
+    #         g.add(
+    #             (
+    #                 cur_doc_uri,
+    #                 ACDH["hasLicense"],
+    #                 URIRef("https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"),
+    #             )
+    #         )
+    #         title = extract_fulltext(doc.any_xpath(".//tei:titleStmt/tei:title[1]")[0])
+    #         g.add(
+    #             (
+    #                 cur_doc_uri,
+    #                 ACDH["hasTitle"],
+    #                 Literal(f"{title}", lang="de"),
+    #             )
+    #         )
+    #         g.add(
+    #             (
+    #                 cur_doc_uri,
+    #                 ACDH["hasCategory"],
+    #                 URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"),
+    #             )
+    #         )
 
 for x in COLS:
     for s in g.subjects(None, x):
@@ -206,8 +236,9 @@ for x in COL_URIS:
         g.add((x, p, o))
 
 print("writing graph to file")
-g.serialize("html/arche.ttl")
-g.serialize("to_ingest/arche.ttl")
+# g.serialize("html/arche.ttl")
+# g.serialize("to_ingest/arche.ttl")
+g.serialize("arche.ttl")
 
 files_to_ingest = glob.glob("./data/*/*.xml")
 print(f"copying {len(files_to_ingest)} into {to_ingest}")
