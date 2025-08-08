@@ -18,9 +18,9 @@ acdhi:grocerist a acdh:TopCollection ;
     acdh:hasSubject "Ottoman empire"@en ;
     acdh:hasTemporalCoverage "18th and 19th century"@en ;
     acdh:hasSpatialCoverage <https://sws.geonames.org/745044/> ;  # Istanbul
-    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602052> ,
-        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605009> , <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601020> ;
-    acdh:hasCreator <https://orcid.org/0009-0006-6400-6198> ,
+    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602052>,
+        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605009>, <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601020> ;
+    acdh:hasCreator <https://orcid.org/0009-0006-6400-6198>,
         <https://orcid.org/0000-0002-9230-775X>  .
 
 <https://id.acdh.oeaw.ac.at/grocerist/editions> a acdh:Collection ;
@@ -51,8 +51,8 @@ acdhi:grocerist a acdh:TopCollection ;
     acdh:hasTitle "Lebensmittelhändler von Istanbul: Lebensmittelkonsum"@de ;
     acdh:hasTitle "Grocers of Istanbul: Tracing Food Consumption (GrocerIST)"@en ;
     acdh:hasUrl "https://www.fwf.ac.at/en/research-radar/10.55776/P35546" ;
-    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602052> ,
-        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605009> , <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601020> ;
+    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602052>,
+        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605009>, <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601020> ;
     acdh:hasSubject "Inheritance inventories"@en ;
     acdh:hasSubject "Food consumption"@en ;
     acdh:hasSubject "Ottoman Empire"@en ;
