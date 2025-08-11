@@ -8,7 +8,7 @@ jobs:
     name: Ingest Metadata into ARCHE
     runs-on: ubuntu-latest
     env:
-      ARCHE_USER: pandorfer
+      ARCHE_USER: $ARCHE_USER
       ARCHE_PASSWORD: ${{secrets.ARCHE_PASSWORD}}
       ARCHE: https://arche-curation.acdh-dev.oeaw.ac.at/api
       TOPCOLID: https://id.acdh.oeaw.ac.at/grocerist
@@ -21,10 +21,6 @@ jobs:
         python-version: "3.12"
     - name: install python things
       run: pip install -r requirements.txt
-    - name: Fetch data
-      run: ./shellscripts/fetch_data.sh
-    - name: Process Data
-      run: ./shellscripts/process.sh
     - name: create arche metadata
       run: python arche/make_arche_rdf.py
     - uses: actions/upload-artifact@v4
