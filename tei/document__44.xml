@@ -56,7 +56,11 @@
                         <idno type="archive">İSTM.ŞSC.14.d.433 / 21a-3</idno>
                     </msIdentifier>
                     <history>
-                        <origin when-iso="1776-11-07"/>
+                    <origin>
+                        <origDate when-iso="1776-11-07"/>
+                        <origDate when="1190-09-25" datingMethod="#islamic"/>
+                    </origin>
+                        
                     </history>
                 </msDesc>
             </sourceDesc>

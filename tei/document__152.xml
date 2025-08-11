@@ -56,7 +56,10 @@
                         <idno type="archive">İSTM.ŞSC.06.d.584 / 35b</idno>
                     </msIdentifier>
                     <history>
-                        <origin when-iso="1816-11-29"/>
+                    <origin>
+                        <origDate when-iso="1816-11-29"/>
+                    </origin>
+                        
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -70,11 +73,6 @@
                     with shelfmark <idno>İSTM.ŞSC.06.d.584 / 35b</idno>
                 </ab>
             </abstract>
-            <calendarDesc>
-                <calendar xml:id="islamic">
-                    <p>Islamic Calendar (Hicri)</p>
-                </calendar>
-            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
