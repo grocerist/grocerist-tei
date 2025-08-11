@@ -55,18 +55,21 @@
                         <idno type="archive">{{ info.shelfmark }}</idno>
                     </msIdentifier>
                     <history>
+                    <origin>
                         {% if info.creation_date_ISO %}
-                        <origin when-iso="{{ info.creation_date_ISO }}" />
+                        <origDate when-iso="{{ info.creation_date_ISO }}" />
                         {% else %}
                         {% if info.century.value == "18"%}
-                        <origin notBefore="1700" notAfter="1799" />
+                        <origDate notBefore="1700" notAfter="1799" />
                         {% elif info.century.value == "19" %}
-                        <origin notBefore="1800" notAfter="1899" />
+                        <origDate notBefore="1800" notAfter="1899" />
                         {% endif %}
                         {% endif %}
-                        {% if info.creation_date_hicri %}
-                        <origin when="{{ info.creation_date_hicri }}" datingMethod="#islamic" />
+                        {% if info.date_of_creation_hicri %}
+                        <origDate when="{{ info.date_of_creation_hicri }}" datingMethod="#islamic" />
                         {% endif %}
+                    </origin>
+                        
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -80,11 +83,13 @@
                     with shelfmark <idno>{{ info.shelfmark }}</idno>
                 </ab>
             </abstract>
+            {% if info.date_of_creation_hicri %}
             <calendarDesc>
                 <calendar xml:id="islamic">
                     <p>Islamic Calendar (Hicri)</p>
                 </calendar>
             </calendarDesc>
+            {% endif %}
         </profileDesc>
     </teiHeader>
     <standOff>
