@@ -153,7 +153,7 @@
         {% if info.main_person and info.type_of_ownership %}
         {% set main_person = info.main_person[0] %}
         <listRelation>
-            <relation type="ownership" name="{{ info.type_of_ownership.value |lower}}"
+            <relation type="ownership" name="{{ info.type_of_ownership.value |lower | replace(' ', '_') }}"
                 active="#person__{{ main_person.id }}">
             </relation>
         </listRelation>
