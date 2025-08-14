@@ -5,7 +5,4 @@
     acdh:hasContact <https://d-nb.info/gnd/14388929X> ;
     acdh:hasDepositor <https://d-nb.info/gnd/14388929X> ; #Platzhalter
     acdh:hasPrincipalInvestigator <https://d-nb.info/gnd/14388929X> ;
-    acdh:hasMetadataCreator <https://orcid.org/0009-0009-4161-9532> ;
-    acdh:hasLicensor acdhi:oeaw ; #Platzhalter
-    acdh:hasOwner acdhi:oeaw ;
-    acdh:hasRightsHolder acdhi:oeaw .
+    acdh:hasMetadataCreator <https://orcid.org/0009-0009-4161-9532>, <https://orcid.org/0000-0001-6580-5182> .

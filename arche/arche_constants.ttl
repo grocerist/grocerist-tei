@@ -28,7 +28,7 @@ acdhi:grocerist a acdh:TopCollection ;
     acdh:hasTitle """TEI/XML encoded documents"""@en ;
     acdh:isPartOf <https://id.acdh.oeaw.ac.at/grocerist> .
 
-<https://id.acdh.oeaw.ac.at/grocerist/facs> a acdh:Collection ;
+<https://id.acdh.oeaw.ac.at/grocerist/facsimiles> a acdh:Collection ;
     acdh:hasTitle """Facsimiles"""@en ;
     acdh:isPartOf <https://id.acdh.oeaw.ac.at/grocerist> .
 
@@ -46,7 +46,7 @@ acdhi:grocerist a acdh:TopCollection ;
 <https://id.acdh.oeaw.ac.at/grocerist/project> a acdh:Project ;
     acdh:hasContact <https://d-nb.info/gnd/14388929X> ;
     acdh:hasPrincipalInvestigator <https://d-nb.info/gnd/14388929X> ;
-    acdh:hasMetadataCreator <https://orcid.org/0009-0009-4161-9532> ;
+    acdh:hasMetadataCreator <https://orcid.org/0009-0009-4161-9532>, <https://orcid.org/0000-0001-6580-5182> ;
     acdh:hasRelatedCollection <https://id.acdh.oeaw.ac.at/grocerist> ;
     acdh:hasFunder <https://d-nb.info/gnd/108889819X> ;
     acdh:hasTitle "Lebensmittelhändler von Istanbul: Lebensmittelkonsum"@de ;
