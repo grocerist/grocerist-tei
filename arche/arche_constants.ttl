@@ -20,7 +20,7 @@ acdhi:grocerist a acdh:TopCollection ;
     acdh:hasSpatialCoverage <https://sws.geonames.org/745044/> ;  # Istanbul
     acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602052>,
         <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605009>, <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601020> ;
-    acdh:hasEditor <https://orcid.org/0009-0006-6400-6198> ; #Yavuz
+    acdh:hasEditor <https://d-nb.info/gnd/14388929X> ;
     acdh:hasCreator <https://orcid.org/0009-0006-6400-6198>,
         <https://orcid.org/0000-0002-9230-775X>  .
 
