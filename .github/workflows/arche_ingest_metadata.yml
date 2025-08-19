@@ -8,7 +8,7 @@ jobs:
     name: Ingest Metadata into ARCHE
     runs-on: ubuntu-latest
     env:
-      ARCHE_USER: ksramo
+      ARCHE_USER: ${{vars.ARCHE_USER}}
       ARCHE_PASSWORD: ${{secrets.ARCHE_PASSWORD}}
       ARCHE: https://arche-dev.acdh-dev.oeaw.ac.at/api
       TOPCOLID: https://id.acdh.oeaw.ac.at/grocerist
