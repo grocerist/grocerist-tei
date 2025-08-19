@@ -1,8 +1,11 @@
 @prefix acdh: <https://vocabs.acdh.oeaw.ac.at/schema#> .
 @prefix acdhi: <https://id.acdh.oeaw.ac.at/> .
 
-<https://foo/bar> acdh:hasCurator <https://orcid.org/0009-0009-4161-9532> ; #?
+<https://foo/bar> acdh:hasCurator <https://orcid.org/0009-0009-4161-9532> ;
     acdh:hasContact <https://d-nb.info/gnd/14388929X> ;
-    acdh:hasDepositor <https://d-nb.info/gnd/14388929X> ; #Platzhalter
+    acdh:hasDepositor <https://d-nb.info/gnd/14388929X> ;
+    acdh:hasOwner <https://d-nb.info/gnd/14388929X> ;
+    acdh:hasLicensor <https://d-nb.info/gnd/14388929X> ;
+    acdh:hasRightsHolder <https://d-nb.info/gnd/14388929X> ;
     acdh:hasPrincipalInvestigator <https://d-nb.info/gnd/14388929X> ;
     acdh:hasMetadataCreator <https://orcid.org/0009-0009-4161-9532>, <https://orcid.org/0000-0001-6580-5182> .

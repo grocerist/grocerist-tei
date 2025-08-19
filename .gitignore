@@ -1,7 +1,8 @@
 # ARCHE things
 
-/to_inget
+/to_ingest
 .secret
+arche.ttl
 
 
 # Byte-compiled / optimized / DLL files

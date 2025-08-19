@@ -20,7 +20,7 @@ acdhi:grocerist a acdh:TopCollection ;
     acdh:hasSpatialCoverage <https://sws.geonames.org/745044/> ;  # Istanbul
     acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602052>,
         <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605009>, <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601020> ;
-    acdh:hasEditor <https://orcid.org/0009-0006-6400-6198> ; #placeholder since we are not sure who should be the editor
+    acdh:hasEditor <https://orcid.org/0009-0006-6400-6198> ; #Yavuz
     acdh:hasCreator <https://orcid.org/0009-0006-6400-6198>,
         <https://orcid.org/0000-0002-9230-775X>  .
 
@@ -28,20 +28,16 @@ acdhi:grocerist a acdh:TopCollection ;
     acdh:hasTitle """TEI/XML encoded documents"""@en ;
     acdh:isPartOf <https://id.acdh.oeaw.ac.at/grocerist> .
 
-<https://id.acdh.oeaw.ac.at/grocerist/facsimiles> a acdh:Collection ;
-    acdh:hasTitle """Facsimiles"""@en ;
-    acdh:isPartOf <https://id.acdh.oeaw.ac.at/grocerist> .
-
 <https://id.acdh.oeaw.ac.at/grocerist/title-image.jpg> a acdh:Resource ;
     acdh:hasTitle """Titelbild zu: GrocerIST"""@de ;
     acdh:hasTitle  """Title image of: GrocerIST"""@en ;
     acdh:isPartOf <https://id.acdh.oeaw.ac.at/grocerist> ;
     acdh:isTitleImageOf <https://id.acdh.oeaw.ac.at/grocerist> ;
-    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
-    acdh:hasLicensor  acdhi:acdh-oeaw ; # ACDH, Platzhalter
-    acdh:hasOwner  acdhi:acdh-oeaw  ;  # ACDH, Platzhalter
+    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0> ;
+    acdh:hasLicensor  acdhi:none ;
+    acdh:hasOwner  acdhi:none ;  
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/image> ;
-    acdh:hasRightsHolder acdhi:acdh-oeaw  .  # ACDH, Platzhalter
+    acdh:hasRightsHolder acdhi:none . 
 
 <https://id.acdh.oeaw.ac.at/grocerist/project> a acdh:Project ;
     acdh:hasContact <https://d-nb.info/gnd/14388929X> ;

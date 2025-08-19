@@ -43,10 +43,6 @@ for x in tqdm(files):
             URIRef("https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"),
         )
     )
-    # not sure about this
-    g.add((cur_doc_uri, ACDH["hasLicensor"], URIRef("https://d-nb.info/gnd/5321012-8")))
-    g.add((cur_doc_uri, ACDH["hasOwner"], URIRef("https://d-nb.info/gnd/5321012-8")))
-    g.add((cur_doc_uri, ACDH["hasRightsHolder"], URIRef("https://d-nb.info/gnd/5321012-8")))
 
     # title
     title = extract_fulltext(doc.any_xpath(".//tei:titleStmt/tei:title[@level='a']")[0])
@@ -126,6 +122,7 @@ for x in tqdm(files):
     #     (cur_doc_uri, ACDH["hasNonLinkedIdentifier"], Literal(non_linked_id, lang="de"))
     # )
     # facsimile
+'''
     facsimile = doc.any_xpath(".//tei:facsimile/tei:graphic")
     for img in facsimile:
         cur_image_uri = URIRef(f"{img.attrib['url']}")
@@ -151,7 +148,7 @@ for x in tqdm(files):
                     URIRef("https://viaf.org/de/viaf/122813825"),
                 )
             )
-
+'''
 for x in COLS:
     for s in g.subjects(None, x):
         COL_URIS.add(s)
@@ -161,11 +158,11 @@ for x in COL_URIS:
         g.add((x, p, o))
 
 print("writing graph to file")
-# g.serialize("html/arche.ttl")
-# g.serialize("to_ingest/arche.ttl")
-g.serialize("arche.ttl")
 
-files_to_ingest = glob.glob("./data/*/*.xml")
+g.serialize("to_ingest/arche.ttl")
+
+
+files_to_ingest = glob.glob("./tei/*.xml")
 print(f"copying {len(files_to_ingest)} into {to_ingest}")
 for x in files_to_ingest:
     _, tail = os.path.split(x)
