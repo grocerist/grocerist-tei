@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__167.xml">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="document__334.xml">
         <fileDesc>
             <titleStmt>
-                <title level="a">İSTM.ŞSC.15d.294 / 13a-2</title>
+                <title level="a">İSTM.ŞSC.15.d.539 / 46a</title>
                 <title level="s">Grocers of Istanbul: Tracing Food Consumption (GrocerIST)</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://orcid.org/0000-0002-8740-5275">Yavuz
@@ -53,11 +53,11 @@
                     <msIdentifier>
                         <institution>Directorate of State Archives of the Presidency of the Republic of Türkiye</institution>
                         <repository>Ottoman Archives</repository>
-                        <idno type="archive">İSTM.ŞSC.15d.294 / 13a-2</idno>
+                        <idno type="archive">İSTM.ŞSC.15.d.539 / 46a</idno>
                     </msIdentifier>
                     <history>
                     <origin>
-                        <origDate notBefore="1800" notAfter="1899"/>
+                        <origDate when="1297-03-15" datingMethod="#islamic"/>
                     </origin>
                         
                     </history>
@@ -70,28 +70,36 @@
         <profileDesc>
             <abstract>
                 <ab>Data of the grocer's shop inventory
-                    with shelfmark <idno>İSTM.ŞSC.15d.294 / 13a-2</idno>
+                    with shelfmark <idno>İSTM.ŞSC.15.d.539 / 46a</idno>
                 </ab>
             </abstract>
+            <calendarDesc>
+                <calendar xml:id="islamic">
+                    <p>Islamic Calendar (Hicri)</p>
+                </calendar>
+            </calendarDesc>
         </profileDesc>
     </teiHeader>
     <standOff>
         <listPlace>
             <place>
                 <location>
-                    <geo decls="#dd">41.19477 28.77241</geo>
+                    <geo decls="#dd">None None</geo>
                 </location>
             </place>
             <place xml:id="district__19" type="district">
                 <placeName>Eyüp</placeName>
             </place>
-            <place xml:id="karye__26" type="karye">
-                <placeName>Boğaz</placeName>
+            <place xml:id="nahiye__4" type="nahiye">
+                <placeName>Çekmece-i sagir</placeName>
+            </place>
+            <place xml:id="karye__38" type="karye">
+                <placeName>Anbarlı</placeName>
             </place>
         </listPlace>
         <listPerson>
-            <person role="main_person" xml:id="person__143">
-                <persName>Tohari v. Panayot</persName>
+            <person role="main_person" xml:id="person__281">
+                <persName>... v. Andarya</persName>
                 <state type="status"><label>dead</label></state>
                 <faith>Non muslim</faith>
                 <faith>Orthodox</faith>
@@ -100,20 +108,23 @@
                 <p>Wife</p>
             </person>
             <person role="mentioned">
+                <p>Son</p>
+            </person>
+            <person role="mentioned">
                 <p>Daughter</p>
             </person>
         </listPerson>
         <listRelation>
-            <relation type="ownership" name="owner" active="#person__143">
+            <relation type="ownership" name="owner" active="#person__281">
             </relation>
         </listRelation>
     </standOff>
     <facsimile>
-        <graphic url="https://id.acdh.oeaw.ac.at/grocerist/9618537_0001.jpg"/>
+        <graphic url="https://id.acdh.oeaw.ac.at/grocerist/None_0001.jpg"/>
     </facsimile>
     <text>
         <body>
-            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_bfr7qli5auld"/>16) ECR 294, 13a-2 (İSTM.ŞSC.15.d / 294) d. ...<ref target="http://document__167"> GrocerIST id_167</ref></head><p>Havass-ı Refia kazasına muzaf Terkos nahiyesine tabi Boğaz karyesinde mütemekkin iken bundan akdem halik olan Tohari(?) veled-i Panayot zımminin veraseti zevce-i metrukesi ... b. ... nasraniye ile sulbiye sagire kızları Elina ve Anaşni ve Maryaya münhasır(?) olduğu ba’de’t-tahkikü’l-şer’i sagirat-ı mezburanın tesviye(?) emirlerini(?) rü’yet-i(?) kable’l-şer’iden ba-hüccet(?) vaz’ nısb ve tayin olunan sagirat-ı mezburanın anaları mersume ... nasraniyenin taleb ve marifet-i şer’ile tahrir ve ... ile takvim olunan halik-i mesfurun terekesi defteridir ki ber-vech-i ati zikr olunur</p><p>Fi’l-yevm ...</p><p>Köhne kebe kalpak şalvar: kıymet 1200</p><p>Halik-i mesfurun karye-i mezburede vaki ... malumü’l-hudud bir bab menzil ber-vech-i ...: kıymet 24000</p><p>Cem: 25200</p><p>Halik-i mesfurun Havass-ı mezbura tabi yahud ... karyesinde vaki bir bab bakkal dükkanı derununda mevcud olup karye-yi mezburede sakin Süleyman ağa b. Mahmud nam kimesnenin makbuzu olan eşya-yı mütenevviasıdır ki zikr olunur</p><p>Taba 1, tencere 1, kapak 1, taş kapağı 1, tencere kapağı 1, kebir sahan 2, lenger 2, tenvir tabası 1: kıymet 1800</p><p>Yanbolu kebesi 1, ... 2: kıymet 300</p><p>Fasulye: kıyye 7, kıymet 126</p><p>Balta 3, masa(?) 2, destere 1, kantar 2, ... 1, ... 1, kandil 2, şişe, sıçan kapanı, ..., balta, satır, burgu destere: kıymet 1440</p><p>Billur bardak 8, teneke 3, ... 2, ... 1, ve kadeh 5, ve sair alat-ı .... malum ol-kadar, kahve ibriği 1: kıymet 861</p><p>Kanata 4 ma ibrik 2: kıymet 150</p><p>Bıçak 2 ma tabla 1: kıymet 45</p><p>Hırdavat temur: kıymet 72</p><p>...: kıymet 249</p><p>Hırdavat ...: kıymet 60</p><p>Çanak 6, desti küp 1: kıymet 450</p><p>Kutu tuz 6, tekne pekmez(?) destisi 2, kanata 1, balık(?) ... 10, kova 1, ... 1, havan 1: kıymet 645</p><p>Zenbil sagir ve kebir 5: kıymet 45</p><p>Süpürge 1: kıymet 18</p><p>Yün mumlu yasdık 1: kıymet 60</p><p>Kaba hasır 5: kıymet 180</p><p>Kapan 1: kıymet 15</p><p>Kutu 1: kıymet 15</p><p>Tabla 5: kıymet 150</p><p>Tabak ve ... hırdavat: kıymet 90</p><p>...: kıymet 120</p><p>Saban(?) 4: 720</p><p>Kebe(?) tahta: kıymet 180</p><p>Gerdel 1: kıymet 300</p><p>Kaba hasır 60: kıymet 120</p><p>Kebir fuçı 1: kıymet 600</p><p>Defa ... 2: kıymet 360</p><p>Hırdavat ağaç: kıymet 180</p><p>Boyunduruk 2: 60</p><p>Yasdık 1: 30</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_kwhqgy4gmmd1"/>28) ECR 539, 46a (İSTM.ŞSC.15.d / 539) d. 1297<ref target="http://document__334"> GrocerIST id_334</ref></head><p>Havass-ı refia kazasına muzaf çekmece-i sagir nahiyesine tabi Anbarlı karyesinde mütemekkin iken bundan akdem fevt olan devlet-i aliyye tebaasının rum milletinden bakkal ... v. Andaryanın veraseti ... teba-yı mezkure ve millet-i merkumeden zevce-i metrukesi ... b. ... ile sulbi sagir oğulları Kosti ve Yorgi ve ... ve sulbiye sagire kızı Anyoka(?)ya  ... olduğu led’el-şer’ül- ... zahir ve mütehakkık(?) olduktan sonra .... tesviye-yi umurlarını ... kable’l-şer’iden ba-hüccet-i şer’iye mensub ve ... zevce-i merkume ... üzerine ber-vech-i ... nısb ve tayin olunan devlet-i aliyye tebaasının rum milletinden ... v. Kosti taleb ve marifetleri ve marifet-i şer’ile tahrir be bayi olunan müteveffa-yı merkumun terekesi defteridir ki ber-vech-i ati zikr olunur.</p><p>Fi  15 Rebiülevvel(?) 1297</p><p>Kebir ve sagir desti: 12, kıymet 10</p><p>Nargüle ma ...: 5, kıymet 40</p><p>Kavanoz 8, şişe 16: kıymet 33.5</p><p>Terazi ma derahim 1: kıymet 80</p><p>Şişe 8, kudüm 16: kıymet 23</p><p>... 1, ... 2: kıymet 10</p><p>Hasırlı(?) şişe: 4, kıymet 30</p><p>Bıçak: 1, kıymet 5.5</p><p>Gaz tenekesi: 7, kıymet 10</p><p>Desti: 1, kıymet 70</p><p>... kağıdı deste 12, şamandıra deste 18: kıymet 16.5</p><p>...: 1, kıymet 4</p><p>Sagir çekmece 1: kıymet 10</p><p>Kantar 1: kıymet 65</p><p>İskemle 1: kıymet 17.5</p><p>Taba 2: kıymet 17</p><p>Mangal koca 1, gaz sandığı 2, ma hırdavat: kıymet 15.5</p><p>Gaz teneke: 25, kıymet 20</p><p>Fuçı: 2, kıymet 85</p><p>Sirke: kıyye 8, kıymet 35</p><p>Müteveffa-yı merkumun karye-i mezkure ... malum olan kimesneler zimmetlerinde cihet-i deyn-i şer’iyyeden alacak hakkı olub dahi zevce-i merkume .... olunan meblağ: 5953</p><p>Cem’-i yekun: 6550.5</p></div>
         </body>
     </text>
 </TEI>

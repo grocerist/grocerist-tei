@@ -168,6 +168,64 @@
                 <name xml:lang="en">Fish</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__2123">
+                <measureGrp>
+                    <measure type="value" quantity="19.0" unit="kıyye" commodity="Pirinc">None</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2124">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Duhan">15.0</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2125">
+                <measureGrp>
+                    <measure type="value" quantity="15.0" unit="kıyye" commodity="Revgan-ı çerviş">30.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2126">
+                <measureGrp>
+                    <measure type="value" quantity="35.0" unit="kıyye" commodity="Mum yağı">None</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2127">
+                <measureGrp>
+                    <measure type="value" quantity="600.0" unit="adet" commodity="Balık">30.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2128">
+                <measureGrp>
+                    <measure type="value" quantity="138.0" unit="kıyye" commodity="Arak">117.1</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2129">
+                <measureGrp>
+                    <measure type="value" quantity="15.0" unit="keyl" commodity="Dakik">75.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2130">
+                <measureGrp>
+                    <measure type="value" quantity="92.0" unit="kıyye" commodity="Peynir">None</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2131">
+                <measureGrp>
+                    <measure type="value" quantity="160.0" unit="keyl" commodity="Şair">None</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2132">
+                <measureGrp>
+                    <measure type="value" quantity="120.0" unit="kıyye" commodity="Soğan">None</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+        </list>
         <list type="utensils">
             <item xml:id="utensil__4">
                 <name xml:lang="tr">Kantar</name>
@@ -197,7 +255,7 @@
     </facsimile>
     <text>
         <body>
-            <div><p>This document does not contain any groceries.</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_pqgvk8hhdobj"/>23) ECR 402, 41ab (İSTM.ŞSC.15.d / 402) d. 1240<ref target="http://document__180"> GrocerIST id_180</ref></head><p>Havass-ı refia kasabasına muzaf Terkos nahiyesine tabi Aya Yorgi karyesinde mütemekkin iken bundan akdem halik olan bakkal Vasil v. Dimitraki zımminin veraseti zevce-i metrukesi Pireşko(?) b. Yani nasraniye ile sulbi oğulları Hamal(?) ve Hristo nam sagiran(?) ve ... kebire kızları ... nasraniyelere ... olup kable’l-... zevce-i mesfure dahi halik olub veraseti ve verese-i mesfurun ... olduğu bade’t-tahkik’ül-şer’i halik-i mesfur sağlığında karye-i mezburede vaki bir bab bakkal dükkanında bakkallık ticaretinde tarafının ... sermayesi olmayarak ticaretleri cinsinden olan emtia ve eşya-yı malumeyi al’el-iştirak(?) ... ahire bade’l-bayi semenlerinden ... iden hayvanları ... beynlerinden ... iktisam etmek üzere şirket-i bi’l-vücuh(?) ile şeriki olduğu bundan akdem ba-hüccet-i şer’iyye zahir(?) olan Estaviru(?) v. Dimitri ve karye-i mezbure ...başısı olub sagiran-ı mesfuranın tesviye-i umurlarına kabl’el- şer’iden ba-hüccet dahi(?) nısb ve tayin olunan ... v. Dimitri zımmiler ile ... derun-ı dükkan-ı mezkurda mevcud halik-i mesfur ile şeriki mesfur Estaviri zımminin ... mal şirketleri olub taleb ve marifetleri ve marifet-i şer’ile tahrir ve bayi  ve rü’yet olunan ... defteridir ki ber-vech-i ati zikr olunur.</p><p>Fi 7 Cemazıyelahir 1240</p><p>Terazi ma derahim: 15</p><p>Satur(?): 7</p><p>Peştahta(?): 3(?)</p><p>Pirinç: kıyye 19, fi para 30, kıymet(?)/hisse(?) 14.10</p><p>Anbar: 12.5</p><p>Duhan: kıyye 10, fi para 1.5, kıymet 15</p><p>Revgan-ı çerviş: kıyye 15, fi 2, kıymet 30</p><p>Revgan-ı mum: kıyye 35, fi para 40, kıymet 35</p><p>Balık: aded 600, kıymet 30</p><p>Arak: kıyye 138(?), kıymet 117.13</p><p>Kantar: 2, 20</p><p>Dakik: keyl 15, fi 5, kıymet 75</p><p>...: kıyye 40, fi para 10, kıymet 10</p><p>Penbe (?) ...: 18</p><p>Revgan-ı don: 17.5</p><p>Peynir: kıyye 92, fi para 40, kıymet 97</p><p>Şair keyl: 160, fi para 90, kıymet 360</p><p>Öküz res: 1, 20</p><p>Soğan: kıyye 120, fi para 10(?), kıymet 40  </p><p>Pasdırma ma sucuk: kıyye 63, fi para 50, kıymet 78.10</p><p>Huni(?): aded 3, kıymet 3.5</p><p>Kıyma tahtası: 10</p><p>Küp: 3, 23</p><p>Bakır(?): kıyye 13, fi 4, kıymet 52</p><p>Saman kantar: 170, fi para 95, kıymet 403.10</p><p>Fıçu: aded 9, kıymet 180</p><p>Bargir res: 1, 225</p><p>Hırdavat-ı dükkan-ı mezkur: 167.14</p><p>Nakd-i mevcud: 574.4</p></div>
         </body>
     </text>
 </TEI>

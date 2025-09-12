@@ -175,6 +175,53 @@
                 <name xml:lang="en">Chicken</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__2150">
+                <measureGrp>
+                    <measure type="value" quantity="30.0" unit="kıyye" commodity="Tuz">6.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2151">
+                <measureGrp>
+                    <measure type="value" quantity="4.0" unit="kıyye" commodity="Zeytun">3.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2152">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Bakla">7.5</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2153">
+                <measureGrp>
+                    <measure type="value" quantity="2.0" unit="kıyye" commodity="Keçiboynuzu / Harnup">1.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2154">
+                <measureGrp>
+                    <measure type="value" quantity="3.0" unit="kıyye" commodity="Mercimek">2.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2155">
+                <measureGrp>
+                    <measure type="value" quantity="115.0" unit="kıyye" commodity="Arak">230.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2156">
+                <measureGrp>
+                    <measure type="value" quantity="64.0" unit="kıyye" commodity="Sirke">32.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2157">
+                <measureGrp>
+                    <measure type="value" quantity="480.0" unit="kıyye" commodity="Ham sirke">300.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2158">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="adet" commodity="Tavuk">40.0</measure>
+                </measureGrp>
+            </item>
+        </list>
         <list type="utensils">
             <item xml:id="utensil__6">
                 <name xml:lang="tr">Bardak</name>
@@ -193,7 +240,7 @@
     </facsimile>
     <text>
         <body>
-            <div><p>This document does not contain any groceries.</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_bd40m635js50"/>26) ECR 440, 7b (İSTM.ŞSC.15.d / 440) d. 1252<ref target="http://document__184"> GrocerIST id_184</ref></head><p>Havass-ı refia kazasına tabi Suyolu kuralarından Küçük karyede mütemekkin iken bundan akdem halik olan bakkal Panto v. Todori zımminin veraseti zevce-i metrukesi Maryode b. ... nasraniye ile sulbi sagir oğulları Vasil ve Kosti ve sulbiye sagire kızı ... olduğu şer’ren zahir ve mütehakkık olduktan sonra ... mersumunun anaları ... kable’l-şer’iden ba-hüccet ... zevce-i mersume Maryode nasraniyenin talep ve marifetiyle tahrir ve bayi ve taksim olunan tereke-i halik-i mersumdur ki ber-vech-i ati zikr olunur.</p><p>Fi Selh-i Muharrem 1252</p><p>Şayak şalvar1, uçkur 1, ...1: kıymet 50</p><p>Çuka kısa entari 1: kıymet 10      	</p><p>Gömlek 2, yelek 2: kıymet 20                   	</p><p>Köhne kısa kuzu kürk 1: kıymet 20</p><p>Aba 1, potur(?) 1, kuşak 1, ...1: kıymet 35          	</p><p>Tahta sandık 1: kıymet 10            	</p><p>...bezi döşek 1, baş yasdığı 1, köhne yorgan 1: kıymet 70</p><p>Bakraç 1, tencere 1, sahan 1: kıymet ?                            	</p><p>Tuz(?): kıyye 30, kıymet 6                        	</p><p>Zeytun: kıyye 4, kıymet para 3</p><p>Bakla: kıyye 10, kıymet 7.5</p><p>Keçi boynuzu: kıyye 2, kıymet 1</p><p>Sarımsak ve soğan: 1.5</p><p>Fıstık: 2</p><p>Mercimek: kıyye 3, kıymet 2</p><p>Tekne(?) hırdavatı: 2.5</p><p>Yular: aded 4, kıymet 6</p><p>Çarık: çift 4, kıymet 4</p><p>Billur bardak ma çanak hırdavatı(?): 10</p><p>Bakır 3, taba 1, kefçe 1: kıymet 50</p><p>Temur hırdavatı: 50</p><p>Arak: kıyye 115, kıymet 230</p><p>Sirke: kıyye 64, kıymet 32</p><p>Ham sirke: kıyye 480, kıymet 300</p><p>Araba hırdavatı: 50</p><p>Saman kantar: 10, kıymet 75</p><p>Tavuk: 10, kıymet 40</p><p>Bir miktar hatab: 30</p><p>Bir miktar kömür: 10</p><p>Halik-i mersumun berber Nikola zımmi zimmetinde alacak hakkı olup kabz olunan: 146</p><p>Halik-i mersumun cübbeci(?) karyeli kadı .... zımmi zimmetinde alacak hakkı olup kabz olunan: 3652</p><p>Halik-i mersumun .... zımmi zimmetinde alacak hakkı olup kabz olunan: 10?0</p><p>Halik-i mersumun Kadife(?) karyeli ... zımmi zimmetinde alacak hakkı olup kabz olunan: 40</p><p>Halik-i mersumun Ayvansaray kapusu haricinde bargirci Serkoz(?) zımmi zimmetinde alacak hakkı olup kabz olunan: 60</p><p>Cem’-i yekun: 6075 guruş(?) 8 para</p></div>
         </body>
     </text>
 </TEI>

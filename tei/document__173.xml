@@ -278,6 +278,182 @@
                     <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
+            <item xml:id="price__1991">
+                <measureGrp>
+                    <measure type="value" quantity="5.0" unit="kıyye" commodity="Nişasta">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1992">
+                <measureGrp>
+                    <measure type="value" quantity="19.0" unit="kıyye" commodity="Soğan">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1993">
+                <measureGrp>
+                    <measure type="value" quantity="5.0" unit="kıyye" commodity="Nohud">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1994">
+                <measureGrp>
+                    <measure type="value" quantity="5.0" unit="kıyye" commodity="Döğülmüş buğday">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1995">
+                <measureGrp>
+                    <measure type="value" quantity="16.0" unit="kıyye" commodity="Fasulye">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1996">
+                <measureGrp>
+                    <measure type="value" quantity="56.5" unit="kıyye" commodity="Pirinc">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1997">
+                <measureGrp>
+                    <measure type="value" quantity="14.5" unit="kıyye" commodity="Şariye">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1998">
+                <measureGrp>
+                    <measure type="value" quantity="4.0" unit="kıyye" commodity="Sarımsak">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__1999">
+                <measureGrp>
+                    <measure type="value" quantity="34.0" unit="kıyye" commodity="Fındık">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2000">
+                <measureGrp>
+                    <measure type="value" quantity="15.0" unit="kıyye" commodity="Bulgur">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2001">
+                <measureGrp>
+                    <measure type="value" quantity="30.0" unit="kıyye" commodity="Fasulye">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2002">
+                <measureGrp>
+                    <measure type="value" quantity="1.0" unit="kıyye" commodity="Siyah üzüm">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2003">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Eflak tuzu">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2004">
+                <measureGrp>
+                    <measure type="value" quantity="3.0" unit="kıyye" commodity="Pekmez">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2005">
+                <measureGrp>
+                    <measure type="value" quantity="27.0" unit="kıyye" commodity="Böğrülce">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2006">
+                <measureGrp>
+                    <measure type="value" quantity="55.0" unit="kıyye" commodity="Limon">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2007">
+                <measureGrp>
+                    <measure type="value" quantity="1.0" unit="kıyye" commodity="Beylerce üzümü">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2008">
+                <measureGrp>
+                    <measure type="value" quantity="2.0" unit="kıyye" commodity="Kaşkaval">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2009">
+                <measureGrp>
+                    <measure type="value" quantity="2000.0" unit="adet" commodity="Ceviz">None</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2010">
+                <measureGrp>
+                    <measure type="value" quantity="20.0" unit="kıyye" commodity="Deniz tuzu">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2011">
+                <measureGrp>
+                    <measure type="value" quantity="5.0" unit="kıyye" commodity="Keçiboynuzu / Harnup">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2012">
+                <measureGrp>
+                    <measure type="value" quantity="32.5" unit="dirhem" commodity="Büber">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2013">
+                <measureGrp>
+                    <measure type="value" quantity="3.0" unit="kıyye" commodity="Çıra">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2014">
+                <measureGrp>
+                    <measure type="value" quantity="44.0" unit="kıyye" commodity="Zeytun">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2015">
+                <measureGrp>
+                    <measure type="value" quantity="42.0" unit="kıyye" commodity="Eflak tuzu">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2016">
+                <measureGrp>
+                    <measure type="value" commodity="Hatab">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2017">
+                <measureGrp>
+                    <measure type="value" quantity="60.0" unit="dirhem" commodity="Kağıd">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2018">
+                <measureGrp>
+                    <measure type="value" quantity="23.0" unit="kıyye" commodity="Pekmez">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2019">
+                <measureGrp>
+                    <measure type="value" quantity="82.0" unit="kıyye" commodity="Sirke">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2020">
+                <measureGrp>
+                    <measure type="value" quantity="49.0" unit="keyl" commodity="Şair">None</measure>
+                    <measure type="currency">akçe</measure>
+                </measureGrp>
+            </item>
         </list>
         <list type="utensils">
             <item xml:id="utensil__107">
@@ -291,7 +467,7 @@
     </facsimile>
     <text>
         <body>
-            <div><p>This document does not contain any groceries.</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_7ctl84btd7co"/>17) ECR 300, 54a-55b (İSTM.ŞSC.15.d / 300) d. ...<ref target="http://document__173"> GrocerIST id_173</ref></head><p>Medine-i hazret-i Ebu Eyüb el-Ensari- radiye anhu Rabbühü’l-bârî- vakf-ı şerifi hududu dahilinde olup zikr-i ati hal-i(?) mefkud ba-ferman-ı ali vakf-ı müşarünileyh tarafından ahz u kabz olunduğu şurut-ı mer’iyyesinden olduğuna binaen hudud-ı mezkur dahilinde vaki Takiyyecibaşı mahallesinde çömlekçiler başında yeni dükkan demekle arif bir bab bakkal dükkanının müstaciri ve derununda mecud beynü’l-... gedik tabir olunur bakkallara mahsus alat-ı lazıme yüz yirmi sehm itibarıyla yirmi sehminin maliki olan bakkal Kostantin v. Yani zımmi bundan akdem gaybet-i münkıta’ ile gaib olup hayat ve mematı malum olmayıp mahalle-i mezburda bu makule mefkud olanların emvaline ahz u kabz ve hıfza memur olup redd-i(?) cevaba(?) kable’l- şer’iden mezun olan beytülmal emini esseyid Mustafa Şakir ağa b. Esseyid elhac ... tarafından ve ... Mustafa ağa b. Ahmed dükkan-ı mezkur derununda mevcud alat-ı lazıme-i memluke ile sair emtia-yı malumelerini ... bade’l-kabz alat-ı lazıme ve emtia-yı malumeden(?) rızasıyla  ... edip dükkan-ı mezkurda mevcud alat-ı lazımeyle sair emtia-yı malum-ı mütenevviayı gaib-i mesfurun hali mütebeyyin oluncaya değin ahz u kabz ve hıfza emin-i merkum iltimasıyla(?) kable’l-şeriden ba-hüccet vaz’(?) ve kıyem-i(?) nısb ve tayin olunan hissedarı Yorgi v. Dimitri zımmi talep ve marifeti ve marifet-i şer’iyle tahrir olunan gaib-i mesfurun derun-ı dükkanda mevcud eşya-yı mütenevvia-yı malume defteridir ki ber-vech-i ati zikr olunur fi’l-yevm ...</p><p>Nişasta: kıyye 5, fi akçe 33, dirhem 100</p><p>Soğan: kıyye 19, fi akçe 6</p><p>Nohud: kıyye 5, fi akçe 18, dirhem 300</p><p>Döğülmüş buğday: kıyye 5, fi akçe 15</p><p>Fasulye: kıyye 16, fi akçe 14(?)</p><p>Pirinç: kıyye 56,5(?), fi akçe 45</p><p>Şariye: kıyye 14,5(?), fi akçe 42</p><p>Sarımsak: kıyye 4, fi akçe 12</p><p>Fındık: kıyye 34, fi akçe 36</p><p>Revgan-ı sade safi: kıyye 40, fi akçe 87</p><p>Mum yağı safi: kıyye 9, fi akçe 72</p><p>Bulgur: kıyye 15, fi akçe 20, dirhem 150</p><p>Fasulye: kıyye 30, fi akçe 15</p><p>Siyah üzüm: kıyye 1, fi akçe 27</p><p>Nardenk safi: kıyye 8, fi akçe 20, dirhem 300</p><p>Eflak tuzu: kıyye 10, fi akçe 10</p><p>Pekmez: kıyye 3, fi akçe 24, dirhem 300</p><p>Desti pekmez safi: kıyye 24,5(?), fi akçe 37(?)</p><p>Böğrülce: kıyye 27, fi akçe 15</p><p>Limon: kıyye 55, fi akçe 50</p><p>Beğlerce üzümü: kıyye 1, fi akçe 35, dirhem 100</p><p>Kaşkaval peyniri: kıyye 2, fi akçe 40, dirhem 100</p><p>Ceviz: kıyye 2000, beherini kırkar paraya</p><p>Deniz tuzu: kıyye 20, fi akçe 3</p><p>Keçi boynuzu: kıyye 5, fi 9</p><p>Büber: dirhem 32,5, fi</p><p>Çıra: kıyye 3, fi akçe 18</p><p>Zeytun: kıyye 44, fi akçe 32</p><p>Eflak tuzu: kıyye 42, fi 10</p><p>Kağıd: dirhem(?) 60</p><p>Hatab malum olmiktar: fi 200</p><p>Pekmez: kıyye 23, fi akçe 36</p><p>...: kıyye 8, fi 36</p><p>Nardenk safi: kıyye 185</p><p>Nardenk fıçısı: aded 1</p><p>Sirke: kıyye 82, fi akçe 8</p><p>Şair keyl: 49, fi akçe 102(?)</p><p>Revgan-ı zeyt safi: kıyye 36, fi 101,5(?)</p><p>Cem’an kıymetleri bin doksan yedi akçeye baliğ malumü’l-aded süpürge ve çömlek ve bardak ve sicim ve kova ve desti ile derun-ı dükkanda mevcud gedik tabir olunan bir kantar ve iki terazi ma derahim ve sair bakkallara mahsus alat-ı lazıme-i malumeyi zımmi-i mesfur Yorgi zımmiye ahz u kabz idüb yedinde mahfuz olduğu işbu mahale şerh-i ...</p></div>
         </body>
     </text>
 </TEI>

@@ -140,6 +140,50 @@
                 <name xml:lang="en">Sea salt</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__2133">
+                <measureGrp>
+                    <measure type="value" quantity="4.0" unit="kıyye" commodity="Böğrülce">32.0</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2134">
+                <measureGrp>
+                    <measure type="value" quantity="6.0" unit="kıyye" commodity="Fasulye">24.0</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2135">
+                <measureGrp>
+                    <measure type="value" quantity="3.0" unit="keyl" commodity="Şair">216.0</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2136">
+                <measureGrp>
+                    <measure type="value" quantity="5.0" unit="kıyye" commodity="Deniz tuzu">25.0</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2137">
+                <measureGrp>
+                    <measure type="value" quantity="20.0" unit="kıyye" commodity="Mercimek">83.0</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2138">
+                <measureGrp>
+                    <measure type="value" quantity="2.0" unit="kıyye" commodity="Revgan-ı zeyt">80.0</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2139">
+                <measureGrp>
+                    <measure type="value" quantity="6.0" unit="kıyye" commodity="Nardenk">48.0</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+        </list>
         <list type="utensils">
             <item xml:id="utensil__6">
                 <name xml:lang="tr">Bardak</name>
@@ -157,7 +201,7 @@
     </facsimile>
     <text>
         <body>
-            <div><p>This document does not contain any groceries.</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_xpn8eywszin"/>24) ECR 403, 34b3 (İSTM.ŞSC.15.d / 403) d. 1242<ref target="http://document__181"> GrocerIST id_181</ref></head><p>Medine-i hazret-i Ebu Eyüp Ensari- radiye anhu Rabbühü’l-bârîde - Nişancı Mustafa Paşa mahallesinde mütemekkin iken bundan akdem diyar-ı ahire firar edip hayatı ve mematı ve mekanı malum olmayan Yani v. Hristo(?) nam zımminin mahalle-i mezburda vaki malum’ül-hudud bir bab bakkal dükkanı derununda mevcud alat-ı lazıme-i malume vesair eşya-yı mütenevviası ahz u kabz ve ... olan eşyaları çürümeğe mail olmakla çürümek fevkinden(?) naşi(?) semen-i(?) misliyle bayi ve ... gaib-i mersum için hıfz-ı kable’l-şer’iden kayyım-ı nısb ve tayin olunan bakkal ... v. Yani nam zımminin talep ve marifeti ve marifet-i şer’ile tahrir ve bayi olunan gaib-i mefkud-ı mersumun dükkan-ı mezkurda emval ve eşyası defteridir ki ber-vech-i ati zikr olunur.</p><p>Fi 3 Muharrem 1242</p><p>Böğrüce fasulye: kıyye 4, fi para 8, kıymet para 32</p><p>Defa fasulye: kıyye 6, fi para 4, kıymet para 24</p><p>Arpa keyl: 3, fi para 72, kıymet para 216</p><p>Bardak ibrik: 131, fi para 2, kıymet para 536</p><p>Deniz tuzu: kıyye 5, fi para 5, kıymet para 25</p><p>Humbara(?): aded 200, kıymet para 200</p><p>Mercimek: kıyye 20, fi 3, kıymet para 83</p><p>Pekmez destisi: aded 2, fi para 40, kıymet para 80</p><p>Revgan-ı zeyt: kıyye 2, fi para 40, kıymet para 80</p><p>Nardenk: kıyye 6, kıymet para 48</p><p>Yekun: para 1324</p><p>Vech-i ... üzere gaib-i mesfurun ... malı olarak ... şer’ile tahrir ve semen-i misilleriyle ahire bayi olunan eşyanın semenleri olub balada mezkur bin üç yüz yirmi dört parayı ... ahz u kabz ve bila- ... kendi ... gaib-i mesfurun zimmetinde ... olan ... kayyım-ı mesfurun ... şer’ide idüği ... işbu mahale şerh verildi.</p></div>
         </body>
     </text>
 </TEI>

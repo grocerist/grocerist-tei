@@ -213,6 +213,84 @@
                 <name xml:lang="tr">Şariyye makarna</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__2099">
+                <measureGrp>
+                    <measure type="value" quantity="57.0" unit="kıyye" commodity="Pirinc">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2100">
+                <measureGrp>
+                    <measure type="value" quantity="64.0" unit="kıyye" commodity="Kaşar peyniri">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2101">
+                <measureGrp>
+                    <measure type="value" quantity="109.0" unit="kıyye" commodity="Arpacık soğanı">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2102">
+                <measureGrp>
+                    <measure type="value" quantity="75.0" unit="kıyye" commodity="Kaba soğan">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2103">
+                <measureGrp>
+                    <measure type="value" quantity="13.0" unit="kıyye" commodity="Revgan-ı bezir">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2104">
+                <measureGrp>
+                    <measure type="value" quantity="3.0" unit="kıyye" commodity="Sarımsak">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2105">
+                <measureGrp>
+                    <measure type="value" quantity="1.5" unit="kıyye" commodity="Basdırma">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2106">
+                <measureGrp>
+                    <measure type="value" quantity="1.0" unit="kıyye" commodity="Havyar">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2107">
+                <measureGrp>
+                    <measure type="value" quantity="16.0" unit="kıyye" commodity="Fasulye">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2108">
+                <measureGrp>
+                    <measure type="value" quantity="2.0" unit="kıyye" commodity="Böğrülce">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2109">
+                <measureGrp>
+                    <measure type="value" quantity="2.0" unit="kıyye" commodity="Şariyye makarna">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2110">
+                <measureGrp>
+                    <measure type="value" quantity="55.0" unit="kıyye" commodity="Revgan-ı zeyt">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2111">
+                <measureGrp>
+                    <measure type="value" quantity="14.0" unit="kıyye" commodity="Dakik">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2112">
+                <measureGrp>
+                    <measure type="value" quantity="6.0" unit="keyl" commodity="Şair">None</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2113">
+                <measureGrp>
+                    <measure type="value" unit="kıyye" commodity="Zeytun">None</measure>
+                    <measure type="currency">para</measure>
+                </measureGrp>
+            </item>
+        </list>
         <list type="utensils">
             <item xml:id="utensil__6">
                 <name xml:lang="tr">Bardak</name>
@@ -231,7 +309,7 @@
     </facsimile>
     <text>
         <body>
-            <div><p>This document does not contain any groceries.</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_umdhkranes84"/>21) ECR 393, 54b-55a (İSTM.ŞSC.15.d / 393) d. 1238<ref target="http://document__178"> GrocerIST id_178</ref></head><p>Fi’l-asıl vilayet-i Rumelide Beğşehir ... tabi ... nam ... karyesi ahalisinden olup mahmiye-yi İstanbul ... Topkapısı haricinde Takiyyeci mahallesinde mütemekkin iken bundan akdem halik olan bakkal Hristo v. Dimo zımminin veraseti karye-yi mezburede mütemekkin zevce-i metrukesi Ağol b. Yani nasraniye ile sulbi kebir oğulları Yorgi ve Dimo zımmilere ... olduğu bila-ihbar lede’l- şer’ü’l... zahir ve mütebeyyin olduktan sonra bu makule vereseleri diyar-ı ahirde bulunanların hisse-i ... ahz u kabz ve hıfza memur olup kable’l-şer’iden ... cevaba mezun olan Sultan Bayezid Veli han ... hazretlerinin vakf-ı şer’isi mütevellisi tarafından ... mütevelli beytülmal ... memur olan Edirne kapusu başısı Hüseyin ağa b. Mehmed ve verese-i gaibun-ı mesfurunun hisse-i ırsiyelerini(?) bade’t-... rızasıyla ... verese-i mesfurunun hisse-i ırsiyelerini ahz u kabz ve ... kendilerine irsal ve ... ba-hüccet vaz’ ve kayyım-ı nısb ve tayin olunan bab-ı mezbur dahilinde mütemekkin bakkal Kosti v. Hristo zımmi ile esnaf-ı mezburun ... başısı bakkal Mehmed ağa b. Elhac ... usta nam kimesne gedik taleb-i marifetleri ve marifet-i şer’iyle tahrir ve ... ile takvim olunan halik-i mesfurun terekesi defteridir ki ber-vech-i ati zikr olunur.</p><p>Fi 19 Muharrem 1238</p><p>Çuval(?) 1, yemeni 3, havlu 2, bir miktar şem’-i asel: 10</p><p>Fincan: aded 9, 8</p><p>Tahta sandık bir miktar sabun ve hırdavat: 6</p><p>Hırdavat bez(?): 3</p><p>Bir miktar ...: 12</p><p>Köhne kebe sandık ve hırdavat: 6</p><p>Cedid kebe köhne kebe ... ve aba: 25</p><p>Müstamel Yanbolu kebesi: 15</p><p>Minder yasdık çuval zenbil: 15</p><p>Gömlek dizlik umum gömleği köhne entari: 15</p><p>Müstamel çuval: 3, 3</p><p>Kebe: 2,2</p><p>... kebesi köhne entari ve hırdavat(?): 3</p><p>Pirinç: kıyye 57, fi 26, hisse(?) 37.2</p><p>Kaşar peyniri: kıyye 64, fi para 64, hisse 88</p><p>Arpacık soğan: kıyye 109, fi 6, hisse 16.14</p><p>Kaba soğan: kıyye 75, fi 4, hisse 7.5</p><p>Revgan-ı bezir: kıyye 13, fi 92, hisse 29.36</p><p>Sarımsak: kıyye 3, fi 12, hisse 0.12</p><p>Kumbara(?): aded 60, hisse 0.16</p><p>Pasdırma: kıyye 1.5, fi 35, hisse 1.12</p><p>Havyar(?): kıyye 1, fi 54(?), hisse 4</p><p>Fasulye: kıyye 16, fi 8, hisse 3.8</p><p>Böğrüce: kıyye 2, fi 25, hisse 1.10</p><p>Makarna şa’riye: kıyye 2, fi 32, hisse 1.4</p><p>Revgan-ı zeyt: kıyye 55, fi 46, hisse 63.10</p><p>Çalı süpürge: hisse 0.4</p><p>Şem’: hisse 1</p><p>Siyah üzüm: kıyye 1, hisse 1</p><p>Arı(?) mum: kıyye 9, fi 70, hisse 15.10</p><p>Ufak mum: kıyye 3, fi 60, hisse 42(?)</p><p>İnce tuz: hisse 14.10</p><p>Arı tuz: hisse 5.10</p><p>Kaşkaval peyniri: hisse 12(?).10</p><p>Dakik: kıyye 14, fi 18, hisse 6.16</p><p>Tulum peyniri: kıyye 75.5, hisse 69.12</p><p>Arpa keyl: 6, fi 110(?), hisse 16.20</p><p>Bardak ve ibrik: aded 314, hisse 21</p><p>Kanata: aded 6, fi para 12</p><p>Zeytun: kıyye ?, fi para 20, hisse 5</p><p>Bir miktar hatab: hisse 1</p><p>Bir miktar kinab(?): hisse 1</p><p>Revgan-ı zeyt: kıyye 11, hisse 12.6</p><p>Hurda demir: hisse 4</p><p>Nakd-i mevcud: 26.7</p><p>Halik mesfurun Galataya muzaf Kasımpaşada Sirkeci ... mahallesinde kain bir bab ... derununda mevcud gedik tabir olunur alat-ı lazımede nısf-ı hisse kıymeti: 125</p><p>Cem’: 728.33</p></div>
         </body>
     </text>
 </TEI>

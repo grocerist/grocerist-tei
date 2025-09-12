@@ -162,13 +162,65 @@
                 <name xml:lang="en">A type of aged yellow cheese</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__2140">
+                <measureGrp>
+                    <measure type="value" quantity="40.0" unit="kıyye" commodity="Sabun">110.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2141">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Fasulye">7.5</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2142">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Pirinc">18.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2143">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Şariye">17.5</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2144">
+                <measureGrp>
+                    <measure type="value" quantity="150.0" unit="adet" commodity="Yumurta">12.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2145">
+                <measureGrp>
+                    <measure type="value" quantity="40.0" unit="kıyye" commodity="Sarımsak">20.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2146">
+                <measureGrp>
+                    <measure type="value" quantity="30.0" unit="kıyye" commodity="Bal / Asel">60.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2147">
+                <measureGrp>
+                    <measure type="value" quantity="100.0" unit="kıyye" commodity="Dakik">100.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2148">
+                <measureGrp>
+                    <measure type="value" quantity="13.0" unit="kıyye" commodity="Revgan-ı zeyt">40.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2149">
+                <measureGrp>
+                    <measure type="value" quantity="20.0" unit="kıyye" commodity="Kaşar peyniri">90.0</measure>
+                </measureGrp>
+            </item>
+        </list>
     </standOff>
     <facsimile>
         <graphic url="https://id.acdh.oeaw.ac.at/grocerist/9618955_0001.jpg"/>
     </facsimile>
     <text>
         <body>
-            <div><p>This document does not contain any groceries.</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_at923tbmw6pt"/>25) ECR 436, 36b (İSTM.ŞSC.15.d / 436) d. 1249<ref target="http://document__182"> GrocerIST id_182</ref></head><p>Havass-ı refia kazasına muzaf kasaba-yı Hasköy’de Elhac ... mahallesinde mütemekkin iken bundan akdem halik olan bakkal Yako v. Meşyon(?) yahudinin veraseti zevce-i metrukesi Dina b. Markado yahudiye ile sulbi sagir oğulları Meşyon ve Salamona(?) ... olduğu şer’en(?) zahir ve mütehakkık olduktan sonra sagiran-ı mesfuranın tesviye-i umurlarına kable’l-şer’iden mensub(?) vasileri(?) olup zevce-i mersume Dina yahudi tarafından ... olan halik-i mersumun ... Alba v. Yako yahudi talep ve marifetiyle tahrir ve bayi ve taksim olunan tereke-i halik-i mesfurdur ki ber-vech-i ati zikr olunur.</p><p>Fi 18 Zilkade 1249</p><p>Minder, yasdık 6, köhne ... 2: kıymet 80</p><p>... 1, ...1, ...1, kalpak 1, entari 2, ...1, aba entari 1, dizlik 1: kıymet 100</p><p>Yorgan 2, döşek 1, çarşab 1, baş yasdığı 1: kıymet 60</p><p>Cem’: 240</p><p>Halik-i mesfurun kasaba-i mezburede Kiremitçi Ahmed Çelebi mahallesinde vaki bir bab bakkal dükkanı derununda mevcud emtiasıdır ki ber-vech-i ati zikr olunur</p><p>Sabun: kıyye 40, kıymet 110</p><p>Fasulye: kıyye 10, kıymet 7.5</p><p>Pirinç: kıyye 10, kıymet 18</p><p>Şariye: kıyye 10, kıymet 17.5</p><p>Yumurta: aded 150, kıymet 12</p><p>Sarımsak: kıyye 40, kıymet 20</p><p>Bir miktar şair: kıymet 4</p><p>Asel: kıyye 30, kıymet 60</p><p>Dakik: kıyye 100, kıymet 100</p><p>Bir miktar tuz: kıymet 10</p><p>Revgan-ı zeyt: kıyye 13, kıymet 40</p><p>Kaşar peyniri: kıyye 20, kıymet 90</p><p>Nakd-i mevcud: 28</p><p>Salifü’z-zikr Kiremitçi Ahmed Çelebi mahallesinde vaki bir bab bakkal dükkanı derununda mevcud beynü’l-esnaf(?) gedik tabir olunur alat-ı lazıme-i malume halik-i mesfurun ... yedinde mal ve meblağ olub ... ahire bayi olunmakla kabz olunan semeni: 550</p><p>Cem’-i yekun: 1307</p></div>
         </body>
     </text>
 </TEI>

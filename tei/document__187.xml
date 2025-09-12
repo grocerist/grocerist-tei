@@ -89,13 +89,95 @@
                 <placeName>Kapan-ı dakik harici</placeName>
             </place>
         </listPlace>
+        <list type="prices">
+            <item xml:id="price__2159">
+                <measureGrp>
+                    <measure type="value" quantity="14.0" unit="kıyye" commodity="Şeker">84.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2160">
+                <measureGrp>
+                    <measure type="value" quantity="9.0" unit="kıyye" commodity="Kahve">76.1</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2161">
+                <measureGrp>
+                    <measure type="value" quantity="12.0" unit="kıyye" commodity="Revgan-ı çerviş">108.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2162">
+                <measureGrp>
+                    <measure type="value" quantity="25.0" unit="kıyye" commodity="Gaz">120.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2163">
+                <measureGrp>
+                    <measure type="value" quantity="16.0" unit="kıyye" commodity="Peynir">97.5</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2164">
+                <measureGrp>
+                    <measure type="value" quantity="4.0" unit="kıyye" commodity="Sirke">4.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2165">
+                <measureGrp>
+                    <measure type="value" quantity="32.0" unit="kıyye" commodity="Pirinc">80.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2166">
+                <measureGrp>
+                    <measure type="value" quantity="18.0" unit="kıyye" commodity="İncir">36.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2167">
+                <measureGrp>
+                    <measure type="value" quantity="40.0" unit="kıyye" commodity="Tuz">32.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2168">
+                <measureGrp>
+                    <measure type="value" quantity="34.0" unit="kıyye" commodity="Fasulye">25.3</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2169">
+                <measureGrp>
+                    <measure type="value" quantity="2.0" unit="kıyye" commodity="Kaşar peyniri">10.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2170">
+                <measureGrp>
+                    <measure type="value" quantity="15.0" unit="kıyye" commodity="Mum">139.5</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2171">
+                <measureGrp>
+                    <measure type="value" quantity="3.5" unit="kıyye" commodity="Revgan-ı zeyt">28.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2172">
+                <measureGrp>
+                    <measure type="value" quantity="4.0" unit="kıyye" commodity="Sabun">14.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2173">
+                <measureGrp>
+                    <measure type="value" quantity="7.0" unit="kıyye" commodity="Zeytun">18.1</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2174">
+                <measureGrp>
+                    <measure type="value" quantity="99.0" unit="kıyye" commodity="Dakik">155.0</measure>
+                </measureGrp>
+            </item>
+        </list>
     </standOff>
     <facsimile>
         <graphic url="https://id.acdh.oeaw.ac.at/grocerist/9618958_0001.jpg"/>
     </facsimile>
     <text>
         <body>
-            <div><p>This document does not contain any groceries.</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_plevfy8jzgla"/>27) ECR 525, 55b2 (İSTM.ŞSC.15.d / 525) d. 1288<ref target="http://document__187"> GrocerIST id_187</ref></head><p>Vilayet-i Rumelide Salı Pazarı(?) kazasına tabi ... karyesi ahalisinden olup Havass-ı Refia kazasına muzaf Çekmece-i sagir nahiyesine tabi Temurci(?) karyesinde sakin iken ... bin iki yüz seksen yedi senesi Saferinin sekizinci günü fevt olan devlet-i aliyye tebaasının Rum milletinden bakkal Hristo v. Yani(?) v. Caco(?)nun veraseti zevce-i metrukesi ... b. Vasil ile anası ... b. Dimo(?) ... karındaşı(?) bakkal Tanaş ... v. ...</p><p>Fi 20 Safer 1288</p><p>Şeker(?): kıyye 14, fi 6, kıymet 84</p><p>Kahve: kıyye 9, fi 8.5, kıymet 76.10</p><p>Çerviş yağı: kıyye 12, fi 9, kıymet 108</p><p>Bir miktar fındık: 22.10</p><p>Siyah üzüm: 13</p><p>Gaz: kıyye 25, fi 40(?), kıymet 120</p><p>Bir miktar kahve: 12.10</p><p>Peynir: kıyye 16, dirhem 100 fi 6, kıymet 97.5</p><p>Sirke: kıyye 4, kıymet 4</p><p>Pirinç: kıyye 32, fi 20(?), kıymet 80</p><p>...: kıyye 14, fi 40, kıymet 60</p><p>İncir: kıyye 18, fi 2, kıymet 36</p><p>Tuz: kıyye 40, kıymet 32</p><p>Fasulye: kıyye 34, kıymet 25.32(?)</p><p>Kaşar peyniri: kıyye 2, fi 5, kıymet 10</p><p>Bir miktar tönbeki: 12</p><p>Bir miktar iplik(?): 14.5</p><p>Mum: kıyye 15, kıymet 139.5</p><p>Bir miktar kağıd: 8</p><p>Bir miktar ...: 4, fi 22, kıymet 88</p><p>Defa bir miktar ...: 8, fi 22, kıymet 176</p><p>Revgan-ı zeyt: kıyye 3.5, fi 8, kıymet 28</p><p>Sabun: kıyye 4, fi 3.5, kıymet 14</p><p>Zeytun: kıyye 7, kıymet 18.10</p><p>Dakik: kıyye 99, kıymet 155</p><p>Bir miktar sirke: 8</p><p>Bir miktar ip ma hırdavat: 65</p><p>Köhne tüfenk ve köhne ...: ?</p><p>Yün döşek 1, yasdık 2, ot(?) minder 1: 50</p><p>İnek re’s 1: 100</p><p>Köhne çorab(?): 10, 20</p><p>Basma ...li saat 1: 100</p><p>Köhne fuçı 1, desti 1, terazi 1, ma derahim: 50</p><p>Hırdavat mandal(?): 25</p><p>... bargir re’s 1: 910</p><p>Müteveffa(?)-yı mesfurun(?) Kara Mehmed Ağa’dan alacak hakkı olup kabz olunan semeni(?): 75</p><p>Yine müteveffa(?)-yı mesfurun(??) Derviş Halil Ağa’dan alacak hakkı olub kabz olunan semeni(?): 60</p><p>Yine müteveffa(?)-yı mesfurun(??) Yeni(?) Mustafa Ağa’dan alacak hakkı olup kabz olunan semeni(?): 168</p><p>Yine müteveffa(?)-yı mesfurun(??) Kahveci Mustafa’dan alcak hakkı olub kabz olunan semeni: 43</p><p>Yine müteveffa(?)-yı mesfurun(??) Yakub Ağa zimmetinde alacak hakkı olub kabz olunan semeni: 34</p><p>Yine müteveffa(?)-yı mesfurun(??) ...’dan alcak hakkı olub kabz olunan semeni: 17</p><p>Yine müteveffa(?)-yı mesfurun(??) ... Ahmed ve oğlu Receb ve ... oğlu Şaban ağa zimmetinde alacak hakkı olub kabz olunan semeni: 94</p><p>Yine müteveffa(?)-yı mesfurun(??) Kıpti(?) Mehmed’den alacak hakkı olup kabz olunan semeni: 4</p><p>Yine müteveffa(?)-yı mesfurun(??) ...den alacak hakkı olub kabz olunan semeni: 15</p><p>Nakd-i mevcud ...: 226.5</p><p>Cem’-i yekun: 3565</p></div>
         </body>
     </text>
 </TEI>

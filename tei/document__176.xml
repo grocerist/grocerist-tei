@@ -320,6 +320,146 @@
                     <measure type="currency">akçe</measure>
                 </measureGrp>
             </item>
+            <item xml:id="price__2044">
+                <measureGrp>
+                    <measure type="value" quantity="6.5" unit="kıyye" commodity="Dakik">117.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2045">
+                <measureGrp>
+                    <measure type="value" quantity="13.0" unit="kıyye" commodity="Bal / Asel">520.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2046">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Revgan-ı sade">600.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2047">
+                <measureGrp>
+                    <measure type="value" quantity="17.0" unit="kıyye" commodity="Tahin">765.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2048">
+                <measureGrp>
+                    <measure type="value" quantity="23.0" unit="kıyye" commodity="İncir">446.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2049">
+                <measureGrp>
+                    <measure type="value" quantity="18.0" unit="kıyye" commodity="Sirke">108.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2050">
+                <measureGrp>
+                    <measure type="value" quantity="23.0" unit="kıyye" commodity="İzmir siyahı üzüm">364.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2051">
+                <measureGrp>
+                    <measure type="value" quantity="32.5" unit="kıyye" commodity="Pirinc">1073.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2052">
+                <measureGrp>
+                    <measure type="value" commodity="Limon">100.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2053">
+                <measureGrp>
+                    <measure type="value" quantity="37.0" unit="kıyye" commodity="Fındık">604.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2054">
+                <measureGrp>
+                    <measure type="value" commodity="Duhan">100.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2055">
+                <measureGrp>
+                    <measure type="value" commodity="Balmumu">102.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2056">
+                <measureGrp>
+                    <measure type="value" quantity="23.0" unit="kıyye" commodity="Pekmez">322.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2057">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Kaba soğan">40.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2058">
+                <measureGrp>
+                    <measure type="value" quantity="20.0" unit="kıyye" commodity="Katran">240.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2059">
+                <measureGrp>
+                    <measure type="value" quantity="90.0" unit="kıyye" commodity="Kebir tuz">240.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2060">
+                <measureGrp>
+                    <measure type="value" quantity="8.0" unit="kıyye" commodity="Sabun">449.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2061">
+                <measureGrp>
+                    <measure type="value" unit="kıyye" commodity="Fasulye">481.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2062">
+                <measureGrp>
+                    <measure type="value" quantity="7.0" unit="kıyye" commodity="Nohud">154.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2063">
+                <measureGrp>
+                    <measure type="value" quantity="6.0" unit="kıyye" commodity="Mercimek">36.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2064">
+                <measureGrp>
+                    <measure type="value" quantity="103.0" unit="kıyye" commodity="Tuz">808.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2065">
+                <measureGrp>
+                    <measure type="value" quantity="10.0" unit="kıyye" commodity="Zeytun">60.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2066">
+                <measureGrp>
+                    <measure type="value" quantity="200.0" unit="kıyye" commodity="Kömür">600.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2067">
+                <measureGrp>
+                    <measure type="value" unit="kıyye" commodity="Tulum peyniri">2022.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2068">
+                <measureGrp>
+                    <measure type="value" quantity="14.5" unit="kıyye" commodity="Mum">831.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2069">
+                <measureGrp>
+                    <measure type="value" quantity="4.0" unit="keyl" commodity="Daru">400.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2070">
+                <measureGrp>
+                    <measure type="value" quantity="101.0" unit="kıyye" commodity="Soğan">808.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2071">
+                <measureGrp>
+                    <measure type="value" quantity="5.0" unit="keyl" commodity="Şair">500.0</measure>
+                </measureGrp>
+            </item>
         </list>
         <list type="utensils">
             <item xml:id="utensil__3">
@@ -338,7 +478,7 @@
     </facsimile>
     <text>
         <body>
-            <div><p>This document does not contain any groceries.</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_4ojhz9vbh7an"/>19) ECR 361, 92a (İSTM.ŞSC.15.d / 361) d. 1230<ref target="http://document__176"> GrocerIST id_176</ref></head><p>Fi’l-asıl vilayet-i Rumeli’de İnebahtı sancağında Buracık(?) kazasına tabi Murlayık(?) karyesi ahalisinden olup mahmiye-yi Istanbul hazret-i ebu ensari ... Yeni kapusu haricinde bakkal dükkanında mütemekkin iken bundan akdem halik olan bakkal Yani v. Panayot zımminin veraseti karye-yi mezburede mütemekkin zevce-yi metrukesi Marya b. Yorgi nasraniye ile Sulbi kebir oğlu Yorgi zımmi ve sulbiye kebire kızları Marina ve Satane nasraniyeye ... olduğu bila-ihbar lede’l-şer’ü’l- ... zahir ve mütehakkık olduktan sonra ...mezburunun hisse-i ... ahz u kabz ve hıfzı kendilerine irsal ve teslim vaz’ ve kayyım-ı nısb olunan Istori v. Yuvan zımmi talep ve marifet ve marifet-i şer’ile tahrir ve bayi ve taksim olunan tereke-yi halik-i mesfurki ber-vech-i ati zikr olunur fi 15 Safer 1230</p><p>Dakik: kıyye 6,5(?), kıymet(?) 117</p><p>Asel: kıyye 13, ... 520</p><p>Revgan-ı sade: kıyye 10, ... 600</p><p>Tahin: kıyye 17, kıymet 765</p><p>İncir: kıyye 23, kıymet 446</p><p>Sirke: kıyye 18, kıymet 108</p><p>İzmir siyahı: kıyye 23, kıymet 364</p><p>Pirinç: kıyye 32,5(?), kıymet 1073</p><p>Limon: kıymet 100</p><p>Fındık: kıyye 37, kıymet 604, dirhem 300</p><p>Duhan: kıymet 100</p><p>Şem’-i asel: kıymet 102</p><p>Badem: kıymet 30</p><p>Şamandıra: kıymet 6</p><p>Lüle: kıymet 29</p><p>Sarımsak ve ... ve ...: kıymet 80</p><p>Büber: kıymet 95</p><p>Nardenk: kıymet 24</p><p>Pekmez: kıyye 23, kıymet 322</p><p>Orak(?): kıymet 20</p><p>Kaba soğan: kıyye 10, kıymet 40</p><p>Katran: kıyye 20, kıymet 240</p><p>Yaprak ve kavanoz: kıymet 821</p><p>Kebir tuz: kıyye 90, kıymet 240</p><p>Çarık: çift 4, kıymet 100</p><p>Sabun: kıyye 8, dirhem 50, kıymet 449</p><p>Fasulye: kıyye ...3, fi 5(?), kıymet 481</p><p>Nohud: kıyye 7, kıymet 154</p><p>Mercimek: kıyye 6, kıymet 36</p><p>İğne ve iplik: kıymet 30</p><p>Süpürge: kıymet 40</p><p>...: kıymet 40</p><p>Yular(?): kıymet 40</p><p>Revgan-ı zeyt: ...</p><p>Tuz: kıyye 103, kıymet 808</p><p>Zeytun: kıyye 10, kıymet 60</p><p>Kömür: kıyye 200, kıymet 600</p><p>Pekmez destisi: kıymet 70</p><p>Sabun: kıymet 40</p><p>Tulum peyniri: kıyye ..., kıymet 2022</p><p>Mum: kıyye 14,5(?), kıymet 831</p><p>...: kıymet 16</p><p>Yumurta: kıymet 20</p><p>Darı keyl: 4, .. 4, kıymet 400</p><p>Kutu(?) ve çarık: kıymet 33</p><p>Saman ...: ...</p><p>Soğan:  kıyye 101, kıymet 808</p><p>Bardak: kıymet 101</p><p>Hatab: kıymet 233</p><p>Şa’ir keyl: aded 5, kıymet 500</p><p>...: kıymet 20</p><p>Büber: kıymet 20</p><p>Çekmecede olan nakd-i mevcud: 1310</p><p>Çuval: kıymet 180</p><p>Cem’: 22.016</p></div>
         </body>
     </text>
 </TEI>

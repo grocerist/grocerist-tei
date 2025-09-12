@@ -181,6 +181,53 @@
                 <name xml:lang="en">Timber</name>
             </item>
         </list>
+        <list type="prices">
+            <item xml:id="price__2114">
+                <measureGrp>
+                    <measure type="value" commodity="Ham sirke">620.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2115">
+                <measureGrp>
+                    <measure type="value" commodity="Arak">310.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2116">
+                <measureGrp>
+                    <measure type="value" quantity="30.0" unit="kıyye" commodity="Revgan-ı zeyt">60.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2117">
+                <measureGrp>
+                    <measure type="value" quantity="8.0" unit="kıyye" commodity="Revgan-ı sade">20.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2118">
+                <measureGrp>
+                    <measure type="value" quantity="15.0" unit="kıyye" commodity="Pirinc">11.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2119">
+                <measureGrp>
+                    <measure type="value" quantity="22.0" unit="kıyye" commodity="Fındık">11.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2120">
+                <measureGrp>
+                    <measure type="value" quantity="12.0" unit="kıyye" commodity="Sabun">24.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2121">
+                <measureGrp>
+                    <measure type="value" quantity="30.0" unit="keyl" commodity="Şair">90.0</measure>
+                </measureGrp>
+            </item>
+            <item xml:id="price__2122">
+                <measureGrp>
+                    <measure type="value" quantity="5.0" unit="kıyye" commodity="Mum">10.0</measure>
+                </measureGrp>
+            </item>
+        </list>
         <list type="utensils">
             <item xml:id="utensil__8">
                 <name xml:lang="tr">Terazi</name>
@@ -198,7 +245,7 @@
     </facsimile>
     <text>
         <body>
-            <div><p>This document does not contain any groceries.</p></div>
+            <div xmlns="http://www.tei-c.org/ns/1.0"><head><anchor xml:id="xmlid__heading_h_ojami9k45v9z"/>22) ECR 393, 70ab (İSTM.ŞSC.15.d / 393) d. 1238<ref target="http://document__179"> GrocerIST id_179</ref></head><p>Havass-ı refia ... Çekmece-i kebir nahiyesine tabi ... karyesinde mütemekkin iken bundan akdem halik olan Serandi(?) v. Alya(?) zımminin veraseti zevce-i metrukesi ... b. Hristo nasraniyeye ve babası mesfur Alba v. Tarantakil zımmiye ve anası Anastaşya b. Hristo nasraniyeye ve sulbi oğulları Hristo ve Serandi ve sulbiye kızı Marya(?) ve ... nam sagire ... olduğu bade’l-tahkikü’l- şer’i ... olup tesviye ... kable’l-şer’iden dahi(?) nısb ve tayin olunan zevce-i mesfuru üzerine ... olup ber-vech-i ... nazır nısb ve tayin olunan ... Alba zımmi ile sair verese ... mesfurun taleb-i marifetleri ve marifet-i şer’ile tahrir ve bayi olunan halik-i mesfurun terekesi defteridir ki ber-vech-i ati zikr olunur.</p><p>Fi 17 Safer 1238</p><p>Çuka şalvar: 80</p><p>Çuka cübbe: 80</p><p>Çuka kürk ...: 40</p><p>Şalı ... entari: 20</p><p>... kuşak:15</p><p>...:15</p><p>Kuşak boğça: 3</p><p>Köhne çuka şalvar: 20</p><p>Defa kürk ...: 65(?)</p><p>Defa ... : 15</p><p>defa kuşak: 5</p><p>fes: 5</p><p>Gömlek 2, don 2, uçkur 2: ?</p><p>Paris(?) saat: 30</p><p>Yorgan ma döşek yasdık ma çarşab: 45 	</p><p>Bir mikdar ...: 46              	</p><p>Kebir fuçu 5... sagir fıçu 6: 480</p><p>Bir mikdar ham sirke: 620</p><p>Bir mikdar arak: 310</p><p>Revgan-ı zeyt: kıyye 30, kıymet (?) 60</p><p>Revgan-ı sade: kıyye 8, kıymet 20</p><p>Pirinç: kıyye 15, kıymet 11</p><p>Kuru üzüm: 12</p><p>Fındık: kıyye 22, kıymet 11</p><p>Sabun: kıyye 12, kıymet 24</p><p>...: kıyye 22, kıymet 68</p><p>Kantar 3, terazi ma derahim: 70</p><p>Şa’ir keyl: 30, fi 3, kıymet 90</p><p>Saman kantar: 20, fi 3, kıymet 60</p><p>Mum: kıyye 5, kıymet 10</p><p>...: 8</p><p>Minder 5, yasdık 5: 45</p><p>Bir miktar kereste: 16</p><p>Bir miktar kömür ve hatab: 28</p><p>Hırdavat-ı dükkan-ı bakkal: 62</p><p>Halik-i mesfurun karye-i mezburede vaki ahalilerinden(?) malum’ül-sami(?) ... zimmetlerinden alacak hakkı olub makbuzu olduğu ikrar ile ... olan meblağ: 900</p><p>Halik-i mesfurun perakende(?) alacak hakkı olub kezalik makbuzları olan meblağ: 300</p><p>Medine-i mezburede vaki bir bab mülk-i menzilde halik-i mesfurun ... olduğu nısf-ı hisse ... ber-vech-i ... kıymet ... : 1250</p><p>Yine karye-i mezburede vaki bir bab mülk-i ... ve ... ve duhancı ve bakkal dükkanları ve ...hane ve bir mikdar bağçe yüz yirmi sehm itibarıyla halik-i mesfurun malik olduğu kırk sehm hisse ... ber-vech-i ... kıymet ...: 1600</p></div>
         </body>
     </text>
 </TEI>
