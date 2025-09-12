@@ -59,44 +59,50 @@ for source_xml in SOURCE_XML_FILES:
         # for grocers with several stores, each store is a separate section
         # we use the sections for highlighting in the frontend
         for ref in doc_refs:
-            if section_refs and first_pass:
-                for section in section_refs:
-                    p_element = x.xpath(
-                        f"./tei:p/tei:ref[@target='{section}']", namespaces=nsmap
-                    )[0].getparent()
-                    parent = p_element.getparent()
-                    div = ET.Element("div")
-                    div.set("type", "section")
-                    parent.replace(p_element, div)
-                    div.append(p_element)
-                    next_sibling = div.getnext()
-                    while next_sibling is not None and not next_sibling.xpath(
-                        ".//@target", namespaces=nsmap
-                    ):
-                        sibling_to_move = next_sibling
+            try:
+
+                # clean up refs because requests don't seem to help
+                ref = ref.rstrip("/")
+                if section_refs and first_pass:
+                    for section in section_refs:
+                        p_element = x.xpath(
+                            f"./tei:p/tei:ref[@target='{section}']", namespaces=nsmap
+                        )[0].getparent()
+                        parent = p_element.getparent()
+                        div = ET.Element("div")
+                        div.set("type", "section")
+                        parent.replace(p_element, div)
+                        div.append(p_element)
                         next_sibling = div.getnext()
-                        div.append(sibling_to_move)
-                first_pass = False
+                        while next_sibling is not None and not next_sibling.xpath(
+                            ".//@target", namespaces=nsmap
+                        ):
+                            sibling_to_move = next_sibling
+                            next_sibling = div.getnext()
+                            div.append(sibling_to_move)
+                    first_pass = False
 
-            # find and remove all style-related markup
-            # remove all hi tags (but not their content)
-            ET.strip_tags(x, "{http://www.tei-c.org/ns/1.0}hi")
+                # find and remove all style-related markup
+                # remove all hi tags (but not their content)
+                ET.strip_tags(x, "{http://www.tei-c.org/ns/1.0}hi")
 
-            # find and remove all style attributes
-            for el in x.xpath("//*[@style]", namespaces=nsmap):
-                el.attrib.pop("style")
+                # find and remove all style attributes
+                for el in x.xpath("//*[@style]", namespaces=nsmap):
+                    el.attrib.pop("style")
 
-            # # TEST continued
-            # ET.strip_tags(x, "*")
-            # text_after = ET.tostring(x).decode("utf-8")
-            # if text_before != text_after:
-            #     print("original text was changed during processing")
+                # # TEST continued
+                # ET.strip_tags(x, "*")
+                # text_after = ET.tostring(x).decode("utf-8")
+                # if text_before != text_after:
+                #     print("original text was changed during processing")
 
-            doc_id = ref.split("/")[-1]
-            doc_cur_nr = doc_id.split("__")[-1]
-            body_content = ET.tostring(x).decode("utf-8")
-            create_tei_document(doc_id, body_content, data[doc_cur_nr], template, has_transcript=True)
-
+                doc_id = ref.split("/")[-1]
+                doc_cur_nr = doc_id.split("__")[-1]
+                body_content = ET.tostring(x).decode("utf-8")
+                create_tei_document(doc_id, body_content, data[doc_cur_nr], template, has_transcript=True)
+            except Exception as e:
+                print(f"Error processing reference {ref} in {source_xml}: {e}")
+                continue
 
 # Process documents without transcripts
 for doc_id, doc_info in data.items():
