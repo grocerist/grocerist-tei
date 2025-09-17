@@ -99,6 +99,8 @@
             <person role="main_person" xml:id="person__266">
                 <persName>Pavli v. Eftim</persName>
                 <state type="status"><label>dead</label></state>
+                <faith>Non muslim</faith>
+                <faith>Orthodox</faith>
             </person>
         </listPerson>
         <listRelation>
